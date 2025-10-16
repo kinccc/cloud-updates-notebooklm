@@ -7,7 +7,7 @@ from datetime import datetime
 FEEDS = {
     "AWS": "https://aws.amazon.com/new/feed/",
     "Azure": "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
-    "GCP": "https://cloud.google.com/blog/topics/announcements/feed"
+    "GCP": "https://cloud.google.com/feeds/announcements.xml"
 }
 
 def fetch_updates(max_per_feed=5):
