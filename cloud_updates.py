@@ -20,6 +20,8 @@ FEEDS = {
         "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
     ],
     "IBM Cloud": [
+        "https://www.ibm.com/cloud/blog/atom.xml",
+        "https://www.ibm.com/blogs/cloud-computing/feed/",
         "https://www.ibm.com/cloud/blog/atom.xml"
     ]
 }
@@ -30,24 +32,29 @@ def fetch_updates():
     for name, urls in FEEDS.items():
         if isinstance(urls, str):
             urls = [urls]
+        section_added = False
         for url in urls:
             try:
                 d = feedparser.parse(url)
                 if not d.entries:
                     continue
-                latest = d.entries[:3]
                 items.append(f"## {name} Updates\n")
-                for e in latest:
-                    title = e.get("title", "No title")
+                for e in d.entries[:3]:
+                    title = e.get("title", "No title").strip()
                     link = e.get("link", "")
-                    date = e.get("published", "")
-                    items.append(f"- **[{title}]({link})** — {date}")
-                items.append("")
-                break  # stop if we found entries from a working feed
+                    # Use 'published' if available, else fallback to 'updated'
+                    date = e.get("published", e.get("updated", ""))
+                    summary = e.get("summary", "").strip()
+                    summary_short = summary[:150] + "..." if len(summary) > 150 else summary
+                    items.append(f"- **[{title}]({link})** — {date}\n  {summary_short}")
+                items.append("")  # blank line
+                section_added = True
+                break  # stop if a working feed found
             except Exception as e:
-                print(f"Error fetching {name} from {url}: {e}")
+                print(f"⚠️ Error fetching {name} from {url}: {e}")
+        if not section_added:
+            items.append(f"## {name} Updates\n- (No recent updates found)\n")
     return items
-
 
 def main():
     now = datetime.now(timezone.utc)
