@@ -9,6 +9,7 @@ FEEDS = {
         "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
     ],
     "Azure": [
+        "https://www.microsoft.com/releasecommunications/api/v2/azure/rss",
         "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
         "https://azure.microsoft.com/en-us/updates/feed/"  # backup URL
     ],
