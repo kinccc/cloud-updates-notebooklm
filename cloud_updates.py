@@ -18,6 +18,9 @@ FEEDS = {
     "GCP": [
         "https://cloud.google.com/feeds/announcements.xml",
         "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
+    ],
+    "IBM Cloud": [
+        "https://www.ibm.com/cloud/blog/atom.xml"
     ]
 }
 
