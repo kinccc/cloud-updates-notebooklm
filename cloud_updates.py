@@ -5,23 +5,43 @@ import feedparser
 from datetime import datetime
 
 FEEDS = {
-    "AWS": "https://aws.amazon.com/new/feed/",
-    "Azure": "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
-    "GCP": "https://cloud.google.com/feeds/announcements.xml"
+    "AWS": [
+        "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
+    ],
+    "Azure": [
+        "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
+        "https://azure.microsoft.com/en-us/updates/feed/"  # backup URL
+    ],
+    "GCP": [
+        "https://cloud.google.com/feeds/announcements.xml",
+        "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
+    ]
 }
 
-def fetch_updates(max_per_feed=5):
-    sections = []
-    for name, url in FEEDS.items():
-        feed = feedparser.parse(url)
-        sections.append(f"# {name} Updates\n")
-        for e in feed.entries[:max_per_feed]:
-            title = e.get("title", "").replace("\n", " ")
-            link = e.get("link", "")
-            date = e.get("published", e.get("updated", "N/A"))
-            summary = e.get("summary", "").strip()
-            sections.append(f"### {title}\n📅 {date}\n🔗 {link}\n\n{summary}\n\n---\n")
-    return sections
+
+def fetch_updates():
+    items = []
+    for name, urls in FEEDS.items():
+        if isinstance(urls, str):
+            urls = [urls]
+        for url in urls:
+            try:
+                d = feedparser.parse(url)
+                if not d.entries:
+                    continue
+                latest = d.entries[:3]
+                items.append(f"## {name} Updates\n")
+                for e in latest:
+                    title = e.get("title", "No title")
+                    link = e.get("link", "")
+                    date = e.get("published", "")
+                    items.append(f"- **[{title}]({link})** — {date}")
+                items.append("")
+                break  # stop if we found entries from a working feed
+            except Exception as e:
+                print(f"Error fetching {name} from {url}: {e}")
+    return items
+
 
 def main():
     import os
