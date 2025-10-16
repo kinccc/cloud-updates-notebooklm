@@ -1,4 +1,4 @@
-# ☁️ Cloud Updates — 2025-10-16 04:41 UTC
+# ☁️ Cloud Updates — 2025-10-16 04:47 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
 
@@ -9,6 +9,12 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions)** — Wed, 15 Oct 2025 17:00:00 GMT
 - **[AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)** — Wed, 15 Oct 2025 14:00:00 GMT
 - **[Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)** — Wed, 15 Oct 2025 14:00:00 GMT
+
+## Azure Updates
+
+- **[[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service](https://azure.microsoft.com/updates?id=500775)** — Wed, 15 Oct 2025 22:15:50 Z
+- **[[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption](https://azure.microsoft.com/updates?id=512379)** — Wed, 15 Oct 2025 18:00:12 Z
+- **[[Launched] Generally Available: Azure Storage Discovery](https://azure.microsoft.com/updates?id=515479)** — Wed, 15 Oct 2025 17:00:38 Z
 
 ## GCP Updates
 
