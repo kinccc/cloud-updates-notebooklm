@@ -2,7 +2,9 @@
 # Fetch latest AWS, Azure, GCP RSS and generate cloud_updates.md
 
 import feedparser
-from datetime import datetime
+import os
+import re
+from datetime import datetime, timedelta, timezone
 
 FEEDS = {
     "AWS": [
@@ -45,18 +47,53 @@ def fetch_updates():
 
 
 def main():
-    import os
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    header = [f"# ☁️ Cloud Updates — {now}\n",
-              "Automatically generated from AWS, Azure, and GCP feeds.\n",
-              "---\n"]
-    content = header + fetch_updates()
+    now = datetime.now(timezone.utc)
+    now_str = now.strftime("%Y-%m-%d %H:%M UTC")
 
-    # Make sure we save to the repo's root directory
+    header = [
+        f"# ☁️ Cloud Updates — {now_str}\n",
+        "Automatically generated from AWS, Azure, and GCP feeds.\n",
+        "---\n"
+    ]
+    new_content = header + fetch_updates()
+    new_section = "\n".join(new_content)
+
     output_path = os.path.join(os.getcwd(), "cloud_updates.md")
+    combined = new_section
+
+    # If an old file exists, read and filter by date (keep only last 30 days)
+    if os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            old_content = f.read()
+
+        # Find all previous date headers
+        pattern = r"# ☁️ Cloud Updates — ([0-9\-]+) [0-9:]+ UTC"
+        matches = list(re.finditer(pattern, old_content))
+
+        keep_from_index = None
+        if matches:
+            for match in matches:
+                date_str = match.group(1)
+                try:
+                    date = datetime.strptime(date_str, "%Y-%m-%d")
+                    if (now - date) <= timedelta(days=30):
+                        keep_from_index = match.start()
+                        break
+                except ValueError:
+                    continue
+
+        # If we found recent updates, keep only them
+        if keep_from_index is not None:
+            old_trimmed = old_content[keep_from_index:]
+            combined = new_section + "\n\n" + old_trimmed
+        else:
+            combined = new_section
+
+    # Write combined content back
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(content))
-    print(f"Wrote updates to: {output_path}")
+        f.write(combined)
+
+    print(f"✅ Added new updates, kept only last 30 days: {output_path}")
 
 if __name__ == "__main__":
     main()
