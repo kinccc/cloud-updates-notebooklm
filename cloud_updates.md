@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-10-16 23:16 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Timestream now supports InfluxDB 3](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/)** — Thu, 16 Oct 2025 17:00:00 GMT
+  <p>Amazon Timestream for InfluxDB now offers support for InfluxDB 3. Now application developers and DevOps teams can run InfluxDB 3 databases as a man...
+- **[Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)** — Thu, 16 Oct 2025 15:00:00 GMT
+  <p>Today, AWS announced enhanced map styling features for Amazon Location Service, enabling users to further customize maps with terrain visualization...
+- **[Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)** — Thu, 16 Oct 2025 14:00:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Prescaling in Azure Firewall](https://azure.microsoft.com/updates?id=515452)** — Thu, 16 Oct 2025 16:15:32 Z
+  Azure Firewall now supports prescaling, a feature that enables admins to provision and reserve capacity units in advance to handle expected traffic lo...
+- **[Retirement: Confidential Containers preview on AKS is Closing Down](https://azure.microsoft.com/updates?id=502044)** — Thu, 16 Oct 2025 16:15:32 Z
+  The public preview of Confidential Containers on AKS will be shutting down.This feature has been available in preview since 2023, and as part of our c...
+- **[[Launched] Generally Available: Observed capacity metric in Azure Firewall](https://azure.microsoft.com/updates?id=516002)** — Thu, 16 Oct 2025 16:00:55 Z
+  Azure Firewall
+now includes the observed capacity metric — a new observability signal designed
+to help administrators understand how their firewalls a...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-16 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
