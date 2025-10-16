@@ -24,13 +24,18 @@ def fetch_updates(max_per_feed=5):
     return sections
 
 def main():
+    import os
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = [f"# ☁️ Cloud Updates — {now}\n",
               "Automatically generated from AWS, Azure, and GCP feeds.\n",
               "---\n"]
     content = header + fetch_updates()
-    with open("cloud_updates.md", "w", encoding="utf-8") as f:
+
+    # Make sure we save to the repo's root directory
+    output_path = os.path.join(os.getcwd(), "cloud_updates.md")
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(content))
+    print(f"Wrote updates to: {output_path}")
 
 if __name__ == "__main__":
     main()
