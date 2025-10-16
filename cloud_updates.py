@@ -78,7 +78,7 @@ def main():
             for match in matches:
                 date_str = match.group(1)
                 try:
-                    date = datetime.strptime(date_str, "%Y-%m-%d")
+                    date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
                     if (now - date) <= timedelta(days=30):
                         keep_from_index = match.start()
                         break
