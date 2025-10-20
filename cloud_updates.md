@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2025-10-20 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Parallel Computing Service (PCS) now supports Slurm v25.05](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-supports-pcs-slurm-v25-05/)** — Fri, 17 Oct 2025 20:37:00 GMT
+  <p>AWS Parallel Computing Service (PCS) now supports Slurm v25.05. You can now create AWS PCS clusters running the newer Slurm v25.05.<br /> <br /> Th...
+- **[CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)** — Fri, 17 Oct 2025 17:00:00 GMT
+  <p>Amazon CloudWatch Database Insights now supports tag-based access control for database and per-query metrics powered by RDS Performance Insights. Y...
+- **[Announcing Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager)** — Fri, 17 Oct 2025 14:00:00 GMT
+  <p>Today, AWS is announcing the general availability of Amazon EC2 Capacity Manager, a new capability that enables customers to monitor, analyze, and ...
+
+## Azure Updates
+
+- **[[In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)](https://azure.microsoft.com/updates?id=513752)** — Fri, 17 Oct 2025 15:15:35 Z
+  Microsoft is expanding its digital infrastructure footprint further with a new datacenter region, Southeast Asia 3, planned in Malaysia. This datacent...
+- **[[Launched] Generally Available: New OS SKU enum to migrate to Azure Linux 3.0](https://azure.microsoft.com/updates?id=512396)** — Fri, 17 Oct 2025 15:15:35 Z
+  You can now
+migrate to Azure Linux 3.0 with a new OS SKU enum, ‘AzureLinux3’, in Kubernetes
+version 1.28-1.36.   This new
+option provides increased co...
+- **[[Launched] Generally Available: Azure Functions support for Python 3.13](https://azure.microsoft.com/updates?id=512374)** — Fri, 17 Oct 2025 15:00:03 Z
+  You can now
+develop functions using Python 3.13 locally and deploy them to Azure Functions.   Starting with
+Python 3.13, Functions introduces runtime ...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-19 07:16 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
