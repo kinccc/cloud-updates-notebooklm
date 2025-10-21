@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2025-10-21 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Parallel Computing Service (PCS) now supports Slurm v25.05](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-supports-pcs-slurm-v25-05/)** — Fri, 17 Oct 2025 20:37:00 GMT
+  <p>AWS Parallel Computing Service (PCS) now supports Slurm v25.05. You can now create AWS PCS clusters running the newer Slurm v25.05.<br /> <br /> Th...
+- **[CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)** — Fri, 17 Oct 2025 17:00:00 GMT
+  <p>Amazon CloudWatch Database Insights now supports tag-based access control for database and per-query metrics powered by RDS Performance Insights. Y...
+- **[Announcing Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager)** — Fri, 17 Oct 2025 14:00:00 GMT
+  <p>Today, AWS is announcing the general availability of Amazon EC2 Capacity Manager, a new capability that enables customers to monitor, analyze, and ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=514653)** — Mon, 20 Oct 2025 21:00:03 Z
+  Azure Storage Mover’s new AWS S3 to Azure Blob migration feature
+is now generally available, empowering organizations to move data directly from
+AWS t...
+- **[[Launched] Open Source: Containerization Assist MCP Server](https://azure.microsoft.com/updates?id=503268)** — Mon, 20 Oct 2025 21:00:03 Z
+  Containerization Assist solves the
+challenge of manual, error-prone containerization by automating Dockerfile creation
+and Kubernetes manifest generat...
+- **[[In preview] Public Preview: Sharing Capacity Reservation Groups](https://azure.microsoft.com/updates?id=516897)** — Mon, 20 Oct 2025 17:15:20 Z
+  The ability to share Capacity Reservation
+Groups (CRGs) with subscriptions is now in Public Preview.  Previously, customers could deploy VMs in a Capa...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-20 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
