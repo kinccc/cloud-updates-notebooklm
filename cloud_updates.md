@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2025-10-22 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)** — Tue, 21 Oct 2025 21:07:00 GMT
+  <p><a href="https://aws.amazon.com/ec2/nitro/nitro-enclaves/">AWS Nitro Enclaves</a> is an Amazon EC2 capability that enables customers to create isol...
+- **[Amazon SES adds IP observability for Dedicated IP addresses (managed)](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)** — Tue, 21 Oct 2025 14:00:00 GMT
+  <p>Today, Amazon <a href="https://aws.amazon.com/ses/" target="_blank">Simple Email Service</a> (SES) added visibility into the IP addresses used by D...
+- **[Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)** — Tue, 21 Oct 2025 14:00:00 GMT
+  <p>On October 21, 2025 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Cor...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=514653)** — Mon, 20 Oct 2025 21:00:03 Z
+  Azure Storage Mover’s new AWS S3 to Azure Blob migration feature
+is now generally available, empowering organizations to move data directly from
+AWS t...
+- **[[Launched] Open Source: Containerization Assist MCP Server](https://azure.microsoft.com/updates?id=503268)** — Mon, 20 Oct 2025 21:00:03 Z
+  Containerization Assist solves the
+challenge of manual, error-prone containerization by automating Dockerfile creation
+and Kubernetes manifest generat...
+- **[[In preview] Public Preview: Sharing Capacity Reservation Groups](https://azure.microsoft.com/updates?id=516897)** — Mon, 20 Oct 2025 17:15:20 Z
+  The ability to share Capacity Reservation
+Groups (CRGs) with subscriptions is now in Public Preview.  Previously, customers could deploy VMs in a Capa...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-21 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
