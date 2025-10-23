@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-10-23 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)** — Wed, 22 Oct 2025 16:52:00 GMT
+  <p>Amazon CloudWatch now offers interactive incident report generation, enabling customers to create comprehensive post-incident analysis reports in m...
+- **[Amazon U7i instances now available in AWS US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)** — Wed, 22 Oct 2025 16:46:00 GMT
+  <p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the US East (Ohio) region. U7i-6tb...
+- **[Amazon EKS Auto Mode now available in AWS GovCloud (US-East) and (US-West)](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)** — Wed, 22 Oct 2025 14:00:00 GMT
+  <p>Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode is now available in the AWS GovCloud (US-East) and (US-West) regions. This feature fully a...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores](https://azure.microsoft.com/updates?id=516990)** — Wed, 22 Oct 2025 17:15:22 Z
+  Azure announces the public preview of VM Customization
+features, a new capability that gives customers greater control over virtual CPU
+configurations...
+- **[[Launched] Generally Available: Azure SQL updates for mid-October 2025](https://azure.microsoft.com/updates?id=513240)** — Wed, 22 Oct 2025 16:30:07 Z
+  In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 a...
+- **[[Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers](https://azure.microsoft.com/updates?id=502004)** — Wed, 22 Oct 2025 16:00:32 Z
+  You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process u...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-22 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
