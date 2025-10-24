@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-10-24 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Aurora DSQL is now available in Europe (Frankfurt)](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)** — Thu, 23 Oct 2025 17:00:00 GMT
+  <p>Starting today, Amazon Aurora DSQL is now available in Europe (Frankfurt). Aurora DSQL is the fastest serverless, distributed SQL database with act...
+- **[Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)** — Thu, 23 Oct 2025 17:00:00 GMT
+  <p>Amazon Connect outbound campaigns now offers a preview dialing mode that gives agents more context about a customer before placing a call. Agents c...
+- **[AWS Outposts 2U server is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-outposts-2u-server-govcloud-regions)** — Thu, 23 Oct 2025 16:00:00 GMT
+  <p>AWS Outposts 2U server is now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts 2U server is a fully managed ser...
+
+## Azure Updates
+
+- **[Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028](https://azure.microsoft.com/updates?id=502909)** — Thu, 23 Oct 2025 14:15:03 Z
+  Microsoft is announcing the planned retirement of the Azure Computer Vision – Image Analysis service. 	 Microsoft will provide full support for all ex...
+- **[[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores](https://azure.microsoft.com/updates?id=516990)** — Wed, 22 Oct 2025 17:15:22 Z
+  Azure announces the public preview of VM Customization
+features, a new capability that gives customers greater control over virtual CPU
+configurations...
+- **[[Launched] Generally Available: Azure SQL updates for mid-October 2025](https://azure.microsoft.com/updates?id=513240)** — Wed, 22 Oct 2025 16:30:07 Z
+  In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 a...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-23 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
