@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-10-28 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Payment Cryptography is now available in Canada(Montreal), Africa (Cape Town) and Europe (London)](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-payment-cryptography-available-montreal-south-africa)** — Mon, 27 Oct 2025 18:01:00 GMT
+  <p><a href="https://aws.amazon.com/payment-cryptography/">AWS Payment Cryptography</a>&nbsp;has expanded its global presence with availability in thre...
+- **[Amazon Cognito now supports resource indicators to simplify enhancing protection of OAuth 2.0 resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources)** — Mon, 27 Oct 2025 14:00:00 GMT
+  <p>Amazon Cognito now enables app clients to specify resource indicators during access token requests as part of its OAuth 2.0 authorization code gran...
+- **[Amazon Location Service introduces new API key restrictions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions)** — Mon, 27 Oct 2025 14:00:00 GMT
+  <p>Today, AWS announced enhanced API key restrictions for Amazon Location Service, enabling developers to secure their location-based applications mor...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target](https://azure.microsoft.com/updates?id=514658)** — Mon, 27 Oct 2025 18:45:01 Z
+  Azure Storage Mover can now migrate your NFS File shares to Azure File Shares (NFS 4.1). Storage Mover is a fully managed migration service that enabl...
+- **[[Launched] Generally Available: PgBouncer 1.23.1 support in Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/updates?id=513254)** — Mon, 27 Oct 2025 18:30:05 Z
+  PgBouncer 1.23.1 is now generally available in Azure Database for PostgreSQL – Flexible Server. As a built-in connection pooling feature, PgBouncer he...
+- **[[Launched] Generally Available: RHEL Software Reservations Now Available on Azure with Updated Pricing](https://azure.microsoft.com/updates?id=519526)** — Mon, 27 Oct 2025 16:45:57 Z
+  Red Hat
+Enterprise Linux (RHEL) software reservations are now available again for
+purchase on Azure following important updates to billing meters and ...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-27 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
