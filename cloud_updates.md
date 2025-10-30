@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2025-10-30 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)** — Wed, 29 Oct 2025 21:00:00 GMT
+  <p>TwelveLabs' Marengo Embed 3.0 is now available on Amazon Bedrock, bringing advanced video-native multimodal embedding capabilities to developers an...
+- **[4 new image editing tools added to Stability AI Image Services in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/)** — Wed, 29 Oct 2025 20:51:00 GMT
+  <p>Amazon Bedrock announces the availability of 4 new image editing tools to Stability AI Image Services: outpaint, fast upscale, conservative upscale...
+- **[Amazon EC2 High Memory U7i instances are now available in AWS Europe (London) Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)** — Wed, 29 Oct 2025 14:00:00 GMT
+  <p>Amazon EC2 U7i-8tb (u7i-8tb.112xlarge) instances are now available in the AWS Europe (London) region. U7i-8tb instances are part of AWS 7th generat...
+
+## Azure Updates
+
+- **[Retirement: Remove dependency on these preview features before March 31, 2026](https://azure.microsoft.com/updates?id=501663)** — Wed, 29 Oct 2025 21:00:13 Z
+  On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipe...
+- **[[In preview] Public Preview: Signed request on Azure Front Door](https://azure.microsoft.com/updates?id=501169)** — Tue, 28 Oct 2025 18:00:34 Z
+  We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery...
+- **[[Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door](https://azure.microsoft.com/updates?id=512751)** — Tue, 28 Oct 2025 16:45:07 Z
+  Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving th...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-29 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
