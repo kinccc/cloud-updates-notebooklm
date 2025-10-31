@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-10-31 07:18 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon WorkSpaces announces USB redirection support for DCV WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-usb-redirection-dcv/)** — Thu, 30 Oct 2025 23:17:00 GMT
+  <p>AWS announces USB redirection support for WorkSpaces running Amazon DCV protocol, enabling users to access locally connected USB devices from their...
+- **[TwelveLabs’ Pegasus 1.2 model now available in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/)** — Thu, 30 Oct 2025 20:00:00 GMT
+  <p>Amazon announces the expansion of the TwelveLabs’ Pegasus 1.2 video understanding model to the US East (Ohio), US West (N. California), and Europe ...
+- **[Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)** — Thu, 30 Oct 2025 17:00:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a>&nbsp;(Amazon ECS) announces support for linear and canar...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://azure.microsoft.com/updates?id=520822)** — Thu, 30 Oct 2025 18:00:45 Z
+  Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  I...
+- **[[Launched] Generally Available: High Scale Private Endpoints](https://azure.microsoft.com/updates?id=522813)** — Thu, 30 Oct 2025 16:30:43 Z
+  You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limi...
+- **[[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage](https://azure.microsoft.com/updates?id=520805)** — Thu, 30 Oct 2025 16:00:54 Z
+  Announcing the Public Preview of Instant Access Snapshots for Premium
+SSD v2 (Pv2) and Ultra Disks. This new capability enables you to
+restore new dis...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-10-30 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
