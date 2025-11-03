@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2025-11-03 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications)** — Fri, 31 Oct 2025 20:28:00 GMT
+  <p><a href="https://aws.amazon.com/gamelift/streams/">Amazon GameLift Streams</a> is now integrated with AWS Health and will provide automated notific...
+- **[Amazon Route 53 Resolver now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-route53-resolver-supports-aws-privatelink)** — Fri, 31 Oct 2025 18:49:00 GMT
+  <p>Amazon Route 53 Resolver now supports&nbsp;<a href="https://aws.amazon.com/privatelink/" target="_blank">AWS PrivateLink</a>. Customers can now acc...
+- **[Amazon DynamoDB Accelerator now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/)** — Fri, 31 Oct 2025 17:00:00 GMT
+  <p>Amazon DynamoDB Accelerator (DAX) now supports AWS PrivateLink, enabling you to securely access DAX management APIs such as CreateCluster, Describe...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://azure.microsoft.com/updates?id=520822)** — Thu, 30 Oct 2025 18:00:45 Z
+  Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  I...
+- **[[Launched] Generally Available: High Scale Private Endpoints](https://azure.microsoft.com/updates?id=522813)** — Thu, 30 Oct 2025 16:30:43 Z
+  You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limi...
+- **[[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage](https://azure.microsoft.com/updates?id=520805)** — Thu, 30 Oct 2025 16:00:54 Z
+  Announcing the Public Preview of Instant Access Snapshots
+for Premium SSD v2 (Pv2) and Ultra Disks. This new capability enables you
+to restore new dis...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-11-02 07:17 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
