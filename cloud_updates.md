@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2025-11-04 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/)** — Mon, 03 Nov 2025 19:34:00 GMT
+  <p>Amazon CloudWatch Synthetics multi-browser support is now available in the AWS GovCloud (US-East, US-West) Regions. This expansion enables customer...
+- **[Amazon Cognito removes Machine-to-Machine app client price dimension](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension)** — Mon, 03 Nov 2025 18:00:00 GMT
+  <p>We're excited to announce a simplified pricing model for Amazon Cognito's machine-to-machine (M2M) authentication. Starting today we are removing t...
+- **[Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics)** — Mon, 03 Nov 2025 16:00:00 GMT
+  <p>Amazon CloudWatch agent now supports the collection of detailed performance metrics for NVMe local volumes on Amazon EC2 instances. These metrics g...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure NetApp Files Object REST API](https://azure.microsoft.com/updates?id=516643)** — Mon, 03 Nov 2025 17:30:04 Z
+  The Object REST API, an S3-compatible REST API, on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services...
+- **[[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://azure.microsoft.com/updates?id=520822)** — Thu, 30 Oct 2025 18:00:45 Z
+  Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  I...
+- **[[Launched] Generally Available: High Scale Private Endpoints](https://azure.microsoft.com/updates?id=522813)** — Thu, 30 Oct 2025 16:30:43 Z
+  You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limi...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-11-03 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
