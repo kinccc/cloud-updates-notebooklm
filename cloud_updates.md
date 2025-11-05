@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2025-11-05 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon OpenSearch Serverless now supports FIPS compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-fips-compliant-endpoints)** — Tue, 04 Nov 2025 18:00:00 GMT
+  <p>Amazon OpenSearch Serverless has added support for Federal Information Processing Standards (FIPS) compliant endpoints for Data Plane APIs in US Ea...
+- **[EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)** — Tue, 04 Nov 2025 17:00:00 GMT
+  <p>Starting today, you can add warm pools to Auto Scaling groups (ASGs) that have <a href="https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-a...
+- **[AWS Cloud WAN is now available in three more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/)** — Tue, 04 Nov 2025 17:00:00 GMT
+  <p>Starting today, <a href="https://aws.amazon.com/cloud-wan">AWS Cloud WAN</a> is available in the AWS Asia Pacific (Thailand), AWS Asia Pacific (Tai...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure NetApp Files Object REST API](https://azure.microsoft.com/updates?id=516643)** — Mon, 03 Nov 2025 17:30:04 Z
+  The Object REST API, an S3-compatible REST API, on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services...
+- **[[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://azure.microsoft.com/updates?id=520822)** — Thu, 30 Oct 2025 18:00:45 Z
+  Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  I...
+- **[[Launched] Generally Available: High Scale Private Endpoints](https://azure.microsoft.com/updates?id=522813)** — Thu, 30 Oct 2025 16:30:43 Z
+  You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limi...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-11-04 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
