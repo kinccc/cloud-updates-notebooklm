@@ -16,7 +16,8 @@ FEEDS = {
         "https://azure.microsoft.com/en-us/updates/feed/"  # backup URL
     ],
     "GCP": [
-        "https://cloud.google.com/feeds/announcements.xml",
+        "https://blog.google/products/google-cloud/rss",
+        "https://cloudblog.withgoogle.com/rss",
         "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
     ],
     "IBM Cloud": [
