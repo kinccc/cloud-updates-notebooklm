@@ -23,7 +23,7 @@ FEEDS = {
     "IBM Cloud": [
         "https://www.ibm.com/cloud/blog/atom.xml",
         "https://www.ibm.com/blogs/cloud-computing/feed/",
-        "https://www.ibm.com/cloud/blog/atom.xml"
+        "https://research.ibm.com/rss"
     ]
 }
 
