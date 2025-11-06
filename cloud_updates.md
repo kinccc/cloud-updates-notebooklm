@@ -1,3 +1,42 @@
+# ☁️ Cloud Updates — 2025-11-06 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/)** — Wed, 05 Nov 2025 21:58:00 GMT
+  <p>Amazon CloudWatch Database Insights now detects anomalies on additional metrics through its on-demand analysis experience. Database Insights is a m...
+- **[Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)** — Wed, 05 Nov 2025 19:56:00 GMT
+  <p>Amazon FSx now integrates with AWS Secrets Manager, enabling enhanced protection and management of the Active Directory domain service account cred...
+- **[Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)** — Wed, 05 Nov 2025 15:00:00 GMT
+  <p>AWS is announcing the general availability of new memory-optimized Amazon EC2 R8a instances. R8a instances, feature 5th Gen AMD EPYC processors (fo...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Planned Failover for Azure Storage](https://azure.microsoft.com/updates?id=522086)** — Wed, 05 Nov 2025 22:30:04 Z
+  Planned
+Failover is a customer-managed failover that provides the ability to failover
+your geo-redundant storage account while keeping geo-redundancy ...
+- **[[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor](https://azure.microsoft.com/updates?id=525442)** — Wed, 05 Nov 2025 17:00:26 Z
+  Connection Monitor integration streamlines the setup of end-to-end
+monitoring for ExpressRoute workloads. With this capability, you can now enable
+Con...
+- **[[Launched] Generally Available: ExpressRoute resiliency insights](https://azure.microsoft.com/updates?id=525424)** — Wed, 05 Nov 2025 17:00:26 Z
+  Resiliency
+insights is an assessment capability designed to measure your network's
+reliability for ExpressRoute workloads. At the core of this capabil...
+
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+- (No recent updates found)
+
+
 # ☁️ Cloud Updates — 2025-11-05 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
