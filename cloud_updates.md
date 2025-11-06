@@ -1,3 +1,52 @@
+# ☁️ Cloud Updates — 2025-11-06 08:29 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/)** — Wed, 05 Nov 2025 21:58:00 GMT
+  <p>Amazon CloudWatch Database Insights now detects anomalies on additional metrics through its on-demand analysis experience. Database Insights is a m...
+- **[Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)** — Wed, 05 Nov 2025 19:56:00 GMT
+  <p>Amazon FSx now integrates with AWS Secrets Manager, enabling enhanced protection and management of the Active Directory domain service account cred...
+- **[Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)** — Wed, 05 Nov 2025 15:00:00 GMT
+  <p>AWS is announcing the general availability of new memory-optimized Amazon EC2 R8a instances. R8a instances, feature 5th Gen AMD EPYC processors (fo...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Planned Failover for Azure Storage](https://azure.microsoft.com/updates?id=522086)** — Wed, 05 Nov 2025 22:30:04 Z
+  Planned
+Failover is a customer-managed failover that provides the ability to failover
+your geo-redundant storage account while keeping geo-redundancy ...
+- **[[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor](https://azure.microsoft.com/updates?id=525442)** — Wed, 05 Nov 2025 17:00:26 Z
+  Connection Monitor integration streamlines the setup of end-to-end
+monitoring for ExpressRoute workloads. With this capability, you can now enable
+Con...
+- **[[Launched] Generally Available: ExpressRoute resiliency insights](https://azure.microsoft.com/updates?id=525424)** — Wed, 05 Nov 2025 17:00:26 Z
+  Resiliency
+insights is an assessment capability designed to measure your network's
+reliability for ExpressRoute workloads. At the core of this capabil...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[Leading the way in open Earth observation AI](https://research.ibm.com/blog/earth-observation-leadership?utm_medium=rss&utm_source=rss)** — Mon, 03 Nov 2025 09:30:00 GMT
+  Understanding our planet has never been more critical. From insurance and finance to logistics and agriculture, countless industries need reliable ins...
+- **[Discovering a new quantum algorithm](https://research.ibm.com/blog/group-theory?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 14:00:00 GMT
+  How group theory and the non-Abelian Fourier transform open the door to new quantum computing research applications.
+- **[Boost your agents: Introducing ALTK, the open-source agent lifecycle toolkit](https://research.ibm.com/blog/altk-agent-toolkit?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 13:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2025-11-06 08:28 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
