@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2025-11-07 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon SageMaker launches custom tags for project resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources)** — Thu, 06 Nov 2025 18:00:00 GMT
+  <p>Today, Amazon SageMaker Unified Studio announced new capabilities allowing SageMaker projects to add custom tags to resources created through the p...
+- **[AWS B2B Data Interchange is now available in AWS Europe (Ireland) Region](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region)** — Thu, 06 Nov 2025 15:00:00 GMT
+  <p>Customers in AWS Europe (Ireland) Region can now use AWS B2B Data Interchange to build highly customizable, scalable and cost-efficient EDI workloa...
+- **[Amazon ECS announces non-root container support for managed EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes)** — Thu, 06 Nov 2025 15:00:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> (ECS) now supports mounting Amazon Elastic Block Store (...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Ultra Disk’s new flexible provisioning model](https://azure.microsoft.com/updates?id=526635)** — Thu, 06 Nov 2025 17:00:51 Z
+  Announcing the General Availability of
+Ultra Disk’s new flexible provisioning model. This enhancement gives you
+the freedom to configure capacity, IOP...
+- **[[Launched] Generally Available: Object Replication Metrics](https://azure.microsoft.com/updates?id=520201)** — Thu, 06 Nov 2025 16:00:54 Z
+  Blob storage Object Replication metrics for pending operations and pending bytes are now generally available in all regions. These replication metrics...
+- **[[Launched] Generally Available: Azure MCP Server](https://azure.microsoft.com/updates?id=526881)** — Thu, 06 Nov 2025 15:45:17 Z
+  Give your agents the power of cloud and redefining how developers interact with Azure. Built on Model Context Protocol (MCP), it can create a secure, ...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[The Coherence Times: an IBM Quantum podcast](https://research.ibm.com/blog/coherence-times-podcast?utm_medium=rss&utm_source=rss)** — Wed, 05 Nov 2025 05:00:00 GMT
+  New weekly podcast introduces you to the thought leaders, researchers, developers, and technologists building the future of quantum computing.
+- **[Leading the way in open Earth observation AI](https://research.ibm.com/blog/earth-observation-leadership?utm_medium=rss&utm_source=rss)** — Mon, 03 Nov 2025 09:30:00 GMT
+  Understanding our planet has never been more critical. From insurance and finance to logistics and agriculture, countless industries need reliable ins...
+- **[Discovering a new quantum algorithm](https://research.ibm.com/blog/group-theory?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 14:00:00 GMT
+  How group theory and the non-Abelian Fourier transform open the door to new quantum computing research applications.
+
+
 # ☁️ Cloud Updates — 2025-11-06 08:29 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
