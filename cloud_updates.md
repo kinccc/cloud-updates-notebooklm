@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2025-11-08 07:17 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon VPC Lattice now supports custom domain names for resource configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-lattice-custom-domain-name-resource-configuration)** — Fri, 07 Nov 2025 18:00:00 GMT
+  <p>Starting today, VPC Lattice allows you to specify a custom domain name for a resource configuration. Resource configurations enable layer-4 access ...
+- **[AWS Advanced .NET Data Provider Driver is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-net-data-provider-driver/)** — Fri, 07 Nov 2025 08:00:00 GMT
+  <p>The Amazon Web Services (AWS) Advanced .NET Data Provider Driver is now generally available for <a href="https://aws.amazon.com/rds/" target="_blan...
+- **[Amazon Cognito user pools now supports private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink)** — Fri, 07 Nov 2025 08:00:00 GMT
+  <p>Amazon Cognito user pools now supports AWS PrivateLink for secure and private connectivity. With AWS PrivateLink, you can establish a private conne...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: openCypher support for KQL graph semantics](https://azure.microsoft.com/updates?id=522866)** — Fri, 07 Nov 2025 19:00:43 Z
+  Announcing openCypher support for KQL graph semantics, bringing the widely adopted open-source graph query language to your graph data. This update al...
+- **[[Launched] Generally Available: labels() function in KQL graph semantics](https://azure.microsoft.com/updates?id=522772)** — Fri, 07 Nov 2025 19:00:43 Z
+  The labels() function in KQL graph semantics is now generally available. This function enables you to retrieve, filter, and project label information ...
+- **[[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server availability zones expansion in Japan West](https://azure.microsoft.com/updates?id=508408)** — Fri, 07 Nov 2025 18:45:02 Z
+  Now you can deploy Azure Database for PostgreSQL flexible server in all three availability zones in Japan West.Learn more.
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[The Coherence Times: an IBM Quantum podcast](https://research.ibm.com/blog/coherence-times-podcast?utm_medium=rss&utm_source=rss)** — Wed, 05 Nov 2025 05:00:00 GMT
+  New weekly podcast introduces you to the thought leaders, researchers, developers, and technologists building the future of quantum computing.
+- **[Leading the way in open Earth observation AI](https://research.ibm.com/blog/earth-observation-leadership?utm_medium=rss&utm_source=rss)** — Mon, 03 Nov 2025 09:30:00 GMT
+  Understanding our planet has never been more critical. From insurance and finance to logistics and agriculture, countless industries need reliable ins...
+- **[Discovering a new quantum algorithm](https://research.ibm.com/blog/group-theory?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 14:00:00 GMT
+  How group theory and the non-Abelian Fourier transform open the door to new quantum computing research applications.
+
+
 # ☁️ Cloud Updates — 2025-11-07 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
