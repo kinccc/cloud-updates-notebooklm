@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2025-11-11 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Backup now supports Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks)** — Mon, 10 Nov 2025 19:00:00 GMT
+  <p>AWS Backup now supports Amazon Elastic Kubernetes Service (EKS), providing a fully-managed, centralized solution for backing up EKS cluster state a...
+- **[MSK Express brokers now support Intelligent Rebalancing at no additional cost, and with no action required](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-msk-express-brokers-support-intelligent-rebalancing)** — Mon, 10 Nov 2025 17:00:00 GMT
+  <p>Effective today, all new Amazon MSK Provisioned clusters with Express brokers will support Intelligent Rebalancing at no additional cost. This new ...
+- **[AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)** — Mon, 10 Nov 2025 15:00:00 GMT
+  <p>AWS Control Tower customers can now simply move their accounts to an Organizational Unit (OU) to enroll them under AWS Control Tower governance. Th...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Object Replication Priority Replication for Azure Blob](https://azure.microsoft.com/updates?id=522072)** — Mon, 10 Nov 2025 19:30:03 Z
+  Object replication priority replication will
+allow users to obtain prioritized replication from the source to the
+destination storage account of their...
+- **[[Launched] Generally Available: Geo Priority Replication for Azure Blob](https://azure.microsoft.com/updates?id=522059)** — Mon, 10 Nov 2025 19:30:03 Z
+  Geo
+priority replication enhances the replication process for GRS and GZRS storage
+accounts by enabling accelerated data replication between the prima...
+- **[[Launched] Generally Available: Troubleshoot Azure Firewall using packet capture](https://azure.microsoft.com/updates?id=528969)** — Mon, 10 Nov 2025 18:45:51 Z
+  Packet capture is meant to capture specific flows for customers which can be filtered based on protocol, flags and filters. Packet captures can be ini...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[The Coherence Times: an IBM Quantum podcast](https://research.ibm.com/blog/coherence-times-podcast?utm_medium=rss&utm_source=rss)** — Wed, 05 Nov 2025 05:00:00 GMT
+  New weekly podcast introduces you to the thought leaders, researchers, developers, and technologists building the future of quantum computing.
+- **[Leading the way in open Earth observation AI](https://research.ibm.com/blog/earth-observation-leadership?utm_medium=rss&utm_source=rss)** — Mon, 03 Nov 2025 09:30:00 GMT
+  Understanding our planet has never been more critical. From insurance and finance to logistics and agriculture, countless industries need reliable ins...
+- **[Discovering a new quantum algorithm](https://research.ibm.com/blog/group-theory?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 14:00:00 GMT
+  How group theory and the non-Abelian Fourier transform open the door to new quantum computing research applications.
+
+
 # ☁️ Cloud Updates — 2025-11-10 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
