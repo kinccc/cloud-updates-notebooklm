@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2025-11-12 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)** — Tue, 11 Nov 2025 18:00:00 GMT
+  <p>AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins, enabling you to extend and modify how Slurm schedules and processes you...
+- **[Amazon CloudWatch Composite Alarms adds threshold-based alerting](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/)** — Tue, 11 Nov 2025 15:00:00 GMT
+  <p>Amazon CloudWatch now enables you to create more flexible alerting policies by triggering notifications when a specific subset of your monitored re...
+- **[Amazon U7i instances now available in Europe (Stockholm and Ireland) Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions)** — Tue, 11 Nov 2025 15:00:00 GMT
+  <p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the Europe (Stockholm and Ireland)...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Agentic CLI for AKS](https://azure.microsoft.com/updates?id=523062)** — Tue, 11 Nov 2025 17:00:09 Z
+  Diagnosing and resolving issues in Kubernetes clusters can
+be complex and time-consuming, especially when navigating logs, telemetry, and
+diagnostics ...
+- **[[Launched] Generally Available: LocalDNS for AKS](https://azure.microsoft.com/updates?id=523057)** — Tue, 11 Nov 2025 17:45:46 Z
+  LocalDNS for AKS is
+now generally available.   Large-scale Kubernetes clusters often face DNS resolution
+delays and reliability issues, especially dur...
+- **[[In preview] Public Preview: Insights in Azure Migrate](https://azure.microsoft.com/updates?id=526468)** — Tue, 11 Nov 2025 17:30:08 Z
+  Azure Migrate now offers integrated Security insights, allowing customers to assess potential risks within their on-premises environment. The solution...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[The Coherence Times: an IBM Quantum podcast](https://research.ibm.com/blog/coherence-times-podcast?utm_medium=rss&utm_source=rss)** — Wed, 05 Nov 2025 05:00:00 GMT
+  New weekly podcast introduces you to the thought leaders, researchers, developers, and technologists building the future of quantum computing.
+- **[Leading the way in open Earth observation AI](https://research.ibm.com/blog/earth-observation-leadership?utm_medium=rss&utm_source=rss)** — Mon, 03 Nov 2025 09:30:00 GMT
+  Understanding our planet has never been more critical. From insurance and finance to logistics and agriculture, countless industries need reliable ins...
+- **[Discovering a new quantum algorithm](https://research.ibm.com/blog/group-theory?utm_medium=rss&utm_source=rss)** — Wed, 29 Oct 2025 14:00:00 GMT
+  How group theory and the non-Abelian Fourier transform open the door to new quantum computing research applications.
+
+
 # ☁️ Cloud Updates — 2025-11-11 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
