@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2025-11-13 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Application loadbalancer support client credential flow with JWT verification](https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-jwt-verification)** — Wed, 12 Nov 2025 19:39:00 GMT
+  <p>Amazon Web Services (AWS) announces JWT Verification for Application Load Balancer (ALB), enabling secure machine-to-machine (M2M) and service-to-s...
+- **[Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/)** — Wed, 12 Nov 2025 19:00:00 GMT
+  <p>Amazon ElastiCache now supports Graviton3-based M7g and R7g node families in the AWS GovCloud (US) Regions (US-East, US-West). ElastiCache Graviton...
+- **[AWS Fault Injection Service (FIS) launches new test scenarios for partial failures](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures)** — Wed, 12 Nov 2025 18:00:00 GMT
+  <p>AWS Fault Injection Service (FIS) now offers two new scenarios that help you proactively test how your applications handle partial disruptions with...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: .NET 10](https://azure.microsoft.com/updates?id=526895)** — Wed, 12 Nov 2025 17:15:02 Z
+  .NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and securit...
+- **[[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server](https://azure.microsoft.com/updates?id=523787)** — Wed, 12 Nov 2025 17:00:15 Z
+  We are thrilled to announce the General Availability of a highly requested feature: Self-serve configuration of the lower_case_table_names server para...
+- **[[In preview] Public Preview: Scheduler profile configuration for AKS](https://azure.microsoft.com/updates?id=523134)** — Wed, 12 Nov 2025 17:00:15 Z
+  Organizations running complex workloads on Kubernetes often face
+challenges in optimizing pod placement for performance, cost, or resource
+efficiency....
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[Building quantum computers with advanced semiconductor fab](https://research.ibm.com/blog/300mm-fab?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  An inside look at how IBM® is using state-of-the-art 300mm semiconductor fabrication technology to build the future of quantum hardware.
+- **[Scaling for quantum advantage and beyond](https://research.ibm.com/blog/qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  IBM® lays out the groundbreaking advances in algorithms, hardware, and software that will empower our community to achieve quantum advantage together.
+- **[The Coherence Times: an IBM Quantum podcast](https://research.ibm.com/blog/coherence-times-podcast?utm_medium=rss&utm_source=rss)** — Wed, 05 Nov 2025 05:00:00 GMT
+  New weekly podcast introduces you to the thought leaders, researchers, developers, and technologists building the future of quantum computing.
+
+
 # ☁️ Cloud Updates — 2025-11-12 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
