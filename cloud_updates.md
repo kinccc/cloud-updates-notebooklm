@@ -1,3 +1,53 @@
+# ☁️ Cloud Updates — 2025-11-14 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details)** — Thu, 13 Nov 2025 18:00:00 GMT
+  <p>Building on the Hooks Invocation Summary launched in September 2025, AWS CloudFormation Hooks now supports granular invocation details. Hook author...
+- **[AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)** — Thu, 13 Nov 2025 15:00:00 GMT
+  <p>Customers using Amazon EventBridge can now setup rules for AWS Health events with multi-region redundancy, or choose a simplified path by creating ...
+- **[Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-aws-regions)** — Thu, 13 Nov 2025 15:00:00 GMT
+  <p>Amazon Web Services (AWS) announces the availability of high performance Storage Optimized Amazon EC2 I7i instances in AWS Europe (Ireland), Asia P...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Virtual Network Manager UseExisting Mode for UDR management](https://azure.microsoft.com/updates?id=526145)** — Thu, 13 Nov 2025 18:30:39 Z
+  Azure Virtual Network Manager
+UDR management now offers UseExisting mode, providing customers with greater
+flexibility and compliance control over use...
+- **[[Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation](https://azure.microsoft.com/updates?id=526160)** — Thu, 13 Nov 2025 17:00:24 Z
+  Azure Virtual Network Manager
+IP Address Management (IPAM) – Pool Association Recommendation is now generally
+available,
+bringing intelligent, large-s...
+- **[[Launched] Generally Available: Azure Virtual Network Manager peering compliance](https://azure.microsoft.com/updates?id=526155)** — Thu, 13 Nov 2025 17:00:24 Z
+  Azure Virtual Network Manager peering
+compliance is now generally available, providing a secure and compliant mechanism to
+protect network connectivit...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[An 'undo-and-retry' mechanism for agents](https://research.ibm.com/blog/undo-agent-for-cloud?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 20:00:00 GMT
+  IBM and University of Illinois IBM Research and University of Illinois propose a Ctrl-Z feature for agents that could help to resolve IT issues faster
+- **[The future of AI is in your hands](https://research.ibm.com/blog/small-models-hazy-research-granite?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 16:50:00 GMT
+  New research suggests the AI industry is rapidly evolving, where local devices that many more people have access to can run smaller, more powerful mod...
+- **[Scaling for quantum advantage and beyond](https://research.ibm.com/blog/qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  IBM® lays out the groundbreaking advances in algorithms, hardware, and software that will empower our community to achieve quantum advantage together.
+
+
 # ☁️ Cloud Updates — 2025-11-13 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
