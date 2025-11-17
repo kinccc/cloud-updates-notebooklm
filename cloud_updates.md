@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2025-11-17 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon ECS improves Service Availability during Rolling deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-service-availability-rolling-deployments/)** — Fri, 14 Nov 2025 18:00:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS) now includes enhancements that improve serv...
+- **[AWS Lambda announces Provisioned Mode for SQS event source mapping (ESM)](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm)** — Fri, 14 Nov 2025 18:00:00 GMT
+  <p>AWS Lambda announces Provisioned Mode for SQS event-source-mappings (ESMs) that subscribe to Amazon SQS, a feature that allows you to optimize the ...
+- **[Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)** — Fri, 14 Nov 2025 15:00:00 GMT
+  <p>AWS Marketplace now delivers purchase agreement events via Amazon EventBridge, transitioning from our Amazon Simple Notification Service (SNS) noti...
+
+## Azure Updates
+
+- **[Retirement: Support for Python 3.10 ends on October 1st, 2026](https://azure.microsoft.com/updates?id=509686)** — Fri, 14 Nov 2025 21:15:14 Z
+  On October 1, 2026 extended
+support for Python 3.10 will end. Your
+apps that are hosted on App Service will continue to run, but security updates will...
+- **[Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc](https://azure.microsoft.com/updates?id=499906)** — Fri, 14 Nov 2025 18:00:13 Z
+  Announcing the  retirement of Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc in October 2026.
+- **[[In preview] Public Preview: Pod CIDR expansion in Azure CNI Overlay for AKS](https://azure.microsoft.com/updates?id=523086)** — Fri, 14 Nov 2025 16:30:37 Z
+  Pod CIDR expansion in Azure CNI
+Overlay for AKS is now available in public preview. To meet the growing demands of dynamic and large-scale
+Kubernetes ...
+
+## GCP Updates
+
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+- **[How AI is pitching in at this year’s World Series](https://blog.google/products/google-cloud/fox-sports-major-league-baseball/)** — Fri, 24 Oct 2025 14:55:00 +0000
+  Three baseballs on stadium barrier, focus on red stitching and blue logos.
+
+## IBM Cloud Updates
+
+- **[An 'undo-and-retry' mechanism for agents](https://research.ibm.com/blog/undo-agent-for-cloud?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 20:00:00 GMT
+  IBM and University of Illinois IBM Research and University of Illinois propose a Ctrl-Z feature for agents that could help to resolve IT issues faster
+- **[The future of AI is in your hands](https://research.ibm.com/blog/small-models-hazy-research-granite?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 16:50:00 GMT
+  Small models and powerful personal devices are poised to upend how we use AI.
+- **[Building quantum computers with advanced semiconductor fab](https://research.ibm.com/blog/300mm-fab?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  An inside look at how IBM® is using state-of-the-art 300mm semiconductor fabrication technology to build the future of quantum hardware.
+
+
 # ☁️ Cloud Updates — 2025-11-16 07:18 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
