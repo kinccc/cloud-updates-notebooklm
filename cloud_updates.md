@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2025-11-18 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks)** — Mon, 17 Nov 2025 19:00:00 GMT
+  <p>Starting today, you can enable Route 53 Resolver DNS Firewall Advanced to monitor and block queries associated with Dictionary-based Domain Generat...
+- **[Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)** — Mon, 17 Nov 2025 16:00:00 GMT
+  <p><a href="https://aws.amazon.com/redshift/">Amazon Redshift</a> today announces the general availability of write capability to Apache Iceberg table...
+- **[Amazon WorkSpaces Applications adds new instance types and configurable storage options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition)** — Mon, 17 Nov 2025 16:00:00 GMT
+  <p>Amazon WorkSpaces Applications now offers enhanced flexibility features that provide customers with more choices for compute and configurable stora...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro](https://azure.microsoft.com/updates?id=529528)** — Mon, 17 Nov 2025 20:00:46 Z
+  As part of our journey to make Azure the most observable cloud, we are adding a new way for you to observe your Azure Monitor Application Insights dat...
+- **[[Launched] Generally Available: Visual Studio 2026](https://azure.microsoft.com/updates?id=526900)** — Mon, 17 Nov 2025 18:45:44 Z
+  Visual Studio 2026 is the next evolution of the world’s most trusted IDE—modernized with AI deeply integrated into everyday workflows. By seamlessly i...
+- **[[Launched] Generally Available: Seamless failback for HyperV-to-Azure: Managed Disk support in Azure Site Recovery](https://azure.microsoft.com/updates?id=530092)** — Mon, 17 Nov 2025 16:30:12 Z
+  Azure Site Recovery now enables failback from Azure VMs to on-premises Hyper-V, even if replication from on-premises to Azure happened to storage acco...
+
+## GCP Updates
+
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+
+## IBM Cloud Updates
+
+- **[An 'undo-and-retry' mechanism for agents](https://research.ibm.com/blog/undo-agent-for-cloud?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 20:00:00 GMT
+  IBM and University of Illinois IBM Research and University of Illinois propose a Ctrl-Z feature for agents that could help to resolve IT issues faster
+- **[The future of AI is in your hands](https://research.ibm.com/blog/small-models-hazy-research-granite?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 16:50:00 GMT
+  Small models and powerful personal devices are poised to upend how we use AI.
+- **[Building quantum computers with advanced semiconductor fab](https://research.ibm.com/blog/300mm-fab?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  An inside look at how IBM® is using state-of-the-art 300mm semiconductor fabrication technology to build the future of quantum hardware.
+
+
 # ☁️ Cloud Updates — 2025-11-17 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
