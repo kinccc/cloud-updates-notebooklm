@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2025-11-19 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available)** — Tue, 18 Nov 2025 19:00:00 GMT
+  <p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances, accelerated by NVIDIA Blackwell Ultra...
+- **[Amazon OpenSearch Serverless now adds audit logs for data plane APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis)** — Tue, 18 Nov 2025 18:00:00 GMT
+  <p>Amazon OpenSearch Serverless now supports detailed audit logging of data plane requests via AWS CloudTrail. This feature enables customers to recor...
+- **[EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/)** — Tue, 18 Nov 2025 18:00:00 GMT
+  <p>Today, EC2 Auto Scaling is launching a new API, LaunchInstances, which gives customers more control and flexibility over how EC2 Auto Scaling provi...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Claude in Microsoft Foundry](https://azure.microsoft.com/updates?id=532303)** — Wed, 19 Nov 2025 00:00:31 Z
+  Claude models by Anthropic are now
+available in Microsoft Foundry, expanding the platform’s unified ecosystem of
+frontier AI. Enterprises can access C...
+- **[[In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent](https://azure.microsoft.com/updates?id=526751)** — Tue, 18 Nov 2025 20:15:19 Z
+  Following our Azure Copilot announcement introducing agentic
+capabilities, this update focuses on one of the six new agents: the deployment
+agent. The...
+- **[[In development] Private Preview: Azure HorizonDB](https://azure.microsoft.com/updates?id=529806)** — Tue, 18 Nov 2025 18:00:28 Z
+  Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance t...
+
+## GCP Updates
+
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+
+## IBM Cloud Updates
+
+- **[An 'undo-and-retry' mechanism for agents](https://research.ibm.com/blog/undo-agent-for-cloud?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 20:00:00 GMT
+  IBM and University of Illinois IBM Research and University of Illinois propose a Ctrl-Z feature for agents that could help to resolve IT issues faster
+- **[The future of AI is in your hands](https://research.ibm.com/blog/small-models-hazy-research-granite?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 16:50:00 GMT
+  Small models and powerful personal devices are poised to upend how we use AI.
+- **[Building quantum computers with advanced semiconductor fab](https://research.ibm.com/blog/300mm-fab?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 05:00:00 GMT
+  An inside look at how IBM® is using state-of-the-art 300mm semiconductor fabrication technology to build the future of quantum hardware.
+
+
 # ☁️ Cloud Updates — 2025-11-18 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
