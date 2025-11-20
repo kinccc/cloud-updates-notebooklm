@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2025-11-20 07:19 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)** — Wed, 19 Nov 2025 20:21:00 GMT
+  <p>Amazon Connect now provides conversational analytics for end-customer self-service interactions across voice and digital channels, helping you bett...
+- **[Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)** — Wed, 19 Nov 2025 19:59:00 GMT
+  <p>Beginning today, customers can use Amazon Bedrock in the Africa (Cape Town), Canada West (Calgary), Mexico (Central), and Middle East (Bahrain) reg...
+- **[Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)** — Wed, 19 Nov 2025 18:30:00 GMT
+  <p>Amazon Connect outbound campaigns now offers campaign managers the ability to configure how long voice calls should ring—between a range of 15 and ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server](https://azure.microsoft.com/updates?id=529381)** — Wed, 19 Nov 2025 21:00:38 Z
+  Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developer...
+- **[[Launched] Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre](https://azure.microsoft.com/updates?id=529368)** — Wed, 19 Nov 2025 21:00:38 Z
+  CSI Dynamic Provisioning for Azure Managed Lustre (AMLFS) is now generally available. With dynamic provisioning, Kubernetes applications can request A...
+- **[[In preview] Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre](https://azure.microsoft.com/updates?id=529359)** — Wed, 19 Nov 2025 21:00:38 Z
+  Azure Managed Lustre now offers a new 20 MB/s/TiB performance tier in public preview, designed to meet the demands of large-scale AI and high-performa...
+
+## GCP Updates
+
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+- **[The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/)** — Tue, 04 Nov 2025 17:00:00 +0000
+  an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantu...
+
+## IBM Cloud Updates
+
+- **[Accelerating AI inference with IBM Storage Scale](https://research.ibm.com/blog/accelerating-ai-inference-with-ibm-storage-scale?utm_medium=rss&utm_source=rss)** — Tue, 18 Nov 2025 16:00:01 GMT
+  IBM Storage Scale is ideal for providing persistent space for KV data, storing it for a virtually unlimited number of active users and agent sessions.
+- **[Making open infrastructure for AI a reality, together](https://research.ibm.com/blog/ai-hardware-forum-making-open-infrastructure-for-ai-a-reality?utm_medium=rss&utm_source=rss)** — Tue, 18 Nov 2025 13:00:00 GMT
+  At this year’s AI Hardware Forum, IBM Research and its partners showcased how they’re transforming the AI age with complete solutions in an open ecosy...
+- **[An 'undo-and-retry' mechanism for agents](https://research.ibm.com/blog/undo-agent-for-cloud?utm_medium=rss&utm_source=rss)** — Wed, 12 Nov 2025 20:00:00 GMT
+  IBM and University of Illinois IBM Research and University of Illinois propose a Ctrl-Z feature for agents that could help to resolve IT issues faster
+
+
 # ☁️ Cloud Updates — 2025-11-19 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
