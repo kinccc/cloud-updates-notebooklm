@@ -1,3 +1,53 @@
+# ☁️ Cloud Updates — 2025-11-21 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Connect now offers persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-persistent-agent-connections)** — Thu, 20 Nov 2025 22:00:00 GMT
+  <p>Amazon Connect now offers the ability to maintain an open communication channel between your agents and Amazon Connect, helping reduce the time it ...
+- **[Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies](https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/)** — Thu, 20 Nov 2025 19:28:00 GMT
+  <p>AWS Organizations Tag Policies announces Reporting for Required Tags, a new validation check that proactively ensures your CloudFormation, Terrafor...
+- **[AWS DMS Schema Conversion adds SAP (Sybase) ASE to PostgreSQL support with generative AI](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-dms-schema-conversion-sap-sybase-ase-postgresql/)** — Thu, 20 Nov 2025 19:11:00 GMT
+  <p>AWS <a href="https://aws.amazon.com/dms/">Database Migration Service</a> (DMS) <a href="https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Schem...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://azure.microsoft.com/updates?id=523076)** — Thu, 20 Nov 2025 20:00:10 Z
+  Container network metrics
+filtering in Azure Container Networking Services (ACNS) is now available in
+public preview. In
+containerized environments, t...
+- **[[Launched] Generally Available: MCP support for AI toolchain operator add-on in AKS](https://azure.microsoft.com/updates?id=523152)** — Thu, 20 Nov 2025 18:45:04 Z
+  MCP support for AI toolchain operator add-on is
+now Generally Available.    The AI Toolchain Operator add-on now supports
+KAITO inference workspaces w...
+- **[[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS](https://azure.microsoft.com/updates?id=523120)** — Thu, 20 Nov 2025 18:30:02 Z
+  Cluster-wide Cilium network
+policy for AKS clusters using Azure CNI powered by Cilium is now Generally
+Available.   Managing consistent network polici...
+
+## GCP Updates
+
+- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
+  Nuclear power plant with sunrise in the background
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+
+## IBM Cloud Updates
+
+- **[Scaling beyond our roadmap with networked quantum computers](https://research.ibm.com/blog/networked-quantum-computers?utm_medium=rss&utm_source=rss)** — Thu, 20 Nov 2025 10:55:00 GMT
+  Initiating the research and collaboration needed to build the quantum computers of the future.
+- **[Utility-scale dynamic circuits now available for all users](https://research.ibm.com/blog/utility-scale-dynamic-circuits?utm_medium=rss&utm_source=rss)** — Wed, 19 Nov 2025 17:00:00 GMT
+  A recent refresh of Qiskit Runtime’s dynamic circuits implementation brings powerful new efficiencies and capabilities to the utility scale.
+- **[Accelerating AI inference with IBM Storage Scale](https://research.ibm.com/blog/accelerating-ai-inference-with-ibm-storage-scale?utm_medium=rss&utm_source=rss)** — Tue, 18 Nov 2025 16:00:01 GMT
+  IBM Storage Scale is ideal for providing persistent space for KV data, storing it for a virtually unlimited number of active users and agent sessions.
+
+
 # ☁️ Cloud Updates — 2025-11-20 07:19 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
