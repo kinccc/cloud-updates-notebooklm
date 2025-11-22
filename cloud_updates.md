@@ -1,3 +1,51 @@
+# ☁️ Cloud Updates — 2025-11-22 07:17 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon EMR Serverless now supports Apache Spark 4.0.1 (preview)](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/)** — Fri, 21 Nov 2025 22:50:00 GMT
+  <p>Amazon EMR Serverless now supports Apache Spark 4.0.1 (preview). With Spark 4.0.1, you can build and maintain data pipelines more easily with ANSI ...
+- **[Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/)** — Fri, 21 Nov 2025 21:40:00 GMT
+  <p>Amazon SageMaker now supports Amazon Athena for Apache Spark, bringing a new notebook experience and fast serverless Spark experience together with...
+- **[AWS Payments Cryptography announces support for post-quantum cryptography to secure data in transit](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-payments-cryptography-post-quantum-data-transit)** — Fri, 21 Nov 2025 21:28:00 GMT
+  <p>Today, AWS Payments Cryptography announces support for hybrid post-quantum (PQ) TLS to secure API calls. With this launch, customers can future-pro...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Custom handler support in Azure Functions Flex consumption](https://azure.microsoft.com/updates?id=512413)** — Fri, 21 Nov 2025 19:15:38 Z
+  Azure Functions now supports custom
+handlers in Flex consumption. Custom handlers are lightweight web servers that
+receive events from the Functions h...
+- **[Retirement: Migrate to dedicated VM for your compute clusters](https://azure.microsoft.com/updates?id=501658)** — Fri, 21 Nov 2025 18:45:18 Z
+  On September 30, 2025, Low-Priority VM will reach end of life. However, you will continue to be supported on Azure Machine Learning until March 31, 20...
+- **[[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://azure.microsoft.com/updates?id=523076)** — Thu, 20 Nov 2025 20:00:10 Z
+  Container network metrics
+filtering in Azure Container Networking Services (ACNS) is now available in
+public preview. In
+containerized environments, t...
+
+## GCP Updates
+
+- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
+  Nuclear power plant with sunrise in the background
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+
+## IBM Cloud Updates
+
+- **[Scaling beyond our roadmap with networked quantum computers](https://research.ibm.com/blog/networked-quantum-computers?utm_medium=rss&utm_source=rss)** — Thu, 20 Nov 2025 10:55:00 GMT
+  Initiating the research and collaboration needed to build the quantum computers of the future.
+- **[Utility-scale dynamic circuits now available for all users](https://research.ibm.com/blog/utility-scale-dynamic-circuits?utm_medium=rss&utm_source=rss)** — Wed, 19 Nov 2025 17:00:00 GMT
+  A recent refresh of Qiskit Runtime’s dynamic circuits implementation brings powerful new efficiencies and capabilities to the utility scale.
+- **[Accelerating AI inference with IBM Storage Scale](https://research.ibm.com/blog/accelerating-ai-inference-with-ibm-storage-scale?utm_medium=rss&utm_source=rss)** — Tue, 18 Nov 2025 16:00:01 GMT
+  IBM Storage Scale is ideal for providing persistent space for KV data, storing it for a virtually unlimited number of active users and agent sessions.
+
+
 # ☁️ Cloud Updates — 2025-11-21 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
