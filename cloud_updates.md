@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2025-11-25 07:20 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)** — Mon, 24 Nov 2025 18:00:00 GMT
+  <p>Today, AWS announces enhanced log analytics capabilities in Amazon OpenSearch Service, making Piped Processing Language (PPL) and natural language ...
+- **[Amazon CloudFront announces support for mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-mutual-tls-authentication/)** — Mon, 24 Nov 2025 18:00:00 GMT
+  <p>Amazon CloudFront announces support for mutual TLS Authentication (mTLS), a security protocol that requires both the server and client to authentic...
+- **[Amazon EC2 announces interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-interruptible-capacity-reservations)** — Mon, 24 Nov 2025 18:00:00 GMT
+  <p>Today, Amazon EC2 announces interruptible Capacity Reservations to help you better utilize your reserved capacity and save costs. On-Demand Capacit...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry](https://azure.microsoft.com/updates?id=534541)** — Mon, 24 Nov 2025 20:30:10 Z
+  Claude Opus 4.5 is now available in public preview on
+Microsoft Foundry, bringing advanced coding, agentic workflows, and enterprise
+productivity to A...
+- **[[Launched] Generally Available: Azure File Sync in New Zealand North](https://azure.microsoft.com/updates?id=533437)** — Mon, 24 Nov 2025 18:00:42 Z
+  Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It als...
+- **[[In preview] Public Preview: Entra ID support for RDP connections](https://azure.microsoft.com/updates?id=526018)** — Mon, 24 Nov 2025 17:15:03 Z
+  Announcing Azure Bastion now supports Microsoft Entra ID
+authentication for RDP connections to Windows VMs directly in the portal. This update
+brings ...
+
+## GCP Updates
+
+- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
+  Nuclear power plant with sunrise in the background
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+- **[Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.](https://blog.google/products/gemini/deep-research-workspace-app-integration/)** — Wed, 05 Nov 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp" />Learn more about how Goo...
+
+## IBM Cloud Updates
+
+- **[Scaling beyond our roadmap with networked quantum computers](https://research.ibm.com/blog/networked-quantum-computers?utm_medium=rss&utm_source=rss)** — Thu, 20 Nov 2025 10:55:00 GMT
+  Initiating the research and collaboration needed to build the quantum computers of the future.
+- **[Utility-scale dynamic circuits now available for all users](https://research.ibm.com/blog/utility-scale-dynamic-circuits?utm_medium=rss&utm_source=rss)** — Wed, 19 Nov 2025 17:00:00 GMT
+  A recent refresh of Qiskit Runtime’s dynamic circuits implementation brings powerful new efficiencies and capabilities to the utility scale.
+- **[Accelerating AI inference with IBM Storage Scale](https://research.ibm.com/blog/accelerating-ai-inference-with-ibm-storage-scale?utm_medium=rss&utm_source=rss)** — Tue, 18 Nov 2025 16:00:01 GMT
+  IBM Storage Scale is ideal for providing persistent space for KV data, storing it for a virtually unlimited number of active users and agent sessions.
+
+
 # ☁️ Cloud Updates — 2025-11-24 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
