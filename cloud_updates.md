@@ -1,3 +1,52 @@
+# ☁️ Cloud Updates — 2025-12-01 07:23 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Connect now provides native testing and simulation capabilities (Preview)](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities-preview)** — Sun, 30 Nov 2025 18:00:00 GMT
+  <p>Amazon Connect now allows you to test and simulate contact center experiences in just a few clicks, making it easy to validate workflows, self-serv...
+- **[Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)** — Sun, 30 Nov 2025 18:00:00 GMT
+  <p>Amazon Connect now allows you to automate email responses and agent routing logic using keyword and phrase conditions, helping organizations increa...
+- **[Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)** — Sun, 30 Nov 2025 18:00:00 GMT
+  <p>Amazon Connect now supports agent-initiated workflows, enabling agents to send interactive forms to collect sensitive data or share general policie...
+
+## Azure Updates
+
+- **[[In preview] Generally Available: Model Context Protocol support in Azure API Management and Azure API Center](https://azure.microsoft.com/updates?id=491990)** — Fri, 23 May 2025 15:00:30 Z
+  Announcing
+the public preview of Model Context Protocol (MCP) support in Azure API
+Management and Azure API Center. With this new capability, enterpri...
+- **[[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture](https://azure.microsoft.com/updates?id=534482)** — Tue, 25 Nov 2025 16:45:50 Z
+  VNET flow log captures IP
+traffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,
+network optimization, security, and compli...
+- **[[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry](https://azure.microsoft.com/updates?id=534541)** — Mon, 24 Nov 2025 20:30:10 Z
+  Claude Opus 4.5 is now available in public preview on
+Microsoft Foundry, bringing advanced coding, agentic workflows, and enterprise
+productivity to A...
+
+## GCP Updates
+
+- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
+  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
+- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
+  Nuclear power plant with sunrise in the background
+- **[We’re expanding access to Gemini in Google Vids.](https://blog.google/products/workspace/google-vids-expands-ai-access/)** — Mon, 17 Nov 2025 22:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp" />The Workspace tool t...
+
+## IBM Cloud Updates
+
+- **[IBM Granite 4.0: Hyper-efficient, high performance hybrid models for India](https://research.ibm.com/blog/granite-4-family-indic-languages-india?utm_medium=rss&utm_source=rss)** — Fri, 28 Nov 2025 15:30:00 GMT
+  
+- **[IBM and ESA release new dataset for mapping floods and fires](https://research.ibm.com/blog/geospatial-flood-and-wildfire-mapping?utm_medium=rss&utm_source=rss)** — Tue, 25 Nov 2025 14:30:00 GMT
+  The multi-modal TerraMind models were fine-tuned on a first-of-its kind dataset designed to improve how we prepare and respond to natural disasters.
+- **[Scaling beyond our roadmap with networked quantum computers](https://research.ibm.com/blog/networked-quantum-computers?utm_medium=rss&utm_source=rss)** — Thu, 20 Nov 2025 10:55:00 GMT
+  Initiating the research and collaboration needed to build the quantum computers of the future.
+
+
 # ☁️ Cloud Updates — 2025-11-30 07:18 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
