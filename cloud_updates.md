@@ -1,3 +1,47 @@
+# ☁️ Cloud Updates — 2025-12-05 07:21 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Bedrock now supports Responses API from OpenAI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/)** — Thu, 04 Dec 2025 12:00:00 GMT
+  <p>Amazon Bedrock now supports Responses API on new OpenAI API-compatible service endpoints. Responses API enables developers to achieve asynchronous ...
+- **[Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors (Preview)](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/)** — Thu, 04 Dec 2025 09:00:00 GMT
+  <p>Starting today, new general purpose Amazon Elastic Compute Cloud (Amazon EC2) <a href="http://aws.amazon.com/ec2/instance-types/m9g">M9g</a> instan...
+- **[Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)** — Wed, 03 Dec 2025 15:00:00 GMT
+  <p>Amazon SageMaker HyperPod now supports checkpointless training, a new foundational model training capability that mitigates the need for a checkpoi...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
+  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
+- **[[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger](https://azure.microsoft.com/updates?id=531889)** — Thu, 04 Dec 2025 17:00:18 Z
+  The Azure MCP (Model Context Protocol) Server provides a
+streamlined approach for managing Azure resources—including Azure confidential ledger—through...
+- **[[In preview] Public Preview: Serverless workspaces in Azure Databricks](https://azure.microsoft.com/updates?id=536721)** — Thu, 04 Dec 2025 16:15:01 Z
+  Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with s...
+
+## GCP Updates
+
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
+  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
+- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
+  Nuclear power plant with sunrise in the background
+
+## IBM Cloud Updates
+
+- **[How UTokyo & IBM developed new quantum simulation algorithm](https://research.ibm.com/blog/utokyo-kqd-algorithm?utm_medium=rss&utm_source=rss)** — Thu, 04 Dec 2025 15:30:00 GMT
+  University of Tokyo and IBM researchers extended the capabilities of quantum computers to simulate condensed matter with smart algorithm design.
+- **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
+  The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
+- **[IBM Granite 4.0: Hyper-efficient, high performance hybrid models for India](https://research.ibm.com/blog/granite-4-family-indic-languages-india?utm_medium=rss&utm_source=rss)** — Fri, 28 Nov 2025 15:30:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2025-12-04 07:21 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
