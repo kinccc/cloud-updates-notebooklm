@@ -1,3 +1,47 @@
+# ☁️ Cloud Updates — 2025-12-06 07:18 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)** — Fri, 05 Dec 2025 18:00:00 GMT
+  <p>Amazon OpenSearch Service now brings automatic semantic enrichment to managed clusters, matching the capability we launched for <a href="https://aw...
+- **[TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)** — Fri, 05 Dec 2025 18:00:00 GMT
+  <p>Amazon Bedrock introduces <a href="https://docs.aws.amazon.com/bedrock/latest/userguide/global-cross-region-inference.html">Global cross-Region inf...
+- **[SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)** — Fri, 05 Dec 2025 18:00:00 GMT
+  <p>Amazon SES announces that the SES Mail Manager product is now available in 10 additional <a href="https://aws.amazon.com/about-aws/global-infrastru...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
+  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
+- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
+  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
+- **[[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger](https://azure.microsoft.com/updates?id=531889)** — Thu, 04 Dec 2025 17:00:18 Z
+  The Azure MCP (Model Context Protocol) Server provides a
+streamlined approach for managing Azure resources—including Azure confidential ledger—through...
+
+## GCP Updates
+
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
+  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
+
+## IBM Cloud Updates
+
+- **[Teaching LLMs how to count](https://research.ibm.com/blog/state-tracking-for-state-space-models?utm_medium=rss&utm_source=rss)** — Fri, 05 Dec 2025 12:30:00 GMT
+  In a spotlight poster at NeurIPS 2025, IBM researchers propose changing a popular LLM architecture to improve their logical reasoning capabilities.
+- **[How UTokyo & IBM developed new quantum simulation algorithm](https://research.ibm.com/blog/utokyo-kqd-algorithm?utm_medium=rss&utm_source=rss)** — Thu, 04 Dec 2025 15:30:00 GMT
+  University of Tokyo and IBM researchers extended the capabilities of quantum computers to simulate condensed matter with smart algorithm design.
+- **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
+  The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
+
+
 # ☁️ Cloud Updates — 2025-12-05 07:21 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
