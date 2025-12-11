@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2025-12-11 07:24 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon ECS now supports custom container stop signals on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/)** — Wed, 10 Dec 2025 20:48:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/">Amazon Elastic Container Service</a> (Amazon ECS) now supports custom container stop signals for Linux tasks ...
+- **[Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)** — Wed, 10 Dec 2025 18:00:00 GMT
+  <p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon E...
+- **[Amazon EC2 X8g instances now available in Asia Pacific (Sydney) region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/)** — Wed, 10 Dec 2025 16:00:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Asia Pacific (Sydney) region. These instances are powered ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://azure.microsoft.com/updates?id=536712)** — Tue, 09 Dec 2025 13:15:11 Z
+  The Federal Information Processing Standard (FIPS) 140-2
+is a US government standard that defines minimum security requirements for
+cryptographic modu...
+- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
+  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
+- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
+  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
+
+## GCP Updates
+
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+
+## IBM Cloud Updates
+
+- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
+  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
+- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
+  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
+- **[IBM’s software engineering agent tops leaderboard for Java](https://research.ibm.com/blog/ibm-software-engineering-agent-tops-the-multi-swe-bench-leaderboard-for-java?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 13:00:00 GMT
+  iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
+
+
 # ☁️ Cloud Updates — 2025-12-10 07:23 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
