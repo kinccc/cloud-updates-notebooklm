@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2025-12-12 07:23 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon Aurora DSQL now supports cluster creation in seconds](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-dsql-cluster-creation-in-seconds)** — Thu, 11 Dec 2025 21:00:00 GMT
+  <p>Amazon Aurora DSQL now supports faster cluster creation, reducing setup time from minutes to seconds.<br /> <br /> With cluster creation now in sec...
+- **[Amazon WorkSpaces Secure Browser introduces Web Content Filtering](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/)** — Thu, 11 Dec 2025 18:00:00 GMT
+  <p>Amazon WorkSpaces Secure Browser now includes Web Content Filtering, a comprehensive security and compliance feature that enables organizations to ...
+- **[Amazon Cognito identity pools now support private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink)** — Thu, 11 Dec 2025 15:00:00 GMT
+  <p>Amazon Cognito identity pools now support AWS PrivateLink, enabling you to securely exchange federated identities for AWS credentials through priva...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams](https://azure.microsoft.com/updates?id=536907)** — Thu, 11 Dec 2025 20:30:24 Z
+  You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. Thi...
+- **[[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation](https://azure.microsoft.com/updates?id=541784)** — Thu, 11 Dec 2025 18:00:36 Z
+  Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it ...
+- **[[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://azure.microsoft.com/updates?id=536712)** — Tue, 09 Dec 2025 13:15:11 Z
+  The Federal Information Processing Standard (FIPS) 140-2
+is a US government standard that defines minimum security requirements for
+cryptographic modu...
+
+## GCP Updates
+
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+
+## IBM Cloud Updates
+
+- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
+  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
+- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
+  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
+- **[IBM’s software engineering agent tops leaderboard for Java](https://research.ibm.com/blog/ibm-software-engineering-agent-tops-the-multi-swe-bench-leaderboard-for-java?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 13:00:00 GMT
+  iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
+
+
 # ☁️ Cloud Updates — 2025-12-11 07:24 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
