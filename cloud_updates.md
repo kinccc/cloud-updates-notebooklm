@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2025-12-17 07:22 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS IoT Device Management Commands now supports dynamic payloads](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-device-management-commands-dynamic-payload/)** — Tue, 16 Dec 2025 20:00:00 GMT
+  <p>AWS IoT Device Management commands now supports dynamic payload functionality, enabling developers to create reusable command templates with placeh...
+- **[Amazon Connect launches additional details within real-time metric alerts](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/)** — Tue, 16 Dec 2025 18:00:00 GMT
+  <p>Amazon Connect alerts on real-time metrics now provide the specific agents, queues, flows, or routing profiles that exceeded thresholds and trigger...
+- **[AWS Direct Connect announces new location in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-direct-connect-hanoi/)** — Tue, 16 Dec 2025 17:00:00 GMT
+  <p>Today, AWS announced the opening of a new&nbsp;<a href="https://aws.amazon.com/directconnect">AWS Direct Connect</a>&nbsp;location within the CMC T...
+
+## Azure Updates
+
+- **[[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)](https://azure.microsoft.com/updates?id=537106)** — Tue, 16 Dec 2025 15:45:45 Z
+  Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate ...
+- **[[In preview] Public Preview: Azure NetApp Files advanced ransomware protection](https://azure.microsoft.com/updates?id=536699)** — Tue, 16 Dec 2025 15:45:45 Z
+  Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, r...
+- **[Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://azure.microsoft.com/updates?id=515484)** — Fri, 12 Dec 2025 11:30:27 Z
+  The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) ...
+
+## GCP Updates
+
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+
+## IBM Cloud Updates
+
+- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
+  
+- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
+  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
+- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
+  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
+
+
 # ☁️ Cloud Updates — 2025-12-16 07:23 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
