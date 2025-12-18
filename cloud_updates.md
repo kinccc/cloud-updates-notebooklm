@@ -1,3 +1,49 @@
+# ☁️ Cloud Updates — 2025-12-18 07:22 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)** — Wed, 17 Dec 2025 18:00:00 GMT
+  <p>Today, AWS Databases including Amazon Aurora PostgreSQL, Amazon Aurora DSQL, and Amazon DynamoDB are generally available on the Vercel Marketplace,...
+- **[Now generally available: Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances)** — Wed, 17 Dec 2025 18:00:00 GMT
+  <p>Today, AWS announces the general availability of the new Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances. These instances are pow...
+- **[Amazon WorkSpaces Applications announces additional health and performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics)** — Wed, 17 Dec 2025 18:00:00 GMT
+  <p>Today, Amazon WorkSpaces Applications announced a new set of Amazon CloudWatch metrics for monitoring the health and performance of fleets, session...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
+  Azure
+Functions triggers and bindings enable you to easily integrate event and data
+sources with function applications.   Now that SDK
+type bindings s...
+- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
+  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
+- **[[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB](https://azure.microsoft.com/updates?id=541813)** — Wed, 17 Dec 2025 18:30:05 Z
+  You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB ...
+
+## GCP Updates
+
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
+  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
+
+## IBM Cloud Updates
+
+- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
+  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
+- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
+  
+- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
+  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
+
+
 # ☁️ Cloud Updates — 2025-12-17 07:22 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
