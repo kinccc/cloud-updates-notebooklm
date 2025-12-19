@@ -1,3 +1,51 @@
+# ☁️ Cloud Updates — 2025-12-19 07:22 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[Amazon EC2 now supports Availability Zone ID across its APIs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-az-id-api-support)** — Thu, 18 Dec 2025 20:55:00 GMT
+  <p>Amazon EC2 now supports Availability Zone ID (AZ ID) parameter, enabling you to create and manage resources such as instances, volumes, and subnets...
+- **[Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets)** — Thu, 18 Dec 2025 16:00:00 GMT
+  <p>Amazon WorkSpaces Applications now offers support for Ubuntu Pro 24.04 LTS on&nbsp;Elastic fleets, enabling Independent Software Vendors (ISVs)&nbs...
+- **[Amazon EC2 C8a instances now available in the Europe (Spain) region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region)** — Thu, 18 Dec 2025 15:00:00 GMT
+  <p>Starting today, the compute-optimized Amazon EC2 C8a instances are available in the Europe (Spain) region. C8a instances are powered by 5th Gen AMD...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=542813)** — Thu, 18 Dec 2025 18:45:03 Z
+  Azure Storage Mover’s new Azure Blob container-to-container
+migration feature is now in Public Preview, empowering organizations to move
+data between ...
+- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
+  Azure
+Functions triggers and bindings enable you to easily integrate event and data
+sources with function applications.   Now that SDK
+type bindings s...
+- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
+  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
+
+## GCP Updates
+
+- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
+  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+
+## IBM Cloud Updates
+
+- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
+  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
+- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
+  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
+- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2025-12-18 07:22 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
