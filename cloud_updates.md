@@ -1,3 +1,51 @@
+# ☁️ Cloud Updates — 2025-12-23 07:24 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/)** — Mon, 22 Dec 2025 22:00:00 GMT
+  <p>AWS Deadline Cloud now lets you submit rendering jobs directly from the Deadline Cloud Monitor desktop application. This new feature makes it easie...
+- **[Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)** — Mon, 22 Dec 2025 18:00:00 GMT
+  <p>Today, <a href="https://aws.amazon.com/marketplace/featured-seller/oracle/" target="_blank">Oracle Database@AWS</a> announced ability to share AWS ...
+- **[Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)** — Mon, 22 Dec 2025 18:00:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS) Service Connect now supports Envoy access l...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=542813)** — Thu, 18 Dec 2025 18:45:03 Z
+  Azure Storage Mover’s new Azure Blob container-to-container
+migration feature is now in Public Preview, empowering organizations to move
+data between ...
+- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
+  Azure
+Functions triggers and bindings enable you to easily integrate event and data
+sources with function applications.   Now that SDK
+type bindings s...
+- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
+  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
+
+## GCP Updates
+
+- **[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
+  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
+- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
+  AI agent trends report 2026 graphic
+- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
+  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
+
+## IBM Cloud Updates
+
+- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
+  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
+- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
+  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
+- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2025-12-22 07:24 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
