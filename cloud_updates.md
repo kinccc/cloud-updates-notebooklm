@@ -1,3 +1,50 @@
+# ☁️ Cloud Updates — 2026-01-01 07:23 UTC
+
+Automatically generated from AWS, Azure, and GCP feeds.
+
+---
+
+## AWS Updates
+
+- **[AWS WAF is now available in the AWS Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-waf-asia-pacific-new-zealand-region/)** — Tue, 30 Dec 2025 18:00:00 GMT
+  <p>Starting today, AWS WAF is available in the AWS Asia Pacific (New Zealand) Region.<br /> <br /> AWS WAF is a web application firewall that helps yo...
+- **[AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-simplified-import-cloudtrail-lake-data-amazon-cloudwatch)** — Tue, 30 Dec 2025 14:00:00 GMT
+  <p>Today, AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch, a data management and analytics service that allows you to unif...
+- **[Amazon Connect dashboards now support filtering metrics based on custom business dimensions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions)** — Mon, 29 Dec 2025 15:00:00 GMT
+  <p>Amazon Connect dashboards now support filtering metrics based on custom business dimensions such as business divisions, product lines, or customer ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario](https://azure.microsoft.com/updates?id=536560)** — Wed, 31 Dec 2025 21:00:35 Z
+  The new cloud-native apps on
+Kubernetes pricing calculator scenario allows teams to estimate the total cost
+of ownership for a production-ready AKS cl...
+- **[[Launched] Generally Available: Geo-Replication for Azure Service Bus Premium](https://azure.microsoft.com/updates?id=490149)** — Wed, 31 Dec 2025 21:00:35 Z
+  The Geo-Replication feature for Azure Service Bus in the
+premium tier is now generally available. The Service Bus Geo-Replication
+feature is one of th...
+- **[[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West](https://azure.microsoft.com/updates?id=544080)** — Wed, 31 Dec 2025 20:45:49 Z
+  Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation genera...
+
+## GCP Updates
+
+- **[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
+  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
+- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
+  AI agent trends report 2026 graphic
+- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
+  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
+
+## IBM Cloud Updates
+
+- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
+  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
+- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
+  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
+- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2025-12-31 07:23 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
