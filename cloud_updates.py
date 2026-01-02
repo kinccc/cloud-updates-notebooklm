@@ -46,7 +46,7 @@ def generate_5min_digest(raw_updates_list):
     genai.configure(api_key=api_key)
 
     # Strategy: Failover from high-demand models to high-availability models
-    models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b']
+    models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b', 'gemini-1.5-flash-lite']
     
     # Context Optimization: Use only headlines to save tokens and speed up processing
     headlines = [item.split('\n')[0] for item in raw_updates_list[:12]]
