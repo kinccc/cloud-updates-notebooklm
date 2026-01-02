@@ -22,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install feedparser openai || true
+        run: pip install feedparser openai google-generativeai || true
 
       - name: Run update script
         run: python cloud_updates.py
