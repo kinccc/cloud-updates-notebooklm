@@ -5,7 +5,9 @@ import feedparser
 import os
 import re
 from datetime import datetime, timedelta, timezone
+from google.api_core import exceptions
 import google.generativeai as genai
+import time
 
 FEEDS = {
     "AWS": [
@@ -32,31 +34,62 @@ FEEDS = {
 }
 
 def generate_5min_digest(raw_updates_list):
-    api_key = os.getenv("GEMINI_API_KEY")
+    """
+    Synthesizes raw RSS updates into a CIO Executive Digest.
+    Includes failover redundancy and exponential backoff for 429 errors.
+    """
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not raw_updates_list:
-        return "> ⚠️ AI Digest skipped: Missing data or API key.\n\n"
+        return "> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.\n\n"
 
+    # Configure the library
     genai.configure(api_key=api_key)
+
+    # Strategy: Failover from high-demand models to high-availability models
+    models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b']
     
-    # Try the most modern model first, fall back to stable 1.5
-    for model_name in ['gemini-2.0-flash', 'gemini-1.5-flash']:
-        try:
-            model = genai.GenerativeModel(model_name)
+    # Context Optimization: Use only headlines to save tokens and speed up processing
+    headlines = [item.split('\n')[0] for item in raw_updates_list[:12]]
+    context_text = "\n".join(headlines)
+
+    prompt = f"""
+    You are a Strategic CIO Advisor. Based on these cloud news headlines, provide:
+    1. A 'Big Picture' summary (1 sentence).
+    2. Three 'Strategic Impact' bullet points.
+    3. One 'Action Item' for the infrastructure team.
+
+    Headlines:
+    {context_text}
+    """
+
+    for model_name in models_to_try:
+        # Try each model with a "Short-Fuse" retry (Exponential Backoff)
+        # 1st attempt: Immediate | 2nd attempt: +3s | 3rd attempt: +7s
+        for attempt in range(3):
+            try:
+                if attempt > 0:
+                    wait_time = (attempt ** 2) + 2 
+                    print(f"🔄 {model_name} quota hit. Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+
+                model = genai.GenerativeModel(model_name)
+                response = model.generate_content(prompt)
+                
+                # Success! Return the summary with the model name for transparency
+                return f"## ⚡ 5-Minute Executive Digest ({model_name})\n> {response.text}\n\n---\n"
+
+            except exceptions.ResourceExhausted as e:
+                # Error 429: Keep retrying until we hit 3 attempts
+                if attempt == 2:
+                    print(f"❌ {model_name} exhausted all retries. Failing over...")
+                continue 
             
-            # Use only titles for the prompt to keep it short and fast
-            context = "\n".join([item.split('\n')[0] for item in raw_updates_list])
-            
-            prompt = f"As a CIO advisor, provide a 3-bullet point executive summary of these headlines:\n{context}"
-            response = model.generate_content(prompt)
-            
-            return f"## ⚡ 5-Minute Executive Digest\n> {response.text}\n\n---\n"
-        except Exception as e:
-            if "404" in str(e):
-                print(f"Model {model_name} not found, trying fallback...")
-                continue
-            return f"> ⚠️ AI Digest failed: {str(e)}\n\n---\n"
-            
-    return "> ⚠️ AI Digest unavailable: All models returned 404.\n\n"
+            except Exception as e:
+                # If it's a 404 or other error, move to the next model immediately
+                print(f"⚠️ {model_name} error: {str(e)[:50]}")
+                break 
+
+    return "> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.\n\n---\n"
 
 def fetch_updates():
     items = []
