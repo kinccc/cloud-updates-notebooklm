@@ -1,3 +1,22 @@
+# ☁️ Cloud Updates — 2026-01-02 05:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+
+## Azure Updates
+
+
+## GCP Updates
+
+
+## IBM Cloud Updates
+
+
+
 # ☁️ Cloud Updates — 2026-01-02 05:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
