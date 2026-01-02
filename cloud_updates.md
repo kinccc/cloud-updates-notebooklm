@@ -1,3 +1,22 @@
+# ☁️ Cloud Updates — 2026-01-02 05:28 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+---
+## AWS Updates
+
+
+## Azure Updates
+
+
+## GCP Updates
+
+
+## IBM Cloud Updates
+
+
+
 # ☁️ Cloud Updates — 2026-01-02 05:27 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
