@@ -27,9 +27,6 @@ FEEDS = {
         "https://www.ibm.com/cloud/blog/atom.xml",
         "https://www.ibm.com/blogs/cloud-computing/feed/",
         "https://research.ibm.com/rss"
-    ],
-    "Huawei Cloud": [
-        "https://news.google.com/rss/search?q=Huawei+Cloud+enterprise+tech+when:7d&hl=en-US&gl=US&ceid=US:en"
     ]
 }
 
@@ -85,39 +82,39 @@ def main():
     new_section = "\n".join(new_content)
 
     output_path = os.path.join(os.getcwd(), "cloud_updates.md")
-    combined = new_section
-
-    # If an old file exists, read and filter by date (keep only last 30 days)
+    
     if os.path.exists(output_path):
         with open(output_path, "r", encoding="utf-8") as f:
-            old_content = f.read()
+            old_full_content = f.read()
 
-        # Find all previous date headers
-        pattern = r"# ☁️ Cloud Updates — ([0-9\-]+) [0-9:]+ UTC"
-        matches = list(re.finditer(pattern, old_content))
+        # Split by the header emoji to separate daily updates
+        # This is much more reliable than a complex regex
+        sections = old_full_content.split("# ☁️")
+        valid_sections = []
 
-        keep_from_index = None
-        if matches:
-            for match in matches:
-                date_str = match.group(1)
+        for section in sections:
+            if not section.strip(): continue
+            
+            # Extract the date from the first line of the section (YYYY-MM-DD)
+            # Using a simpler search for the first 10 digits
+            date_match = re.search(r"(\d{4}-\d{2}-\d{2})", section)
+            if date_match:
                 try:
-                    date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-                    if (now - date) <= timedelta(days=30):
-                        keep_from_index = match.start()
-                        break
+                    section_date = datetime.strptime(date_match.group(1), "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                    # Keep if within 30 days
+                    if (now - section_date) <= timedelta(days=30):
+                        valid_sections.append("# ☁️" + section)
                 except ValueError:
-                    continue
+                    continue # Skip sections with malformed dates
 
-        # If we found recent updates, keep only them
-        if keep_from_index is not None:
-            old_trimmed = old_content[keep_from_index:]
-            combined = new_section + "\n\n" + old_trimmed
-        else:
-            combined = new_section
+        # Reconstruct the file with the new section at the top
+        combined = new_section + "\n\n" + "".join(valid_sections)
+    else:
+        combined = new_section
 
-    # Write combined content back
+    # Final Write
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(combined)
+        f.write(combined.strip())
 
     print(f"✅ Added new updates, kept only last 30 days: {output_path}")
 
