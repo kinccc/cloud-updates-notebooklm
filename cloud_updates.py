@@ -36,6 +36,12 @@ FEEDS = {
 
 def fetch_updates():
     items = []
+    # 1. READ EXISTING CONTENT FIRST TO CHECK FOR DUPLICATES
+    existing_content = ""
+    output_path = os.path.join(os.getcwd(), "cloud_updates.md")
+    if os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            existing_content = f.read()
     for name, urls in FEEDS.items():
         if isinstance(urls, str):
             urls = [urls]
@@ -49,6 +55,9 @@ def fetch_updates():
                 for e in d.entries[:3]:
                     title = e.get("title", "No title").strip()
                     link = e.get("link", "")
+                    # 2. CHECK IF THE LINK IS ALREADY IN YOUR FILE
+                    if link in existing_content:
+                        continue # Skip this item, it's already recorded
                     # Use 'published' if available, else fallback to 'updated'
                     date = e.get("published", e.get("updated", ""))
                     summary = e.get("summary", "").strip()
