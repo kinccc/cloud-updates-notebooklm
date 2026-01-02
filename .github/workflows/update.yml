@@ -25,6 +25,8 @@ jobs:
         run: pip install feedparser openai google-generativeai || true
 
       - name: Run update script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python cloud_updates.py
 
       - name: Summarize updates (optional)
