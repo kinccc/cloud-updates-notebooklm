@@ -34,21 +34,29 @@ FEEDS = {
 def generate_5min_digest(raw_updates_list):
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key or not raw_updates_list:
-        return "> ⚠️ AI Digest skipped: Missing API Key or no new data.\n\n"
+        return "> ⚠️ AI Digest skipped: Missing data or API key.\n\n"
 
-    try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        
-        # We only send the titles to keep it fast and save tokens
-        titles_only = "\n".join([item.split('\n')[0] for item in raw_updates_list])
-        
-        prompt = f"Summarize these tech headlines for a CIO in 3 bullet points:\n{titles_only}"
-        response = model.generate_content(prompt)
-        
-        return f"## ⚡ 5-Minute Executive Digest\n> {response.text}\n\n---\n"
-    except Exception as e:
-        return f"> ⚠️ AI Digest unavailable: {str(e)}\n\n---\n"
+    genai.configure(api_key=api_key)
+    
+    # Try the most modern model first, fall back to stable 1.5
+    for model_name in ['gemini-2.0-flash', 'gemini-1.5-flash']:
+        try:
+            model = genai.GenerativeModel(model_name)
+            
+            # Use only titles for the prompt to keep it short and fast
+            context = "\n".join([item.split('\n')[0] for item in raw_updates_list])
+            
+            prompt = f"As a CIO advisor, provide a 3-bullet point executive summary of these headlines:\n{context}"
+            response = model.generate_content(prompt)
+            
+            return f"## ⚡ 5-Minute Executive Digest\n> {response.text}\n\n---\n"
+        except Exception as e:
+            if "404" in str(e):
+                print(f"Model {model_name} not found, trying fallback...")
+                continue
+            return f"> ⚠️ AI Digest failed: {str(e)}\n\n---\n"
+            
+    return "> ⚠️ AI Digest unavailable: All models returned 404.\n\n"
 
 def fetch_updates():
     items = []
