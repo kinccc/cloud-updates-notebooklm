@@ -8,15 +8,18 @@ from datetime import datetime, timedelta, timezone
 
 FEEDS = {
     "AWS": [
-        "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
+        "https://aws.amazon.com/blogs/enterprise-strategy/feed/",
+        "https://aws.amazon.com/blogs/architecture/feed/",
+        "https://aws.amazon.com/blogs/machine-learning/feed/"
     ],
     "Azure": [
-        "https://www.microsoft.com/releasecommunications/api/v2/azure/rss",
+        "https://www.microsoft.com/en-us/research/feed/",
         "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
         "https://azure.microsoft.com/en-us/updates/feed/"  # backup URL
     ],
     "GCP": [
         "https://blog.google/products/google-cloud/rss",
+        "http://googleaiblog.blogspot.com/atom.xml",
         "https://cloudblog.withgoogle.com/rss",
         "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
     ],
@@ -24,6 +27,9 @@ FEEDS = {
         "https://www.ibm.com/cloud/blog/atom.xml",
         "https://www.ibm.com/blogs/cloud-computing/feed/",
         "https://research.ibm.com/rss"
+    ],
+    "Huawei Cloud": [
+        "https://www.huawei.com/en/rss-feeds/news-and-events"
     ]
 }
 
