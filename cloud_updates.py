@@ -29,7 +29,7 @@ FEEDS = {
         "https://research.ibm.com/rss"
     ],
     "Huawei Cloud": [
-        "https://www.huawei.com/en/rss-feeds/news-and-events"
+        "https://news.google.com/rss/search?q=Huawei+Cloud+enterprise+tech+when:7d&hl=en-US&gl=US&ceid=US:en"
     ]
 }
 
