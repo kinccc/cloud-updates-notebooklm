@@ -105,8 +105,12 @@ def main():
     ai_digest = generate_5min_digest(raw_updates)
 
     # Assemble: Header -> AI Digest -> Detailed Sections
-    new_content = "".join(header) + ai_digest + "\n".join(raw_updates)
-    new_section = "\n".join(new_content)
+    # 1. Join the list parts into a single string
+    header_str = "".join(header)
+    updates_str = "\n".join(raw_updates)
+
+    # 2. Combine them simply using +
+    new_section = header_str + ai_digest + updates_str
 
     output_path = os.path.join(os.getcwd(), "cloud_updates.md")
     
