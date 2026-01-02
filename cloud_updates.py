@@ -5,6 +5,7 @@ import feedparser
 import os
 import re
 from datetime import datetime, timedelta, timezone
+import google.generativeai as genai
 
 FEEDS = {
     "AWS": [
@@ -30,6 +31,24 @@ FEEDS = {
     ]
 }
 
+def generate_5min_digest(raw_updates_list):
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key or not raw_updates_list:
+        return "> ⚠️ AI Digest skipped: Missing API Key or no new data.\n\n"
+
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        
+        # We only send the titles to keep it fast and save tokens
+        titles_only = "\n".join([item.split('\n')[0] for item in raw_updates_list])
+        
+        prompt = f"Summarize these tech headlines for a CIO in 3 bullet points:\n{titles_only}"
+        response = model.generate_content(prompt)
+        
+        return f"## ⚡ 5-Minute Executive Digest\n> {response.text}\n\n---\n"
+    except Exception as e:
+        return f"> ⚠️ AI Digest unavailable: {str(e)}\n\n---\n"
 
 def fetch_updates():
     items = []
@@ -78,7 +97,15 @@ def main():
         "Automatically generated from AWS, Azure, and GCP feeds.\n",
         "---\n"
     ]
-    new_content = header + fetch_updates()
+
+    # 1. Fetch raw updates using your existing function
+    raw_updates = fetch_updates() 
+    
+    # 2. GENERATE THE AI DIGEST (NEW)
+    ai_digest = generate_5min_digest(raw_updates)
+
+    # Assemble: Header -> AI Digest -> Detailed Sections
+    new_content = "".join(header) + ai_digest + "\n".join(raw_updates)
     new_section = "\n".join(new_content)
 
     output_path = os.path.join(os.getcwd(), "cloud_updates.md")
