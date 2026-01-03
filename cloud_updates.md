@@ -1,3 +1,22 @@
+# ☁️ Cloud Updates — 2026-01-03 07:19 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+
+## Azure Updates
+
+
+## GCP Updates
+
+
+## IBM Cloud Updates
+
+
+
 # ☁️ Cloud Updates — 2026-01-02 07:24 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1256,47 +1275,3 @@ streamlined approach for managing Azure resources—including Azure confidential
 - **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
   The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
 - **[IBM Granite 4.0: Hyper-efficient, high performance hybrid models for India](https://research.ibm.com/blog/granite-4-family-indic-languages-india?utm_medium=rss&utm_source=rss)** — Fri, 28 Nov 2025 15:30:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2025-12-04 07:21 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)** — Wed, 03 Dec 2025 15:00:00 GMT
-  <p>Amazon SageMaker HyperPod now supports checkpointless training, a new foundational model training capability that mitigates the need for a checkpoi...
-- **[New serverless model customization capability in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai)** — Wed, 03 Dec 2025 14:00:00 GMT
-  <p>Amazon Web Services (AWS) announces a new serverless model customization capability that empowers AI developers to quickly customize popular models...
-- **[Announcing TypeScript support in Strands Agents (preview) and more](https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview)** — Wed, 03 Dec 2025 14:00:00 GMT
-  <p>In May, we open sourced the Strands Agents SDK, an open source python framework that takes a model-driven approach to building and running AI agent...
-
-## Azure Updates
-
-- **[Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026](https://azure.microsoft.com/updates?id=501668)** — Wed, 03 Dec 2025 21:00:12 Z
-  On June 30, 2026, AzureML SDK V1 will reach end of life. The following SDKs which work in tandem with the AzureML SDK V1 will also be retired.  azurem...
-- **[[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central](https://azure.microsoft.com/updates?id=534523)** — Wed, 03 Dec 2025 17:30:15 Z
-  Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.
-- **[[Launched] Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/updates?id=534518)** — Wed, 03 Dec 2025 17:30:15 Z
-  Now you can upgrade the pg_squeeze extension to version 1.9.1 in Azure Database for PostgreSQL Flexible Server.  Learn more.
-
-## GCP Updates
-
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
-  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
-- **[How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/)** — Thu, 20 Nov 2025 14:00:00 +0000
-  Nuclear power plant with sunrise in the background
-
-## IBM Cloud Updates
-
-- **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
-  The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
-- **[IBM Granite 4.0: Hyper-efficient, high performance hybrid models for India](https://research.ibm.com/blog/granite-4-family-indic-languages-india?utm_medium=rss&utm_source=rss)** — Fri, 28 Nov 2025 15:30:00 GMT
-  
-- **[IBM and ESA release new dataset for mapping floods and fires](https://research.ibm.com/blog/geospatial-flood-and-wildfire-mapping?utm_medium=rss&utm_source=rss)** — Tue, 25 Nov 2025 14:30:00 GMT
-  The multi-modal TerraMind models were fine-tuned on a first-of-its kind dataset designed to improve how we prepare and respond to natural disasters.
