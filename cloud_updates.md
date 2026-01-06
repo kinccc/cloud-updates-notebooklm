@@ -1,3 +1,49 @@
+# ☁️ Cloud Updates — 2026-01-06 02:09 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Measuring the Impact of AI Assistants on Software Development](https://aws.amazon.com/blogs/enterprise-strategy/measuring-the-impact-of-ai-assistants-on-software-development/)** — Wed, 29 Oct 2025 23:45:33 +0000
+  &nbsp; “The speed of typing out code has never ever been the bottleneck for software development (not since keyboards became widespread from the 60s o...
+- **[From Tools to Teammates: CTO’s Guide to Evolving Architecture for Agentic AI](https://aws.amazon.com/blogs/enterprise-strategy/from-tools-to-teammates-ctos-guide-to-evolving-architecture-for-agentic-ai/)** — Wed, 10 Sep 2025 23:46:06 +0000
+  In my previous blog, I shared how to evolve leadership for agentic AI using familiar mental models. As a CTO, I’ve been thinking about the correspondi...
+
+## Azure Updates
+
+- **[Ideas: Community building, machine learning, and the future of AI](https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/)** — Mon, 01 Dec 2025 19:18:20 +0000
+  <p>As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and H...
+- **[Reducing Privacy leaks in AI: Two approaches to contextual integrity](https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/)** — Tue, 25 Nov 2025 17:00:00 +0000
+  <p>New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time...
+
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-01-05 07:29 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1104,50 +1150,6 @@ streamlined approach for managing Azure resources—including Azure confidential
 
 
 # ☁️ Cloud Updates — 2025-12-08 07:24 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)** — Fri, 05 Dec 2025 18:00:00 GMT
-  <p>Amazon OpenSearch Service now brings automatic semantic enrichment to managed clusters, matching the capability we launched for <a href="https://aw...
-- **[TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)** — Fri, 05 Dec 2025 18:00:00 GMT
-  <p>Amazon Bedrock introduces <a href="https://docs.aws.amazon.com/bedrock/latest/userguide/global-cross-region-inference.html">Global cross-Region inf...
-- **[SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)** — Fri, 05 Dec 2025 18:00:00 GMT
-  <p>Amazon SES announces that the SES Mail Manager product is now available in 10 additional <a href="https://aws.amazon.com/about-aws/global-infrastru...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
-  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
-- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
-  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
-- **[[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger](https://azure.microsoft.com/updates?id=531889)** — Thu, 04 Dec 2025 17:00:18 Z
-  The Azure MCP (Model Context Protocol) Server provides a
-streamlined approach for managing Azure resources—including Azure confidential ledger—through...
-
-## GCP Updates
-
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
-  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
-
-## IBM Cloud Updates
-
-- **[Teaching LLMs how to count](https://research.ibm.com/blog/state-tracking-for-state-space-models?utm_medium=rss&utm_source=rss)** — Fri, 05 Dec 2025 12:30:00 GMT
-  In a spotlight poster at NeurIPS 2025, IBM researchers propose changing a popular LLM architecture to improve their logical reasoning capabilities.
-- **[How UTokyo & IBM developed new quantum simulation algorithm](https://research.ibm.com/blog/utokyo-kqd-algorithm?utm_medium=rss&utm_source=rss)** — Thu, 04 Dec 2025 15:30:00 GMT
-  University of Tokyo and IBM researchers extended the capabilities of quantum computers to simulate condensed matter with smart algorithm design.
-- **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
-  The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
-
-
-# ☁️ Cloud Updates — 2025-12-07 07:18 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
 
