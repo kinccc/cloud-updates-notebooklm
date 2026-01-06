@@ -93,40 +93,55 @@ def generate_5min_digest(raw_updates_list):
 
 def fetch_updates():
     items = []
-    # 1. READ EXISTING CONTENT FIRST TO CHECK FOR DUPLICATES
-    existing_content = ""
     output_path = os.path.join(os.getcwd(), "cloud_updates.md")
+    
+    existing_content = ""
     if os.path.exists(output_path):
         with open(output_path, "r", encoding="utf-8") as f:
             existing_content = f.read()
+
     for name, urls in FEEDS.items():
         if isinstance(urls, str):
             urls = [urls]
-        section_added = False
+            
+        provider_has_new_content = False
+        
         for url in urls:
             try:
                 d = feedparser.parse(url)
                 if not d.entries:
                     continue
-                items.append(f"## {name} Updates\n")
-                for e in d.entries[:3]:
+
+                # Buffer to hold updates for this specific provider
+                temp_updates = []
+                
+                for e in d.entries[:5]: # Check top 5 instead of 3 for better coverage
                     title = e.get("title", "No title").strip()
                     link = e.get("link", "")
-                    # 2. CHECK IF THE LINK IS ALREADY IN YOUR FILE
+                    
                     if link in existing_content:
-                        continue # Skip this item, it's already recorded
-                    # Use 'published' if available, else fallback to 'updated'
-                    date = e.get("published", e.get("updated", ""))
+                        continue 
+                    
+                    date = e.get("published", e.get("updated", "Recent"))
                     summary = e.get("summary", "").strip()
                     summary_short = summary[:150] + "..." if len(summary) > 150 else summary
-                    items.append(f"- **[{title}]({link})** — {date}\n  {summary_short}")
-                items.append("")  # blank line
-                section_added = True
-                break  # stop if a working feed found
+                    
+                    temp_updates.append(f"- **[{title}]({link})** — {date}\n  {summary_short}")
+
+                if temp_updates:
+                    items.append(f"## {name} Updates\n")
+                    items.extend(temp_updates)
+                    items.append("") # Spacer
+                    provider_has_new_content = True
+                    break # Success! We found new content in this URL, move to next provider
+                
             except Exception as e:
                 print(f"⚠️ Error fetching {name} from {url}: {e}")
-        if not section_added:
-            items.append(f"## {name} Updates\n- (No recent updates found)\n")
+
+        # If we went through all URLs and found nothing NEW
+        if not provider_has_new_content:
+            print(f"ℹ️ No NEW updates for {name} today.")
+            
     return items
 
 def main():
