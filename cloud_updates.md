@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-01-08 07:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Your AI Coding Assistants Will Overwhelm Your Delivery Pipeline: Here’s How to Prepare](https://aws.amazon.com/blogs/enterprise-strategy/your-ai-coding-assistants-will-overwhelm-your-delivery-pipeline-heres-how-to-prepare/)** — Wed, 07 Jan 2026 22:57:04 +0000
+  “Agentic AI’s primary role in organizations is that of an amplifier. It magnifies the strengths of high-performing organizations and the dysfunctions ...
+
+## GCP Updates
+
+- **[Build data analytics agents faster with BigQuery’s fully managed, remote MCP server](https://cloud.google.com/blog/products/data-analytics/using-the-fully-managed-remote-bigquery-mcp-server-to-build-data-ai-agents/)** — Wed, 07 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Connecting AI agents to your enterprise data shouldn't require comple...
+- **[Instant insights: Gemini CLI's New Pre-Configured Monitoring Dashboards](https://cloud.google.com/blog/topics/developers-practitioners/instant-insights-gemini-clis-new-pre-configured-monitoring-dashboards/)** — Wed, 07 Jan 2026 14:15:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Observability is a key component to understand how tools are helping ...
+
+## IBM Cloud Updates
+
+- **[A new advance in a two-century pursuit in physics](https://research.ibm.com/blog/a-new-advance-in-a-two-century-pursuit-in-physics?utm_medium=rss&utm_source=rss)** — Wed, 07 Jan 2026 11:00:00 GMT
+  A powerful new method for characterizing semiconductor materials finds its roots in ancient mathematics.
+
+
 # ☁️ Cloud Updates — 2026-01-07 07:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1173,47 +1197,3 @@ cryptographic modu...
   iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
 - **[Teaching LLMs how to count](https://research.ibm.com/blog/state-tracking-for-state-space-models?utm_medium=rss&utm_source=rss)** — Fri, 05 Dec 2025 12:30:00 GMT
   In a spotlight poster at NeurIPS 2025, IBM researchers propose changing a popular LLM architecture to improve their logical reasoning capabilities.
-
-
-# ☁️ Cloud Updates — 2025-12-09 07:22 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)** — Mon, 08 Dec 2025 15:00:00 GMT
-  <p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research repo...
-- **[Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)** — Mon, 08 Dec 2025 08:00:00 GMT
-  <p>Today, AWS is announcing Spatial Data Management on AWS (SDMA), a solution that enables customers to store, enrich, and connect spatial data at sca...
-- **[Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)** — Fri, 05 Dec 2025 18:00:00 GMT
-  <p>Amazon OpenSearch Service now brings automatic semantic enrichment to managed clusters, matching the capability we launched for <a href="https://aw...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
-  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
-- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
-  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
-- **[[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger](https://azure.microsoft.com/updates?id=531889)** — Thu, 04 Dec 2025 17:00:18 Z
-  The Azure MCP (Model Context Protocol) Server provides a
-streamlined approach for managing Azure resources—including Azure confidential ledger—through...
-
-## GCP Updates
-
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-- **[3 things to know about Ironwood, our latest TPU](https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/)** — Tue, 25 Nov 2025 16:00:00 +0000
-  On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.
-
-## IBM Cloud Updates
-
-- **[Teaching LLMs how to count](https://research.ibm.com/blog/state-tracking-for-state-space-models?utm_medium=rss&utm_source=rss)** — Fri, 05 Dec 2025 12:30:00 GMT
-  In a spotlight poster at NeurIPS 2025, IBM researchers propose changing a popular LLM architecture to improve their logical reasoning capabilities.
-- **[How UTokyo & IBM developed new quantum simulation algorithm](https://research.ibm.com/blog/utokyo-kqd-algorithm?utm_medium=rss&utm_source=rss)** — Thu, 04 Dec 2025 15:30:00 GMT
-  University of Tokyo and IBM researchers extended the capabilities of quantum computers to simulate condensed matter with smart algorithm design.
-- **[IBM and Kaggle launch new AI leaderboards for enterprise tasks](https://research.ibm.com/blog/ibm-kaggle-leaderboards-enterprise-ai?utm_medium=rss&utm_source=rss)** — Tue, 02 Dec 2025 13:00:00 GMT
-  The new leaderboards, built atop benchmarks initiated by IBM Research, are designed to accelerate progress building and evaluating AI models and agent...
