@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-01-09 07:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/)** — Thu, 08 Jan 2026 18:25:01 +0000
+  This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), in...
+- **[Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails](https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/)** — Thu, 08 Jan 2026 16:14:27 +0000
+  This post shows an automated PII detection and redaction solution using Amazon Bedrock Data Automation and Amazon Bedrock Guardrails through a use cas...
+- **[Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool](https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/)** — Thu, 08 Jan 2026 16:12:15 +0000
+  Observe.ai developed the One Load Audit Framework (OLAF), which integrates with SageMaker to identify bottlenecks and performance issues in ML service...
+
+## GCP Updates
+
+- **[60 of our biggest AI announcements in 2025](https://blog.google/innovation-and-ai/products/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
+  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
+- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
+  AI agent trends report 2026 graphic
+- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
+  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
+- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products-and-platforms/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
+- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/innovation-and-ai/products/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
+
+
 # ☁️ Cloud Updates — 2026-01-08 07:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1152,48 +1181,3 @@ cryptographic modu...
   IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
 - **[IBM’s software engineering agent tops leaderboard for Java](https://research.ibm.com/blog/ibm-software-engineering-agent-tops-the-multi-swe-bench-leaderboard-for-java?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 13:00:00 GMT
   iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
-
-
-# ☁️ Cloud Updates — 2025-12-10 07:23 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions)** — Tue, 09 Dec 2025 18:00:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available ...
-- **[Amazon EC2 X8g instances now available in Europe (Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)** — Tue, 09 Dec 2025 16:00:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Europe (Stockholm) region. These instances are powered by ...
-- **[AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)** — Tue, 09 Dec 2025 15:00:00 GMT
-  <p>Today, AWS announces deal sizing capability in AWS Partner Central. This new feature, available within the APN Customer Engagements (ACE) Opportuni...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://azure.microsoft.com/updates?id=536712)** — Tue, 09 Dec 2025 13:15:11 Z
-  The Federal Information Processing Standard (FIPS) 140-2
-is a US government standard that defines minimum security requirements for
-cryptographic modu...
-- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
-  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
-- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
-  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
-  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
-- **[IBM’s software engineering agent tops leaderboard for Java](https://research.ibm.com/blog/ibm-software-engineering-agent-tops-the-multi-swe-bench-leaderboard-for-java?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 13:00:00 GMT
-  iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
-- **[Teaching LLMs how to count](https://research.ibm.com/blog/state-tracking-for-state-space-models?utm_medium=rss&utm_source=rss)** — Fri, 05 Dec 2025 12:30:00 GMT
-  In a spotlight poster at NeurIPS 2025, IBM researchers propose changing a popular LLM architecture to improve their logical reasoning capabilities.
