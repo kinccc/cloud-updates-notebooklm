@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-01-10 07:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Crossmodal search with Amazon Nova Multimodal Embeddings](https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/)** — Sat, 10 Jan 2026 00:06:16 +0000
+  In this post, we explore how Amazon Nova Multimodal Embeddings addresses the challenges of crossmodal search through a practical ecommerce use case. W...
+- **[Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/)** — Fri, 09 Jan 2026 18:09:22 +0000
+  Quantized models can be seamlessly deployed on Amazon SageMaker AI using a few lines of code. In this post, we explore why quantization matters—how it...
+- **[How Beekeeper optimized user personalization with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/)** — Fri, 09 Jan 2026 16:10:52 +0000
+  Beekeeper’s automated leaderboard approach and human feedback loop system for dynamic LLM and prompt pair selection addresses the key challenges organ...
+- **[Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions](https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/)** — Fri, 09 Jan 2026 16:06:50 +0000
+  This post, developed through a strategic scientific partnership between AWS and the Instituto de Ciência e Tecnologia Itaú (ICTi), P&amp;D hub maintai...
+- **[Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/)** — Fri, 09 Jan 2026 16:03:36 +0000
+  This post provides a detailed architectural overview of how TrueLook built its AI-powered safety monitoring system using SageMaker AI, highlighting ke...
+
+## GCP Updates
+
+- **[How Hackensack Meridian Health de-risked network migration using VPC Flow Logs](https://cloud.google.com/blog/products/networking/using-vpc-flow-logs-to-de-risk-network-migration/)** — Fri, 09 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Network administrators rely heavily on </span><a href="https://docs.c...
+- **[A smart investment: FINRA builds a culture of improvement with DORA](https://cloud.google.com/blog/topics/financial-services/finra-builds-a-culture-of-improvement-with-dora-and-devops/)** — Thu, 08 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p class="p1">FINRA, the Financial Industry Regulatory Authority, consistently seeks to achieve the highest stan...
+
+
 # ☁️ Cloud Updates — 2026-01-09 07:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1118,51 +1145,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
   The Federal Information Processing Standard (FIPS) 140-2
 is a US government standard that defines minimum security requirements for
 cryptographic modu...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
-  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
-- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
-  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
-- **[IBM’s software engineering agent tops leaderboard for Java](https://research.ibm.com/blog/ibm-software-engineering-agent-tops-the-multi-swe-bench-leaderboard-for-java?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 13:00:00 GMT
-  iSWE-Agent entries, one using a single run with a frontier model and one using inference scaling with open models, earned the top spots on Multi-SWE-B...
-
-
-# ☁️ Cloud Updates — 2025-12-11 07:24 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon ECS now supports custom container stop signals on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/)** — Wed, 10 Dec 2025 20:48:00 GMT
-  <p><a href="https://aws.amazon.com/ecs/">Amazon Elastic Container Service</a> (Amazon ECS) now supports custom container stop signals for Linux tasks ...
-- **[Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)** — Wed, 10 Dec 2025 18:00:00 GMT
-  <p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon E...
-- **[Amazon EC2 X8g instances now available in Asia Pacific (Sydney) region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/)** — Wed, 10 Dec 2025 16:00:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Asia Pacific (Sydney) region. These instances are powered ...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://azure.microsoft.com/updates?id=536712)** — Tue, 09 Dec 2025 13:15:11 Z
-  The Federal Information Processing Standard (FIPS) 140-2
-is a US government standard that defines minimum security requirements for
-cryptographic modu...
-- **[[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://azure.microsoft.com/updates?id=541410)** — Fri, 05 Dec 2025 21:45:02 Z
-  Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning stor...
-- **[[In preview] Public Preview: Mistral Large 3 in Foundry](https://azure.microsoft.com/updates?id=536937)** — Thu, 04 Dec 2025 22:30:44 Z
-  Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers ent...
 
 ## GCP Updates
 
