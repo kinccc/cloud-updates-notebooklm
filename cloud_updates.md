@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-01-12 07:27 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Google at the National Retail Federation 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/)** — Sun, 11 Jan 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Commerce_Collection_Hero.max-600x600.format-webp.webp" />Learn more about Go...
+
+
 # ☁️ Cloud Updates — 2026-01-11 07:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1047,49 +1059,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2025-12-14 07:19 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)** — Fri, 12 Dec 2025 15:00:00 GMT
-  <p><a href="https://aws.amazon.com/datasync/" target="_blank">AWS DataSync</a> Enhanced mode now supports data transfers between on-premises file serv...
-- **[AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)** — Fri, 12 Dec 2025 15:00:00 GMT
-  <p>Today, AWS Shield announces multi-account network security management and automated network analysis for network security director, which is curren...
-- **[Amazon EMR Managed Scaling is now available in 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions)** — Fri, 12 Dec 2025 15:00:00 GMT
-  <p>We are excited to announce that <a href="https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-scaling.html" target="_blank">Amazon EM...
-
-## Azure Updates
-
-- **[Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://azure.microsoft.com/updates?id=515484)** — Fri, 12 Dec 2025 11:30:27 Z
-  The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) ...
-- **[[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams](https://azure.microsoft.com/updates?id=536907)** — Thu, 11 Dec 2025 20:30:24 Z
-  You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. Thi...
-- **[[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation](https://azure.microsoft.com/updates?id=541784)** — Thu, 11 Dec 2025 18:00:36 Z
-  Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it ...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
-  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
-- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
-  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
-
-
-# ☁️ Cloud Updates — 2025-12-13 07:21 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
 
