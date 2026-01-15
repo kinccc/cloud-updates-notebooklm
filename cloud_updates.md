@@ -1,3 +1,24 @@
+# ☁️ Cloud Updates — 2026-01-15 07:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/)** — Wed, 14 Jan 2026 21:24:09 +0000
+  In this post, we explore the architecture that AutoScout24 used to build their standardized AI development framework, enabling rapid deployment of sec...
+- **[Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities](https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/)** — Wed, 14 Jan 2026 21:13:42 +0000
+  This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together...
+
+## GCP Updates
+
+- **[Palo Alto Networks automates customer intelligence document creation with agentic design](https://cloud.google.com/blog/topics/partners/palo-alto-networks-customer-intelligence-agentic-design/)** — Wed, 14 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For a global cybersecurity leader like Palo Alto Networks, a comprehe...
+- **[Vibe querying: Write SQL queries faster with Comments to SQL in BigQuery](https://cloud.google.com/blog/products/data-analytics/vibe-querying-with-comments-to-sql-in-bigquery/)** — Wed, 14 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Crafting complex SQL queries can be challenging. Often, engineers sim...
+
+
 # ☁️ Cloud Updates — 2026-01-14 07:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -992,49 +1013,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, r...
 - **[Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://azure.microsoft.com/updates?id=515484)** — Fri, 12 Dec 2025 11:30:27 Z
   The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) ...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
-  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
-- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
-  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
-
-
-# ☁️ Cloud Updates — 2025-12-16 07:23 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)** — Mon, 15 Dec 2025 18:00:00 GMT
-  <p>Amazon Connect provides two new evaluation question types to capture deeper insights on human and AI agent performance. Managers can now create que...
-- **[Amazon Elastic VMware Service (Amazon EVS) is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)** — Mon, 15 Dec 2025 18:00:00 GMT
-  <p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in all availability zones in the US West (N. California), ...
-- **[Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific (Auckland) Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-managed-service-apache-flink-aws-asia-pacific-auckland-region/)** — Mon, 15 Dec 2025 18:00:00 GMT
-  <p>Starting today, customers can use Amazon Managed Service for Apache Flink in Asia Pacific (Auckland) Region to build real-time stream processing ap...
-
-## Azure Updates
-
-- **[Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://azure.microsoft.com/updates?id=515484)** — Fri, 12 Dec 2025 11:30:27 Z
-  The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) ...
-- **[[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams](https://azure.microsoft.com/updates?id=536907)** — Thu, 11 Dec 2025 20:30:24 Z
-  You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. Thi...
-- **[[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation](https://azure.microsoft.com/updates?id=541784)** — Thu, 11 Dec 2025 18:00:36 Z
-  Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it ...
 
 ## GCP Updates
 
