@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-01-16 07:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How the Amazon AMET Payments team accelerates test case generation with Strands Agents](https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/)** — Thu, 15 Jan 2026 15:55:35 +0000
+  In this post, we explain how we overcame the limitations of single-agent AI systems through a human-centric approach, implemented structured outputs t...
+- **[Build a generative AI-powered business reporting solution with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/)** — Thu, 15 Jan 2026 15:53:15 +0000
+  This post introduces generative AI guided business reporting—with a focus on writing achievements &amp; challenges about your business—providing a sma...
+- **[Safeguard generative AI applications with Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/)** — Thu, 15 Jan 2026 15:50:54 +0000
+  In this post, we demonstrate how you can address these challenges by adding centralized safeguards to a custom multi-provider generative AI gateway us...
+- **[Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search](https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/)** — Thu, 15 Jan 2026 15:45:02 +0000
+  In this post, we describe how you can use Amazon Nova Multimodal Embeddings to retrieve specific video segments. We also review a real-world use case ...
+
+## Azure Updates
+
+- **[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)** — Thu, 15 Jan 2026 14:00:00 +0000
+  <p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimizati...
+
+## GCP Updates
+
+- **[Introducing BigQuery managed and SQL-native inference for open models](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-managed-and-sql-native-inference-for-open-models/)** — Thu, 15 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">BigQuery provides access to a variety of LLMs for text and embedding ...
+- **[Closing the Door on Net-NTLMv1: Releasing Rainbow Tables to Accelerate Protocol Deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables/)** — Thu, 15 Jan 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Nic Losby</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><h3><span style="vertical-align:...
+- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 15 Jan 2026 11:07:00 +0000
+  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">January 12 - January 16</strong></h3>
+<ul>
+<li><strong style="vert...
+
+
 # ☁️ Cloud Updates — 2026-01-15 07:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -988,46 +1024,3 @@ type bindings s...
   
 - **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
   The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
-
-
-# ☁️ Cloud Updates — 2025-12-17 07:22 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[AWS IoT Device Management Commands now supports dynamic payloads](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-device-management-commands-dynamic-payload/)** — Tue, 16 Dec 2025 20:00:00 GMT
-  <p>AWS IoT Device Management commands now supports dynamic payload functionality, enabling developers to create reusable command templates with placeh...
-- **[Amazon Connect launches additional details within real-time metric alerts](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/)** — Tue, 16 Dec 2025 18:00:00 GMT
-  <p>Amazon Connect alerts on real-time metrics now provide the specific agents, queues, flows, or routing profiles that exceeded thresholds and trigger...
-- **[AWS Direct Connect announces new location in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-direct-connect-hanoi/)** — Tue, 16 Dec 2025 17:00:00 GMT
-  <p>Today, AWS announced the opening of a new&nbsp;<a href="https://aws.amazon.com/directconnect">AWS Direct Connect</a>&nbsp;location within the CMC T...
-
-## Azure Updates
-
-- **[[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)](https://azure.microsoft.com/updates?id=537106)** — Tue, 16 Dec 2025 15:45:45 Z
-  Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate ...
-- **[[In preview] Public Preview: Azure NetApp Files advanced ransomware protection](https://azure.microsoft.com/updates?id=536699)** — Tue, 16 Dec 2025 15:45:45 Z
-  Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, r...
-- **[Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://azure.microsoft.com/updates?id=515484)** — Fri, 12 Dec 2025 11:30:27 Z
-  The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) ...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
-  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
-- **[Teams of agents can take the headaches — and potential costs — out of finding IT bugs](https://research.ibm.com/blog/project-alice-software-bugs-agents?utm_medium=rss&utm_source=rss)** — Mon, 08 Dec 2025 15:15:00 GMT
-  IBM Research’s Project ALICE is a new experimental multi-agent system that can help engineers speed up the time it takes to locate and quash software ...
