@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-01-17 07:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale](https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/)** — Fri, 16 Jan 2026 15:51:21 +0000
+  In this post, we show you how fine-tuning enabled a 33% reduction in dangerous medication errors (Amazon Pharmacy), engineering 80% human effort reduc...
+- **[How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/)** — Fri, 16 Jan 2026 15:46:36 +0000
+  Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to ...
+- **[From beginner to champion: A student’s journey through the AWS AI League ASEAN finals](https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/)** — Fri, 16 Jan 2026 15:41:55 +0000
+  The AWS AI League, launched by Amazon Web Services (AWS), expanded its reach to the Association of Southeast Asian Nations (ASEAN) last year, welcomin...
+- **[Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions](https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/)** — Fri, 16 Jan 2026 15:37:37 +0000
+  In this post, we demonstrate how to use a GitHub Actions workflow to automate the deployment of AI agents on AgentCore Runtime. This approach delivers...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: Practical guidance on building with SAIF](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-practical-guidance-building-with-saif/)** — Fri, 16 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for January 2026. Today, Tom Curry and Anton Chuvakin, from Google Cloud’...
+- **[How Palo Alto Networks built a multi tenant scalable Unified Data Platform](https://cloud.google.com/blog/topics/partners/palo-alto-networks-builds-a-multi-tenant-unified-data-platform/)** — Fri, 16 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprises across the world are processing significant amounts of da...
+- **[Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus/)** — Fri, 16 Jan 2026 10:56:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In our agent factory holiday special, </span><span style="vertical-al...
+
+## IBM Cloud Updates
+
+- **[Multi-objective optimization & the path to quantum advantage](https://research.ibm.com/blog/multi-objective-optimization?utm_medium=rss&utm_source=rss)** — Wed, 14 Jan 2026 13:30:00 GMT
+  Can quantum computers help organizations make better decisions? A new study from the Quantum Optimization Working Group charts the way forward.
+
+
 # ☁️ Cloud Updates — 2026-01-16 07:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -977,50 +1009,3 @@ type bindings s...
 - **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
   IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
 - **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2025-12-18 07:22 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)** — Wed, 17 Dec 2025 18:00:00 GMT
-  <p>Today, AWS Databases including Amazon Aurora PostgreSQL, Amazon Aurora DSQL, and Amazon DynamoDB are generally available on the Vercel Marketplace,...
-- **[Now generally available: Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances)** — Wed, 17 Dec 2025 18:00:00 GMT
-  <p>Today, AWS announces the general availability of the new Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances. These instances are pow...
-- **[Amazon WorkSpaces Applications announces additional health and performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics)** — Wed, 17 Dec 2025 18:00:00 GMT
-  <p>Today, Amazon WorkSpaces Applications announced a new set of Amazon CloudWatch metrics for monitoring the health and performance of fleets, session...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
-  Azure
-Functions triggers and bindings enable you to easily integrate event and data
-sources with function applications.   Now that SDK
-type bindings s...
-- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
-  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
-- **[[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB](https://azure.microsoft.com/updates?id=541813)** — Wed, 17 Dec 2025 18:30:05 Z
-  You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB ...
-
-## GCP Updates
-
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
-- **[How institutions worldwide used Google for Education tools in 2025](https://blog.google/outreach-initiatives/education/google-for-education-year-in-review-2025/)** — Wed, 03 Dec 2025 12:00:00 +0000
-  Icons of a folder and paperclip next to the words "2025 Year In Review" for Google for Education
-
-## IBM Cloud Updates
-
-- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
-  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-- **[IBM Granite is ranked world's most transparent model](https://research.ibm.com/blog/ibm-granite-tops-stanfords-list-as-the-worlds-most-transparent-model?utm_medium=rss&utm_source=rss)** — Tue, 09 Dec 2025 17:45:00 GMT
-  The Stanford University Foundation Model Transparency Index has ranked IBM Granite number one this year — with the highest score in the history of the...
