@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-01-21 07:29 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/)** — Tue, 20 Jan 2026 18:22:25 +0000
+  In this post, we'll guide you through building multimodal RAG applications. You'll learn how multimodal knowledge bases work, how to choose the right ...
+
+## Azure Updates
+
+- **[Multimodal reinforcement learning with agentic verifier for AI agents](https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/)** — Tue, 20 Jan 2026 17:00:00 +0000
+  <p>Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual halluci...
+
+## GCP Updates
+
+- **[Sawasdee Thailand! Google Cloud launches new region in Bangkok](https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand/)** — Wed, 21 Jan 2026 05:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">ยินดีต้อนรับสู่ Google Cloud, Thailand!</span><sp...
+- **[Elevate your applications with Firestore’s new advanced query engine](https://cloud.google.com/blog/products/data-analytics/new-firestore-query-engine-enables-pipelines/)** — Tue, 20 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A hallmark of a valuable database is how easy it is to query the data...
+- **[Getting Started with Gemini 3: Hello World with Gemini 3 Flash](https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-hello-world-with-gemini-3-flash/)** — Tue, 20 Jan 2026 09:38:00 +0000
+  <div class="block-paragraph_advanced"><p><span class="appsElementsGenerativeaiAstAnimated">The <a href="https://deepmind.google/models/gemini/" rel="n...
+
+## IBM Cloud Updates
+
+- **[Thermonat models heat with unprecedented accuracy](https://research.ibm.com/blog/from-atoms-to-chips-thermonat-models-heat-with-unprecedented-accuracy?utm_medium=rss&utm_source=rss)** — Tue, 20 Jan 2026 16:15:52 GMT
+  Heating is a major obstacle for the continued development of semiconductors, but a new machine learning tool can help.
+
+
 # ☁️ Cloud Updates — 2026-01-20 07:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -830,54 +861,6 @@ type bindings s...
   AI agent trends report 2026 graphic
 - **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
   Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
-
-## IBM Cloud Updates
-
-- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
-  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
-- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
-  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2025-12-22 07:24 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon Application Recovery Controller region switch now supports three new capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities)** — Fri, 19 Dec 2025 15:00:00 GMT
-  <p>Amazon Application Recovery Controller (ARC) Region switch allows you to orchestrate the specific steps to switch your multi-Region applications to...
-- **[AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions)** — Fri, 19 Dec 2025 15:00:00 GMT
-  <p><a href="https://aws.amazon.com/private-ca/" target="_blank">AWS Private Certificate Authority</a> (AWS Private CA) now supports Online Certificate...
-- **[Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)** — Fri, 19 Dec 2025 15:00:00 GMT
-  <p>Today, AWS announces SOCI (Seekable Open Container Initiative) indexing support for Amazon SageMaker Studio, reducing container startup times by 30...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=542813)** — Thu, 18 Dec 2025 18:45:03 Z
-  Azure Storage Mover’s new Azure Blob container-to-container
-migration feature is now in Public Preview, empowering organizations to move
-data between ...
-- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
-  Azure
-Functions triggers and bindings enable you to easily integrate event and data
-sources with function applications.   Now that SDK
-type bindings s...
-- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
-  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
-
-## GCP Updates
-
-- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
-  AI agent trends report 2026 graphic
-- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
-  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
 
 ## IBM Cloud Updates
 
