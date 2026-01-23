@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-01-23 07:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How PDI built an enterprise-grade RAG system for AI applications with AWS](https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/)** — Thu, 22 Jan 2026 17:11:47 +0000
+  PDI Technologies is a global leader in the convenience retail and petroleum wholesale industries. In this post, we walk through the PDI Intelligence Q...
+- **[How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents](https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/)** — Thu, 22 Jan 2026 17:04:04 +0000
+  In this post, we demonstrate how CLICKFORCE used AWS services to build Lumos and transform advertising industry analysis from weeks-long manual work i...
+- **[How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/)** — Wed, 21 Jan 2026 21:39:42 +0000
+  This blog post explains how TR's Platform Engineering team, a geographically distributed unit overseeing TR's service availability, boosted its operat...
+- **[Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory](https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/)** — Wed, 21 Jan 2026 19:45:04 +0000
+  In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling bench...
+- **[How bunq handles 97% of support with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/)** — Wed, 21 Jan 2026 17:50:35 +0000
+  In this post, we show how bunq upgraded Finn, its in-house generative AI assistant, using Amazon Bedrock to transform user support and banking operati...
+
+## GCP Updates
+
+- **[Scaling WideEP Mixture-of-Experts inference with Google Cloud A4X (GB200) and NVIDIA Dynamo](https://cloud.google.com/blog/products/compute/scaling-moe-inference-with-nvidia-dynamo-on-google-cloud-a4x/)** — Thu, 22 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As organizations transition from standard LLMs to </span><strong styl...
+- **[Introducing managed connection pooling in AlloyDB — scale further, connect faster](https://cloud.google.com/blog/products/databases/alloydb-managed-connection-pooling/)** — Thu, 22 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB for PostgreSQL is a fully managed database service engineered...
+- **[How Fastweb + Vodafone reimagined data workflows with Spanner & BigQuery](https://cloud.google.com/blog/products/databases/how-fastweb-vodafone-reimagined-data-workflows-with-spanner-bigquery/)** — Thu, 22 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
+- **[How Google SREs Use Gemini CLI to Solve Real-World Outages](https://cloud.google.com/blog/topics/developers-practitioners/how-google-sres-use-gemini-cli-to-solve-real-world-outages/)** — Thu, 22 Jan 2026 14:02:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">One of our favorite mottos in Google Site Reliability Engineering (SR...
+
+## IBM Cloud Updates
+
+- **[Release News: Qiskit v2.3 is here!](https://research.ibm.com/blog/qiskit-2-3-release-summary?utm_medium=rss&utm_source=rss)** — Thu, 22 Jan 2026 15:15:00 GMT
+  Qiskit SDK v2.3 is here! Read on for the latest updates and performance improvements.
+
+
 # ☁️ Cloud Updates — 2026-01-22 07:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -766,54 +802,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <p>Amazon Bedrock now supports NVIDIA Nemotron 3 Nano 30B A3B model, NVIDIA's latest breakthrough in efficient language modeling that delivers high re...
 - **[Amazon MSK expands Standard Brokers and Express Brokers to Asia Pacific (New Zealand) Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-additional-aws-region/)** — Tue, 23 Dec 2025 18:00:00 GMT
   <p>Amazon Managed Streaming for Apache Kafka (<a href="https://aws.amazon.com/msk/" style="cursor: pointer;" target="_blank">Amazon MSK</a>) is now av...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=542813)** — Thu, 18 Dec 2025 18:45:03 Z
-  Azure Storage Mover’s new Azure Blob container-to-container
-migration feature is now in Public Preview, empowering organizations to move
-data between ...
-- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
-  Azure
-Functions triggers and bindings enable you to easily integrate event and data
-sources with function applications.   Now that SDK
-type bindings s...
-- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
-  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
-
-## GCP Updates
-
-- **[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
-  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
-- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
-  AI agent trends report 2026 graphic
-- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
-  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
-
-## IBM Cloud Updates
-
-- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
-  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
-- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
-  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2025-12-24 07:24 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Oracle Database@AWS is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-available-three-additional-regions/)** — Tue, 23 Dec 2025 18:50:00 GMT
-  <p>Oracle Database@AWS is now generally available in three additional AWS Regions - US-East-2 (Ohio), EU-Central-1 (Frankfurt), and AP-Northeast-1 (To...
-- **[NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)** — Tue, 23 Dec 2025 18:11:00 GMT
-  <p>Amazon Bedrock now supports NVIDIA Nemotron 3 Nano 30B A3B model, NVIDIA's latest breakthrough in efficient language modeling that delivers high re...
-- **[Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers)** — Tue, 23 Dec 2025 18:00:00 GMT
-  <p>Amazon WorkSpaces Secure Browser now supports Web Authentication (WebAuthn) redirection, allowing users to authenticate to websites using their loc...
 
 ## Azure Updates
 
