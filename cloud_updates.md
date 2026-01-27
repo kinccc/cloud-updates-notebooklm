@@ -1,3 +1,24 @@
+# ☁️ Cloud Updates — 2026-01-27 07:28 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build a serverless AI Gateway architecture with AWS AppSync Events](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/)** — Mon, 26 Jan 2026 17:20:27 +0000
+  In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates w...
+- **[How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/)** — Mon, 26 Jan 2026 16:16:25 +0000
+  This blog post describes how Totogi automates change request processing by partnering with the AWS Generative AI Innovation Center and using the rapid...
+
+## GCP Updates
+
+- **[BigQuery AI supports Gemini 3.0, simplified embedding generation and new similarity function](https://cloud.google.com/blog/products/data-analytics/new-bigquery-gen-ai-functions-for-better-data-analysis/)** — Mon, 26 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The digital landscape is flooded with unstructured data — images, vid...
+- **[Gemini for Government: Unlocking the next wave of public sector innovation](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-unlocking-the-next-wave-of-public-sector-innovation/)** — Mon, 26 Jan 2026 14:00:00 +0000
+  <div class="block-paragraph"><p>The public sector has entered a new era of innovation, driven by the rise of intelligent agents. In this transformativ...
+
+
 # ☁️ Cloud Updates — 2026-01-26 07:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -637,54 +658,6 @@ type bindings s...
 
 
 # ☁️ Cloud Updates — 2025-12-29 07:26 UTC
-
-Automatically generated from AWS, Azure, and GCP feeds.
-
----
-
-## AWS Updates
-
-- **[Amazon Connect expands automated agent performance evaluations to 5 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/)** — Fri, 26 Dec 2025 18:00:00 GMT
-  <p>Amazon Connect now automates agent performance evaluations in Portuguese, French, Italian, German, and Spanish using generative AI. Managers define...
-- **[Oracle Database@AWS is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-available-three-additional-regions/)** — Tue, 23 Dec 2025 18:50:00 GMT
-  <p>Oracle Database@AWS is now generally available in three additional AWS Regions - US-East-2 (Ohio), EU-Central-1 (Frankfurt), and AP-Northeast-1 (To...
-- **[NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)** — Tue, 23 Dec 2025 18:11:00 GMT
-  <p>Amazon Bedrock now supports NVIDIA Nemotron 3 Nano 30B A3B model, NVIDIA's latest breakthrough in efficient language modeling that delivers high re...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://azure.microsoft.com/updates?id=542813)** — Thu, 18 Dec 2025 18:45:03 Z
-  Azure Storage Mover’s new Azure Blob container-to-container
-migration feature is now in Public Preview, empowering organizations to move
-data between ...
-- **[[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://azure.microsoft.com/updates?id=541427)** — Wed, 17 Dec 2025 18:45:01 Z
-  Azure
-Functions triggers and bindings enable you to easily integrate event and data
-sources with function applications.   Now that SDK
-type bindings s...
-- **[[Launched] Generally Avaailable: Azure SQL updates for early December 2025](https://azure.microsoft.com/updates?id=541818)** — Wed, 17 Dec 2025 18:30:05 Z
-  In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Acti...
-
-## GCP Updates
-
-- **[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
-  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
-- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
-  AI agent trends report 2026 graphic
-- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
-  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
-
-## IBM Cloud Updates
-
-- **[How community shaped IBM Quantum Developer Conference 2025](https://research.ibm.com/blog/community-qdc-2025?utm_medium=rss&utm_source=rss)** — Wed, 17 Dec 2025 15:00:00 GMT
-  Centering on the theme of "Quantum Advantage Together," QDC[25] was defined by a community working to build the future of quantum computing.
-- **[Benchmark-to-benchmark comparisons made easier](https://research.ibm.com/blog/documentation-for-LLM-benchmarks?utm_medium=rss&utm_source=rss)** — Tue, 16 Dec 2025 16:00:00 GMT
-  IBM and University of Notre Dame are open-sourcing a template and automation tool for creating LLM benchmark cards at scale.
-- **[Boost your tools: Introducing ToolOps, the tool lifecycle extension in ALTK](https://research.ibm.com/blog/toolops-altk-agents-tools?utm_medium=rss&utm_source=rss)** — Thu, 11 Dec 2025 14:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2025-12-28 07:20 UTC
 
 Automatically generated from AWS, Azure, and GCP feeds.
 
