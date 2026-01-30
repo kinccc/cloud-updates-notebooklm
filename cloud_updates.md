@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-01-30 07:40 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the AWS Digital Sovereignty Well-Architected Lens](https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/)** — Fri, 30 Jan 2026 00:10:22 +0000
+  As organizations accelerate cloud adoption, meeting digital sovereignty requirements has become essential to build trust with customers and regulators...
+- **[How Artera enhances prostate cancer diagnostics using AWS](https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/)** — Thu, 29 Jan 2026 17:06:57 +0000
+  In this post, we explore how Artera used Amazon Web Services (AWS) to develop and scale their AI-powered prostate cancer test, accelerating time to re...
+
+## GCP Updates
+
+- **[Introducing Conversational Analytics in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-conversational-analytics-in-bigquery/)** — Thu, 29 Jan 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Businesses want to move quickly and make informed decisions, but the ...
+- **[Introducing Google Cloud Vertex AI Extensions for .NET](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-vertex-ai-extensions-for-net/)** — Thu, 29 Jan 2026 15:38:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In October 2024, Microsoft </span><a href="https://devblogs.microsoft...
+- **[BigQuery AI Hackathon: Celebrating Innovation and a Look at What's New](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-ai-hackathon-celebrating-innovation-and-a-look-at-whats-new/)** — Thu, 29 Jan 2026 09:12:00 +0000
+  <div class="block-aside"><dl>
+    <dt>aside_block</dt>
+    <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;DISCLAIMER&#x27;), (&#x27;body&#...
+
+
 # ☁️ Cloud Updates — 2026-01-29 07:40 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
