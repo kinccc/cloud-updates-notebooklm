@@ -1,3 +1,24 @@
+# ☁️ Cloud Updates — 2026-02-02 07:50 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI Increased Productivity? Consider Hiring More Developers!](https://aws.amazon.com/blogs/enterprise-strategy/ai-increased-productivity-consider-hiring-more-developers/)** — Tue, 09 Dec 2025 17:19:49 +0000
+  AI-driven changes in software development are increasing the velocity of software development teams. Organizational leaders under pressure to reduce c...
+- **[The New Unit of Software Delivery: The Workflow](https://aws.amazon.com/blogs/enterprise-strategy/the-new-unit-of-software-delivery-the-workflow/)** — Tue, 25 Nov 2025 19:37:35 +0000
+  Agentic AI brings a subtle but consequential shift in how software is architected and delivered. Instead of organizing around applications or microser...
+
+## Azure Updates
+
+- **[Agent Lightning: Adding reinforcement learning to AI agents without code rewrites](https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/)** — Thu, 11 Dec 2025 17:00:00 +0000
+  <p>By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This m...
+- **[Promptions helps make AI prompting more precise with dynamic UI controls](https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/)** — Wed, 10 Dec 2025 17:00:00 +0000
+  <p>Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape ...
+
+
 # ☁️ Cloud Updates — 2026-02-01 07:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -660,25 +681,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-01-04 07:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-
-## Azure Updates
-
-
-## GCP Updates
-
-
-## IBM Cloud Updates
-
-
-
-# ☁️ Cloud Updates — 2026-01-03 07:19 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
