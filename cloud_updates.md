@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-02-03 07:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions](https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/)** — Mon, 02 Feb 2026 16:34:21 +0000
+  In this post, we illustrate how Clarus Care, a healthcare contact center solutions provider, worked with the AWS Generative AI Innovation Center (GenA...
+- **[Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/)** — Fri, 30 Jan 2026 21:07:34 +0000
+  Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) s...
+- **[Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates](https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/)** — Fri, 30 Jan 2026 17:18:57 +0000
+  This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service C...
+- **[Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models](https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/)** — Fri, 30 Jan 2026 17:12:02 +0000
+  In this post, we walk through how global cross-Region inference routes requests and where your data resides, then show you how to configure the requir...
+- **[Scaling content review operations with multi-agent workflow](https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/)** — Thu, 29 Jan 2026 23:32:14 +0000
+  The agent-based approach we present is applicable to any type of enterprise content, from product documentation and knowledge bases to marketing mater...
+
+## GCP Updates
+
+- **[10 ways to plan your 2026 budget with Gemini](https://blog.google/innovation-and-ai/products/gemini-app/gemini-budget-planning-tips/)** — Mon, 02 Feb 2026 16:00:00 +0000
+  An illustration of a person's hand interacting with a tablet displaying a Google Sheets spreadsheet, representing digital budgeting.
+
+## IBM Cloud Updates
+
+- **[A glimpse at computing’s quantum-centric future](https://research.ibm.com/blog/accelerating-qpus-with-gpus?utm_medium=rss&utm_source=rss)** — Thu, 29 Jan 2026 05:01:00 GMT
+  Researchers are already combining CPUs, GPUs, and QPUs into demonstrations of quantum-centric supercomputing
+- **[Exploring time crystals with quantum-centric supercomputers](https://research.ibm.com/blog/basq-time-crystals?utm_medium=rss&utm_source=rss)** — Wed, 28 Jan 2026 10:00:00 GMT
+  Scientists are employing the most advanced IBM quantum computers alongside classical compute to model time crystals in two dimensions.
+- **[Ponder This Challenge - February 2026 - Blot-avoiding backgammon strategy](https://research.ibm.com/blog/ponder-this-february-2026?utm_medium=rss&utm_source=rss)** — Tue, 27 Jan 2026 22:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-02-02 07:50 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -662,25 +696,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-01-05 07:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-
-## Azure Updates
-
-
-## GCP Updates
-
-
-## IBM Cloud Updates
-
-
-
-# ☁️ Cloud Updates — 2026-01-04 07:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
