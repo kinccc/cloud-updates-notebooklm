@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-02-04 07:44 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Democratizing business intelligence: BGL’s journey with Claude Agent SDK and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/democratizing-business-intelligence-bgls-journey-with-claude-agent-sdk-and-amazon-bedrock-agentcore/)** — Tue, 03 Feb 2026 20:28:29 +0000
+  BGL is a leading provider of self-managed superannuation fund (SMSF) administration solutions that help individuals manage the complex compliance and ...
+- **[Use Amazon Quick Suite custom action connectors to upload text files to Google Drive using OpenAPI specification](https://aws.amazon.com/blogs/machine-learning/use-amazon-quick-suite-custom-action-connectors-to-upload-text-files-to-google-drive-using-openapi-specification/)** — Tue, 03 Feb 2026 19:14:30 +0000
+  In this post, we demonstrate how to build a secure file upload solution by integrating Google Drive with Amazon Quick Suite custom connectors using Am...
+- **[AI agents in enterprises: Best practices with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-agents-in-enterprises-best-practices-with-amazon-bedrock-agentcore/)** — Tue, 03 Feb 2026 18:44:43 +0000
+  This post explores nine essential best practices for building enterprise AI agents using Amazon Bedrock AgentCore. Amazon Bedrock AgentCore is an agen...
+- **[Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent](https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/)** — Tue, 03 Feb 2026 16:22:19 +0000
+  On November 21, 2025, Amazon SageMaker introduced a built-in data agent within Amazon SageMaker Unified Studio that transforms large-scale data analys...
+
+## GCP Updates
+
+- **[Key insights from our inaugural survey on the ROI of AI in the public sector](https://cloud.google.com/blog/topics/public-sector/key-insights-from-our-inaugural-survey-on-the-roi-of-ai-in-the-public-sector/)** — Tue, 03 Feb 2026 14:00:00 +0000
+  <div class="block-paragraph"><p>This is a new era of innovation, and the public sector is helping lead it. After proving the value of generative AI an...
+- **[Build intelligent employee onboarding with Gemini Enterprise](https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-onboarding-agents-with-gemini-enterprise/)** — Mon, 02 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Employee onboarding is rarely a linear process.</span></p>
+<p><span s...
+- **[High-performance inference meets serverless compute with NVIDIA RTX PRO 6000 on Cloud Run](https://cloud.google.com/blog/products/serverless/cloud-run-supports-nvidia-rtx-6000-pro-gpus-for-ai-workloads/)** — Mon, 02 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Running large-scale inference models can involve significant operatio...
+- **[Introducing Single-tenant Cloud HSM to support more data encryption control](https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/)** — Mon, 02 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations that handle sensitive data in highly-regulated sectors ...
+
+
 # ☁️ Cloud Updates — 2026-02-03 07:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -693,21 +723,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-01-05 07:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-
-## Azure Updates
-
-
-## GCP Updates
-
-
-## IBM Cloud Updates
