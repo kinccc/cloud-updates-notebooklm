@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-02-05 07:50 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite](https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/)** — Wed, 04 Feb 2026 15:53:39 +0000
+  In this post, we explore how the Amazon Key team used Amazon EventBridge to modernize their architecture, transforming a tightly coupled monolithic sy...
+
+## Azure Updates
+
+- **[Paza: Introducing automatic speech recognition benchmarks and models for low resource languages](https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/)** — Thu, 05 Feb 2026 05:07:55 +0000
+  <p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 Af...
+
+## GCP Updates
+
+- **[The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/)** — Wed, 04 Feb 2026 16:55:00 +0000
+  mp4 showing a carousel of images including a card reading "Help that's made for you"
+
+
 # ☁️ Cloud Updates — 2026-02-04 07:44 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -632,94 +654,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Reflecting on a year of transformation and mission impact together](https://cloud.google.com/blog/topics/public-sector/reflecting-on-a-year-of-transformation-and-mission-impact-together/)** — Tue, 06 Jan 2026 09:00:00 +0000
   <div class="block-paragraph"><p>Looking back on the past year, I am filled with immense pride about what we've achieved together. It was a year of unp...
-
-
-# ☁️ Cloud Updates — 2026-01-06 07:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Architecting conversational observability for cloud applications](https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/)** — Thu, 11 Dec 2025 15:59:39 +0000
-  In this post, we walk through building a generative AI–powered troubleshooting assistant for Kubernetes. The goal is to give engineers a faster, self-...
-- **[How BASF’s Agriculture Solutions drives traceability and climate action by tokenizing cotton value chains using Amazon Managed Blockchain](https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/)** — Wed, 10 Dec 2025 17:41:52 +0000
-  BASF Agricultural Solutions combines innovative products and digital tools with practical farmer knowledge. This post explores how Amazon Managed Bloc...
-- **[She architects: Bringing unique perspectives to innovative solutions at AWS](https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/)** — Mon, 08 Dec 2025 16:37:15 +0000
-  Have you ever wondered what it is really like to be a woman in tech at one of the world's leading cloud companies? Or maybe you are curious about how ...
-- **[Secure Amazon Elastic VMware Service (Amazon EVS) with AWS Network Firewall](https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/)** — Wed, 26 Nov 2025 16:22:03 +0000
-  In this post, we demonstrate how to utilize AWS Network Firewall to secure an Amazon EVS environment, using a centralized inspection architecture acro...
-- **[Building an AI gateway to Amazon Bedrock with Amazon API Gateway](https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/)** — Wed, 19 Nov 2025 23:33:41 +0000
-  In this post, we'll explore a reference architecture that helps enterprises govern their Amazon Bedrock implementations using Amazon API Gateway. This...
-
-## GCP Updates
-
-- **[Supercharge your Cloud SQL for MySQL write performance with new optimized writes](https://cloud.google.com/blog/products/databases/cloud-sql-for-mysql-introduces-optimized-writes/)** — Mon, 05 Jan 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Tuning MySQL instances for write-intensive workloads is a persistent ...
-- **[Auto-ISAC and Google partner to boost automotive sector cybersecurity](https://cloud.google.com/blog/products/identity-security/auto-isac-google-partner-to-boost-automotive-sector-cybersecurity/)** — Mon, 05 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Ever since Carl Benz patented what is widely considered the first pra...
-- **[Simplify VM OS agent management at scale: Introducing VM Extensions Manager](https://cloud.google.com/blog/products/compute/introducing-vm-extensions-manager/)** — Mon, 05 Jan 2026 17:00:00 +0000
-  <div class="block-image_full_width">
-
-
-
-
-
-
-  
-    <div class="article-module h-c-page">
-      <div class="h-c-grid">
-  
-
-    <figure class="article-im...
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 26 Dec 2025 17:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[The Year in Google Cloud — 2025](https://cloud.google.com/blog/products/gcp/top-google-cloud-blogs-2025/)** — Fri, 19 Dec 2025 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the AI era, when one year can feel like 10, you’re forgiven for fo...
-
-
-# ☁️ Cloud Updates — 2026-01-06 02:09 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Measuring the Impact of AI Assistants on Software Development](https://aws.amazon.com/blogs/enterprise-strategy/measuring-the-impact-of-ai-assistants-on-software-development/)** — Wed, 29 Oct 2025 23:45:33 +0000
-  &nbsp; “The speed of typing out code has never ever been the bottleneck for software development (not since keyboards became widespread from the 60s o...
-- **[From Tools to Teammates: CTO’s Guide to Evolving Architecture for Agentic AI](https://aws.amazon.com/blogs/enterprise-strategy/from-tools-to-teammates-ctos-guide-to-evolving-architecture-for-agentic-ai/)** — Wed, 10 Sep 2025 23:46:06 +0000
-  In my previous blog, I shared how to evolve leadership for agentic AI using familiar mental models. As a CTO, I’ve been thinking about the correspondi...
-
-## Azure Updates
-
-- **[Ideas: Community building, machine learning, and the future of AI](https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/)** — Mon, 01 Dec 2025 19:18:20 +0000
-  <p>As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and H...
-- **[Reducing Privacy leaks in AI: Two approaches to contextual integrity](https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/)** — Tue, 25 Nov 2025 17:00:00 +0000
-  <p>New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time...
-
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
