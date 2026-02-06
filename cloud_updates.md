@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-02-06 07:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Convera built fine-grained API authorization with Amazon Verified Permissions](https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/)** — Thu, 05 Feb 2026 21:21:54 +0000
+  In this post, we share how Convera used Amazon Verified Permissions to build a fine-grained authorization model for their API platform.
+
+## Azure Updates
+
+- **[Rethinking imitation learning with Predictive Inverse Dynamics Models](https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/)** — Thu, 05 Feb 2026 17:00:00 +0000
+  <p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple pre...
+
+## GCP Updates
+
+- **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
+  A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
+
+
 # ☁️ Cloud Updates — 2026-02-05 07:50 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -629,28 +651,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A new advance in a two-century pursuit in physics](https://research.ibm.com/blog/a-new-advance-in-a-two-century-pursuit-in-physics?utm_medium=rss&utm_source=rss)** — Wed, 07 Jan 2026 11:00:00 GMT
   A powerful new method for characterizing semiconductor materials finds its roots in ancient mathematics.
-
-
-# ☁️ Cloud Updates — 2026-01-07 07:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow](https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/)** — Mon, 29 Dec 2025 17:29:27 +0000
-  This post shows you how to migrate your self-managed MLflow tracking server to a MLflow App – a serverless tracking server on SageMaker AI that automa...
-- **[Build an AI-powered website assistant with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/)** — Mon, 29 Dec 2025 16:42:50 +0000
-  This post demonstrates how to solve this challenge by building an AI-powered website assistant using Amazon Bedrock and Amazon Bedrock Knowledge Bases...
-- **[Programmatically creating an IDP solution with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/)** — Wed, 24 Dec 2025 17:26:00 +0000
-  In this post, we explore how to programmatically create an IDP solution that uses&nbsp;Strands SDK,&nbsp;Amazon Bedrock AgentCore,&nbsp;Amazon Bedrock...
-- **[AI agent-driven browser automation for enterprise workflow management](https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/)** — Wed, 24 Dec 2025 17:22:30 +0000
-  Enterprise organizations increasingly rely on web-based applications for critical business processes, yet many workflows remain manually intensive, cr...
-- **[Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/)** — Wed, 24 Dec 2025 17:20:16 +0000
-  In this post, we explore how agentic QA automation addresses these challenges and walk through a practical example using Amazon Bedrock AgentCore Brow...
-
-## GCP Updates
-
-- **[Reflecting on a year of transformation and mission impact together](https://cloud.google.com/blog/topics/public-sector/reflecting-on-a-year-of-transformation-and-mission-impact-together/)** — Tue, 06 Jan 2026 09:00:00 +0000
-  <div class="block-paragraph"><p>Looking back on the past year, I am filled with immense pride about what we've achieved together. It was a year of unp...
