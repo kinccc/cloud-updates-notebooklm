@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-02-08 07:39 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Your AI Coding Assistants Will Overwhelm Your Delivery Pipeline: Here’s How to Prepare](https://aws.amazon.com/blogs/enterprise-strategy/your-ai-coding-assistants-will-overwhelm-your-delivery-pipeline-heres-how-to-prepare/)** — Wed, 07 Jan 2026 22:57:04 +0000
+  “Agentic AI’s primary role in organizations is that of an amplifier. It magnifies the strengths of high-performing organizations and the dysfunctions ...
+
+## GCP Updates
+
+- **[How we cut Vertex AI latency by 35% with GKE Inference Gateway](https://cloud.google.com/blog/products/containers-kubernetes/how-gke-inference-gateway-improved-latency-for-vertex-ai/)** — Fri, 06 Feb 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As generative AI moves from experimentation to production, platform e...
+- **[Delivering a secure, open, and sovereign digital world](https://cloud.google.com/blog/products/identity-security/delivering-a-secure-open-sovereign-digital-world/)** — Fri, 06 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>The global conversation about our digital future goes beyond technology; it’s about architecting a prosperous, secure,...
+- **[Starfish Space uses Google Cloud to accelerate satellite servicing in orbit](https://cloud.google.com/blog/topics/public-sector/starfish-space-uses-google-cloud-to-accelerate-satellite-servicing-in-orbit/)** — Fri, 06 Feb 2026 14:00:00 +0000
+  <div class="block-paragraph"><p>The Defense Industrial Base (DIB) and Federal System Integrator (FSI) communities operate under intense pressure. The ...
+- **[Announcing Claude Opus 4.6 on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/expanding-vertex-ai-with-claude-opus-4-6/)** — Thu, 05 Feb 2026 18:00:00 +0000
+  <div class="block-paragraph"><p>At Google Cloud, we’re committed to providing customers with the leading selection of models to build and scale produc...
+
+## IBM Cloud Updates
+
+- **[Breaking ground on India’s quantum future](https://research.ibm.com/blog/quantum-education-india?utm_medium=rss&utm_source=rss)** — Sat, 07 Feb 2026 05:00:00 GMT
+  Construction begins on India’s Quantum Valley Tech Park as the nation grows its quantum education initiatives and prepares for its first IBM quantum c...
+
+
 # ☁️ Cloud Updates — 2026-02-07 07:32 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -643,32 +671,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Network administrators rely heavily on </span><a href="https://docs.c...
 - **[A smart investment: FINRA builds a culture of improvement with DORA](https://cloud.google.com/blog/topics/financial-services/finra-builds-a-culture-of-improvement-with-dora-and-devops/)** — Thu, 08 Jan 2026 17:00:00 +0000
   <div class="block-paragraph_advanced"><p class="p1">FINRA, the Financial Industry Regulatory Authority, consistently seeks to achieve the highest stan...
-
-
-# ☁️ Cloud Updates — 2026-01-09 07:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/)** — Thu, 08 Jan 2026 18:25:01 +0000
-  This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), in...
-- **[Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails](https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/)** — Thu, 08 Jan 2026 16:14:27 +0000
-  This post shows an automated PII detection and redaction solution using Amazon Bedrock Data Automation and Amazon Bedrock Guardrails through a use cas...
-- **[Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool](https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/)** — Thu, 08 Jan 2026 16:12:15 +0000
-  Observe.ai developed the One Load Audit Framework (OLAF), which integrates with SageMaker to identify bottlenecks and performance issues in ML service...
-
-## GCP Updates
-
-- **[60 of our biggest AI announcements in 2025](https://blog.google/innovation-and-ai/products/google-ai-news-recap-2025/)** — Mon, 22 Dec 2025 17:00:00 +0000
-  A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of ...
-- **[5 ways AI agents will transform the way we work in 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/)** — Fri, 19 Dec 2025 14:00:00 +0000
-  AI agent trends report 2026 graphic
-- **[Inside Kaggle's AI Agents intensive course with Google](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap/)** — Thu, 18 Dec 2025 16:00:00 +0000
-  Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.
-- **[Learn more about AI in the workplace in our new research report.](https://blog.google/products-and-platforms/products/workspace/gemini-ai-workplace-research-report/)** — Tue, 09 Dec 2025 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp" />A new global survey of exec...
-- **[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/innovation-and-ai/products/young-leaders-survey-ai/)** — Fri, 05 Dec 2025 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp" />Google Works...
