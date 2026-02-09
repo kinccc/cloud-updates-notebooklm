@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-02-09 07:58 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-02-08 07:39 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -644,30 +651,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
   <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
-
-
-# ☁️ Cloud Updates — 2026-01-10 07:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Crossmodal search with Amazon Nova Multimodal Embeddings](https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/)** — Sat, 10 Jan 2026 00:06:16 +0000
-  In this post, we explore how Amazon Nova Multimodal Embeddings addresses the challenges of crossmodal search through a practical ecommerce use case. W...
-- **[Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/)** — Fri, 09 Jan 2026 18:09:22 +0000
-  Quantized models can be seamlessly deployed on Amazon SageMaker AI using a few lines of code. In this post, we explore why quantization matters—how it...
-- **[How Beekeeper optimized user personalization with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/)** — Fri, 09 Jan 2026 16:10:52 +0000
-  Beekeeper’s automated leaderboard approach and human feedback loop system for dynamic LLM and prompt pair selection addresses the key challenges organ...
-- **[Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions](https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/)** — Fri, 09 Jan 2026 16:06:50 +0000
-  This post, developed through a strategic scientific partnership between AWS and the Instituto de Ciência e Tecnologia Itaú (ICTi), P&amp;D hub maintai...
-- **[Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/)** — Fri, 09 Jan 2026 16:03:36 +0000
-  This post provides a detailed architectural overview of how TrueLook built its AI-powered safety monitoring system using SageMaker AI, highlighting ke...
-
-## GCP Updates
-
-- **[How Hackensack Meridian Health de-risked network migration using VPC Flow Logs](https://cloud.google.com/blog/products/networking/using-vpc-flow-logs-to-de-risk-network-migration/)** — Fri, 09 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Network administrators rely heavily on </span><a href="https://docs.c...
-- **[A smart investment: FINRA builds a culture of improvement with DORA](https://cloud.google.com/blog/topics/financial-services/finra-builds-a-culture-of-improvement-with-dora-and-devops/)** — Thu, 08 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p class="p1">FINRA, the Financial Industry Regulatory Authority, consistently seeks to achieve the highest stan...
