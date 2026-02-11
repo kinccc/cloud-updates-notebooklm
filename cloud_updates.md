@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-02-11 07:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers](https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/)** — Tue, 10 Feb 2026 18:34:09 +0000
+  In this post, we discuss how&nbsp;Amazon Nova&nbsp;in&nbsp;Amazon Bedrock&nbsp;can be used to implement an AI-powered image recognition solution that ...
+- **[Iberdrola enhances IT operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/)** — Tue, 10 Feb 2026 18:31:57 +0000
+  Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Thr...
+- **[Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures](https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/)** — Tue, 10 Feb 2026 18:29:05 +0000
+  Amazon Nova Sonic&nbsp;delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how A...
+
+## GCP Updates
+
+- **[Google Distributed Cloud brings public-cloud-like networking to air-gapped environments](https://cloud.google.com/blog/products/networking/google-distributed-cloud-gdc-air-gapped-1-15-networking/)** — Tue, 10 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations in highly regulated industries often struggle to balanc...
+- **[Gemini Enterprise Agent Ready (GEAR) program now available, a new path to building AI agents at scale](https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available/)** — Tue, 10 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s reality is agentic – software that can reason, plan, and act ...
+
+## IBM Cloud Updates
+
+- **[IBM wins a NASA Group Achievement Award](https://research.ibm.com/blog/nasa-award-ibm-foundation-model?utm_medium=rss&utm_source=rss)** — Mon, 09 Feb 2026 13:00:00 GMT
+  IBM and NASA's AI foundation models are changing how scientific data is represented and transformed into new knowledge.
+
+
 # ☁️ Cloud Updates — 2026-02-10 07:58 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -659,15 +687,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Amine Ismail, Anirudha Kanodia</p>
 <hr /></div>
 <div class="block-paragraph_advanced"><h3><span s...
-
-
-# ☁️ Cloud Updates — 2026-01-12 07:27 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Google at the National Retail Federation 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/)** — Sun, 11 Jan 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Commerce_Collection_Hero.max-600x600.format-webp.webp" />Learn more about Go...
