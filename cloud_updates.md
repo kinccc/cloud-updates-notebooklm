@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-02-12 07:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/)** — Wed, 11 Feb 2026 19:38:47 +0000
+  Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with &nbsp;3B active parameters is now generally available in the Amazon Sag...
+- **[Mastering Amazon Bedrock throttling and service availability: A comprehensive guide](https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/)** — Wed, 11 Feb 2026 15:52:54 +0000
+  This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Ama...
+- **[Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/)** — Wed, 11 Feb 2026 15:48:15 +0000
+  This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection...
+- **[How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/)** — Wed, 11 Feb 2026 15:45:30 +0000
+  LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflow...
+
+## GCP Updates
+
+- **[Google at the National Retail Federation 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/)** — Sun, 11 Jan 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Commerce_Collection_Hero.max-600x600.format-webp.webp" />Learn more about Go...
+
+## IBM Cloud Updates
+
+- **[Qiskit Functions updates accelerate quantum research](https://research.ibm.com/blog/functions-2026?utm_medium=rss&utm_source=rss)** — Wed, 11 Feb 2026 05:00:00 GMT
+  New tools, resources, & capabilities for large‑scale experiments.
+
+
 # ☁️ Cloud Updates — 2026-02-11 07:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -668,22 +696,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents are moving from test environments to the core of enterprise...
 - **[New Google Public Sector research shows that nearly 90% of federal agencies are already using AI](https://cloud.google.com/blog/topics/public-sector/new-google-public-sector-research-shows-that-nearly-90-of-federal-agencies-are-already-using-ai/)** — Tue, 13 Jan 2026 14:00:00 +0000
   <div class="block-paragraph"><p>Across the federal landscape, the scale and complexity of agency missions demand constant focus. As public servants co...
-
-
-# ☁️ Cloud Updates — 2026-01-13 07:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters](https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/)** — Mon, 12 Jan 2026 20:03:32 +0000
-  This blog post examines how Salesforce, operating one of the world's largest Kubernetes deployments, successfully migrated from Cluster Autoscaler to ...
-
-## GCP Updates
-
-- **[AuraInspector: Auditing Salesforce Aura for Data Exposure](https://cloud.google.com/blog/topics/threat-intelligence/auditing-salesforce-aura-data-exposure/)** — Mon, 12 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Amine Ismail, Anirudha Kanodia</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><h3><span s...
