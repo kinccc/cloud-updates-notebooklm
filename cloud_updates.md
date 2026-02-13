@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-02-13 07:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
+  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
+
+## GCP Updates
+
+- **[Our new report details the latest ways threat actors are misusing AI.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)** — Thu, 12 Feb 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ...
+
+
 # ☁️ Cloud Updates — 2026-02-12 07:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -675,24 +692,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For a global cybersecurity leader like Palo Alto Networks, a comprehe...
 - **[Vibe querying: Write SQL queries faster with Comments to SQL in BigQuery](https://cloud.google.com/blog/products/data-analytics/vibe-querying-with-comments-to-sql-in-bigquery/)** — Wed, 14 Jan 2026 17:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Crafting complex SQL queries can be challenging. Often, engineers sim...
-
-
-# ☁️ Cloud Updates — 2026-01-14 07:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Securing Amazon Bedrock cross-Region inference: Geographic and global](https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/)** — Tue, 13 Jan 2026 23:13:18 +0000
-  In this post, we explore the security considerations and best practices for implementing Amazon Bedrock cross-Region inference profiles. Whether you'r...
-- **[How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/)** — Mon, 12 Jan 2026 16:56:12 +0000
-  This post is co-written with Sunaina Kavi, AI/ML Product Manager at Omada Health. Omada Health, a longtime innovator in virtual healthcare delivery, l...
-
-## GCP Updates
-
-- **[A gRPC transport for the Model Context Protocol](https://cloud.google.com/blog/products/networking/grpc-as-a-native-transport-for-mcp/)** — Tue, 13 Jan 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents are moving from test environments to the core of enterprise...
-- **[New Google Public Sector research shows that nearly 90% of federal agencies are already using AI](https://cloud.google.com/blog/topics/public-sector/new-google-public-sector-research-shows-that-nearly-90-of-federal-agencies-are-already-using-ai/)** — Tue, 13 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph"><p>Across the federal landscape, the scale and complexity of agency missions demand constant focus. As public servants co...
