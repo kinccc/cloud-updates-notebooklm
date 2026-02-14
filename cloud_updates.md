@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-02-14 07:34 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser](https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/)** — Fri, 13 Feb 2026 22:57:34 +0000
+  Today, we are announcing three new capabilities that address these requirements: proxy configuration, browser profiles, and browser extensions. Togeth...
+- **[AI meets HR: Transforming talent acquisition with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/)** — Thu, 12 Feb 2026 20:18:58 +0000
+  In this post, we show how to create an AI-powered recruitment system using Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda, and other AWS s...
+- **[Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration](https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/)** — Thu, 12 Feb 2026 20:16:20 +0000
+  In this post, we provide you with a comprehensive approach to achieve this. First, we introduce a context message strategy that maintains continuous c...
+
+## GCP Updates
+
+- **[Simpler billing, clearer savings: A FinOps guide to updated spend-based CUDs](https://cloud.google.com/blog/topics/cost-management/a-finops-professionals-guide-to-updated-spend-based-cuds/)** — Thu, 12 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Optimizing cloud spend is one of the most rewarding aspects of FinOps...
+- **[GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/)** — Thu, 12 Feb 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span></h3>
+<p><span style="vertical-align: baseline;">...
+- **[Build financial resilience with AI-powered tabletop exercises on Google Cloud](https://cloud.google.com/blog/topics/financial-services/improve-financial-resilience-with-google-cloud/)** — Wed, 11 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the financial sector, resilience isn't optional. Recent cloud outa...
+- **[Mastering Model Adaptation: A Guide to Fine-Tuning on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud/)** — Wed, 11 Feb 2026 09:13:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you are </span><a href="https://cloud.google.com/blog/topics/devel...
+- **[7 Technical Takeaways from Using Gemini to Generate Code Samples at Scale](https://cloud.google.com/blog/topics/developers-practitioners/7-technical-takeaways-from-using-gemini-to-generate-code-samples-at-scale/)** — Wed, 11 Feb 2026 08:36:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Using Generative AI to write code is a well-known task, but relying o...
+
+## IBM Cloud Updates
+
+- **[IBM Granite has earned a reputation for transparency](https://research.ibm.com/blog/granite-ethical-ai?utm_medium=rss&utm_source=rss)** — Fri, 13 Feb 2026 14:00:00 GMT
+  We explore what that means in the context of how Granite was made.
+
+
 # ☁️ Cloud Updates — 2026-02-13 07:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -671,24 +706,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">January 12 - January 16</strong></h3>
 <ul>
 <li><strong style="vert...
-
-
-# ☁️ Cloud Updates — 2026-01-15 07:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/)** — Wed, 14 Jan 2026 21:24:09 +0000
-  In this post, we explore the architecture that AutoScout24 used to build their standardized AI development framework, enabling rapid deployment of sec...
-- **[Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities](https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/)** — Wed, 14 Jan 2026 21:13:42 +0000
-  This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together...
-
-## GCP Updates
-
-- **[Palo Alto Networks automates customer intelligence document creation with agentic design](https://cloud.google.com/blog/topics/partners/palo-alto-networks-customer-intelligence-agentic-design/)** — Wed, 14 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For a global cybersecurity leader like Palo Alto Networks, a comprehe...
-- **[Vibe querying: Write SQL queries faster with Comments to SQL in BigQuery](https://cloud.google.com/blog/products/data-analytics/vibe-querying-with-comments-to-sql-in-bigquery/)** — Wed, 14 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Crafting complex SQL queries can be challenging. Often, engineers sim...
