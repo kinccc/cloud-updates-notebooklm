@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-02-15 07:38 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
+  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
+
+
 # ☁️ Cloud Updates — 2026-02-14 07:34 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -670,39 +682,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Multi-objective optimization & the path to quantum advantage](https://research.ibm.com/blog/multi-objective-optimization?utm_medium=rss&utm_source=rss)** — Wed, 14 Jan 2026 13:30:00 GMT
   Can quantum computers help organizations make better decisions? A new study from the Quantum Optimization Working Group charts the way forward.
-
-
-# ☁️ Cloud Updates — 2026-01-16 07:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How the Amazon AMET Payments team accelerates test case generation with Strands Agents](https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/)** — Thu, 15 Jan 2026 15:55:35 +0000
-  In this post, we explain how we overcame the limitations of single-agent AI systems through a human-centric approach, implemented structured outputs t...
-- **[Build a generative AI-powered business reporting solution with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/)** — Thu, 15 Jan 2026 15:53:15 +0000
-  This post introduces generative AI guided business reporting—with a focus on writing achievements &amp; challenges about your business—providing a sma...
-- **[Safeguard generative AI applications with Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/)** — Thu, 15 Jan 2026 15:50:54 +0000
-  In this post, we demonstrate how you can address these challenges by adding centralized safeguards to a custom multi-provider generative AI gateway us...
-- **[Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search](https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/)** — Thu, 15 Jan 2026 15:45:02 +0000
-  In this post, we describe how you can use Amazon Nova Multimodal Embeddings to retrieve specific video segments. We also review a real-world use case ...
-
-## Azure Updates
-
-- **[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)** — Thu, 15 Jan 2026 14:00:00 +0000
-  <p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimizati...
-
-## GCP Updates
-
-- **[Introducing BigQuery managed and SQL-native inference for open models](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-managed-and-sql-native-inference-for-open-models/)** — Thu, 15 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">BigQuery provides access to a variety of LLMs for text and embedding ...
-- **[Closing the Door on Net-NTLMv1: Releasing Rainbow Tables to Accelerate Protocol Deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables/)** — Thu, 15 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Nic Losby</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><h3><span style="vertical-align:...
-- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 15 Jan 2026 11:07:00 +0000
-  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">January 12 - January 16</strong></h3>
-<ul>
-<li><strong style="vert...
