@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-02-16 07:54 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## Azure Updates
+
+- **[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)** — Thu, 15 Jan 2026 14:00:00 +0000
+  <p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimizati...
+
+
 # ☁️ Cloud Updates — 2026-02-15 07:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -649,36 +661,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-01-17 07:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale](https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/)** — Fri, 16 Jan 2026 15:51:21 +0000
-  In this post, we show you how fine-tuning enabled a 33% reduction in dangerous medication errors (Amazon Pharmacy), engineering 80% human effort reduc...
-- **[How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/)** — Fri, 16 Jan 2026 15:46:36 +0000
-  Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to ...
-- **[From beginner to champion: A student’s journey through the AWS AI League ASEAN finals](https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/)** — Fri, 16 Jan 2026 15:41:55 +0000
-  The AWS AI League, launched by Amazon Web Services (AWS), expanded its reach to the Association of Southeast Asian Nations (ASEAN) last year, welcomin...
-- **[Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions](https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/)** — Fri, 16 Jan 2026 15:37:37 +0000
-  In this post, we demonstrate how to use a GitHub Actions workflow to automate the deployment of AI agents on AgentCore Runtime. This approach delivers...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: Practical guidance on building with SAIF](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-practical-guidance-building-with-saif/)** — Fri, 16 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for January 2026. Today, Tom Curry and Anton Chuvakin, from Google Cloud’...
-- **[How Palo Alto Networks built a multi tenant scalable Unified Data Platform](https://cloud.google.com/blog/topics/partners/palo-alto-networks-builds-a-multi-tenant-unified-data-platform/)** — Fri, 16 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprises across the world are processing significant amounts of da...
-- **[Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus/)** — Fri, 16 Jan 2026 10:56:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In our agent factory holiday special, </span><span style="vertical-al...
-
-## IBM Cloud Updates
-
-- **[Multi-objective optimization & the path to quantum advantage](https://research.ibm.com/blog/multi-objective-optimization?utm_medium=rss&utm_source=rss)** — Wed, 14 Jan 2026 13:30:00 GMT
-  Can quantum computers help organizations make better decisions? A new study from the Quantum Optimization Working Group charts the way forward.
