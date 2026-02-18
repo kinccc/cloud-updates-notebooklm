@@ -1,3 +1,19 @@
+# ☁️ Cloud Updates — 2026-02-18 07:50 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[New BigQuery global queries let you explore distributed data with a single SQL statement](https://cloud.google.com/blog/products/data-analytics/new-global-queries-in-bigquery-span-data-from-multiple-regions/)** — Tue, 17 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a global economy, data is generated and stored all over the world....
+- **[From BRICKSTORM to GRIMBOLT: UNC6201 Exploiting a Dell RecoverPoint for Virtual Machines Zero-Day](https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/)** — Tue, 17 Feb 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece</...
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 13 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+
+
 # ☁️ Cloud Updates — 2026-02-17 07:51 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -651,13 +667,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-01-20 07:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-01-19 07:29 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
