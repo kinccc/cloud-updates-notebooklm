@@ -1,3 +1,44 @@
+# ☁️ Cloud Updates — 2026-02-20 07:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build AI workflows on Amazon EKS with Union.ai and Flyte](https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/)** — Thu, 19 Feb 2026 16:28:21 +0000
+  In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables...
+- **[Amazon Quick now supports key pair authentication to Snowflake data source](https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/)** — Thu, 19 Feb 2026 16:06:41 +0000
+  In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair au...
+- **[Build unified intelligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/)** — Wed, 18 Feb 2026 23:54:29 +0000
+  In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Cus...
+- **[Evaluating AI agents: Real-world lessons from building agentic systems at Amazon](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/)** — Wed, 18 Feb 2026 19:21:28 +0000
+  In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications a...
+
+## Azure Updates
+
+- **[Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)** — Thu, 19 Feb 2026 16:00:51 +0000
+  <p>As synthetic media grows, verifying what’s real, and the origin of content, matters more than ever. Our latest report explores media integrity and ...
+
+## GCP Updates
+
+- **[Using Google Cloud AI to measure the physics of U.S. freestyle snowboarding and skiing](https://cloud.google.com/blog/products/ai-machine-learning/measure-physics-of-freestyle-snowboarding-and-skiing/)** — Thu, 19 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>Nearly every snowboard trick carries a number. A 1080 means three full rotations. A 1440 means four. The convention is...
+- **[Building a conversational agent in BigQuery using the Conversational Analytics API](https://cloud.google.com/blog/products/data-analytics/build-data-agents-with-conversational-analytics-api/)** — Thu, 19 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Bringing data into BigQuery centralizes your information, but the rea...
+- **[Simplify your AI workflow with autonomous embedding generation in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-autonomous-embedding-generation/)** — Thu, 19 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the world of generative AI and Retrieval-Augmented Generation (RAG...
+- **[Decommission your legacy Apache Cassandra stack and build for the future with Spanner](https://cloud.google.com/blog/products/databases/cassandra-query-language-cql-apis-on-spanner/)** — Thu, 19 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">An increasing number of customers are migrating to </span><a href="ht...
+- **[Sovereignty and European competitiveness: A partnership-led approach to AI growth](https://cloud.google.com/blog/products/identity-security/sovereignty-and-european-competitiveness-a-partnership-led-approach-to-ai-growth/)** — Thu, 19 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In our conversations with business and policy leaders across Europe, ...
+
+## IBM Cloud Updates
+
+- **[RIKEN and IBM demonstrate quantum-centric supercomputing](https://research.ibm.com/blog/riken-fugaku-qcsc?utm_medium=rss&utm_source=rss)** — Wed, 18 Feb 2026 15:30:00 GMT
+  A quantum computer and classical supercomputer worked in a closed loop to solve a quantum chemistry problem with very high accuracy.
+
+
 # ☁️ Cloud Updates — 2026-02-19 07:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -668,34 +709,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Meet the IBM researchers trying to make LLMs smarter](https://research.ibm.com/blog/interview-with-mellea-lead-engineers?utm_medium=rss&utm_source=rss)** — Wed, 21 Jan 2026 13:00:00 GMT
   The tech leads behind IBM’s new software library, Mellea, explain how it works and why giving language models explicit requirements can improve reliab...
-
-
-# ☁️ Cloud Updates — 2026-01-21 07:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/)** — Tue, 20 Jan 2026 18:22:25 +0000
-  In this post, we'll guide you through building multimodal RAG applications. You'll learn how multimodal knowledge bases work, how to choose the right ...
-
-## Azure Updates
-
-- **[Multimodal reinforcement learning with agentic verifier for AI agents](https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/)** — Tue, 20 Jan 2026 17:00:00 +0000
-  <p>Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual halluci...
-
-## GCP Updates
-
-- **[Sawasdee Thailand! Google Cloud launches new region in Bangkok](https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand/)** — Wed, 21 Jan 2026 05:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">ยินดีต้อนรับสู่ Google Cloud, Thailand!</span><sp...
-- **[Elevate your applications with Firestore’s new advanced query engine](https://cloud.google.com/blog/products/data-analytics/new-firestore-query-engine-enables-pipelines/)** — Tue, 20 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A hallmark of a valuable database is how easy it is to query the data...
-- **[Getting Started with Gemini 3: Hello World with Gemini 3 Flash](https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-hello-world-with-gemini-3-flash/)** — Tue, 20 Jan 2026 09:38:00 +0000
-  <div class="block-paragraph_advanced"><p><span class="appsElementsGenerativeaiAstAnimated">The <a href="https://deepmind.google/models/gemini/" rel="n...
-
-## IBM Cloud Updates
-
-- **[Thermonat models heat with unprecedented accuracy](https://research.ibm.com/blog/from-atoms-to-chips-thermonat-models-heat-with-unprecedented-accuracy?utm_medium=rss&utm_source=rss)** — Tue, 20 Jan 2026 16:15:52 GMT
-  Heating is a major obstacle for the continued development of semiconductors, but a new machine learning tool can help.
