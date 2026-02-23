@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-02-23 07:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-02-22 07:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -656,24 +663,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Can quantum computers model nature’s most turbulent systems?](https://research.ibm.com/blog/differential-equations?utm_medium=rss&utm_source=rss)** — Fri, 23 Jan 2026 15:00:00 GMT
   New work from IBM highlights potential quantum speedups for differential equations
-
-
-# ☁️ Cloud Updates — 2026-01-24 07:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/)** — Fri, 23 Jan 2026 17:54:02 +0000
-  Amazon Bedrock AgentCore services are now being supported by various IaC frameworks such as AWS Cloud Development Kit (AWS CDK), Terraform and AWS Clo...
-- **[How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/)** — Fri, 23 Jan 2026 17:49:37 +0000
-  In this post, we demonstrate how the Amazon Catalog Team built a self-learning system that continuously improves accuracy while reducing costs at scal...
-
-## GCP Updates
-
-- **[Monitoring Google ADK agentic applications with Datadog LLM Observability](https://cloud.google.com/blog/products/management-tools/datadog-integrates-agent-development-kit-or-adk/)** — Fri, 23 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google’s </span><a href="https://google.github.io/adk-docs/" rel="noo...
-- **[Improving workflow orchestration with Apache Airflow 3.1 in Cloud Composer](https://cloud.google.com/blog/products/data-analytics/cloud-composer-supports-apache-airflow-31/)** — Fri, 23 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a world of fragmented data stacks, you need workflow orchestration...
