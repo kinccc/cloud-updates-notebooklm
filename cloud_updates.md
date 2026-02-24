@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-02-24 07:51 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scaling data annotation using vision-language models to power physical AI systems](https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/)** — Mon, 23 Feb 2026 23:20:37 +0000
+  In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Ge...
+- **[How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials](https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/)** — Mon, 23 Feb 2026 17:31:45 +0000
+  In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that a...
+- **[Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/)** — Mon, 23 Feb 2026 17:29:11 +0000
+  In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art...
+- **[Agentic AI with multi-model framework using Hugging Face smolagents on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/)** — Mon, 23 Feb 2026 15:47:06 +0000
+  Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We wil...
+
+## GCP Updates
+
+- **[Firefly: Illuminating the path to nanosecond-level clock sync in the data center](https://cloud.google.com/blog/products/networking/understanding-the-firefly-clock-synchronization-protocol/)** — Mon, 23 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">From the high-frequency trading floors of Wall Street to orchestratin...
+
+## IBM Cloud Updates
+
+- **[IBM demonstrates High NA EUV process capability on track for insertion below 2 nm nodes at SPIE 2026](https://research.ibm.com/blog/spie-2026-below-2-nm?utm_medium=rss&utm_source=rss)** — Mon, 23 Feb 2026 14:00:00 GMT
+  
+- **[Quantum Advantage Tracker: the race to advantage](https://research.ibm.com/blog/quantum-advantage-tracker?utm_medium=rss&utm_source=rss)** — Mon, 23 Feb 2026 05:00:00 GMT
+  Leading quantum and classical methods are neck‑and‑neck in ways the research community never expected to see so soon. An open community effort tracks ...
+
+
 # ☁️ Cloud Updates — 2026-02-23 07:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -650,16 +680,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-01-25 07:22 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## IBM Cloud Updates
-
-- **[Can quantum computers model nature’s most turbulent systems?](https://research.ibm.com/blog/differential-equations?utm_medium=rss&utm_source=rss)** — Fri, 23 Jan 2026 15:00:00 GMT
-  New work from IBM highlights potential quantum speedups for differential equations
