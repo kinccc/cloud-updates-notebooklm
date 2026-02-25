@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-02-25 07:51 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/)** — Tue, 24 Feb 2026 18:22:26 +0000
+  In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekogn...
+- **[Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs](https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/)** — Tue, 24 Feb 2026 15:46:50 +0000
+  In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy ...
+- **[Generate structured output from LLMs with Dottxt Outlines in AWS](https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/)** — Tue, 24 Feb 2026 15:42:34 +0000
+  This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace ...
+- **[Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/)** — Tue, 24 Feb 2026 15:38:22 +0000
+  In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a...
+- **[Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/)** — Tue, 24 Feb 2026 15:33:51 +0000
+  We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5...
+
+
 # ☁️ Cloud Updates — 2026-02-24 07:51 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -674,9 +694,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The digital landscape is flooded with unstructured data — images, vid...
 - **[Gemini for Government: Unlocking the next wave of public sector innovation](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-unlocking-the-next-wave-of-public-sector-innovation/)** — Mon, 26 Jan 2026 14:00:00 +0000
   <div class="block-paragraph"><p>The public sector has entered a new era of innovation, driven by the rise of intelligent agents. In this transformativ...
-
-
-# ☁️ Cloud Updates — 2026-01-26 07:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
