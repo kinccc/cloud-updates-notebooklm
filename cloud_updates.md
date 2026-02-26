@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-02-26 07:51 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[6,000 AWS accounts, three people, one platform: Lessons learned](https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/)** — Wed, 25 Feb 2026 19:47:07 +0000
+  This post describes why ProGlove chose a account-per-tenant approach for our serverless SaaS architecture and how it changes the operational model. It...
+
+## GCP Updates
+
+- **[A developer's guide to production-ready AI agents](https://cloud.google.com/blog/products/ai-machine-learning/a-devs-guide-to-production-ready-ai-agents/)** — Wed, 25 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Something has shifted in the developer community over the past year. ...
+- **[Exposing the Undercurrent: Disrupting the GRIDTIDE Global Cyber Espionage Campaign](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/)** — Wed, 25 Feb 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3 style="text-align: justify;"><span style="vertical-align: baseline;">Introduction</span></h3>
+<p><span style...
+
+
 # ☁️ Cloud Updates — 2026-02-25 07:51 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -673,24 +693,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[What’s new at IBM Quantum - Q4](https://research.ibm.com/blog/whats-new-q4-2025?utm_medium=rss&utm_source=rss)** — Mon, 26 Jan 2026 13:00:00 GMT
   Explore the latest updates, releases, and resources from IBM Quantum and Qiskit.
-
-
-# ☁️ Cloud Updates — 2026-01-27 07:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build a serverless AI Gateway architecture with AWS AppSync Events](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/)** — Mon, 26 Jan 2026 17:20:27 +0000
-  In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates w...
-- **[How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/)** — Mon, 26 Jan 2026 16:16:25 +0000
-  This blog post describes how Totogi automates change request processing by partnering with the AWS Generative AI Innovation Center and using the rapid...
-
-## GCP Updates
-
-- **[BigQuery AI supports Gemini 3.0, simplified embedding generation and new similarity function](https://cloud.google.com/blog/products/data-analytics/new-bigquery-gen-ai-functions-for-better-data-analysis/)** — Mon, 26 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The digital landscape is flooded with unstructured data — images, vid...
-- **[Gemini for Government: Unlocking the next wave of public sector innovation](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-unlocking-the-next-wave-of-public-sector-innovation/)** — Mon, 26 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph"><p>The public sector has entered a new era of innovation, driven by the rise of intelligent agents. In this transformativ...
