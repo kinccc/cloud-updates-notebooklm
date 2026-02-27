@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-02-27 07:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure](https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/)** — Thu, 26 Feb 2026 17:54:12 +0000
+  Santander faced a significant technical challenge in managing an infrastructure that processes billions of daily transactions across more than 200 cri...
+
+## Azure Updates
+
+- **[CORPGEN advances AI agents for real work](https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/)** — Thu, 26 Feb 2026 17:06:34 +0000
+  <p>By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all inter...
+
+## GCP Updates
+
+- **[Cool stuff Google Cloud customers built, Feb. edition: Team USA tech; telco data reinvention; Golden State’s “G.O.A.T.T.”](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)** — Thu, 26 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">AI and cloud technology are reshaping every corne...
+- **[PayPal's historically large data migration is the foundation for its gen AI innovation](https://cloud.google.com/blog/products/databases/paypals-historic-data-migration-is-the-foundation-for-its-gen-ai-innovation/)** — Thu, 26 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">With the dawn of the gen AI era, businesses are facing unprecedented ...
+- **[Serving data from Iceberg lakehouses fast and fresh with Spanner columnar engine](https://cloud.google.com/blog/products/databases/spanner-columnar-engine-in-preview/)** — Thu, 26 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The divide between data in operational databases and analytical data ...
+- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 26 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;"><span style="vertical-align: baseline;"><span style="vertical-align:...
+- **[Pro-level image generation gets faster and more accessible with Nano Banana 2](https://cloud.google.com/blog/products/ai-machine-learning/bringing-nano-banana-2-to-enterprise/)** — Thu, 26 Feb 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re entering a new and vibrant era of generative creativity ...
+
+
 # ☁️ Cloud Updates — 2026-02-26 07:51 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -658,38 +688,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 <p><span style="vertical-align: baseline;"...
 - **[Future Mode Part 1: The intelligent and secure browser for enterprises](https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-1-the-intelligent-and-secure-browser-for-enterprises/)** — Wed, 28 Jan 2026 07:49:00 +0000
   <div class="block-paragraph"><p><i>Editor's Note: Our Future Mode series will give businesses insight into how Chrome Enterprise is approaching AI in ...
-
-
-# ☁️ Cloud Updates — 2026-01-28 07:27 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation](https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/)** — Tue, 27 Jan 2026 17:39:57 +0000
-  In this post, we walk you through Pushpay's journey in building this solution and explore how Pushpay used&nbsp;Amazon Bedrock to create a custom gene...
-- **[Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/)** — Tue, 27 Jan 2026 16:28:16 +0000
-  This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solu...
-
-## Azure Updates
-
-- **[UniRG: Scaling medical imaging report generation with multimodal reinforcement learning](https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/)** — Tue, 27 Jan 2026 17:00:00 +0000
-  <p>AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning...
-
-## GCP Updates
-
-- **[What's new with ML infrastructure for Dataflow](https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-streaming-and-ml-workloads/)** — Tue, 27 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The world of artificial intelligence is moving at lightning speed. At...
-- **[Unlock 2x better price-performance with Axion-based N4A VMs, now generally available](https://cloud.google.com/blog/products/compute/axion-based-n4a-vms-now-in-preview/)** — Tue, 27 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">January 27, 2026: </strong><span style="vertical-align: baseline;">...
-- **[Diverse Threat Actors Exploiting Critical WinRAR Vulnerability CVE-2025-8088](https://cloud.google.com/blog/topics/threat-intelligence/exploiting-critical-winrar-vulnerability/)** — Tue, 27 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
-- **[Flutter on Cloud Run: Full Stack Dart Architecture](https://cloud.google.com/blog/topics/developers-practitioners/flutter-on-cloud-run-full-stack-dart-architecture/)** — Tue, 27 Jan 2026 08:49:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://flutter.dev" rel="noopener" target="_blank"><span style="text-decoration: underline; vertica...
-
-## IBM Cloud Updates
-
-- **[What’s new at IBM Quantum - Q4](https://research.ibm.com/blog/whats-new-q4-2025?utm_medium=rss&utm_source=rss)** — Mon, 26 Jan 2026 13:00:00 GMT
-  Explore the latest updates, releases, and resources from IBM Quantum and Qiskit.
