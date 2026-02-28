@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-02-28 07:27 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
+  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
+
+## GCP Updates
+
+- **[From "Vibe Checks" to Continuous Evaluation: Engineering Reliable AI Agents](https://cloud.google.com/blog/topics/developers-practitioners/from-vibe-checks-to-continuous-evaluation-engineering-reliable-ai-agents/)** — Fri, 27 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I live through the same story with every single AI agent. After weeks...
+- **[Centralized policy meets distributed logic: Getting to know Eventarc Advanced](https://cloud.google.com/blog/products/application-modernization/getting-to-know-eventarc-advanced/)** — Fri, 27 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise architects often face a fundamental dilemma: choosing betw...
+- **[Cloud CISO Perspectives: How Google approaches critical security topics, from fundamentals to AI](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-approaches-critical-security-topics-fundamentals-to-ai/)** — Fri, 27 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for February 2026. Today, Royal Hansen, vice-president, Engineering, exp...
+- **[Give your agentic chatbots a fast and reliable long-term memory](https://cloud.google.com/blog/topics/developers-practitioners/improve-chatbot-memory-using-google-cloud/)** — Fri, 27 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">When scaling conversational agents, the ...
+- **[Turn your API sprawl into an agent-ready catalog](https://cloud.google.com/blog/products/api-management/combat-api-sprawl-using-apigee-api-hub/)** — Fri, 27 Feb 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In modern cloud architectures, APIs are the fundamental building bloc...
+
+
 # ☁️ Cloud Updates — 2026-02-27 07:47 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -669,22 +696,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-aside"><dl>
     <dt>aside_block</dt>
     <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;DISCLAIMER&#x27;), (&#x27;body&#...
-
-
-# ☁️ Cloud Updates — 2026-01-29 07:40 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Accelerate GKE cluster autoscaling with faster concurrent node pool auto-creation](https://cloud.google.com/blog/products/containers-kubernetes/faster-gke-node-pool-auto-creation/)** — Wed, 28 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We're excited to announce concurrency in Google Kubernetes Engine (GK...
-- **[Spanner in 2025: Innovations powering intelligent, multi-model AI applications](https://cloud.google.com/blog/products/databases/spanner-in-2025/)** — Wed, 28 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For over a decade now, Google has relied on Spanner, an always-on, vi...
-- **[No Place Like Home Network: Disrupting the World's Largest Residential Proxy Network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network/)** — Wed, 28 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction </span></h3>
-<p><span style="vertical-align: baseline;"...
-- **[Future Mode Part 1: The intelligent and secure browser for enterprises](https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-1-the-intelligent-and-secure-browser-for-enterprises/)** — Wed, 28 Jan 2026 07:49:00 +0000
-  <div class="block-paragraph"><p><i>Editor's Note: Our Future Mode series will give businesses insight into how Chrome Enterprise is approaching AI in ...
