@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-03-01 07:33 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Learnings from COBOL modernization in the real world](https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/)** — Thu, 26 Feb 2026 18:16:43 +0000
+  Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and ...
+- **[Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/)** — Thu, 26 Feb 2026 17:48:37 +0000
+  In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through e...
+- **[Large model inference container – latest capabilities and performance enhancements](https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/)** — Thu, 26 Feb 2026 17:45:59 +0000
+  AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded mo...
+- **[Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/)** — Wed, 25 Feb 2026 20:56:13 +0000
+  In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations ...
+- **[Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/)** — Wed, 25 Feb 2026 19:51:08 +0000
+  This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intel...
+
+## GCP Updates
+
+- **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-02-27T16:42:13+00:00
+  <p> Incident began at <strong>2026-02-27 04:36</strong> and ended at <strong>2026-02-27 06:45</strong> <span>(all times are <strong>US/Pacific</strong...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - March 2026 - Path game on a hole-riddled chessboard](https://research.ibm.com/blog/ponder-this-march-2026?utm_medium=rss&utm_source=rss)** — Sat, 28 Feb 2026 22:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-02-28 07:27 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -671,28 +701,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Here’s how we disrupted a massive, malicious proxy network.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ipidea-disrupted/)** — Fri, 30 Jan 2026 16:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" />Learn more about...
-
-
-# ☁️ Cloud Updates — 2026-01-30 07:40 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Announcing the AWS Digital Sovereignty Well-Architected Lens](https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/)** — Fri, 30 Jan 2026 00:10:22 +0000
-  As organizations accelerate cloud adoption, meeting digital sovereignty requirements has become essential to build trust with customers and regulators...
-- **[How Artera enhances prostate cancer diagnostics using AWS](https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/)** — Thu, 29 Jan 2026 17:06:57 +0000
-  In this post, we explore how Artera used Amazon Web Services (AWS) to develop and scale their AI-powered prostate cancer test, accelerating time to re...
-
-## GCP Updates
-
-- **[Introducing Conversational Analytics in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-conversational-analytics-in-bigquery/)** — Thu, 29 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Businesses want to move quickly and make informed decisions, but the ...
-- **[Introducing Google Cloud Vertex AI Extensions for .NET](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-vertex-ai-extensions-for-net/)** — Thu, 29 Jan 2026 15:38:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In October 2024, Microsoft </span><a href="https://devblogs.microsoft...
-- **[BigQuery AI Hackathon: Celebrating Innovation and a Look at What's New](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-ai-hackathon-celebrating-innovation-and-a-look-at-whats-new/)** — Thu, 29 Jan 2026 09:12:00 +0000
-  <div class="block-aside"><dl>
-    <dt>aside_block</dt>
-    <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;DISCLAIMER&#x27;), (&#x27;body&#...
