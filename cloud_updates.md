@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-03-02 07:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-03-01 07:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -684,20 +691,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 <p><span style="vertical-align: baseline;">...
 - **[Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft](https://cloud.google.com/blog/topics/threat-intelligence/expansion-shinyhunters-saas-data-theft/)** — Fri, 30 Jan 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
-
-
-# ☁️ Cloud Updates — 2026-01-31 07:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
-  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
-
-## GCP Updates
-
-- **[Here’s how we disrupted a massive, malicious proxy network.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ipidea-disrupted/)** — Fri, 30 Jan 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" />Learn more about...
