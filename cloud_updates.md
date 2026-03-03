@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-03 07:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
+  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
+
+## GCP Updates
+
+- **[Here’s how we disrupted a massive, malicious proxy network.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ipidea-disrupted/)** — Fri, 30 Jan 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" />Learn more about...
+
+
 # ☁️ Cloud Updates — 2026-03-02 07:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -667,27 +684,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <p>By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This m...
 - **[Promptions helps make AI prompting more precise with dynamic UI controls](https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/)** — Wed, 10 Dec 2025 17:00:00 +0000
   <p>Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape ...
-
-
-# ☁️ Cloud Updates — 2026-02-01 07:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Sovereign failover – Design for digital sovereignty using the AWS European Sovereign Cloud](https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/)** — Fri, 30 Jan 2026 19:09:35 +0000
-  This post explores the architectural patterns, challenges, and best practices for building cross-partition failover, covering network connectivity, au...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: 5 top CISO priorities in 2026](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-5-top-ciso-priorities-in-2026/)** — Fri, 30 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for January 2026. Today, Taylor Lehmann, director of healthcare and life...
-- **[What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)** — Fri, 30 Jan 2026 17:00:00 +0000
-  <div class="block-paragraph"><p><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap...
-- **[Guidance from the Frontlines: Proactive Defense Against ShinyHunters-Branded Data Theft Targeting SaaS](https://cloud.google.com/blog/topics/threat-intelligence/defense-against-shinyhunters-cybercrime-saas/)** — Fri, 30 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span></h3>
-<p><span style="vertical-align: baseline;">...
-- **[Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft](https://cloud.google.com/blog/topics/threat-intelligence/expansion-shinyhunters-saas-data-theft/)** — Fri, 30 Jan 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
