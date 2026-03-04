@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-03-04 07:38 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework](https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/)** — Tue, 03 Mar 2026 16:08:00 +0000
+  In this post, we discuss how following the AWS Cloud Adoption Framework (AWS CAF) and AWS Well-Architected Framework can help reduce these risks throu...
+
+## Azure Updates
+
+- **[Trailer: The Shape of Things to Come](https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/)** — Tue, 03 Mar 2026 13:00:18 +0000
+  <p>Microsoft research lead Doug Burger introduces his new podcast series, "The Shape of Things to Come", an exploration into the fundamental truths ab...
+
+## GCP Updates
+
+- **[Data Strategy = AI Strategy Series: Transforming Developers into AI Architects with Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/data-strategy-ai-strategy-series-transforming-developers-into-ai-architects-with-google-cloud/)** — Tue, 03 Mar 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">Your agent is only as good as your data grounding.</strong><span st...
+- **[Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/)** — Tue, 03 Mar 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
+- **[Announcing the MCP Toolbox Java SDK](https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-mcp-toolbox-java-sdk/)** — Tue, 03 Mar 2026 09:29:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Engineering teams are moving beyond simple chatbots to build agentic ...
+- **[From network APIs to network AI agents — building the agentic future of connectivity with Nokia](https://cloud.google.com/blog/topics/telecommunications/integrating-nokia-network-as-code-nac-platform/)** — Tue, 03 Mar 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The telecommunications industry is entering its most significant shif...
+- **[Designing private network connectivity for RAG-capable gen AI apps](https://cloud.google.com/blog/products/networking/design-private-connectivity-for-rag-ai-apps/)** — Mon, 02 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The flexibility of Google Cloud allows enterprises to build secure an...
+
+## IBM Cloud Updates
+
+- **[TerraStackAI: Bringing Earth and space AI to Red Hat and the world](https://research.ibm.com/blog/terrastackai?utm_medium=rss&utm_source=rss)** — Tue, 03 Mar 2026 15:00:00 GMT
+  This is a companion piece to the Red Hat blog announcing enterprises can now serve Earth and space AI models on Red Hat AI Inference Server.
+
+
 # ☁️ Cloud Updates — 2026-03-03 07:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -662,25 +697,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[Exploring time crystals with quantum-centric supercomputers](https://research.ibm.com/blog/basq-time-crystals?utm_medium=rss&utm_source=rss)** — Wed, 28 Jan 2026 10:00:00 GMT
   Scientists are employing the most advanced IBM quantum computers alongside classical compute to model time crystals in two dimensions.
 - **[Ponder This Challenge - February 2026 - Blot-avoiding backgammon strategy](https://research.ibm.com/blog/ponder-this-february-2026?utm_medium=rss&utm_source=rss)** — Tue, 27 Jan 2026 22:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-02-02 07:50 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI Increased Productivity? Consider Hiring More Developers!](https://aws.amazon.com/blogs/enterprise-strategy/ai-increased-productivity-consider-hiring-more-developers/)** — Tue, 09 Dec 2025 17:19:49 +0000
-  AI-driven changes in software development are increasing the velocity of software development teams. Organizational leaders under pressure to reduce c...
-- **[The New Unit of Software Delivery: The Workflow](https://aws.amazon.com/blogs/enterprise-strategy/the-new-unit-of-software-delivery-the-workflow/)** — Tue, 25 Nov 2025 19:37:35 +0000
-  Agentic AI brings a subtle but consequential shift in how software is architected and delivered. Instead of organizing around applications or microser...
-
-## Azure Updates
-
-- **[Agent Lightning: Adding reinforcement learning to AI agents without code rewrites](https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/)** — Thu, 11 Dec 2025 17:00:00 +0000
-  <p>By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This m...
-- **[Promptions helps make AI prompting more precise with dynamic UI controls](https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/)** — Wed, 10 Dec 2025 17:00:00 +0000
-  <p>Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape ...
