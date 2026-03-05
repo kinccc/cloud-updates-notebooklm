@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-03-05 07:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Embed Amazon Quick Suite chat agents in enterprise applications](https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/)** — Wed, 04 Mar 2026 21:20:58 +0000
+  Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authenticati...
+- **[Unlock powerful call center analytics with Amazon Nova foundation models](https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/)** — Wed, 04 Mar 2026 21:16:59 +0000
+  In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevan...
+- **[How Ricoh built a scalable intelligent document processing solution on AWS](https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/)** — Wed, 04 Mar 2026 20:42:45 +0000
+  This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP ...
+- **[Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1](https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/)** — Tue, 03 Mar 2026 16:23:30 +0000
+  In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to h...
+- **[How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/)** — Tue, 03 Mar 2026 16:18:30 +0000
+  This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they imp...
+
+## Azure Updates
+
+- **[Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)** — Wed, 04 Mar 2026 18:05:57 +0000
+  <p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft F...
+
+## GCP Updates
+
+- **[Small models, high quality: Inside BMW Group’s experiments evaluating domain-specific language models](https://cloud.google.com/blog/topics/manufacturing/how-bmw-is-testing-slms-not-llms-for-in-vehicle-voice-commands/)** — Wed, 04 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A car you can talk to has been a longstanding dream, whether as the b...
+- **[H4D VMs, now GA, deliver exceptional performance and scaling for HPC workloads](https://cloud.google.com/blog/products/compute/h4d-vms-now-ga/)** — Wed, 04 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re announcing  the </span><strong style="vertical-align: ba...
+- **[The AI-native core: Highly resilient telco architecture using Google Kubernetes Engine](https://cloud.google.com/blog/products/networking/gke-for-telco-building-a-highly-resilient-ai-native-core/)** — Wed, 04 Mar 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">The telecommunications industry has reac...
+- **[The rise of the autonomous network: How GraphML is redefining telecom operations](https://cloud.google.com/blog/topics/telecommunications/graphml-and-digital-twins-enable-autonomous-networks/)** — Wed, 04 Mar 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The complexity of modern telecommunications is exploding. Communicati...
+- **[Scaling the autonomous network: Introducing the Data Steward and Core Network Agents](https://cloud.google.com/blog/topics/telecommunications/new-agents-for-the-autonomous-network-operations-framework/)** — Wed, 04 Mar 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Last year, Google Cloud unveiled the </span><a href="https://cloud.go...
+
+## IBM Cloud Updates
+
+- **[A look back at the International Year of Quantum](https://research.ibm.com/blog/international-year-of-quantum?utm_medium=rss&utm_source=rss)** — Wed, 04 Mar 2026 05:00:00 GMT
+  Celebrating the International Year of Quantum and the global community shaping what comes next.
+
+
 # ☁️ Cloud Updates — 2026-03-04 07:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -664,36 +707,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Running large-scale inference models can involve significant operatio...
 - **[Introducing Single-tenant Cloud HSM to support more data encryption control](https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control/)** — Mon, 02 Feb 2026 17:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations that handle sensitive data in highly-regulated sectors ...
-
-
-# ☁️ Cloud Updates — 2026-02-03 07:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions](https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/)** — Mon, 02 Feb 2026 16:34:21 +0000
-  In this post, we illustrate how Clarus Care, a healthcare contact center solutions provider, worked with the AWS Generative AI Innovation Center (GenA...
-- **[Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/)** — Fri, 30 Jan 2026 21:07:34 +0000
-  Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) s...
-- **[Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates](https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/)** — Fri, 30 Jan 2026 17:18:57 +0000
-  This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service C...
-- **[Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models](https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/)** — Fri, 30 Jan 2026 17:12:02 +0000
-  In this post, we walk through how global cross-Region inference routes requests and where your data resides, then show you how to configure the requir...
-- **[Scaling content review operations with multi-agent workflow](https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/)** — Thu, 29 Jan 2026 23:32:14 +0000
-  The agent-based approach we present is applicable to any type of enterprise content, from product documentation and knowledge bases to marketing mater...
-
-## GCP Updates
-
-- **[10 ways to plan your 2026 budget with Gemini](https://blog.google/innovation-and-ai/products/gemini-app/gemini-budget-planning-tips/)** — Mon, 02 Feb 2026 16:00:00 +0000
-  An illustration of a person's hand interacting with a tablet displaying a Google Sheets spreadsheet, representing digital budgeting.
-
-## IBM Cloud Updates
-
-- **[A glimpse at computing’s quantum-centric future](https://research.ibm.com/blog/accelerating-qpus-with-gpus?utm_medium=rss&utm_source=rss)** — Thu, 29 Jan 2026 05:01:00 GMT
-  Researchers are already combining CPUs, GPUs, and QPUs into demonstrations of quantum-centric supercomputing
-- **[Exploring time crystals with quantum-centric supercomputers](https://research.ibm.com/blog/basq-time-crystals?utm_medium=rss&utm_source=rss)** — Wed, 28 Jan 2026 10:00:00 GMT
-  Scientists are employing the most advanced IBM quantum computers alongside classical compute to model time crystals in two dimensions.
-- **[Ponder This Challenge - February 2026 - Blot-avoiding backgammon strategy](https://research.ibm.com/blog/ponder-this-february-2026?utm_medium=rss&utm_source=rss)** — Tue, 27 Jan 2026 22:00:00 GMT
