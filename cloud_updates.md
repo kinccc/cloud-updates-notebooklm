@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-03-07 07:29 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Calling all devs: Build the future of Multimodal AI in the Gemini Live Agent Challenge](https://cloud.google.com/blog/topics/training-certifications/join-the-gemini-live-agent-challenge/)** — Fri, 06 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Hey builders! Stop typing, and start interacting! We are moving beyon...
+- **[Proactive Preparation and Hardening Against Destructive Attacks: 2026 Edition](https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/)** — Fri, 06 Mar 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Matthew McWhirt, Bhavesh Dhake, Emilio Oropeza, Gautam Krishnan, Stuart Carrera, Greg Blaum, Mich...
+- **[Grow your own way: Introducing native support for custom metrics in GKE](https://cloud.google.com/blog/products/containers-kubernetes/gke-now-supports-custom-metrics-natively/)** — Thu, 05 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When platform engineers, AI Infrastructure leads and developers think...
+- **[The ultimate Nano Banana prompting guide](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana/)** — Thu, 05 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Creating precise, high-quality images often involves endless trial an...
+- **[Make security simpler: Introducing the Google Cloud recommended security checklist](https://cloud.google.com/blog/products/identity-security/introducing-the-google-cloud-recommended-security-checklist/)** — Thu, 05 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A secure foundation is essential for tech innovation. As organization...
+
+
 # ☁️ Cloud Updates — 2026-03-06 07:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -681,25 +701,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
   A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
-
-
-# ☁️ Cloud Updates — 2026-02-05 07:50 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite](https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/)** — Wed, 04 Feb 2026 15:53:39 +0000
-  In this post, we explore how the Amazon Key team used Amazon EventBridge to modernize their architecture, transforming a tightly coupled monolithic sy...
-
-## Azure Updates
-
-- **[Paza: Introducing automatic speech recognition benchmarks and models for low resource languages](https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/)** — Thu, 05 Feb 2026 05:07:55 +0000
-  <p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 Af...
-
-## GCP Updates
-
-- **[The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/)** — Wed, 04 Feb 2026 16:55:00 +0000
-  mp4 showing a carousel of images including a card reading "Help that's made for you"
