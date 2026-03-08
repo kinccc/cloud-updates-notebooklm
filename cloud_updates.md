@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-03-08 07:31 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite](https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/)** — Wed, 04 Feb 2026 15:53:39 +0000
+  In this post, we explore how the Amazon Key team used Amazon EventBridge to modernize their architecture, transforming a tightly coupled monolithic sy...
+
+## GCP Updates
+
+- **[The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/)** — Wed, 04 Feb 2026 16:55:00 +0000
+  mp4 showing a carousel of images including a card reading "Help that's made for you"
+
+## IBM Cloud Updates
+
+- **[Building PyTorch-native support for the IBM Spyre Accelerator](https://research.ibm.com/blog/pytorch-support-ibm-spyre?utm_medium=rss&utm_source=rss)** — Fri, 06 Mar 2026 12:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-03-07 07:29 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -679,25 +701,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-02-06 07:47 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Convera built fine-grained API authorization with Amazon Verified Permissions](https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/)** — Thu, 05 Feb 2026 21:21:54 +0000
-  In this post, we share how Convera used Amazon Verified Permissions to build a fine-grained authorization model for their API platform.
-
-## Azure Updates
-
-- **[Rethinking imitation learning with Predictive Inverse Dynamics Models](https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/)** — Thu, 05 Feb 2026 17:00:00 +0000
-  <p>This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple pre...
-
-## GCP Updates
-
-- **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
-  A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
