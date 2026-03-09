@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-09 07:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Convera built fine-grained API authorization with Amazon Verified Permissions](https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/)** — Thu, 05 Feb 2026 21:21:54 +0000
+  In this post, we share how Convera used Amazon Verified Permissions to build a fine-grained authorization model for their API platform.
+
+## GCP Updates
+
+- **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
+  A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
+
+
 # ☁️ Cloud Updates — 2026-03-08 07:31 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -656,48 +673,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Breaking ground on India’s quantum future](https://research.ibm.com/blog/quantum-education-india?utm_medium=rss&utm_source=rss)** — Sat, 07 Feb 2026 05:00:00 GMT
   Construction begins on India’s Quantum Valley Tech Park as the nation grows its quantum education initiatives and prepares for its first IBM quantum c...
-
-
-# ☁️ Cloud Updates — 2026-02-07 07:32 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Structured outputs on Amazon Bedrock: Schema-compliant AI responses](https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/)** — Fri, 06 Feb 2026 20:12:14 +0000
-  Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses fr...
-- **[Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/)** — Fri, 06 Feb 2026 19:27:45 +0000
-  In this post, we demonstrate how to use the CLI and the SDK to create and manage SageMaker HyperPod clusters in your AWS account. We walk through a pr...
-- **[Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)](https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/)** — Fri, 06 Feb 2026 16:29:45 +0000
-  In this post, we explore the Amazon Nova rubric-based judge feature: what a rubric-based judge is, how the judge is trained, what metrics to consider,...
-- **[How Associa transforms document classification with the GenAI IDP Accelerator and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-associa-transforms-document-classification-with-the-genai-idp-accelerator-and-amazon-bedrock/)** — Thu, 05 Feb 2026 20:41:52 +0000
-  Associa collaborated with the AWS Generative AI Innovation Center to build a generative AI-powered document classification system aligning with Associ...
-- **[A practical guide to Amazon Nova Multimodal Embeddings](https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/)** — Thu, 05 Feb 2026 20:35:34 +0000
-  In this post, you will learn how to configure and use Amazon Nova Multimodal Embeddings for media asset search systems, product discovery experiences,...
-
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
