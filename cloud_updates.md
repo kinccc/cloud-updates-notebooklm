@@ -1,3 +1,42 @@
+# ☁️ Cloud Updates — 2026-03-10 07:41 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/)** — Mon, 09 Mar 2026 20:48:46 +0000
+  We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our ...
+- **[Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/)** — Mon, 09 Mar 2026 20:44:13 +0000
+  In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the ca...
+
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-03-09 07:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -644,32 +683,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-02-08 07:39 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Your AI Coding Assistants Will Overwhelm Your Delivery Pipeline: Here’s How to Prepare](https://aws.amazon.com/blogs/enterprise-strategy/your-ai-coding-assistants-will-overwhelm-your-delivery-pipeline-heres-how-to-prepare/)** — Wed, 07 Jan 2026 22:57:04 +0000
-  “Agentic AI’s primary role in organizations is that of an amplifier. It magnifies the strengths of high-performing organizations and the dysfunctions ...
-
-## GCP Updates
-
-- **[How we cut Vertex AI latency by 35% with GKE Inference Gateway](https://cloud.google.com/blog/products/containers-kubernetes/how-gke-inference-gateway-improved-latency-for-vertex-ai/)** — Fri, 06 Feb 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As generative AI moves from experimentation to production, platform e...
-- **[Delivering a secure, open, and sovereign digital world](https://cloud.google.com/blog/products/identity-security/delivering-a-secure-open-sovereign-digital-world/)** — Fri, 06 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>The global conversation about our digital future goes beyond technology; it’s about architecting a prosperous, secure,...
-- **[Starfish Space uses Google Cloud to accelerate satellite servicing in orbit](https://cloud.google.com/blog/topics/public-sector/starfish-space-uses-google-cloud-to-accelerate-satellite-servicing-in-orbit/)** — Fri, 06 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph"><p>The Defense Industrial Base (DIB) and Federal System Integrator (FSI) communities operate under intense pressure. The ...
-- **[Announcing Claude Opus 4.6 on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/expanding-vertex-ai-with-claude-opus-4-6/)** — Thu, 05 Feb 2026 18:00:00 +0000
-  <div class="block-paragraph"><p>At Google Cloud, we’re committed to providing customers with the leading selection of models to build and scale produc...
-
-## IBM Cloud Updates
-
-- **[Breaking ground on India’s quantum future](https://research.ibm.com/blog/quantum-education-india?utm_medium=rss&utm_source=rss)** — Sat, 07 Feb 2026 05:00:00 GMT
-  Construction begins on India’s Quantum Valley Tech Park as the nation grows its quantum education initiatives and prepares for its first IBM quantum c...
