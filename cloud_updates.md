@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-03-11 07:44 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/)** — Tue, 10 Mar 2026 15:42:16 +0000
+  In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts i...
+
+## Azure Updates
+
+- **[From raw interaction to reusable knowledge: Rethinking memory for AI agents](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/)** — Tue, 10 Mar 2026 16:00:41 +0000
+  <p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with ir...
+
+## GCP Updates
+
+- **[Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/)** — Tue, 10 Mar 2026 13:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp" />Today we ann...
+- **[New ways to create faster with Gemini in Docs, Sheets, Slides and Drive](https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/)** — Tue, 10 Mar 2026 13:00:00 +0000
+  YouTube video still with text in the middle saying 'Google Workspace with Gemini' surrounded by Workspace product icons and feature names
+
+## IBM Cloud Updates
+
+- **[How IBM is working today to secure communication from tomorrow’s quantum risks](https://research.ibm.com/blog/signal-threema-quantum-safe?utm_medium=rss&utm_source=rss)** — Mon, 09 Mar 2026 13:00:00 GMT
+  Cryptography researchers at IBM are working with researchers at secure messaging services Signal and Threema to help defend against future quantum com...
+
+
 # ☁️ Cloud Updates — 2026-03-10 07:41 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -677,9 +706,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: <span style="vertical-align: baseline;">Ross Inman, Adrian Hernandez</span></p>
 <hr /></div>
 <div...
-
-
-# ☁️ Cloud Updates — 2026-02-09 07:58 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
