@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-12 07:46 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Operationalizing Agentic AI Part 1: A Stakeholder’s Guide](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/)** — Wed, 11 Mar 2026 20:52:23 +0000
+  The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In ...
+
+## GCP Updates
+
+- **[Google completes acquisition of Wiz](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/)** — Wed, 11 Mar 2026 12:32:00 +0000
+  Today, we announced we've closed the acquisition of Wiz.
+
+
 # ☁️ Cloud Updates — 2026-03-11 07:44 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -674,35 +691,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM wins a NASA Group Achievement Award](https://research.ibm.com/blog/nasa-award-ibm-foundation-model?utm_medium=rss&utm_source=rss)** — Mon, 09 Feb 2026 13:00:00 GMT
   IBM and NASA's AI foundation models are changing how scientific data is represented and transformed into new knowledge.
-
-
-# ☁️ Cloud Updates — 2026-02-10 07:58 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Automated Reasoning checks rewriting chatbot reference implementation](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/)** — Mon, 09 Feb 2026 19:34:05 +0000
-  This blog post dives deeper into the implementation architecture for the Automated Reasoning checks rewriting chatbot.
-- **[Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/)** — Mon, 09 Feb 2026 16:48:46 +0000
-  In this post, we show how this integrated approach transforms enterprise LLM fine-tuning from a complex, resource-intensive challenge into a streamlin...
-- **[New Relic transforms productivity with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/)** — Mon, 09 Feb 2026 16:45:16 +0000
-  Working with the Generative AI Innovation Center, New Relic NOVA (New Relic Omnipresence Virtual Assistant) evolved from a knowledge assistant into a ...
-- **[Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/)** — Mon, 09 Feb 2026 16:40:58 +0000
-  In this post, you will learn how to deploy Fullstack AgentCore Solution Template (FAST) to your Amazon Web Services (AWS) account, understand its arch...
-- **[Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems](https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/)** — Mon, 09 Feb 2026 16:00:28 +0000
-  This post walks through how agent-to-agent collaboration on Amazon Bedrock works in practice, using Amazon Nova 2 Lite for planning and Amazon Nova Ac...
-
-## GCP Updates
-
-- **[Beyond the Battlefield: Threats to the Defense Industrial Base](https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-industrial-base/)** — Tue, 10 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction </span></h3>
-<p><span style="vertical-align: baseline;"...
-- **[OTLP everywhere: Cloud Monitoring now supports OpenTelemetry Protocol metrics](https://cloud.google.com/blog/products/management-tools/otlp-opentelemetry-protocol-for-google-cloud-monitoring-metrics/)** — Mon, 09 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As part of our commitment to open standards, Google Cloud is deeply i...
-- **[UNC1069 Targets Cryptocurrency Sector with New Tooling and AI-Enabled Social Engineering](https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering/)** — Mon, 09 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: <span style="vertical-align: baseline;">Ross Inman, Adrian Hernandez</span></p>
-<hr /></div>
-<div...
