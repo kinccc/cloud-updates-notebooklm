@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-03-13 07:45 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption](https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/)** — Thu, 12 Mar 2026 21:20:17 +0000
+  Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how ...
+- **[Secure AI agents with Policy in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/)** — Thu, 12 Mar 2026 21:16:50 +0000
+  In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the ...
+- **[Multimodal embeddings at scale: AI data lake for media and entertainment workloads](https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/)** — Thu, 12 Mar 2026 15:59:35 +0000
+  This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amaz...
+- **[Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation](https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/)** — Thu, 12 Mar 2026 15:57:22 +0000
+  In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2...
+
+## Azure Updates
+
+- **[Systematic debugging for AI agents: Introducing the AgentRx framework](https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/)** — Thu, 12 Mar 2026 16:38:45 +0000
+  <p>As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and exec...
+
+## GCP Updates
+
+- **[Secure Browsing, Powered by Peers: Join the New Chrome Enterprise Community](https://cloud.google.com/blog/products/chrome-enterprise/secure-browsing-powered-by-peers-join-the-new-chrome-enterprise-community/)** — Fri, 13 Mar 2026 15:15:00 +0000
+  <div class="block-paragraph"><p>We’re excited to announce a new online platform for the <a href="https://www.androidenterprise.community/p/chrome-ente...
+- **[Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors](https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/)** — Thu, 12 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building applications powered by Large Language Models (LLMs) on Vert...
+- **[Why context is the missing link in AI data security](https://cloud.google.com/blog/products/identity-security/why-context-is-the-missing-link-in-ai-data-security/)** — Thu, 12 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI is fundamentally driven by data. It is used to train and tune mode...
+- **[Welcoming Wiz to Google Cloud: Redefining security for the AI era](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz/)** — Wed, 11 Mar 2026 12:30:00 +0000
+  <div class="block-paragraph"><p>Google’s security-first mindset comes from more than two decades of building some of the largest and most secure compu...
+- **[Cloud CISO Perspectives: New Threat Horizons report highlights current cloud threats](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-report-highlights-current-cloud-threats/)** — Tue, 10 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for March 2026. Today, Bob Mechler and Crystal Lister, from Google Cloud’...
+
+## IBM Cloud Updates
+
+- **[Unveiling the first reference architecture for quantum-centric supercomputing](https://research.ibm.com/blog/quantum-centric-supercomputing-system-reference-architecture?utm_medium=rss&utm_source=rss)** — Thu, 12 Mar 2026 10:00:00 GMT
+  
+- **[Realizing Feynman’s vision for the future of simulation](https://research.ibm.com/blog/qcsc-reference-architecture?utm_medium=rss&utm_source=rss)** — Thu, 12 Mar 2026 04:00:00 GMT
+  A reference architecture for quantum-centric supercomputing is extending useful quantum to HPC centers.
+
+
 # ☁️ Cloud Updates — 2026-03-12 07:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -663,31 +706,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Qiskit Functions updates accelerate quantum research](https://research.ibm.com/blog/functions-2026?utm_medium=rss&utm_source=rss)** — Wed, 11 Feb 2026 05:00:00 GMT
   New tools, resources, & capabilities for large‑scale experiments.
-
-
-# ☁️ Cloud Updates — 2026-02-11 07:55 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers](https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/)** — Tue, 10 Feb 2026 18:34:09 +0000
-  In this post, we discuss how&nbsp;Amazon Nova&nbsp;in&nbsp;Amazon Bedrock&nbsp;can be used to implement an AI-powered image recognition solution that ...
-- **[Iberdrola enhances IT operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/)** — Tue, 10 Feb 2026 18:31:57 +0000
-  Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Thr...
-- **[Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures](https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/)** — Tue, 10 Feb 2026 18:29:05 +0000
-  Amazon Nova Sonic&nbsp;delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how A...
-
-## GCP Updates
-
-- **[Google Distributed Cloud brings public-cloud-like networking to air-gapped environments](https://cloud.google.com/blog/products/networking/google-distributed-cloud-gdc-air-gapped-1-15-networking/)** — Tue, 10 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations in highly regulated industries often struggle to balanc...
-- **[Gemini Enterprise Agent Ready (GEAR) program now available, a new path to building AI agents at scale](https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available/)** — Tue, 10 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s reality is agentic – software that can reason, plan, and act ...
-
-## IBM Cloud Updates
-
-- **[IBM wins a NASA Group Achievement Award](https://research.ibm.com/blog/nasa-award-ibm-foundation-model?utm_medium=rss&utm_source=rss)** — Mon, 09 Feb 2026 13:00:00 GMT
-  IBM and NASA's AI foundation models are changing how scientific data is represented and transformed into new knowledge.
