@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-14 07:35 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM](https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/)** — Fri, 13 Mar 2026 19:27:04 +0000
+  In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained ...
+
+## GCP Updates
+
+- **[Simplify your Cloud Run security with Identity Aware Proxy (IAP)](https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/)** — Fri, 13 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/run?e=48754805&amp;hl=en"><span style="text-decoration: underline; vertical...
+
+
 # ☁️ Cloud Updates — 2026-03-13 07:45 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -678,31 +695,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Our new report details the latest ways threat actors are misusing AI.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)** — Thu, 12 Feb 2026 16:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ...
-
-
-# ☁️ Cloud Updates — 2026-02-12 07:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/)** — Wed, 11 Feb 2026 19:38:47 +0000
-  Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with &nbsp;3B active parameters is now generally available in the Amazon Sag...
-- **[Mastering Amazon Bedrock throttling and service availability: A comprehensive guide](https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/)** — Wed, 11 Feb 2026 15:52:54 +0000
-  This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Ama...
-- **[Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/)** — Wed, 11 Feb 2026 15:48:15 +0000
-  This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection...
-- **[How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/)** — Wed, 11 Feb 2026 15:45:30 +0000
-  LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflow...
-
-## GCP Updates
-
-- **[Google at the National Retail Federation 2026](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/)** — Sun, 11 Jan 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Commerce_Collection_Hero.max-600x600.format-webp.webp" />Learn more about Go...
-
-## IBM Cloud Updates
-
-- **[Qiskit Functions updates accelerate quantum research](https://research.ibm.com/blog/functions-2026?utm_medium=rss&utm_source=rss)** — Wed, 11 Feb 2026 05:00:00 GMT
-  New tools, resources, & capabilities for large‑scale experiments.
