@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-03-15 07:45 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-03-14 07:35 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -678,20 +685,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM Granite has earned a reputation for transparency](https://research.ibm.com/blog/granite-ethical-ai?utm_medium=rss&utm_source=rss)** — Fri, 13 Feb 2026 14:00:00 GMT
   We explore what that means in the context of how Granite was made.
-
-
-# ☁️ Cloud Updates — 2026-02-13 07:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
-  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
-
-## GCP Updates
-
-- **[Our new report details the latest ways threat actors are misusing AI.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)** — Thu, 12 Feb 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ...
