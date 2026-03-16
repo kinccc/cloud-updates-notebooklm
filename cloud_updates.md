@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-16 08:07 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
+  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
+
+## GCP Updates
+
+- **[Our new report details the latest ways threat actors are misusing AI.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)** — Thu, 12 Feb 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ...
+
+
 # ☁️ Cloud Updates — 2026-03-15 07:45 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -650,38 +667,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
   <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
-
-
-# ☁️ Cloud Updates — 2026-02-14 07:34 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser](https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/)** — Fri, 13 Feb 2026 22:57:34 +0000
-  Today, we are announcing three new capabilities that address these requirements: proxy configuration, browser profiles, and browser extensions. Togeth...
-- **[AI meets HR: Transforming talent acquisition with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/)** — Thu, 12 Feb 2026 20:18:58 +0000
-  In this post, we show how to create an AI-powered recruitment system using Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda, and other AWS s...
-- **[Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration](https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/)** — Thu, 12 Feb 2026 20:16:20 +0000
-  In this post, we provide you with a comprehensive approach to achieve this. First, we introduce a context message strategy that maintains continuous c...
-
-## GCP Updates
-
-- **[Simpler billing, clearer savings: A FinOps guide to updated spend-based CUDs](https://cloud.google.com/blog/topics/cost-management/a-finops-professionals-guide-to-updated-spend-based-cuds/)** — Thu, 12 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Optimizing cloud spend is one of the most rewarding aspects of FinOps...
-- **[GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/)** — Thu, 12 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span></h3>
-<p><span style="vertical-align: baseline;">...
-- **[Build financial resilience with AI-powered tabletop exercises on Google Cloud](https://cloud.google.com/blog/topics/financial-services/improve-financial-resilience-with-google-cloud/)** — Wed, 11 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the financial sector, resilience isn't optional. Recent cloud outa...
-- **[Mastering Model Adaptation: A Guide to Fine-Tuning on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud/)** — Wed, 11 Feb 2026 09:13:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you are </span><a href="https://cloud.google.com/blog/topics/devel...
-- **[7 Technical Takeaways from Using Gemini to Generate Code Samples at Scale](https://cloud.google.com/blog/topics/developers-practitioners/7-technical-takeaways-from-using-gemini-to-generate-code-samples-at-scale/)** — Wed, 11 Feb 2026 08:36:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Using Generative AI to write code is a well-known task, but relying o...
-
-## IBM Cloud Updates
-
-- **[IBM Granite has earned a reputation for transparency](https://research.ibm.com/blog/granite-ethical-ai?utm_medium=rss&utm_source=rss)** — Fri, 13 Feb 2026 14:00:00 GMT
-  We explore what that means in the context of how Granite was made.
