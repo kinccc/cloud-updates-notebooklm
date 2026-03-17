@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-03-17 07:53 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production](https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/)** — Mon, 16 Mar 2026 20:51:16 +0000
+  Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and...
+- **[Agentic AI in the Enterprise Part 2: Guidance by Persona](https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/)** — Mon, 16 Mar 2026 17:55:54 +0000
+  This is Part II of a two-part series from the AWS Generative AI Innovation Center. In Part II, we speak directly to the leaders who must turn that sha...
+- **[Introducing Disaggregated Inference on AWS powered by llm-d](https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/)** — Mon, 16 Mar 2026 16:55:53 +0000
+  In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request sched...
+- **[How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards](https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/)** — Mon, 16 Mar 2026 14:48:16 +0000
+  This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their...
+- **[Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog](https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/)** — Mon, 16 Mar 2026 14:42:46 +0000
+  This blog post provides step-by-step guidance on implementing an offline feature store using SageMaker Catalog within a SageMaker Unified Studio domai...
+
+## GCP Updates
+
+- **[Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026](https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/)** — Mon, 16 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The era of agentic AI is fundamentally changing enterprise infrastruc...
+- **[BigQuery Studio is more useful than ever, with enhanced Gemini assistant](https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/)** — Mon, 16 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Modern data teams dedicate a huge portion of their time to managing a...
+- **[Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape](https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/)** — Mon, 16 Mar 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Bavi Sadayappan, Zach Riddle, Ioana Teaca, Kimberly Goody, Genevieve Stark</p>
+<hr /></div>
+<div ...
+
+## IBM Cloud Updates
+
+- **[Doubling down on open-access quantum computing](https://research.ibm.com/blog/open-plan-updates?utm_medium=rss&utm_source=rss)** — Mon, 16 Mar 2026 13:00:00 GMT
+  New learning resources, hardware, and more for Open Plan users.
+
+
 # ☁️ Cloud Updates — 2026-03-16 08:07 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -655,15 +691,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)** — Thu, 15 Jan 2026 14:00:00 +0000
   <p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimizati...
-
-
-# ☁️ Cloud Updates — 2026-02-15 07:38 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[RESOLVED: We are investigating elevated error rates with multiple products in us-east1](https://status.cloud.google.com/incidents/8cY8jdUpEGGbsSMSQk7J)** — 2025-07-23T09:26:58+00:00
-  <p> Incident began at <strong>2025-07-18 07:42</strong> and ended at <strong>2025-07-18 09:47</strong> <span>(all times are <strong>US/Pacific</strong...
