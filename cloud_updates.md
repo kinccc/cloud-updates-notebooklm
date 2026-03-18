@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-03-18 07:53 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AWS AI League: Atos fine-tunes approach to AI education](https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/)** — Tue, 17 Mar 2026 15:51:08 +0000
+  In this post, we’ll explore how Atos used the AWS AI League to help accelerate AI education across 400+ participants, highlight the tangible benefits ...
+
+## GCP Updates
+
+- **[Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world](https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/)** — Tue, 17 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The world of artificial intelligence is moving fast, and so is the ne...
+
+
 # ☁️ Cloud Updates — 2026-03-17 07:53 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -678,16 +695,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-02-16 07:54 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## Azure Updates
-
-- **[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)** — Thu, 15 Jan 2026 14:00:00 +0000
-  <p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimizati...
