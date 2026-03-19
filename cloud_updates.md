@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-03-19 07:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI-powered event response for Amazon EKS](https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/)** — Wed, 18 Mar 2026 18:23:37 +0000
+  In this post, you'll learn how AWS DevOps Agent integrates with your existing observability stack to provide intelligent, automated responses to syste...
+
+## GCP Updates
+
+- **[A more personal digital health experience for people in Europe](https://blog.google/innovation-and-ai/technology/health/google-docmorris-partnership/)** — Thu, 19 Mar 2026 06:00:00 +0000
+  Illustration of various medical images including a stethoscope and heart on a blue background, surrounded by differently colored lines
+
+## IBM Cloud Updates
+
+- **[IBM’s Charles H. Bennett earns ACM Turing award](https://research.ibm.com/blog/2025-turing-award?utm_medium=rss&utm_source=rss)** — Wed, 18 Mar 2026 04:00:00 GMT
+  IBM Fellow Charles H. Bennett and collaborator Gilles Brassard receive computing’s highest honor for foundational contributions to quantum information...
+
+
 # ☁️ Cloud Updates — 2026-03-18 07:53 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -689,9 +711,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece</...
 - **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 13 Feb 2026 17:00:00 +0000
   <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-
-
-# ☁️ Cloud Updates — 2026-02-17 07:51 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
