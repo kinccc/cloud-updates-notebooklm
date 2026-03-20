@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-03-20 07:46 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Run NVIDIA Nemotron 3 Super on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/)** — Thu, 19 Mar 2026 17:25:44 +0000
+  This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technic...
+- **[Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel](https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/)** — Thu, 19 Mar 2026 16:45:50 +0000
+  In this post, we explore our approach to video generation through VRAG, transforming natural language text prompts and images into grounded, high-qual...
+- **[Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation](https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/)** — Thu, 19 Mar 2026 16:45:42 +0000
+  This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmente...
+- **[Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance](https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/)** — Thu, 19 Mar 2026 14:32:11 +0000
+  SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to mon...
+- **[Enforce data residency with Amazon Quick extensions for Microsoft Teams](https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/)** — Thu, 19 Mar 2026 14:20:04 +0000
+  In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You w...
+
+## GCP Updates
+
+- **[Building Distributed AI Agents](https://cloud.google.com/blog/topics/developers-practitioners/building-distributed-ai-agents/)** — Wed, 18 Mar 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Let's be honest: building an AI agent that works </span><span style="...
+- **[Next-gen caching with Memorystore for Valkey 9.0, now GA](https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-0-is-now-ga/)** — Wed, 18 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Backend developers and architects building high-throughput, low-laten...
+- **[Streamline read scalability with Cloud SQL autoscaling read pools](https://cloud.google.com/blog/products/databases/cloudsql-read-pools-support-autoscaling/)** — Wed, 18 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A common pattern for applications that read frequently from a databas...
+- **[The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors](https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/)** — Wed, 18 Mar 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
+- **[Build a Multi-Agent System for Expert Content with Google ADK, MCP and Cloud Run - Part 1](https://cloud.google.com/blog/topics/developers-practitioners/build-a-multi-agent-system-for-expert-content-with-google-adk-mcp-and-cloud-run-part-1/)** — Wed, 18 Mar 2026 09:18:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">My team’s mission is to accelerate the developer journey from writing...
+
+
 # ☁️ Cloud Updates — 2026-03-19 07:47 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -694,20 +727,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Lifting the cover on the IBM Spyre Accelerator](https://research.ibm.com/blog/lifting-the-cover-on-the-ibm-spyre-accelerator?utm_medium=rss&utm_source=rss)** — Wed, 18 Feb 2026 14:30:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-02-18 07:50 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[New BigQuery global queries let you explore distributed data with a single SQL statement](https://cloud.google.com/blog/products/data-analytics/new-global-queries-in-bigquery-span-data-from-multiple-regions/)** — Tue, 17 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a global economy, data is generated and stored all over the world....
-- **[From BRICKSTORM to GRIMBOLT: UNC6201 Exploiting a Dell RecoverPoint for Virtual Machines Zero-Day](https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/)** — Tue, 17 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece</...
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 13 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
