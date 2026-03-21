@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-03-21 07:33 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## IBM Cloud Updates
+
+- **[An AI solution that doesn't leave patient care up in the air](https://research.ibm.com/blog/granite-speech-for-improved-patient-care?utm_medium=rss&utm_source=rss)** — Fri, 20 Mar 2026 12:00:00 GMT
+  Put to the test, IBM's Granite speech model passes with flying colors
+
+
 # ☁️ Cloud Updates — 2026-03-20 07:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -693,37 +705,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[RIKEN and IBM demonstrate quantum-centric supercomputing](https://research.ibm.com/blog/riken-fugaku-qcsc?utm_medium=rss&utm_source=rss)** — Wed, 18 Feb 2026 15:30:00 GMT
   A quantum computer and classical supercomputer worked in a closed loop to solve a quantum chemistry problem with very high accuracy.
-
-
-# ☁️ Cloud Updates — 2026-02-19 07:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters](https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/)** — Mon, 12 Jan 2026 20:03:32 +0000
-  This blog post examines how Salesforce, operating one of the world's largest Kubernetes deployments, successfully migrated from Cluster Autoscaler to ...
-
-## Azure Updates
-
-- **[Project Silica’s advances in glass storage technology](https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/)** — Wed, 18 Feb 2026 16:11:45 +0000
-  <p>Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media co...
-
-## GCP Updates
-
-- **[Powering the next generation of agents with Google Cloud databases](https://cloud.google.com/blog/products/databases/managed-mcp-servers-for-google-cloud-databases/)** — Wed, 18 Feb 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For developers building AI applications, including custom agents and ...
-- **[Cloud CISO Perspectives: New AI threats report: Distillation, experimentation, and integration](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-integration/)** — Wed, 18 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for February 2026. Today, John Hultquist, chief analyst, Google Threat In...
-- **[Your guide to Provisioned Throughput (PT) on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/provisioned-throughput-on-vertex-ai/)** — Wed, 18 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When AI agents make thousands of decisions a day, consistent performa...
-- **[Google (Spanner) Ranks #1 for Lightweight Transactions Use Case in Gartner® Critical Capabilities Report](https://cloud.google.com/blog/products/databases/gartner-ranks-spanner-1-for-lightweight-transactions-use-case/)** — Wed, 18 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the second consecutive year Google (Spanner) has been recognized ...
-- **[Unlocking enterprise data to accelerate agentic AI: How Ab Initio does it](https://cloud.google.com/blog/products/data-analytics/unlocking-enterprise-data-to-accelerate-agentic-ai-how-ab-initio-does-it/)** — Wed, 18 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Your AI agents are only as good as the data behind them. For enterpri...
-
-## IBM Cloud Updates
-
-- **[Lifting the cover on the IBM Spyre Accelerator](https://research.ibm.com/blog/lifting-the-cover-on-the-ibm-spyre-accelerator?utm_medium=rss&utm_source=rss)** — Wed, 18 Feb 2026 14:30:00 GMT
