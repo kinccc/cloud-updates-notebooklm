@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-03-22 07:38 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-03-21 07:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -664,44 +671,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   In 2025, Amazon SageMaker AI made several improvements designed to help you train, tune, and host generative AI workloads. In Part 1 of this series, w...
 - **[Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)](https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/)** — Fri, 20 Feb 2026 16:26:21 +0000
   In this post, you’ll use a six-step checklist to build a new MCP server or validate and adjust an existing MCP server for Amazon&nbsp;Quick integratio...
-
-
-# ☁️ Cloud Updates — 2026-02-20 07:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build AI workflows on Amazon EKS with Union.ai and Flyte](https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/)** — Thu, 19 Feb 2026 16:28:21 +0000
-  In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables...
-- **[Amazon Quick now supports key pair authentication to Snowflake data source](https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/)** — Thu, 19 Feb 2026 16:06:41 +0000
-  In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair au...
-- **[Build unified intelligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/)** — Wed, 18 Feb 2026 23:54:29 +0000
-  In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Cus...
-- **[Evaluating AI agents: Real-world lessons from building agentic systems at Amazon](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/)** — Wed, 18 Feb 2026 19:21:28 +0000
-  In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications a...
-
-## Azure Updates
-
-- **[Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions](https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/)** — Thu, 19 Feb 2026 16:00:51 +0000
-  <p>As synthetic media grows, verifying what’s real, and the origin of content, matters more than ever. Our latest report explores media integrity and ...
-
-## GCP Updates
-
-- **[Using Google Cloud AI to measure the physics of U.S. freestyle snowboarding and skiing](https://cloud.google.com/blog/products/ai-machine-learning/measure-physics-of-freestyle-snowboarding-and-skiing/)** — Thu, 19 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Nearly every snowboard trick carries a number. A 1080 means three full rotations. A 1440 means four. The convention is...
-- **[Building a conversational agent in BigQuery using the Conversational Analytics API](https://cloud.google.com/blog/products/data-analytics/build-data-agents-with-conversational-analytics-api/)** — Thu, 19 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Bringing data into BigQuery centralizes your information, but the rea...
-- **[Simplify your AI workflow with autonomous embedding generation in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-autonomous-embedding-generation/)** — Thu, 19 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the world of generative AI and Retrieval-Augmented Generation (RAG...
-- **[Decommission your legacy Apache Cassandra stack and build for the future with Spanner](https://cloud.google.com/blog/products/databases/cassandra-query-language-cql-apis-on-spanner/)** — Thu, 19 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">An increasing number of customers are migrating to </span><a href="ht...
-- **[Sovereignty and European competitiveness: A partnership-led approach to AI growth](https://cloud.google.com/blog/products/identity-security/sovereignty-and-european-competitiveness-a-partnership-led-approach-to-ai-growth/)** — Thu, 19 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In our conversations with business and policy leaders across Europe, ...
-
-## IBM Cloud Updates
-
-- **[RIKEN and IBM demonstrate quantum-centric supercomputing](https://research.ibm.com/blog/riken-fugaku-qcsc?utm_medium=rss&utm_source=rss)** — Wed, 18 Feb 2026 15:30:00 GMT
-  A quantum computer and classical supercomputer worked in a closed loop to solve a quantum chemistry problem with very high accuracy.
