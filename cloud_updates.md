@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-03-23 08:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-03-22 07:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -655,19 +662,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[AI and Digital Transformation](https://aws.amazon.com/blogs/enterprise-strategy/ai-and-digital-transformation/)** — Wed, 21 Jan 2026 22:43:59 +0000
   You’ve been thinking about digital transformation for years. Maybe you’re even somewhere down the path of transforming your organization. And now ther...
-
-
-# ☁️ Cloud Updates — 2026-02-21 07:32 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/)** — Fri, 20 Feb 2026 20:26:47 +0000
-  In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observabil...
-- **[Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/)** — Fri, 20 Feb 2026 20:26:30 +0000
-  In 2025, Amazon SageMaker AI made several improvements designed to help you train, tune, and host generative AI workloads. In Part 1 of this series, w...
-- **[Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)](https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/)** — Fri, 20 Feb 2026 16:26:21 +0000
-  In this post, you’ll use a six-step checklist to build a new MCP server or validate and adjust an existing MCP server for Amazon&nbsp;Quick integratio...
