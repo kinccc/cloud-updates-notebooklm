@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-03-24 07:53 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Generali Malaysia optimizes operations with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/)** — Mon, 23 Mar 2026 22:51:02 +0000
+  In this post, we look at how Generali is using Amazon EKS Auto Mode and its integration with other AWS services to enhance performance while reducing ...
+
+## Azure Updates
+
+- **[Will machines ever be intelligent?](https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/)** — Mon, 23 Mar 2026 15:00:21 +0000
+  <p>Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain,...
+
+## GCP Updates
+
+- **[The M-Trends 2026 report shows how to strengthen business cybersecurity.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/m-trends-2026-report-cybersecurity/)** — Mon, 23 Mar 2026 15:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MT26_Report-Cover-Dividers_8.5x.max-600x600.format-webp.webp" />Learn more a...
+
+
 # ☁️ Cloud Updates — 2026-03-23 08:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -649,16 +671,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-02-22 07:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI and Digital Transformation](https://aws.amazon.com/blogs/enterprise-strategy/ai-and-digital-transformation/)** — Wed, 21 Jan 2026 22:43:59 +0000
-  You’ve been thinking about digital transformation for years. Maybe you’re even somewhere down the path of transforming your organization. And now ther...
