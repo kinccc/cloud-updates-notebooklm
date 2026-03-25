@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-03-25 07:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI and Digital Transformation](https://aws.amazon.com/blogs/enterprise-strategy/ai-and-digital-transformation/)** — Wed, 21 Jan 2026 22:43:59 +0000
+  You’ve been thinking about digital transformation for years. Maybe you’re even somewhere down the path of transforming your organization. And now ther...
+
+## GCP Updates
+
+- **[5 Ways our Enterprise Browser Keeps Reinforcing Security](https://cloud.google.com/blog/products/chrome-enterprise/5-ways-our-enterprise-browser-keeps-reinforcing-security/)** — Tue, 24 Mar 2026 09:28:00 +0000
+  <div class="block-paragraph"><p>RSA brings together so many great minds in the security industry. Whether it’s the solution providers continuing to su...
+- **[The open platform for the AI era: GKE, agents, and OSS innovation at KubeCon EU 2026](https://cloud.google.com/blog/products/containers-kubernetes/gke-and-oss-innovation-at-kubecon-eu-2026/)** — Tue, 24 Mar 2026 09:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As the cloud-native community gathers in Amsterdam for Kubecon + Clou...
+- **[Kubernetes as AI Infrastructure: Google Cloud, llm-d, and the CNCF](https://cloud.google.com/blog/products/containers-kubernetes/llm-d-officially-a-cncf-sandbox-project/)** — Tue, 24 Mar 2026 09:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, serving the massive-scale needs of large foundation ...
+- **[A developer’s guide to training with Ironwood TPUs](https://cloud.google.com/blog/products/compute/training-large-models-on-ironwood-tpus/)** — Mon, 23 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The transition toward trillion-parameter AI models has created an exp...
+- **[RSAC ’26: Supercharging agentic AI defense with frontline threat intelligence](https://cloud.google.com/blog/products/identity-security/rsac-26-supercharging-agentic-ai-defense-with-frontline-threat-intelligence/)** — Mon, 23 Mar 2026 15:00:00 +0000
+  <div class="block-aside"><dl>
+    <dt>aside_block</dt>
+    <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;Our news today from RSA Conferen...
+
+## IBM Cloud Updates
+
+- **[Donating llm-d to the Cloud Native Computing Foundation](https://research.ibm.com/blog/donating-llm-d-to-the-cloud-native-computing-foundation?utm_medium=rss&utm_source=rss)** — Tue, 24 Mar 2026 08:00:00 GMT
+  llm-d offers a replicable blueprint for developers and researchers to deploy inference stacks for any model, on any accelerator, in any cloud.
+- **[Cleveland Clinic & IBM debut new quantum simulation workflow](https://research.ibm.com/blog/cleveland-clinic-protein-qcsc?utm_medium=rss&utm_source=rss)** — Mon, 23 Mar 2026 04:00:00 GMT
+  Quantum-centric supercomputing method could enable industry-relevant simulations of very large molecules for chemical, materials science, and medical ...
+
+
 # ☁️ Cloud Updates — 2026-03-24 07:53 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -665,9 +699,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   
 - **[Quantum Advantage Tracker: the race to advantage](https://research.ibm.com/blog/quantum-advantage-tracker?utm_medium=rss&utm_source=rss)** — Mon, 23 Feb 2026 05:00:00 GMT
   Leading quantum and classical methods are neck‑and‑neck in ways the research community never expected to see so soon. An open community effort tracks ...
-
-
-# ☁️ Cloud Updates — 2026-02-23 07:55 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
