@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-03-26 08:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Unlocking video insights at scale with Amazon Bedrock multimodal models](https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/)** — Wed, 25 Mar 2026 18:57:15 +0000
+  In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct archi...
+- **[Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1](https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/)** — Wed, 25 Mar 2026 18:52:59 +0000
+  In this series of posts, you will learn how streaming architectures help address these challenges using Pipecat voice agents on Amazon Bedrock AgentCo...
+- **[Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/)** — Wed, 25 Mar 2026 17:30:56 +0000
+  In this post, we walk through the end-to-end workflow of using RFT on Amazon Bedrock with OpenAI-compatible APIs: from setting up authentication, to d...
+- **[Deploy SageMaker AI inference endpoints with set GPU capacity using training plans](https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/)** — Tue, 24 Mar 2026 20:27:49 +0000
+  In this post, we walk through how to search for available p-family GPU capacity, create a training plan reservation for inference, and deploy a SageMa...
+- **[Accelerating custom entity recognition with Claude tool use in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/)** — Tue, 24 Mar 2026 17:56:00 +0000
+  This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recog...
+
+## GCP Updates
+
+- **[DRA: A new era of Kubernetes device management with Dynamic Resource Allocation](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-device-management-with-dra-dynamic-resource-allocation/)** — Wed, 25 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The explosion of large language models (LLMs) has increased demand fo...
+
+
 # ☁️ Cloud Updates — 2026-03-25 07:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -669,33 +694,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a...
 - **[Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/)** — Tue, 24 Feb 2026 15:33:51 +0000
   We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5...
-
-
-# ☁️ Cloud Updates — 2026-02-24 07:51 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scaling data annotation using vision-language models to power physical AI systems](https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/)** — Mon, 23 Feb 2026 23:20:37 +0000
-  In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Ge...
-- **[How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials](https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/)** — Mon, 23 Feb 2026 17:31:45 +0000
-  In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that a...
-- **[Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/)** — Mon, 23 Feb 2026 17:29:11 +0000
-  In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art...
-- **[Agentic AI with multi-model framework using Hugging Face smolagents on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/)** — Mon, 23 Feb 2026 15:47:06 +0000
-  Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We wil...
-
-## GCP Updates
-
-- **[Firefly: Illuminating the path to nanosecond-level clock sync in the data center](https://cloud.google.com/blog/products/networking/understanding-the-firefly-clock-synchronization-protocol/)** — Mon, 23 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">From the high-frequency trading floors of Wall Street to orchestratin...
-
-## IBM Cloud Updates
-
-- **[IBM demonstrates High NA EUV process capability on track for insertion below 2 nm nodes at SPIE 2026](https://research.ibm.com/blog/spie-2026-below-2-nm?utm_medium=rss&utm_source=rss)** — Mon, 23 Feb 2026 14:00:00 GMT
-  
-- **[Quantum Advantage Tracker: the race to advantage](https://research.ibm.com/blog/quantum-advantage-tracker?utm_medium=rss&utm_source=rss)** — Mon, 23 Feb 2026 05:00:00 GMT
-  Leading quantum and classical methods are neck‑and‑neck in ways the research community never expected to see so soon. An open community effort tracks ...
