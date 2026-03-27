@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-03-27 07:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Architecting for agentic AI development on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/)** — Thu, 26 Mar 2026 17:29:57 +0000
+  In this post, we demonstrate how to architect AWS systems that enable AI agents to iterate rapidly through design patterns for both system architectur...
+
+## Azure Updates
+
+- **[AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/)** — Thu, 26 Mar 2026 19:02:53 +0000
+  <p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as ex...
+- **[GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/)** — Thu, 26 Mar 2026 16:03:56 +0000
+  <p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take t...
+
+## GCP Updates
+
+- **[The new AI literacy: Insights from student developers](https://cloud.google.com/blog/topics/developers-practitioners/how-uc-berkeley-students-use-ai-as-a-learning-partner/)** — Thu, 26 Mar 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI has made it easier than ever for student developers to work effici...
+- **[New ways to migrate and scale Red Hat OpenShift on Google Cloud](https://cloud.google.com/blog/topics/partners/red-hat-openshift-on-google-cloud-migration-and-scaling-updates/)** — Thu, 26 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations running on-premises workloads often face a difficult ch...
+- **[Manhattan Associates powers over a billion daily API calls with Google Cloud databases](https://cloud.google.com/blog/products/databases/how-cloud-sql-powers-manhattan-associates-ai-supply-chain-platform/)** — Thu, 26 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note</strong><span style="font-style: ...
+- **[How FM Logistic tackled the traveling salesman problem at warehouse scale with AlphaEvolve](https://cloud.google.com/blog/products/ai-machine-learning/how-fm-logistic-tackled-the-traveling-salesman-problem-at-warehouse-scale-with-alphaevolve/)** — Thu, 26 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The traveling salesman problem asks a deceptively simple question: Wh...
+
+## IBM Cloud Updates
+
+- **[Quantum computers take a step into real materials science](https://research.ibm.com/blog/quantum-computers-take-a-step-into-real-materials-science?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 10:00:00 GMT
+  An IBM quantum computer reproduced experimental signatures of real materials, according to a new preprint from IBM and researcher partners.
+
+
 # ☁️ Cloud Updates — 2026-03-26 08:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -674,23 +709,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[Exposing the Undercurrent: Disrupting the GRIDTIDE Global Cyber Espionage Campaign](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/)** — Wed, 25 Feb 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><h3 style="text-align: justify;"><span style="vertical-align: baseline;">Introduction</span></h3>
 <p><span style...
-
-
-# ☁️ Cloud Updates — 2026-02-25 07:51 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/)** — Tue, 24 Feb 2026 18:22:26 +0000
-  In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekogn...
-- **[Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs](https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/)** — Tue, 24 Feb 2026 15:46:50 +0000
-  In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy ...
-- **[Generate structured output from LLMs with Dottxt Outlines in AWS](https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/)** — Tue, 24 Feb 2026 15:42:34 +0000
-  This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace ...
-- **[Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/)** — Tue, 24 Feb 2026 15:38:22 +0000
-  In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a...
-- **[Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/)** — Tue, 24 Feb 2026 15:33:51 +0000
-  We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5...
