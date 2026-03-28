@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-03-28 07:43 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)](https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/)** — Thu, 26 Mar 2026 23:08:53 +0000
+  Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zeal...
+- **[Building age-responsive, context-aware AI with Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/)** — Thu, 26 Mar 2026 17:26:23 +0000
+  In this post, we walk you through how to implement a fully automated, context-aware AI solution using a serverless architecture on AWS. This solution ...
+- **[Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3](https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/)** — Thu, 26 Mar 2026 17:20:26 +0000
+  Last year, AWS announced an integration between Amazon SageMaker Unified Studio and Amazon S3 general purpose buckets. This integration makes it strai...
+- **[Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/)** — Thu, 26 Mar 2026 17:10:20 +0000
+  Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis w...
+
+## GCP Updates
+
+- **[How Google Does It: An inside look at cybersecurity](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/how-google-does-it-security-series/)** — Fri, 27 Mar 2026 21:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/How-Google-Does-It---Keyword-he.max-600x600.format-webp.webp" />Learn how Go...
+- **[MLB pitches AI-powered commentary in its play-by-play app](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/mlb-scout-insights/)** — Fri, 27 Mar 2026 15:49:00 +0000
+  A baseball is the focal point with a pitcher in the background. Blue and orange lines and arrows surround the baseball.
+
+
 # ☁️ Cloud Updates — 2026-03-27 07:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -689,23 +714,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;"><span style="vertical-align: baseline;"><span style="vertical-align:...
 - **[Pro-level image generation gets faster and more accessible with Nano Banana 2](https://cloud.google.com/blog/products/ai-machine-learning/bringing-nano-banana-2-to-enterprise/)** — Thu, 26 Feb 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re entering a new and vibrant era of generative creativity ...
-
-
-# ☁️ Cloud Updates — 2026-02-26 07:51 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[6,000 AWS accounts, three people, one platform: Lessons learned](https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/)** — Wed, 25 Feb 2026 19:47:07 +0000
-  This post describes why ProGlove chose a account-per-tenant approach for our serverless SaaS architecture and how it changes the operational model. It...
-
-## GCP Updates
-
-- **[A developer's guide to production-ready AI agents](https://cloud.google.com/blog/products/ai-machine-learning/a-devs-guide-to-production-ready-ai-agents/)** — Wed, 25 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Something has shifted in the developer community over the past year. ...
-- **[Exposing the Undercurrent: Disrupting the GRIDTIDE Global Cyber Espionage Campaign](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/)** — Wed, 25 Feb 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3 style="text-align: justify;"><span style="vertical-align: baseline;">Introduction</span></h3>
-<p><span style...
