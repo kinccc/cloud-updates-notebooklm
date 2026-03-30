@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-03-30 08:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure](https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/)** — Thu, 26 Feb 2026 17:54:12 +0000
+  Santander faced a significant technical challenge in managing an infrastructure that processes billions of daily transactions across more than 200 cri...
+
+
 # ☁️ Cloud Updates — 2026-03-29 07:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -674,31 +686,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Ponder This Challenge - March 2026 - Path game on a hole-riddled chessboard](https://research.ibm.com/blog/ponder-this-march-2026?utm_medium=rss&utm_source=rss)** — Sat, 28 Feb 2026 22:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-02-28 07:27 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
-  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
-- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
-  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
-
-## GCP Updates
-
-- **[From "Vibe Checks" to Continuous Evaluation: Engineering Reliable AI Agents](https://cloud.google.com/blog/topics/developers-practitioners/from-vibe-checks-to-continuous-evaluation-engineering-reliable-ai-agents/)** — Fri, 27 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I live through the same story with every single AI agent. After weeks...
-- **[Centralized policy meets distributed logic: Getting to know Eventarc Advanced](https://cloud.google.com/blog/products/application-modernization/getting-to-know-eventarc-advanced/)** — Fri, 27 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise architects often face a fundamental dilemma: choosing betw...
-- **[Cloud CISO Perspectives: How Google approaches critical security topics, from fundamentals to AI](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-approaches-critical-security-topics-fundamentals-to-ai/)** — Fri, 27 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for February 2026. Today, Royal Hansen, vice-president, Engineering, exp...
-- **[Give your agentic chatbots a fast and reliable long-term memory](https://cloud.google.com/blog/topics/developers-practitioners/improve-chatbot-memory-using-google-cloud/)** — Fri, 27 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">When scaling conversational agents, the ...
-- **[Turn your API sprawl into an agent-ready catalog](https://cloud.google.com/blog/products/api-management/combat-api-sprawl-using-apigee-api-hub/)** — Fri, 27 Feb 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In modern cloud architectures, APIs are the fundamental building bloc...
