@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-03-31 08:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
+  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: RSAC '26: AI, security, and the workforce of the future](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-rsac-26-ai-security-and-workforce-of-the-future/)** — Mon, 30 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for March 2026. Today, Nick Godfrey details his conversation with Franci...
+- **[How ID.me Scaled to 145M Users While Reducing Operational Risk](https://cloud.google.com/blog/products/databases/id-me-scales-and-fights-ai-fraud-with-alloydb/)** — Mon, 30 Mar 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note: </strong><span style="font-style...
+
+## IBM Cloud Updates
+
+- **[Toward a transparent supply chain for AI](https://research.ibm.com/blog/ai-bill-of-materials?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 18:00:00 GMT
+  IBM Granite 4.0 has new machine-readable disclosures that are a first step toward a broader AI “bill of materials” that documents how the models were ...
+
+
 # ☁️ Cloud Updates — 2026-03-30 08:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -656,33 +682,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-03-01 07:33 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Learnings from COBOL modernization in the real world](https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/)** — Thu, 26 Feb 2026 18:16:43 +0000
-  Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and ...
-- **[Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/)** — Thu, 26 Feb 2026 17:48:37 +0000
-  In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through e...
-- **[Large model inference container – latest capabilities and performance enhancements](https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/)** — Thu, 26 Feb 2026 17:45:59 +0000
-  AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded mo...
-- **[Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/)** — Wed, 25 Feb 2026 20:56:13 +0000
-  In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations ...
-- **[Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/)** — Wed, 25 Feb 2026 19:51:08 +0000
-  This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intel...
-
-## GCP Updates
-
-- **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-02-27T16:42:13+00:00
-  <p> Incident began at <strong>2026-02-27 04:36</strong> and ended at <strong>2026-02-27 06:45</strong> <span>(all times are <strong>US/Pacific</strong...
-
-## IBM Cloud Updates
-
-- **[Ponder This Challenge - March 2026 - Path game on a hole-riddled chessboard](https://research.ibm.com/blog/ponder-this-march-2026?utm_medium=rss&utm_source=rss)** — Sat, 28 Feb 2026 22:00:00 GMT
