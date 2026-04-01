@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-04-01 08:16 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Streamlining access to powerful disaster recovery capabilities of AWS](https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/)** — Tue, 31 Mar 2026 18:00:38 +0000
+  In this blog post, we take a building blocks approach. Starting with the tools like AWS Backup to protect your data, we then add protection for Amazon...
+- **[How Aigen transformed agricultural robotics for sustainable farming with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/)** — Mon, 30 Mar 2026 15:36:36 +0000
+  In this post, you will learn how Aigen modernized its machine learning (ML) pipeline with Amazon SageMaker AI to overcome industry-wide agricultural r...
+
+## GCP Updates
+
+- **[Change your Google Account username in a few simple steps.](https://blog.google/products-and-platforms/products/workspace/google-account-username-change/)** — Tue, 31 Mar 2026 10:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Email_SocialShare.max-600x600.format-webp.webp" />Here’s how to change your ...
+
+## IBM Cloud Updates
+
+- **[IBM Research and ETH Zurich open a new era of innovation](https://research.ibm.com/blog/ibm-eth-zurich-next-chapter?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 18:00:00 GMT
+  We spoke with Alessandro Curioni, director of the IBM Research Zurich lab, about the future of computing and IBM’s long and productive collaboration w...
+- **[IBM has a time-series model for every task](https://research.ibm.com/blog/time-series-ai-enterprise?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 14:15:00 GMT
+  New versions of our popular time series models are best-in-class for point and probabilistic forecasting, and leaders in efficient inferencing.
+
+
 # ☁️ Cloud Updates — 2026-03-31 08:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -676,9 +702,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Here’s how we disrupted a massive, malicious proxy network.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ipidea-disrupted/)** — Fri, 30 Jan 2026 16:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" />Learn more about...
-
-
-# ☁️ Cloud Updates — 2026-03-02 07:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
