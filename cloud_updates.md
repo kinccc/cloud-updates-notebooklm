@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-04-02 08:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Automate safety monitoring with computer vision and generative AI](https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/)** — Wed, 01 Apr 2026 18:59:02 +0000
+  This post describes a solution that uses fixed camera networks to monitor operational environments in near real-time, detecting potential safety hazar...
+
+## Azure Updates
+
+- **[ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/)** — Wed, 01 Apr 2026 16:00:58 +0000
+  <p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that ...
+
+## GCP Updates
+
+- **[The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/)** — Wed, 01 Apr 2026 13:00:00 +0000
+  March 2026 AI Recap showing new updates
+
+
 # ☁️ Cloud Updates — 2026-04-01 08:16 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -685,20 +707,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[TerraStackAI: Bringing Earth and space AI to Red Hat and the world](https://research.ibm.com/blog/terrastackai?utm_medium=rss&utm_source=rss)** — Tue, 03 Mar 2026 15:00:00 GMT
   This is a companion piece to the Red Hat blog announcing enterprises can now serve Earth and space AI models on Red Hat AI Inference Server.
-
-
-# ☁️ Cloud Updates — 2026-03-03 07:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
-  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
-
-## GCP Updates
-
-- **[Here’s how we disrupted a massive, malicious proxy network.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ipidea-disrupted/)** — Fri, 30 Jan 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" />Learn more about...
