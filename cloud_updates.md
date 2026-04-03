@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-04-03 08:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
+  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
+
+## GCP Updates
+
+- **[Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)** — Thu, 02 Apr 2026 16:00:00 +0000
+  Google Vids logo surrounded by various video editing UI
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - April 2026 - The Unlabeled Clock](https://research.ibm.com/blog/ponder-this-april-2026?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 22:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-04-02 08:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -672,38 +694,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A look back at the International Year of Quantum](https://research.ibm.com/blog/international-year-of-quantum?utm_medium=rss&utm_source=rss)** — Wed, 04 Mar 2026 05:00:00 GMT
   Celebrating the International Year of Quantum and the global community shaping what comes next.
-
-
-# ☁️ Cloud Updates — 2026-03-04 07:38 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework](https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/)** — Tue, 03 Mar 2026 16:08:00 +0000
-  In this post, we discuss how following the AWS Cloud Adoption Framework (AWS CAF) and AWS Well-Architected Framework can help reduce these risks throu...
-
-## Azure Updates
-
-- **[Trailer: The Shape of Things to Come](https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/)** — Tue, 03 Mar 2026 13:00:18 +0000
-  <p>Microsoft research lead Doug Burger introduces his new podcast series, "The Shape of Things to Come", an exploration into the fundamental truths ab...
-
-## GCP Updates
-
-- **[Data Strategy = AI Strategy Series: Transforming Developers into AI Architects with Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/data-strategy-ai-strategy-series-transforming-developers-into-ai-architects-with-google-cloud/)** — Tue, 03 Mar 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">Your agent is only as good as your data grounding.</strong><span st...
-- **[Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/)** — Tue, 03 Mar 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
-- **[Announcing the MCP Toolbox Java SDK](https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-mcp-toolbox-java-sdk/)** — Tue, 03 Mar 2026 09:29:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Engineering teams are moving beyond simple chatbots to build agentic ...
-- **[From network APIs to network AI agents — building the agentic future of connectivity with Nokia](https://cloud.google.com/blog/topics/telecommunications/integrating-nokia-network-as-code-nac-platform/)** — Tue, 03 Mar 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The telecommunications industry is entering its most significant shif...
-- **[Designing private network connectivity for RAG-capable gen AI apps](https://cloud.google.com/blog/products/networking/design-private-connectivity-for-rag-ai-apps/)** — Mon, 02 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The flexibility of Google Cloud allows enterprises to build secure an...
-
-## IBM Cloud Updates
-
-- **[TerraStackAI: Bringing Earth and space AI to Red Hat and the world](https://research.ibm.com/blog/terrastackai?utm_medium=rss&utm_source=rss)** — Tue, 03 Mar 2026 15:00:00 GMT
-  This is a companion piece to the Red Hat blog announcing enterprises can now serve Earth and space AI models on Red Hat AI Inference Server.
