@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-04-04 07:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Simulate realistic users to evaluate multi-turn AI agents in Strands Evals](https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/)** — Thu, 02 Apr 2026 17:34:02 +0000
+  In this post, we explore how ActorSimulator in Strands Evaluations SDK addresses the challenge with structured user simulation that integrates into yo...
+- **[Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows](https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/)** — Thu, 02 Apr 2026 13:30:57 +0000
+  This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM ...
+- **[Control which domains your AI agents can access](https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/)** — Thu, 02 Apr 2026 13:28:19 +0000
+  In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This pos...
+- **[Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract](https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/)** — Thu, 02 Apr 2026 12:59:31 +0000
+  Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solu...
+- **[Persist session state with filesystem configuration and execute shell commands](https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/)** — Thu, 02 Apr 2026 12:52:07 +0000
+  In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in ...
+
+## GCP Updates
+
+- **[Envoy: A future-ready foundation for agentic AI networking](https://cloud.google.com/blog/products/networking/the-case-for-envoy-networking-in-the-agentic-ai-era/)** — Fri, 03 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today's agentic AI environments, the network has a new set of resp...
+- **[Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai/)** — Fri, 03 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are introducing Veo 3.1 Lite, Google's most cost-effective video m...
+- **[How Honeylove boosts product quality and service efficiency with BigQuery](https://cloud.google.com/blog/products/data-analytics/how-honeylove-boosts-product-quality-and-service-efficiency-with-bigquery/)** — Thu, 02 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building the perfect bra takes thousands of data points.</span></p>
+<...
+- **[Introducing Gemma 4 on Google Cloud: Our most capable open models yet](https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud/)** — Thu, 02 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we are releasing</span><strong style="vertical-align: baseline...
+
+
 # ☁️ Cloud Updates — 2026-04-03 08:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -651,46 +683,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Quantum simulates properties of the first-ever half-Möbius molecule, designed by IBM and researchers](https://research.ibm.com/blog/half-mobius-molecule?utm_medium=rss&utm_source=rss)** — Thu, 05 Mar 2026 19:00:00 GMT
   University scientists team up with IBM to engineer the new molecule atom-by-atom in quantum-centric study.
-
-
-# ☁️ Cloud Updates — 2026-03-05 07:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Embed Amazon Quick Suite chat agents in enterprise applications](https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/)** — Wed, 04 Mar 2026 21:20:58 +0000
-  Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authenticati...
-- **[Unlock powerful call center analytics with Amazon Nova foundation models](https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/)** — Wed, 04 Mar 2026 21:16:59 +0000
-  In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevan...
-- **[How Ricoh built a scalable intelligent document processing solution on AWS](https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/)** — Wed, 04 Mar 2026 20:42:45 +0000
-  This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP ...
-- **[Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1](https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/)** — Tue, 03 Mar 2026 16:23:30 +0000
-  In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to h...
-- **[How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/)** — Tue, 03 Mar 2026 16:18:30 +0000
-  This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they imp...
-
-## Azure Updates
-
-- **[Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)** — Wed, 04 Mar 2026 18:05:57 +0000
-  <p>We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft F...
-
-## GCP Updates
-
-- **[Small models, high quality: Inside BMW Group’s experiments evaluating domain-specific language models](https://cloud.google.com/blog/topics/manufacturing/how-bmw-is-testing-slms-not-llms-for-in-vehicle-voice-commands/)** — Wed, 04 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A car you can talk to has been a longstanding dream, whether as the b...
-- **[H4D VMs, now GA, deliver exceptional performance and scaling for HPC workloads](https://cloud.google.com/blog/products/compute/h4d-vms-now-ga/)** — Wed, 04 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re announcing  the </span><strong style="vertical-align: ba...
-- **[The AI-native core: Highly resilient telco architecture using Google Kubernetes Engine](https://cloud.google.com/blog/products/networking/gke-for-telco-building-a-highly-resilient-ai-native-core/)** — Wed, 04 Mar 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">The telecommunications industry has reac...
-- **[The rise of the autonomous network: How GraphML is redefining telecom operations](https://cloud.google.com/blog/topics/telecommunications/graphml-and-digital-twins-enable-autonomous-networks/)** — Wed, 04 Mar 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The complexity of modern telecommunications is exploding. Communicati...
-- **[Scaling the autonomous network: Introducing the Data Steward and Core Network Agents](https://cloud.google.com/blog/topics/telecommunications/new-agents-for-the-autonomous-network-operations-framework/)** — Wed, 04 Mar 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Last year, Google Cloud unveiled the </span><a href="https://cloud.go...
-
-## IBM Cloud Updates
-
-- **[A look back at the International Year of Quantum](https://research.ibm.com/blog/international-year-of-quantum?utm_medium=rss&utm_source=rss)** — Wed, 04 Mar 2026 05:00:00 GMT
-  Celebrating the International Year of Quantum and the global community shaping what comes next.
