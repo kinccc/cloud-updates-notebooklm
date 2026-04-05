@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-04-05 07:54 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-03-09T05:25:43+00:00
+  <p> Incident began at <strong>2026-02-27 04:37</strong> and ended at <strong>2026-02-27 06:35</strong> <span>(all times are <strong>US/Pacific</strong...
+
+
 # ☁️ Cloud Updates — 2026-04-04 07:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -657,29 +669,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Creating precise, high-quality images often involves endless trial an...
 - **[Make security simpler: Introducing the Google Cloud recommended security checklist](https://cloud.google.com/blog/products/identity-security/introducing-the-google-cloud-recommended-security-checklist/)** — Thu, 05 Mar 2026 17:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A secure foundation is essential for tech innovation. As organization...
-
-
-# ☁️ Cloud Updates — 2026-03-06 07:38 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline](https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/)** — Thu, 05 Mar 2026 16:20:13 +0000
-  In this post, we walk through a multi-developer CI/CD pipeline for Amazon Lex that enables isolated development environments, automated testing, and s...
-- **[Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints](https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/)** — Thu, 05 Mar 2026 16:15:41 +0000
-  This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the...
-
-## GCP Updates
-
-- **[The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/)** — Thu, 05 Mar 2026 16:30:00 +0000
-  an MP4 of a carousel with images reading "Gemini 3.1 Pro" and "Nano Banana 2"
-- **[10 ways to plan your 2026 budget with Gemini](https://blog.google/innovation-and-ai/products/gemini-app/gemini-budget-planning-tips/)** — Mon, 02 Feb 2026 16:00:00 +0000
-  An illustration of a person's hand interacting with a tablet displaying a Google Sheets spreadsheet, representing digital budgeting.
-
-## IBM Cloud Updates
-
-- **[Quantum simulates properties of the first-ever half-Möbius molecule, designed by IBM and researchers](https://research.ibm.com/blog/half-mobius-molecule?utm_medium=rss&utm_source=rss)** — Thu, 05 Mar 2026 19:00:00 GMT
-  University scientists team up with IBM to engineer the new molecule atom-by-atom in quantum-centric study.
