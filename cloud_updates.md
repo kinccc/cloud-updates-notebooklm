@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-04-06 08:22 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-04-05 07:54 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -648,24 +655,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Building PyTorch-native support for the IBM Spyre Accelerator](https://research.ibm.com/blog/pytorch-support-ibm-spyre?utm_medium=rss&utm_source=rss)** — Fri, 06 Mar 2026 12:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-03-07 07:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Calling all devs: Build the future of Multimodal AI in the Gemini Live Agent Challenge](https://cloud.google.com/blog/topics/training-certifications/join-the-gemini-live-agent-challenge/)** — Fri, 06 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Hey builders! Stop typing, and start interacting! We are moving beyon...
-- **[Proactive Preparation and Hardening Against Destructive Attacks: 2026 Edition](https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/)** — Fri, 06 Mar 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Matthew McWhirt, Bhavesh Dhake, Emilio Oropeza, Gautam Krishnan, Stuart Carrera, Greg Blaum, Mich...
-- **[Grow your own way: Introducing native support for custom metrics in GKE](https://cloud.google.com/blog/products/containers-kubernetes/gke-now-supports-custom-metrics-natively/)** — Thu, 05 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When platform engineers, AI Infrastructure leads and developers think...
-- **[The ultimate Nano Banana prompting guide](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana/)** — Thu, 05 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Creating precise, high-quality images often involves endless trial an...
-- **[Make security simpler: Introducing the Google Cloud recommended security checklist](https://cloud.google.com/blog/products/identity-security/introducing-the-google-cloud-recommended-security-checklist/)** — Thu, 05 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A secure foundation is essential for tech innovation. As organization...
