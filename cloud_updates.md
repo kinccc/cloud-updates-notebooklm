@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-04-07 08:12 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/)** — Mon, 06 Apr 2026 21:14:13 +0000
+  In this post, we walk through the new installation experience, demonstrate three deployment methods (console, CLI, and Terraform), and show how featur...
+
+## GCP Updates
+
+- **[AI infrastructure efficiency: Ironwood TPUs deliver 3.7x carbon efficiency gains](https://cloud.google.com/blog/topics/systems/ironwood-tpus-deliver-37x-carbon-efficiency-gains/)** — Mon, 06 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;"><span style="vertical-align: baseline;">At Google, we are committed t...
+- **[How a leading consumer insight brand uses Dataproc to hyper-personalise faster](https://cloud.google.com/blog/topics/retail/how-a-leading-consumer-insight-brand-uses-dataproc-to-hyper-personalise-faster/)** — Mon, 06 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://www.rvu.co.uk/" rel="noopener" target="_bl...
+- **[Introducing Looker self-service Explores for faster ad-hoc analysis](https://cloud.google.com/blog/products/business-intelligence/looker-self-service-explores/)** — Mon, 06 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">By design, </span><a href="https://cloud.google.com/looker"><span sty...
+- **[Conversational Analytics now available for Looker Embedded environments](https://cloud.google.com/blog/products/business-intelligence/looker-embedded-adds-conversational-analytics/)** — Mon, 06 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/looker-embedded"><span style="text-decoration: underline; vertical-align: b...
+
+
 # ☁️ Cloud Updates — 2026-04-06 08:22 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -634,24 +657,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
   A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
-
-
-# ☁️ Cloud Updates — 2026-03-08 07:31 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite](https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/)** — Wed, 04 Feb 2026 15:53:39 +0000
-  In this post, we explore how the Amazon Key team used Amazon EventBridge to modernize their architecture, transforming a tightly coupled monolithic sy...
-
-## GCP Updates
-
-- **[The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/)** — Wed, 04 Feb 2026 16:55:00 +0000
-  mp4 showing a carousel of images including a card reading "Help that's made for you"
-
-## IBM Cloud Updates
-
-- **[Building PyTorch-native support for the IBM Spyre Accelerator](https://research.ibm.com/blog/pytorch-support-ibm-spyre?utm_medium=rss&utm_source=rss)** — Fri, 06 Mar 2026 12:00:00 GMT
