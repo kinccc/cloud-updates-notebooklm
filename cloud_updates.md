@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-04-08 08:12 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Manage AI costs with Amazon Bedrock Projects](https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/)** — Tue, 07 Apr 2026 23:32:00 +0000
+  With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In t...
+- **[Building real-time conversational podcasts with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/)** — Tue, 07 Apr 2026 16:29:11 +0000
+  This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating t...
+- **[Text-to-SQL solution powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/)** — Tue, 07 Apr 2026 16:28:20 +0000
+  In this post, we show you how to build a natural text-to-SQL solution using Amazon Bedrock that transforms business questions into database queries&nb...
+- **[Build AI-powered employee onboarding agents with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/)** — Mon, 06 Apr 2026 18:00:06 +0000
+  In this post, we walk through building a custom HR onboarding agent with Quick. We show how to configure an agent that understands your organization’s...
+- **[Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/)** — Mon, 06 Apr 2026 17:54:00 +0000
+  In this post, we walk through how we fine-tuned Qwen 2.5 7B Instruct for tool calling using RLVR. We cover dataset preparation across three distinct a...
+
+## GCP Updates
+
+- **[Claude Mythos Preview: Available in private preview on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai/)** — Tue, 07 Apr 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Claude Mythos Preview, Anthropic’s newest and most powerful model, is...
+- **[See beyond the IP and secure URLs with Google Cloud NGFW](https://cloud.google.com/blog/products/identity-security/see-beyond-the-ip-and-secure-urls-with-google-cloud-ngfw/)** — Tue, 07 Apr 2026 17:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a cloud-first world, traditional IP-based defenses are no longer e...
+- **[Ultimate prompting guide for Lyria 3 models](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-lyria-3-pro/)** — Tue, 07 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><a href="https://deepmind.google/models/lyria/" rel="noopener" target="_blank"><span style="text-decoration: ...
+- **[Under one roof: Rightmove reinvents property search with unified data](https://cloud.google.com/blog/products/data-analytics/how-unified-data-is-helping-rightmove-reinvent-property-search/)** — Tue, 07 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://www.rightmove.co.uk/" rel="noopener" targe...
+- **[Build music generation into your apps with Lyria 3 models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/lyria-3-and-lyria-3-pro-on-vertex-ai/)** — Tue, 07 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">What’s new: </strong><a href="https://deepmind.google/models/lyria/...
+
+
 # ☁️ Cloud Updates — 2026-04-07 08:12 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -640,20 +673,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-03-09 07:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Convera built fine-grained API authorization with Amazon Verified Permissions](https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/)** — Thu, 05 Feb 2026 21:21:54 +0000
-  In this post, we share how Convera used Amazon Verified Permissions to build a fine-grained authorization model for their API platform.
-
-## GCP Updates
-
-- **[How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/)** — Thu, 05 Feb 2026 16:00:00 +0000
-  A woman outdoors in the snow looks at a tablet. A half pipe is behind her.
