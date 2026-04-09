@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-04-09 08:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build a multi-tenant configuration system with tagged storage patterns](https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/)** — Wed, 08 Apr 2026 20:00:04 +0000
+  In this post, we demonstrate how you can build a scalable, multi-tenant configuration service using the tagged storage pattern, an architectural appro...
+
+## GCP Updates
+
+- **[Google Cloud named a Leader in The Forrester Wave™: Sovereign Cloud Platforms, Q2 2026](https://cloud.google.com/blog/products/identity-security/a-leader-in-forrester-wave-sovereign-cloud-platform-2026/)** — Wed, 08 Apr 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today’s global economy, data is a strategic asset. For many organi...
+- **[New GKE Cloud Storage FUSE Profiles take the guesswork out of configuring AI storage](https://cloud.google.com/blog/products/containers-kubernetes/optimize-aiml-workloads-with-gke-cloud-storage-fuse-profiles/)** — Wed, 08 Apr 2026 16:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the world of AI/ML, data is the fuel that drives training and infe...
+- **[Openness without compromises for your Apache Iceberg lakehouse](https://cloud.google.com/blog/products/data-analytics/improved-interoperability-for-your-apache-iceberg-lakehouse/)** — Wed, 08 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, at the Apache Iceberg Summit in San Francisco, we are announci...
+- **[Experimenting with GPUs: GKE managed DRANET and Inference Gateway AI Deployment](https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-gpus-gke-managed-dranet-and-inference-gateway-ai-deployment/)** — Wed, 08 Apr 2026 10:05:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building and serving models on infrastructure is a strong use case fo...
+
+
 # ☁️ Cloud Updates — 2026-04-08 08:12 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -634,42 +657,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How IBM is working today to secure communication from tomorrow’s quantum risks](https://research.ibm.com/blog/signal-threema-quantum-safe?utm_medium=rss&utm_source=rss)** — Mon, 09 Mar 2026 13:00:00 GMT
   Cryptography researchers at IBM are working with researchers at secure messaging services Signal and Threema to help defend against future quantum com...
-
-
-# ☁️ Cloud Updates — 2026-03-10 07:41 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/)** — Mon, 09 Mar 2026 20:48:46 +0000
-  We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our ...
-- **[Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/)** — Mon, 09 Mar 2026 20:44:13 +0000
-  In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the ca...
-
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
