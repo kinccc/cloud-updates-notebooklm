@@ -1,3 +1,55 @@
+# ☁️ Cloud Updates — 2026-04-10 08:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Understanding Amazon Bedrock model lifecycle](https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/)** — Thu, 09 Apr 2026 17:33:28 +0000
+  This post shows you how to manage FM transitions in Amazon Bedrock, so you can make sure your AI applications remain operational as models evolve. We ...
+- **[The future of managing agents at scale: AWS Agent Registry now in preview](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)** — Thu, 09 Apr 2026 17:28:20 +0000
+  Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills acr...
+- **[Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/)** — Thu, 09 Apr 2026 17:06:07 +0000
+  This post walks you through three steps: starting a session and generating the Live View URL, rendering the stream in your React application, and wiri...
+- **[Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime](https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/)** — Thu, 09 Apr 2026 14:47:57 +0000
+  In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content gener...
+- **[Customize Amazon Nova models with Amazon Bedrock fine-tuning](https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/)** — Wed, 08 Apr 2026 19:51:50 +0000
+  In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each ste...
+
+## Azure Updates
+
+- **[New Future of Work: AI is driving rapid change, uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/)** — Thu, 09 Apr 2026 16:11:44 +0000
+  <p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous edi...
+- **[Ideas: Steering AI toward the work future we want](https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/)** — Thu, 09 Apr 2026 16:10:37 +0000
+  <p>Microsoft Chief Scientist Jaime Teevan and researchers Jenna Butler, Jake Hofman, and Rebecca Janssen unpack the New Future of Work Report 2025 and...
+
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-04-09 08:20 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -628,32 +680,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Google completes acquisition of Wiz](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/)** — Wed, 11 Mar 2026 12:32:00 +0000
   Today, we announced we've closed the acquisition of Wiz.
-
-
-# ☁️ Cloud Updates — 2026-03-11 07:44 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/)** — Tue, 10 Mar 2026 15:42:16 +0000
-  In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts i...
-
-## Azure Updates
-
-- **[From raw interaction to reusable knowledge: Rethinking memory for AI agents](https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/)** — Tue, 10 Mar 2026 16:00:41 +0000
-  <p>It seems counterintuitive: giving AI agents more memory can make them less effective. As interaction logs accumulate, they grow large, fill with ir...
-
-## GCP Updates
-
-- **[Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/)** — Tue, 10 Mar 2026 13:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp" />Today we ann...
-- **[New ways to create faster with Gemini in Docs, Sheets, Slides and Drive](https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/)** — Tue, 10 Mar 2026 13:00:00 +0000
-  YouTube video still with text in the middle saying 'Google Workspace with Gemini' surrounded by Workspace product icons and feature names
-
-## IBM Cloud Updates
-
-- **[How IBM is working today to secure communication from tomorrow’s quantum risks](https://research.ibm.com/blog/signal-threema-quantum-safe?utm_medium=rss&utm_source=rss)** — Mon, 09 Mar 2026 13:00:00 GMT
-  Cryptography researchers at IBM are working with researchers at secure messaging services Signal and Threema to help defend against future quantum com...
