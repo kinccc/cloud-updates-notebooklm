@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-04-11 07:50 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Accelerating data curation with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud/)** — Fri, 10 Apr 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the enterprise landscape, data is often highly fragmented across m...
+- **[Accelerating innovation and impact across the public sector](https://cloud.google.com/blog/topics/public-sector/accelerating-innovation-and-impact-across-the-public-sector/)** — Fri, 10 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Leaders across industries around the world are asking: How do we harness all of this powerful technology effectively a...
+- **[How SAP Concur automates expense reporting with agentic AI](https://cloud.google.com/blog/products/ai-machine-learning/how-sap-concur-automates-expense-reporting-with-agentic-ai/)** — Fri, 10 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For decades, expense automation relied on a simple premise: If the ma...
+- **[Near-100% Accurate Data for your Agent with Comprehensive Context Engineering](https://cloud.google.com/blog/products/databases/how-to-get-your-agent-near-100-percent-accurate-data/)** — Fri, 10 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agentic workflows are already used for initiating action. To be succe...
+- **[QueryData helps agents turn natural language into queries for AlloyDB, Cloud SQL and Spanner](https://cloud.google.com/blog/products/databases/introducing-querydata-for-near-100-percent-accurate-data-agents/)** — Fri, 10 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">QueryData launches in preview today. It is a tool for translating nat...
+
+
 # ☁️ Cloud Updates — 2026-04-10 08:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -663,20 +683,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   
 - **[Realizing Feynman’s vision for the future of simulation](https://research.ibm.com/blog/qcsc-reference-architecture?utm_medium=rss&utm_source=rss)** — Thu, 12 Mar 2026 04:00:00 GMT
   A reference architecture for quantum-centric supercomputing is extending useful quantum to HPC centers.
-
-
-# ☁️ Cloud Updates — 2026-03-12 07:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Operationalizing Agentic AI Part 1: A Stakeholder’s Guide](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/)** — Wed, 11 Mar 2026 20:52:23 +0000
-  The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In ...
-
-## GCP Updates
-
-- **[Google completes acquisition of Wiz](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/)** — Wed, 11 Mar 2026 12:32:00 +0000
-  Today, we announced we've closed the acquisition of Wiz.
