@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-04-13 09:00 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-04-12 08:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -629,21 +636,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-03-14 07:35 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM](https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/)** — Fri, 13 Mar 2026 19:27:04 +0000
-  In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained ...
-
-## GCP Updates
-
-- **[Simplify your Cloud Run security with Identity Aware Proxy (IAP)](https://cloud.google.com/blog/products/serverless/iap-integration-with-cloud-run/)** — Fri, 13 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/run?e=48754805&amp;hl=en"><span style="text-decoration: underline; vertical...
