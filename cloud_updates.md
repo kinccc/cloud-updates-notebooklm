@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-04-15 08:27 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## GCP Updates
+
+- **[UK Department for Transport accelerates public policy insights with Google Cloud AI](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/uk-department-for-transport-accelerates-public-policy-insights-with-google-cloud-ai/)** — Tue, 14 Apr 2026 07:00:00 +0000
+  Image of the London skyline with transport vehicles
+
+## IBM Cloud Updates
+
+- **[IBM demonstrates extreme scale with a 100B vector database](https://research.ibm.com/blog/cas-100-billion-vector-storage-ai?utm_medium=rss&utm_source=rss)** — Mon, 13 Apr 2026 16:00:00 GMT
+  The storage-centric vector database fits on a single server to help scale retrieval-augmented generation, unlocking new value from enterprise data.
+
+
 # ☁️ Cloud Updates — 2026-04-13 09:00 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -613,26 +635,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Doubling down on open-access quantum computing](https://research.ibm.com/blog/open-plan-updates?utm_medium=rss&utm_source=rss)** — Mon, 16 Mar 2026 13:00:00 GMT
   New learning resources, hardware, and more for Open Plan users.
-
-
-# ☁️ Cloud Updates — 2026-03-16 08:07 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
-  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
-
-## GCP Updates
-
-- **[Our new report details the latest ways threat actors are misusing AI.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)** — Thu, 12 Feb 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ...
-
-
-# ☁️ Cloud Updates — 2026-03-15 07:45 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
