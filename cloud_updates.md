@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-04-16 08:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
+  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: How CISOs can pursue technical and cultural resilience (Q&A)](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cisos-can-pursue-technical-and-cultural-resilience-q-a/)** — Wed, 15 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for April 2026. Today, Thiébaut Meyer and Lia Wertheimer from Google Clou...
+- **[Cool stuff Google Cloud customers built, April edition: BMW big on SLMs, MLB’s Scout Insights AI, personalized resort experiences](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)** — Wed, 15 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">AI and cloud technology are reshaping every corne...
+- **[Guide to prompting Gemini 3.1 Flash TTS (text-to-speech)](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud/)** — Wed, 15 Apr 2026 15:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, Gemini 3.1 Flash TTS, our latest text-to-speech model, is avai...
+- **[The German Cyber Criminal Überfall: Shifts in Europe's Data Leak Landscape](https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landscape/)** — Wed, 15 Apr 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Jamie Collier, Robin Grunewald</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><p><span st...
+- **[Introducing BigQuery Graph: Unlock hidden relationships in your data](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph/)** — Tue, 14 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we're thrilled to announce that </span><strong style="vertical...
+
+## IBM Cloud Updates
+
+- **[Mid-training is essential for LLM reasoning, IBM study shows](https://research.ibm.com/blog/mid-training-for-better-ai-reasoning?utm_medium=rss&utm_source=rss)** — Wed, 15 Apr 2026 13:30:00 GMT
+  Adding a step between pre-training and post-training matters more than people may think.
+
+
 # ☁️ Cloud Updates — 2026-04-15 08:27 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -599,39 +631,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world](https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/)** — Tue, 17 Mar 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The world of artificial intelligence is moving fast, and so is the ne...
-
-
-# ☁️ Cloud Updates — 2026-03-17 07:53 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production](https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/)** — Mon, 16 Mar 2026 20:51:16 +0000
-  Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and...
-- **[Agentic AI in the Enterprise Part 2: Guidance by Persona](https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/)** — Mon, 16 Mar 2026 17:55:54 +0000
-  This is Part II of a two-part series from the AWS Generative AI Innovation Center. In Part II, we speak directly to the leaders who must turn that sha...
-- **[Introducing Disaggregated Inference on AWS powered by llm-d](https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/)** — Mon, 16 Mar 2026 16:55:53 +0000
-  In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request sched...
-- **[How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards](https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/)** — Mon, 16 Mar 2026 14:48:16 +0000
-  This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their...
-- **[Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog](https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/)** — Mon, 16 Mar 2026 14:42:46 +0000
-  This blog post provides step-by-step guidance on implementing an offline feature store using SageMaker Catalog within a SageMaker Unified Studio domai...
-
-## GCP Updates
-
-- **[Google Cloud and NVIDIA expand AI innovation across industries at GTC 2026](https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026/)** — Mon, 16 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The era of agentic AI is fundamentally changing enterprise infrastruc...
-- **[BigQuery Studio is more useful than ever, with enhanced Gemini assistant](https://cloud.google.com/blog/products/data-analytics/gemini-supercharges-the-bigquery-studio-assistant/)** — Mon, 16 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Modern data teams dedicate a huge portion of their time to managing a...
-- **[Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape](https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/)** — Mon, 16 Mar 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Bavi Sadayappan, Zach Riddle, Ioana Teaca, Kimberly Goody, Genevieve Stark</p>
-<hr /></div>
-<div ...
-
-## IBM Cloud Updates
-
-- **[Doubling down on open-access quantum computing](https://research.ibm.com/blog/open-plan-updates?utm_medium=rss&utm_source=rss)** — Mon, 16 Mar 2026 13:00:00 GMT
-  New learning resources, hardware, and more for Open Plan users.
