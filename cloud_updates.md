@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-04-20 09:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-04-19 08:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -620,16 +627,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-03-21 07:33 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## IBM Cloud Updates
-
-- **[An AI solution that doesn't leave patient care up in the air](https://research.ibm.com/blog/granite-speech-for-improved-patient-care?utm_medium=rss&utm_source=rss)** — Fri, 20 Mar 2026 12:00:00 GMT
-  Put to the test, IBM's Granite speech model passes with flying colors
