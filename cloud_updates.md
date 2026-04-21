@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-04-21 08:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances](https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/)** — Mon, 20 Apr 2026 19:38:10 +0000
+  Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker ...
+- **[ToolSimulator: scalable tool testing for AI agents](https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/)** — Mon, 20 Apr 2026 17:06:26 +0000
+  You can use ToolSimulator, an&nbsp;LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on ex...
+- **[Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/)** — Mon, 20 Apr 2026 15:03:28 +0000
+  In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy...
+
+## Azure Updates
+
+- **[Can we AI our way to a more sustainable world?](https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/)** — Mon, 20 Apr 2026 16:24:01 +0000
+  <p>Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter ope...
+
+## IBM Cloud Updates
+
+- **[What's new at IBM Quantum Q1 2026](https://research.ibm.com/blog/whats-new-q1-2026?utm_medium=rss&utm_source=rss)** — Mon, 20 Apr 2026 04:00:00 GMT
+  Explore the latest updates, releases, and resources from IBM Quantum and Qiskit.
+- **[Release News: Qiskit v2.4 is here!](https://research.ibm.com/blog/qiskit-2-4-release-summary?utm_medium=rss&utm_source=rss)** — Mon, 20 Apr 2026 04:00:00 GMT
+  Detailed technical release summary for Qiskit SDK v2.4
+
+
 # ☁️ Cloud Updates — 2026-04-20 09:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -617,13 +645,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-03-23 08:02 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-03-22 07:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
