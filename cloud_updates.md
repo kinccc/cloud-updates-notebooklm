@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-04-22 08:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight](https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/)** — Tue, 21 Apr 2026 16:37:12 +0000
+  This post explores how Oldcastle used AWS services to transform their analytics and AI capabilities by integrating Infor ERP with Amazon Aurora and Am...
+
+## GCP Updates
+
+- **[Announcing our 2026 Google Cloud Partners of the Year](https://cloud.google.com/blog/topics/partners/2026-partners-of-the-year-winners-next26/)** — Tue, 21 Apr 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud is honored to present the 2026 Partner of the Year winne...
+- **[Building the foundation for AI across the public sector through our partner ecosystem](https://cloud.google.com/blog/topics/public-sector/building-the-foundation-for-ai-across-the-public-sector-through-our-partner-ecosystem/)** — Tue, 21 Apr 2026 19:00:00 +0000
+  <div class="block-paragraph"><p>The demand for AI within the public sector has never been higher. Practitioners and CXO’s are looking for ways to harn...
+- **[From keynote to the terminal: Join our Next ‘26 developer livestreams](https://cloud.google.com/blog/topics/developers-practitioners/join-our-next26-developer-livestreams/)** — Tue, 21 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The main stage at Google Cloud Next is where the vision is set. This ...
+- **[GEAR up to get the most out of AI learning at Google Cloud Next ‘26](https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26/)** — Tue, 21 Apr 2026 15:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Our new </span><a href="https://developers.google.com/program/gear/" ...
+- **[Introducing the Builders Hub from the Google Developer Program](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-builders-hub-from-the-google-developer-program/)** — Tue, 21 Apr 2026 13:26:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s developer experience is often spread across dozens of console...
+
+
 # ☁️ Cloud Updates — 2026-04-21 08:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -642,9 +667,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[The M-Trends 2026 report shows how to strengthen business cybersecurity.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/m-trends-2026-report-cybersecurity/)** — Mon, 23 Mar 2026 15:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MT26_Report-Cover-Dividers_8.5x.max-600x600.format-webp.webp" />Learn more a...
-
-
-# ☁️ Cloud Updates — 2026-03-23 08:02 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
