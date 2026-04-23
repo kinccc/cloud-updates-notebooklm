@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-04-23 08:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS](https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/)** — Wed, 22 Apr 2026 15:33:54 +0000
+  This post explores how PACIFIC enables multi-tenant, sovereign PCF exchange on the Catena-X data space using Amazon Elastic Container Service (Amazon ...
+
+## Azure Updates
+
+- **[AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/)** — Wed, 22 Apr 2026 16:25:30 +0000
+  <p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine,...
+
+## GCP Updates
+
+- **[10 leading enterprises show why agents mean business](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-customer-round-up/)** — Wed, 22 Apr 2026 18:45:00 +0000
+  Blog hero
+- **[1,302 real-world gen AI use cases from the world's leading organizations](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/)** — Wed, 22 Apr 2026 16:00:00 +0000
+  Text reads "Google Cloud Next 26"
+- **[Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/)** — Wed, 22 Apr 2026 13:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiEnterprise_social.max-600x600.format-webp.webp" />This new platform cr...
+- **[Google Cloud Next ‘26](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/)** — Wed, 22 Apr 2026 12:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Collection_Header.max-600x600.format-webp.webp" />Here’s a look a...
+- **[Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)** — Wed, 22 Apr 2026 12:00:00 +0000
+  Computer chips
+
+## IBM Cloud Updates
+
+- **[IBM's Hanhee Paik on the new IBM-UIUC agreement](https://research.ibm.com/blog/hanhee-paik-interview-on-qcsc-algorithms?utm_medium=rss&utm_source=rss)** — Tue, 21 Apr 2026 17:00:00 GMT
+  We spoke with her about quantum-centric supercomputing and how her career path has mirrored quantum’s remarkable rise.
+
+
 # ☁️ Cloud Updates — 2026-04-22 08:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -645,25 +680,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   llm-d offers a replicable blueprint for developers and researchers to deploy inference stacks for any model, on any accelerator, in any cloud.
 - **[Cleveland Clinic & IBM debut new quantum simulation workflow](https://research.ibm.com/blog/cleveland-clinic-protein-qcsc?utm_medium=rss&utm_source=rss)** — Mon, 23 Mar 2026 04:00:00 GMT
   Quantum-centric supercomputing method could enable industry-relevant simulations of very large molecules for chemical, materials science, and medical ...
-
-
-# ☁️ Cloud Updates — 2026-03-24 07:53 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Generali Malaysia optimizes operations with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/)** — Mon, 23 Mar 2026 22:51:02 +0000
-  In this post, we look at how Generali is using Amazon EKS Auto Mode and its integration with other AWS services to enhance performance while reducing ...
-
-## Azure Updates
-
-- **[Will machines ever be intelligent?](https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/)** — Mon, 23 Mar 2026 15:00:21 +0000
-  <p>Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain,...
-
-## GCP Updates
-
-- **[The M-Trends 2026 report shows how to strengthen business cybersecurity.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/m-trends-2026-report-cybersecurity/)** — Mon, 23 Mar 2026 15:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MT26_Report-Cover-Dividers_8.5x.max-600x600.format-webp.webp" />Learn more a...
