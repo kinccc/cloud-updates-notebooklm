@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-04-25 08:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building Workforce AI Agents with Visier and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/)** — Fri, 24 Apr 2026 18:04:20 +0000
+  In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge wor...
+- **[Amazon Quick for marketing: From scattered data to strategic action](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/)** — Thu, 23 Apr 2026 17:05:17 +0000
+  Amazon Quick changes how you work. You can set it up in minutes and by the end of the day, you will wonder how you ever worked without it. Quick conne...
+- **[Applying multimodal biological foundation models across therapeutics and patient care](https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/)** — Thu, 23 Apr 2026 16:17:29 +0000
+  In this post, we'll explore how multimodal BioFMs work, showcase real-world applications in drug discovery and clinical development, and contextualize...
+- **[Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch](https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/)** — Wed, 22 Apr 2026 21:05:01 +0000
+  In this post, we walk through building a scalable, event-driven transcription pipeline that automatically processes audio files uploaded to Amazon Sim...
+- **[Amazon SageMaker AI now supports optimized generative AI inference recommendations](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/)** — Wed, 22 Apr 2026 19:15:08 +0000
+  Today, Amazon SageMaker AI&nbsp; supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configuration...
+
+## GCP Updates
+
+- **[7 highlights from Google Cloud Next ‘26](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/)** — Fri, 24 Apr 2026 18:00:00 +0000
+  Wide view of a large audience in a purple-lit arena looking at a main stage screen displaying "Google Cloud NEXT".
+
+
 # ☁️ Cloud Updates — 2026-04-24 08:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -643,28 +668,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Quantum computers take a step into real materials science](https://research.ibm.com/blog/quantum-computers-take-a-step-into-real-materials-science?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 10:00:00 GMT
   An IBM quantum computer reproduced experimental signatures of real materials, according to a new preprint from IBM and researcher partners.
-
-
-# ☁️ Cloud Updates — 2026-03-26 08:02 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Unlocking video insights at scale with Amazon Bedrock multimodal models](https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/)** — Wed, 25 Mar 2026 18:57:15 +0000
-  In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct archi...
-- **[Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1](https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/)** — Wed, 25 Mar 2026 18:52:59 +0000
-  In this series of posts, you will learn how streaming architectures help address these challenges using Pipecat voice agents on Amazon Bedrock AgentCo...
-- **[Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/)** — Wed, 25 Mar 2026 17:30:56 +0000
-  In this post, we walk through the end-to-end workflow of using RFT on Amazon Bedrock with OpenAI-compatible APIs: from setting up authentication, to d...
-- **[Deploy SageMaker AI inference endpoints with set GPU capacity using training plans](https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/)** — Tue, 24 Mar 2026 20:27:49 +0000
-  In this post, we walk through how to search for available p-family GPU capacity, create a training plan reservation for inference, and deploy a SageMa...
-- **[Accelerating custom entity recognition with Claude tool use in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/)** — Tue, 24 Mar 2026 17:56:00 +0000
-  This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recog...
-
-## GCP Updates
-
-- **[DRA: A new era of Kubernetes device management with Dynamic Resource Allocation](https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-device-management-with-dra-dynamic-resource-allocation/)** — Wed, 25 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The explosion of large language models (LLMs) has increased demand fo...
