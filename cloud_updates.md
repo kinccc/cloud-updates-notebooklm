@@ -1,3 +1,21 @@
+# ☁️ Cloud Updates — 2026-04-26 08:15 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[260 things we announced at Google Cloud Next '26 – a recap](https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/)** — Fri, 24 Apr 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Next ‘26 took place this week in Las Vegas, and the ener...
+- **[Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite](https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/)** — Thu, 23 Apr 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: JP Glab, Tufail Ahmed, Josh Kelley, Muhammad Umair</p>
+<hr /></div>
+<div class="block-paragraph_a...
+- **[Day 2 at Google Cloud Next: A marathon developer keynote](https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/)** — Thu, 23 Apr 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, every day is Developer Day, but none so much as day ...
+
+
 # ☁️ Cloud Updates — 2026-04-25 08:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -633,38 +651,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/How-Google-Does-It---Keyword-he.max-600x600.format-webp.webp" />Learn how Go...
 - **[MLB pitches AI-powered commentary in its play-by-play app](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/mlb-scout-insights/)** — Fri, 27 Mar 2026 15:49:00 +0000
   A baseball is the focal point with a pitcher in the background. Blue and orange lines and arrows surround the baseball.
-
-
-# ☁️ Cloud Updates — 2026-03-27 07:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Architecting for agentic AI development on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/)** — Thu, 26 Mar 2026 17:29:57 +0000
-  In this post, we demonstrate how to architect AWS systems that enable AI agents to iterate rapidly through design patterns for both system architectur...
-
-## Azure Updates
-
-- **[AsgardBench: A benchmark for visually grounded interactive planning](https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/)** — Thu, 26 Mar 2026 19:02:53 +0000
-  <p>Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don&#8217;t go as ex...
-- **[GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation](https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/)** — Thu, 26 Mar 2026 16:03:56 +0000
-  <p>Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take t...
-
-## GCP Updates
-
-- **[The new AI literacy: Insights from student developers](https://cloud.google.com/blog/topics/developers-practitioners/how-uc-berkeley-students-use-ai-as-a-learning-partner/)** — Thu, 26 Mar 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI has made it easier than ever for student developers to work effici...
-- **[New ways to migrate and scale Red Hat OpenShift on Google Cloud](https://cloud.google.com/blog/topics/partners/red-hat-openshift-on-google-cloud-migration-and-scaling-updates/)** — Thu, 26 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations running on-premises workloads often face a difficult ch...
-- **[Manhattan Associates powers over a billion daily API calls with Google Cloud databases](https://cloud.google.com/blog/products/databases/how-cloud-sql-powers-manhattan-associates-ai-supply-chain-platform/)** — Thu, 26 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note</strong><span style="font-style: ...
-- **[How FM Logistic tackled the traveling salesman problem at warehouse scale with AlphaEvolve](https://cloud.google.com/blog/products/ai-machine-learning/how-fm-logistic-tackled-the-traveling-salesman-problem-at-warehouse-scale-with-alphaevolve/)** — Thu, 26 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The traveling salesman problem asks a deceptively simple question: Wh...
-
-## IBM Cloud Updates
-
-- **[Quantum computers take a step into real materials science](https://research.ibm.com/blog/quantum-computers-take-a-step-into-real-materials-science?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 10:00:00 GMT
-  An IBM quantum computer reproduced experimental signatures of real materials, according to a new preprint from IBM and researcher partners.
