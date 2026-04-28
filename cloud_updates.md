@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-04-28 09:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster](https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/)** — Mon, 27 Apr 2026 17:47:34 +0000
+  In this post, we explore how Deloitte used Amazon EKS and vCluster to transform their testing infrastructure.
+
+## GCP Updates
+
+- **[Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/)** — Mon, 27 Apr 2026 13:00:00 +0000
+  A web next to a laptop
+
+
 # ☁️ Cloud Updates — 2026-04-27 09:17 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -615,21 +632,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure](https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/)** — Thu, 26 Feb 2026 17:54:12 +0000
   Santander faced a significant technical challenge in managing an infrastructure that processes billions of daily transactions across more than 200 cri...
-
-
-# ☁️ Cloud Updates — 2026-03-29 07:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[How to build production-ready AI agents with Google-managed MCP servers](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-ai-agents-with-google-managed-mcp-servers/)** — Fri, 27 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As ​​developers build AI agents with more sophisticated reasoning sys...
-- **[Easy as a green run: How Vail Resorts built an AI assistant to automate personalized recommendations](https://cloud.google.com/blog/products/ai-machine-learning/how-vail-resorts-built-an-ai-assistant-to-automate-personalized-recommendations/)** — Fri, 27 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For skiers and snowboarders, every moment on the mountain is about ma...
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 27 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[Five techniques to reach the efficient frontier of LLM inference](https://cloud.google.com/blog/topics/developers-practitioners/five-techniques-to-reach-the-efficient-frontier-of-llm-inference/)** — Fri, 27 Mar 2026 10:02:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every dollar that you spend on model inference buys you a position on...
