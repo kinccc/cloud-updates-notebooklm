@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-04-29 09:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/)** — Tue, 28 Apr 2026 17:46:55 +0000
+  In this post, we explore what it takes to migrate a traditional text agent into a conversational voice assistant using Amazon Nova 2 Sonic. We compare...
+- **[NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/)** — Tue, 28 Apr 2026 16:40:34 +0000
+  Today, we are excited to announce the day zero availability of NVIDIA Nemotron 3 Nano Omni on Amazon SageMaker JumpStart. In this post, we walk throug...
+- **[Automate repetitive tasks with Amazon Quick Flows](https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/)** — Mon, 27 Apr 2026 17:52:05 +0000
+  This post shows you how to build your first AI-powered workflow, using Amazon Quick, starting with a financial analysis tool and progressing to an adv...
+- **[Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/)** — Mon, 27 Apr 2026 17:51:41 +0000
+  In this post, we explore an automated solution that detects S3 events and triggers ingestion jobs while respecting service quotas and providing compre...
+- **[Build Strands Agents with SageMaker AI models and MLflow](https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/)** — Mon, 27 Apr 2026 16:50:41 +0000
+  In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to dep...
+
+## GCP Updates
+
+- **[Welcome to the agentic era: Public sector highlights and reflections from Next ‘26](https://cloud.google.com/blog/topics/public-sector/welcome-to-the-agentic-era-public-sector-highlights-and-reflections-from-next-26/)** — Tue, 28 Apr 2026 19:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the agentic era! Last week, leaders from our public sector customer and partner ecosystem took the stage at...
+- **[50+ fully managed MCP servers now available for Google Cloud services](https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone/)** — Tue, 28 Apr 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next ‘26, we announced that more than 50 </span><a hr...
+- **[Google Cloud und das BSI C3A-Framework: Wie wir Digitale Souveränität in Deutschland konkret machen](https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-und-das-bsi-c3a-framework-wie-wir-digitale-souveranitat-in-deutschland-konkret-machen/)** — Tue, 28 Apr 2026 14:30:00 +0000
+  <div class="block-paragraph"><p>In unseren Gesprächen mit Führungskräften aus Wirtschaft und öffentlichem Sektor in Deutschland und Europa taucht imme...
+- **[Mapping a smarter future with BigQuery and Google Earth AI models and datasets](https://cloud.google.com/blog/products/data-analytics/google-earth-ai-models-and-datasets-in-bigquery/)** — Mon, 27 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Last year we </span><a href="https://cloud.google.com/blog/topics/sus...
+
+
 # ☁️ Cloud Updates — 2026-04-28 09:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -620,15 +651,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Toward a transparent supply chain for AI](https://research.ibm.com/blog/ai-bill-of-materials?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 18:00:00 GMT
   IBM Granite 4.0 has new machine-readable disclosures that are a first step toward a broader AI “bill of materials” that documents how the models were ...
-
-
-# ☁️ Cloud Updates — 2026-03-30 08:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure](https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/)** — Thu, 26 Feb 2026 17:54:12 +0000
-  Santander faced a significant technical challenge in managing an infrastructure that processes billions of daily transactions across more than 200 cri...
