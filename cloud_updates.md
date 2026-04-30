@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-04-30 09:11 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Extracting contract insights with PwC’s AI-driven annotation on AWS](https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/)** — Wed, 29 Apr 2026 21:19:39 +0000
+  This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant tim...
+- **[Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/)** — Wed, 29 Apr 2026 19:31:54 +0000
+  In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Managemen...
+- **[Building AI-ready data: Vanguard’s Virtual Analyst journey](https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/)** — Wed, 29 Apr 2026 11:56:33 +0000
+  In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS service...
+- **[Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime](https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/)** — Wed, 29 Apr 2026 11:52:16 +0000
+  This post shows you how to deploy a serverless MCP proxy on Amazon Bedrock AgentCore Runtime that gives you a programmable layer to implement proper g...
+
+## GCP Updates
+
+- **[The founder’s AI foundation: The top announcements for startups from Next ‘26](https://cloud.google.com/blog/topics/startups/the-top-startup-announcement-from-next26/)** — Wed, 29 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The momentum is undeniable: the world’s </span><a href="https://cloud...
+- **[UKG unlocks real-time workforce intelligence at scale with the Agentic Data Cloud](https://cloud.google.com/blog/products/databases/how-ukg-taps-workforce-intelligence-with-the-agentic-data-cloud/)** — Wed, 29 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At UKG, we’ve spent years building and expanding our human capital ma...
+
+## IBM Cloud Updates
+
+- **[Introducing the IBM Granite 4.1 family of models](https://research.ibm.com/blog/granite-4-1-ai-foundation-models?utm_medium=rss&utm_source=rss)** — Wed, 29 Apr 2026 15:00:00 GMT
+  IBM’s most expansive model release to date covers new language, vision, speech, embedding, and guardian models — tailored for enterprise workloads.
+- **[Building the future of computing, together](https://research.ibm.com/blog/building-the-future-of-computing-together?utm_medium=rss&utm_source=rss)** — Wed, 29 Apr 2026 11:00:00 GMT
+  IBM Research’s partnerships with MIT, ETH Zurich, and the University of Illinois will lead to next-generation AI and quantum algorithms and applicatio...
+
+
 # ☁️ Cloud Updates — 2026-04-29 09:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -625,29 +657,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   We spoke with Alessandro Curioni, director of the IBM Research Zurich lab, about the future of computing and IBM’s long and productive collaboration w...
 - **[IBM has a time-series model for every task](https://research.ibm.com/blog/time-series-ai-enterprise?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 14:15:00 GMT
   New versions of our popular time series models are best-in-class for point and probabilistic forecasting, and leaders in efficient inferencing.
-
-
-# ☁️ Cloud Updates — 2026-03-31 08:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
-  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
-- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
-  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: RSAC '26: AI, security, and the workforce of the future](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-rsac-26-ai-security-and-workforce-of-the-future/)** — Mon, 30 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for March 2026. Today, Nick Godfrey details his conversation with Franci...
-- **[How ID.me Scaled to 145M Users While Reducing Operational Risk](https://cloud.google.com/blog/products/databases/id-me-scales-and-fights-ai-fraud-with-alloydb/)** — Mon, 30 Mar 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note: </strong><span style="font-style...
-
-## IBM Cloud Updates
-
-- **[Toward a transparent supply chain for AI](https://research.ibm.com/blog/ai-bill-of-materials?utm_medium=rss&utm_source=rss)** — Thu, 26 Mar 2026 18:00:00 GMT
-  IBM Granite 4.0 has new machine-readable disclosures that are a first step toward a broader AI “bill of materials” that documents how the models were ...
