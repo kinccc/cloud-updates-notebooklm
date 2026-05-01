@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-05-01 09:00 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
+  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
+
+## Azure Updates
+
+- **[Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale](https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/)** — Thu, 30 Apr 2026 21:53:21 +0000
+  <p>Safe agents don’t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines what breaks when AI agents interact and why netw...
+
+## GCP Updates
+
+- **[What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)** — Thu, 30 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph"><p><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap...
+- **[Cloud CISO Perspectives: At Next ‘26, why we’re multicloud and multi-AI](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-next-26-why-we-re-multicloud-and-multi-ai/)** — Thu, 30 Apr 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for April 2026. Today, Francis deSouza, COO Google Cloud and President, ...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - May 2026 - The Powers of a Binary Matrix](https://research.ibm.com/blog/ponder-this-may-2026?utm_medium=rss&utm_source=rss)** — Fri, 01 May 2026 06:00:00 GMT
+  
+- **[AI-powered design comes to high-speed racing](https://research.ibm.com/blog/dallara-ai-accelerated-simulation?utm_medium=rss&utm_source=rss)** — Thu, 30 Apr 2026 10:00:00 GMT
+  IBM and Dallara are exploring how physics-based AI and quantum computing could improve the design of race cars and every day vehicles
+
+
 # ☁️ Cloud Updates — 2026-04-30 09:11 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -631,29 +664,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/)** — Wed, 01 Apr 2026 13:00:00 +0000
   March 2026 AI Recap showing new updates
-
-
-# ☁️ Cloud Updates — 2026-04-01 08:16 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Streamlining access to powerful disaster recovery capabilities of AWS](https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/)** — Tue, 31 Mar 2026 18:00:38 +0000
-  In this blog post, we take a building blocks approach. Starting with the tools like AWS Backup to protect your data, we then add protection for Amazon...
-- **[How Aigen transformed agricultural robotics for sustainable farming with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/)** — Mon, 30 Mar 2026 15:36:36 +0000
-  In this post, you will learn how Aigen modernized its machine learning (ML) pipeline with Amazon SageMaker AI to overcome industry-wide agricultural r...
-
-## GCP Updates
-
-- **[Change your Google Account username in a few simple steps.](https://blog.google/products-and-platforms/products/workspace/google-account-username-change/)** — Tue, 31 Mar 2026 10:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Email_SocialShare.max-600x600.format-webp.webp" />Here’s how to change your ...
-
-## IBM Cloud Updates
-
-- **[IBM Research and ETH Zurich open a new era of innovation](https://research.ibm.com/blog/ibm-eth-zurich-next-chapter?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 18:00:00 GMT
-  We spoke with Alessandro Curioni, director of the IBM Research Zurich lab, about the future of computing and IBM’s long and productive collaboration w...
-- **[IBM has a time-series model for every task](https://research.ibm.com/blog/time-series-ai-enterprise?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 14:15:00 GMT
-  New versions of our popular time series models are best-in-class for point and probabilistic forecasting, and leaders in efficient inferencing.
