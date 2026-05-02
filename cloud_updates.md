@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-05-02 08:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AWS Transform now automates BI migration to Amazon Quick in days](https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/)** — Fri, 01 May 2026 18:29:06 +0000
+  In this post, we walk through the full journey, from setting up your migration workspace in AWS Transform to subscribing to partner agents through AWS...
+- **[Reinforcement fine-tuning with LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/)** — Thu, 30 Apr 2026 20:07:25 +0000
+  In this post, we take a deeper look at how RLAIF or RL with LLM-as-a-judge works with Amazon Nova models effectively.
+- **[AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production](https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/)** — Thu, 30 Apr 2026 17:04:41 +0000
+  In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologie...
+- **[Sun Finance automates ID extraction and fraud detection with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/)** — Thu, 30 Apr 2026 17:00:45 +0000
+  In this post, we show how Sun Finance used Amazon Bedrock, Amazon Textract, and Amazon Rekognition to build an AI-powered identity verification (IDV) ...
+- **[Unleashing Agentic AI Analytics on Amazon SageMaker with Amazon Athena and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick/)** — Thu, 30 Apr 2026 16:52:40 +0000
+  This post demonstrates how agentic AI assistant from Amazon Quick transform data analytics into a self-service capability by using Amazon Simple Stora...
+
+## GCP Updates
+
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 01 May 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+
+
 # ☁️ Cloud Updates — 2026-05-01 09:00 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -641,26 +666,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Ponder This Challenge - April 2026 - The Unlabeled Clock](https://research.ibm.com/blog/ponder-this-april-2026?utm_medium=rss&utm_source=rss)** — Tue, 31 Mar 2026 22:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-04-02 08:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Automate safety monitoring with computer vision and generative AI](https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/)** — Wed, 01 Apr 2026 18:59:02 +0000
-  This post describes a solution that uses fixed camera networks to monitor operational environments in near real-time, detecting potential safety hazar...
-
-## Azure Updates
-
-- **[ADeLe: Predicting and explaining AI performance across tasks](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/)** — Wed, 01 Apr 2026 16:00:58 +0000
-  <p>AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that ...
-
-## GCP Updates
-
-- **[The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/)** — Wed, 01 Apr 2026 13:00:00 +0000
-  March 2026 AI Recap showing new updates
