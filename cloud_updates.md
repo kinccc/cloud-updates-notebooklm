@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-05-04 09:19 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
+  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
+
+
 # ☁️ Cloud Updates — 2026-05-03 08:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -620,35 +632,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-03-09T05:25:43+00:00
   <p> Incident began at <strong>2026-02-27 04:37</strong> and ended at <strong>2026-02-27 06:35</strong> <span>(all times are <strong>US/Pacific</strong...
-
-
-# ☁️ Cloud Updates — 2026-04-04 07:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Simulate realistic users to evaluate multi-turn AI agents in Strands Evals](https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/)** — Thu, 02 Apr 2026 17:34:02 +0000
-  In this post, we explore how ActorSimulator in Strands Evaluations SDK addresses the challenge with structured user simulation that integrates into yo...
-- **[Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows](https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/)** — Thu, 02 Apr 2026 13:30:57 +0000
-  This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM ...
-- **[Control which domains your AI agents can access](https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/)** — Thu, 02 Apr 2026 13:28:19 +0000
-  In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This pos...
-- **[Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract](https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/)** — Thu, 02 Apr 2026 12:59:31 +0000
-  Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solu...
-- **[Persist session state with filesystem configuration and execute shell commands](https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/)** — Thu, 02 Apr 2026 12:52:07 +0000
-  In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in ...
-
-## GCP Updates
-
-- **[Envoy: A future-ready foundation for agentic AI networking](https://cloud.google.com/blog/products/networking/the-case-for-envoy-networking-in-the-agentic-ai-era/)** — Fri, 03 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today's agentic AI environments, the network has a new set of resp...
-- **[Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai/)** — Fri, 03 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are introducing Veo 3.1 Lite, Google's most cost-effective video m...
-- **[How Honeylove boosts product quality and service efficiency with BigQuery](https://cloud.google.com/blog/products/data-analytics/how-honeylove-boosts-product-quality-and-service-efficiency-with-bigquery/)** — Thu, 02 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building the perfect bra takes thousands of data points.</span></p>
-<...
-- **[Introducing Gemma 4 on Google Cloud: Our most capable open models yet](https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud/)** — Thu, 02 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we are releasing</span><strong style="vertical-align: baseline...
