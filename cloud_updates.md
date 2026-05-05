@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-05-05 09:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions](https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/)** — Mon, 04 May 2026 17:46:32 +0000
+  Business leaders across industries rely on operational dashboards as the shared source of truth that their teams execute against daily. But dashboards...
+- **[Introducing the agent quality loop: AgentCore Optimization now in preview](https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/)** — Mon, 04 May 2026 17:13:42 +0000
+  Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform...
+- **[Agent-guided workflows to accelerate model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/)** — Mon, 04 May 2026 17:10:46 +0000
+  Amazon SageMaker AI now offers an agentic experience that changes this. Developers describe their use case using natural language, and the AI coding a...
+- **[Generate dashboards from natural language prompts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/)** — Mon, 04 May 2026 16:51:37 +0000
+  Building meaningful dashboards demands hours of manual setup, even for experienced BI professionals.&nbsp;Amazon Quick now generates complete multi-sh...
+- **[From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/)** — Mon, 04 May 2026 16:12:37 +0000
+  Amazon Quick introduces Amazon S3 Tables (Apache Iceberg tables) as a new data source. With this feature, customers can directly query and visualize A...
+
+## GCP Updates
+
+- **[Here’s how we’re helping Belgium's farmers save water with AI.](https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/)** — Tue, 05 May 2026 09:00:00 +0000
+  Agrow’s technology platform integrates climate, water and soil data from satellite and thermal imagery to provide precise irrigation and fertilization...
+- **[The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/)** — Mon, 04 May 2026 17:00:00 +0000
+  mp4 featuring an underwater video and a mobile AI video mockup.
+
+## IBM Cloud Updates
+
+- **[A decade of quantum on the cloud](https://research.ibm.com/blog/decade-of-quantum?utm_medium=rss&utm_source=rss)** — Mon, 04 May 2026 04:01:00 GMT
+  How a single decision democratized quantum research, launched a new industry, and changed lives around the world.
+
+
 # ☁️ Cloud Updates — 2026-05-04 09:19 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -619,16 +651,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-05 07:54 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-03-09T05:25:43+00:00
-  <p> Incident began at <strong>2026-02-27 04:37</strong> and ended at <strong>2026-02-27 06:35</strong> <span>(all times are <strong>US/Pacific</strong...
