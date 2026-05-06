@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-05-06 09:22 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights](https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/)** — Tue, 05 May 2026 16:55:42 +0000
+  Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and ma...
+- **[Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/)** — Tue, 05 May 2026 16:55:18 +0000
+  Today, we’re excited to announce that Amazon SageMaker AI MLflow Apps now support MLflow version 3.10, bringing enhanced capabilities for generative A...
+- **[Introducing OS Level Actions in Amazon Bedrock AgentCore Browser](https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/)** — Tue, 05 May 2026 16:54:35 +0000
+  We’re announcing OS Level Actions for AgentCore Browser. This new capability unblocks these scenarios by exposing direct OS control through the Invoke...
+- **[Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS](https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/)** — Tue, 05 May 2026 15:27:30 +0000
+  AI agents in production require secure access to external services. Amazon Bedrock AgentCore Identity, available as a standalone service, secures how ...
+- **[Intelligence-driven message defense and insights using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/)** — Tue, 05 May 2026 15:20:54 +0000
+  In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business prote...
+
+## Azure Updates
+
+- **[Microsoft at NSDI 2026: Advances in large-scale networked systems](https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/)** — Tue, 05 May 2026 16:00:00 +0000
+  <p>Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing i...
+
+## GCP Updates
+
+- **[Public sector momentum and mission impact at Google Cloud Next ‘26](https://cloud.google.com/blog/topics/public-sector/public-sector-momentum-and-mission-impact-at-google-cloud-next-26/)** — Tue, 05 May 2026 21:00:00 +0000
+  <div class="block-paragraph"><p>The agentic era is here, and the public sector is at the forefront of leading this transformation.</p><p>At Google Clo...
+- **[Five must-have guides to move agents into production with Gemini Enterprise Agent Platform](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents/)** — Tue, 05 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building AI agents that work well in a demo is one thing, but running...
+- **[Introducing Agent Gateway ISV ecosystem for security and governance](https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance/)** — Tue, 05 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing agents and their actions can quickly grow in complexity and ...
+- **[Cloud Engineer’s AI Toolkit: Sign up Now for a Developer Workshop Near You!](https://cloud.google.com/blog/topics/developers-practitioners/cloud-engineers-ai-toolkit-sign-up-now-for-a-developer-workshop-near-you/)** — Tue, 05 May 2026 15:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The world of AI is rapidly shifting from experimental Large Language ...
+- **[Scaling data and AI with Managed Service for Apache Airflow](https://cloud.google.com/blog/products/data-analytics/managed-apache-airflow-scaling-data-and-ai-workloads/)** — Mon, 04 May 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Orchestration is no longer just about moving data; it is about govern...
+
+## IBM Cloud Updates
+
+- **[Quantum-centric supercomputing simulates 12,635-atom protein](https://research.ibm.com/blog/cleveland-clinic-riken-chemistry?utm_medium=rss&utm_source=rss)** — Tue, 05 May 2026 04:01:00 GMT
+  A team from Cleveland Clinic, RIKEN, and IBM used two IBM quantum computers and two supercomputers to model biologically relevant molecules at scale.
+
+
 # ☁️ Cloud Updates — 2026-05-05 09:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -645,9 +688,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">By design, </span><a href="https://cloud.google.com/looker"><span sty...
 - **[Conversational Analytics now available for Looker Embedded environments](https://cloud.google.com/blog/products/business-intelligence/looker-embedded-adds-conversational-analytics/)** — Mon, 06 Apr 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/looker-embedded"><span style="text-decoration: underline; vertical-align: b...
-
-
-# ☁️ Cloud Updates — 2026-04-06 08:22 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
