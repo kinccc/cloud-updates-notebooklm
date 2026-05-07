@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-05-07 09:32 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2](https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/)** — Wed, 06 May 2026 15:37:08 +0000
+  Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To red...
+
+## GCP Updates
+
+- **[Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX](https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax/)** — Wed, 06 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI coding agents are rapidly becoming ubiquitous across the software ...
+- **[The Blueprint: Translating stream-of-conscious speech into responsive, actionable task lists](https://cloud.google.com/blog/topics/startups/the-blueprint-doist-stream-of-consciousness-ai-task-list-creation/)** — Wed, 06 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a new feature where we ...
+- **[Fitting the future: How Breuninger boosted sales with its "be your own model" AI](https://cloud.google.com/blog/topics/retail/how-breuninger-boosted-sales-with-its-be-your-own-model-ai/)** — Wed, 06 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">“How will this look on me?” It’s the question every online fashion sh...
+- **[What's new in IAM: Security, governance, and runtime defense](https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/)** — Wed, 06 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The AI era demands a fundamental shift in security, and that includes...
+- **[Google named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies](https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cyberthreat-intelligence-technologies/)** — Wed, 06 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google, we see firsthand how cyber threats can outpace traditional...
+
+
 # ☁️ Cloud Updates — 2026-05-06 09:22 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -665,26 +690,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://www.rightmove.co.uk/" rel="noopener" targe...
 - **[Build music generation into your apps with Lyria 3 models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/lyria-3-and-lyria-3-pro-on-vertex-ai/)** — Tue, 07 Apr 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">What’s new: </strong><a href="https://deepmind.google/models/lyria/...
-
-
-# ☁️ Cloud Updates — 2026-04-07 08:12 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/)** — Mon, 06 Apr 2026 21:14:13 +0000
-  In this post, we walk through the new installation experience, demonstrate three deployment methods (console, CLI, and Terraform), and show how featur...
-
-## GCP Updates
-
-- **[AI infrastructure efficiency: Ironwood TPUs deliver 3.7x carbon efficiency gains](https://cloud.google.com/blog/topics/systems/ironwood-tpus-deliver-37x-carbon-efficiency-gains/)** — Mon, 06 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;"><span style="vertical-align: baseline;">At Google, we are committed t...
-- **[How a leading consumer insight brand uses Dataproc to hyper-personalise faster](https://cloud.google.com/blog/topics/retail/how-a-leading-consumer-insight-brand-uses-dataproc-to-hyper-personalise-faster/)** — Mon, 06 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://www.rvu.co.uk/" rel="noopener" target="_bl...
-- **[Introducing Looker self-service Explores for faster ad-hoc analysis](https://cloud.google.com/blog/products/business-intelligence/looker-self-service-explores/)** — Mon, 06 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">By design, </span><a href="https://cloud.google.com/looker"><span sty...
-- **[Conversational Analytics now available for Looker Embedded environments](https://cloud.google.com/blog/products/business-intelligence/looker-embedded-adds-conversational-analytics/)** — Mon, 06 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/looker-embedded"><span style="text-decoration: underline; vertical-align: b...
