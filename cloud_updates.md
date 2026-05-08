@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-05-08 08:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+## GCP Updates
+
+- **[Find out how AlphaEvolve has gone from research to solving real-life problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/)** — Thu, 07 May 2026 15:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/alphaevolve_hero.max-600x600.format-webp.webp" />AlphaEvolve has become a po...
+
+## IBM Cloud Updates
+
+- **[IBM is modeling the universe with quantum computing](https://research.ibm.com/blog/ibm-think-2026-modeling-the-universe-with-quantum-computing?utm_medium=rss&utm_source=rss)** — Thu, 07 May 2026 13:45:00 GMT
+  At Think 2026, IBM Research leadership emphasized that useful quantum computing is already here.
+- **[What is sample-based quantum diagonalization?](https://research.ibm.com/blog/how-to-use-sample-based-quantum-diagonalization-on-ibm-hardware?utm_medium=rss&utm_source=rss)** — Wed, 06 May 2026 14:30:14 GMT
+  A new video from IBM shows how quantum and classical hardware work in tandem to perform massive calculations that can help unlock materials science my...
+
+
 # ☁️ Cloud Updates — 2026-05-07 09:32 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -657,36 +681,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, at the Apache Iceberg Summit in San Francisco, we are announci...
 - **[Experimenting with GPUs: GKE managed DRANET and Inference Gateway AI Deployment](https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-gpus-gke-managed-dranet-and-inference-gateway-ai-deployment/)** — Wed, 08 Apr 2026 10:05:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building and serving models on infrastructure is a strong use case fo...
-
-
-# ☁️ Cloud Updates — 2026-04-08 08:12 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Manage AI costs with Amazon Bedrock Projects](https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/)** — Tue, 07 Apr 2026 23:32:00 +0000
-  With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In t...
-- **[Building real-time conversational podcasts with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/)** — Tue, 07 Apr 2026 16:29:11 +0000
-  This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating t...
-- **[Text-to-SQL solution powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/)** — Tue, 07 Apr 2026 16:28:20 +0000
-  In this post, we show you how to build a natural text-to-SQL solution using Amazon Bedrock that transforms business questions into database queries&nb...
-- **[Build AI-powered employee onboarding agents with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/)** — Mon, 06 Apr 2026 18:00:06 +0000
-  In this post, we walk through building a custom HR onboarding agent with Quick. We show how to configure an agent that understands your organization’s...
-- **[Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/)** — Mon, 06 Apr 2026 17:54:00 +0000
-  In this post, we walk through how we fine-tuned Qwen 2.5 7B Instruct for tool calling using RLVR. We cover dataset preparation across three distinct a...
-
-## GCP Updates
-
-- **[Claude Mythos Preview: Available in private preview on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai/)** — Tue, 07 Apr 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Claude Mythos Preview, Anthropic’s newest and most powerful model, is...
-- **[See beyond the IP and secure URLs with Google Cloud NGFW](https://cloud.google.com/blog/products/identity-security/see-beyond-the-ip-and-secure-urls-with-google-cloud-ngfw/)** — Tue, 07 Apr 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a cloud-first world, traditional IP-based defenses are no longer e...
-- **[Ultimate prompting guide for Lyria 3 models](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-lyria-3-pro/)** — Tue, 07 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://deepmind.google/models/lyria/" rel="noopener" target="_blank"><span style="text-decoration: ...
-- **[Under one roof: Rightmove reinvents property search with unified data](https://cloud.google.com/blog/products/data-analytics/how-unified-data-is-helping-rightmove-reinvent-property-search/)** — Tue, 07 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://www.rightmove.co.uk/" rel="noopener" targe...
-- **[Build music generation into your apps with Lyria 3 models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/lyria-3-and-lyria-3-pro-on-vertex-ai/)** — Tue, 07 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">What’s new: </strong><a href="https://deepmind.google/models/lyria/...
