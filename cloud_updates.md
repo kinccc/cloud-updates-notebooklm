@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-05-11 10:38 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-05-10 08:54 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -638,24 +670,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-11 07:50 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Accelerating data curation with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/data-curation-accelerators-for-google-data-cloud/)** — Fri, 10 Apr 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the enterprise landscape, data is often highly fragmented across m...
-- **[Accelerating innovation and impact across the public sector](https://cloud.google.com/blog/topics/public-sector/accelerating-innovation-and-impact-across-the-public-sector/)** — Fri, 10 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Leaders across industries around the world are asking: How do we harness all of this powerful technology effectively a...
-- **[How SAP Concur automates expense reporting with agentic AI](https://cloud.google.com/blog/products/ai-machine-learning/how-sap-concur-automates-expense-reporting-with-agentic-ai/)** — Fri, 10 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For decades, expense automation relied on a simple premise: If the ma...
-- **[Near-100% Accurate Data for your Agent with Comprehensive Context Engineering](https://cloud.google.com/blog/products/databases/how-to-get-your-agent-near-100-percent-accurate-data/)** — Fri, 10 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agentic workflows are already used for initiating action. To be succe...
-- **[QueryData helps agents turn natural language into queries for AlloyDB, Cloud SQL and Spanner](https://cloud.google.com/blog/products/databases/introducing-querydata-for-near-100-percent-accurate-data-agents/)** — Fri, 10 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">QueryData launches in preview today. It is a tool for translating nat...
