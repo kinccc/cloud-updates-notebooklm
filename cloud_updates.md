@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-05-12 09:39 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Choosing between single or multiple organizations in AWS Organizations](https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/)** — Mon, 11 May 2026 18:56:38 +0000
+  Organizations face critical architectural decisions that can impact their operations for years to come such as: Is it better to maintain a single orga...
+
+## Azure Updates
+
+- **[SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/)** — Mon, 11 May 2026 17:19:28 +0000
+  <p>Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s pos...
+
+## GCP Updates
+
+- **[Read our new report on AI-powered threats and our latest defenses.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/)** — Mon, 11 May 2026 15:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ou...
+
+
 # ☁️ Cloud Updates — 2026-05-11 10:38 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -660,13 +682,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-04-13 09:00 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-12 08:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
