@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-05-13 09:44 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building hybrid multi-tenant architecture for stateful services on AWS](https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/)** — Tue, 12 May 2026 13:26:49 +0000
+  In this post, we show you how to build a hybrid multi-tenant architecture that provides strong tenant isolation without requiring per-tenant AWS accou...
+
+## Azure Updates
+
+- **[Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/)** — Tue, 12 May 2026 13:00:00 +0000
+  <p>MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulat...
+
+## GCP Updates
+
+- **[SAP SAPPHIRE 2026: Google Cloud unveils unified agentic vision and massive compute scaling](https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/)** — Tue, 12 May 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today's hyper-connected market, an enterprise's most valuable asse...
+- **[Beyond source code: The files AI coding agents trust — and attackers exploit](https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit/)** — Tue, 12 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As AI coding agents become deeply embedded in developer workflows, de...
+- **[How Imgix processes 8 billion images daily with G4 VMs powered by NVIDIA Blackwell](https://cloud.google.com/blog/products/infrastructure/how-imgix-processes-8-billion-images-daily-with-g4-vms-powered-by-nvidia-blackwell/)** — Tue, 12 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The modern web is extremely visual. People are busy and easily-distra...
+- **[Meet the latest Database Center, now with Gemini-powered fleet intelligence](https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26/)** — Mon, 11 May 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing a modern database fleet is both a scale and cognitive proble...
+- **[Cloud Storage Rapid: Turbocharged object storage for AI and analytics](https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/)** — Mon, 11 May 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next ’26 we </span><a href="https://cloud.google.com/...
+
+## IBM Cloud Updates
+
+- **[MIT and IBM renew their research collaboration](https://research.ibm.com/blog/mit-ibm-computing-david-cox?utm_medium=rss&utm_source=rss)** — Mon, 11 May 2026 15:00:00 GMT
+  We spoke with IBM’s David Cox about the lab's evolution and what it takes for an industry-academia collaboration to succeed.
+
+
 # ☁️ Cloud Updates — 2026-05-12 09:39 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -679,9 +714,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM demonstrates extreme scale with a 100B vector database](https://research.ibm.com/blog/cas-100-billion-vector-storage-ai?utm_medium=rss&utm_source=rss)** — Mon, 13 Apr 2026 16:00:00 GMT
   The storage-centric vector database fits on a single server to help scale retrieval-augmented generation, unlocking new value from enterprise data.
-
-
-# ☁️ Cloud Updates — 2026-04-13 09:00 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
