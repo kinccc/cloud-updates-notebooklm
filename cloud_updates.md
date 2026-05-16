@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-05-16 08:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## Azure Updates
+
+- **[Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/)** — Fri, 15 May 2026 18:06:57 +0000
+  <p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workfl...
+
+## GCP Updates
+
+- **[Gemini Live Agent Challenge: Announcing the winners and highlights](https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge/)** — Fri, 15 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The Gemini Live Agent Challenge is officially in the books! We challe...
+- **[Welcome to BlackFile: Inside a Vishing Extortion Operation](https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/)** — Fri, 15 May 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo</p>
+<hr /></div>
+<div class="block-para...
+
+
 # ☁️ Cloud Updates — 2026-05-15 09:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -717,35 +743,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How IBM Quantum is enabling healthcare and biology research](https://research.ibm.com/blog/q4bio-finalists?utm_medium=rss&utm_source=rss)** — Thu, 16 Apr 2026 12:00:00 GMT
   In the first ever Q4Bio Challenge, research teams sought to demonstrate scalable quantum algorithms for healthcare, with \$2 million in prize money on...
-
-
-# ☁️ Cloud Updates — 2026-04-16 08:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
-  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: How CISOs can pursue technical and cultural resilience (Q&A)](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cisos-can-pursue-technical-and-cultural-resilience-q-a/)** — Wed, 15 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for April 2026. Today, Thiébaut Meyer and Lia Wertheimer from Google Clou...
-- **[Cool stuff Google Cloud customers built, April edition: BMW big on SLMs, MLB’s Scout Insights AI, personalized resort experiences](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)** — Wed, 15 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">AI and cloud technology are reshaping every corne...
-- **[Guide to prompting Gemini 3.1 Flash TTS (text-to-speech)](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud/)** — Wed, 15 Apr 2026 15:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, Gemini 3.1 Flash TTS, our latest text-to-speech model, is avai...
-- **[The German Cyber Criminal Überfall: Shifts in Europe's Data Leak Landscape](https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landscape/)** — Wed, 15 Apr 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Jamie Collier, Robin Grunewald</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><p><span st...
-- **[Introducing BigQuery Graph: Unlock hidden relationships in your data](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph/)** — Tue, 14 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we're thrilled to announce that </span><strong style="vertical...
-
-## IBM Cloud Updates
-
-- **[Mid-training is essential for LLM reasoning, IBM study shows](https://research.ibm.com/blog/mid-training-for-better-ai-reasoning?utm_medium=rss&utm_source=rss)** — Wed, 15 Apr 2026 13:30:00 GMT
-  Adding a step between pre-training and post-training matters more than people may think.
