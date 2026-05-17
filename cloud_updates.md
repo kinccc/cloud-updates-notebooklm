@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-05-17 09:05 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
+  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
+
+
 # ☁️ Cloud Updates — 2026-05-16 08:47 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -703,43 +715,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note: </strong><span style="font-style...
 - **[Create Expert Content: Deploying a Multi-Agent System with Terraform and Cloud Run](https://cloud.google.com/blog/topics/developers-practitioners/create-expert-content-deploying-a-multi-agent-system-with-terraform-and-cloud-run/)** — Fri, 17 Apr 2026 08:56:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In support of our mission to accelerate the developer journey on Goog...
-
-
-# ☁️ Cloud Updates — 2026-04-17 08:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference](https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/)** — Thu, 16 Apr 2026 17:43:03 +0000
-  In this post, we demonstrate two approaches to fine-tune Amazon Nova Micro for custom SQL dialect generation to deliver both cost efficiency and produ...
-- **[Transform retail with AWS generative AI services](https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/)** — Thu, 16 Apr 2026 17:39:56 +0000
-  Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and d...
-- **[How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance](https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/)** — Thu, 16 Apr 2026 17:34:42 +0000
-  In this post, you'll learn why probabilistic AI validation falls short in regulated industries and how Automated Reasoning checks use formal verificat...
-- **[Create rich, custom tooltips in Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/)** — Wed, 15 Apr 2026 15:22:53 +0000
-  Today, we're announcing sheet tooltips in Amazon Quick Sight. Dashboard authors can now design custom tooltip layouts using free-form layout sheets. T...
-- **[Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM](https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/)** — Wed, 15 Apr 2026 15:20:58 +0000
-  In this post, you will learn how speculative decoding works and why it helps reduce cost per generated token on AWS Trainium2.
-
-## GCP Updates
-
-- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 16 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">April 13 - April 17</span></h3>
-<ul>
-<li><span style="vertical-align...
-- **[How WPP accelerates humanoid robot training 10x with G4 VMs](https://cloud.google.com/blog/products/infrastructure/wpp-humanoid-robots-ai-training/)** — Thu, 16 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">Editor’s note:</strong><span style="vertical-align: baseline;"> </s...
-- **[Go from blank slate to analysis with BigQuery Studio notebook gallery templates](https://cloud.google.com/blog/products/data-analytics/templates-in-bigquery-studio-notebook-gallery/)** — Thu, 16 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For many data professionals, the most daunting part of a new project ...
-- **[Defending Your Enterprise When AI Models Can Find Vulnerabilities Faster Than Ever](https://cloud.google.com/blog/topics/threat-intelligence/defending-enterprise-ai-vulnerabilities/)** — Thu, 16 Apr 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
-- **[Building the agentic future: A spotlight on Google Cloud’s media & entertainment partner ecosystem](https://cloud.google.com/blog/products/media-entertainment/agentic-media-and-entertainment-is-here-see-how-our-ecosystem-helps-build-it/)** — Thu, 16 Apr 2026 13:15:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As we gather in Las Vegas for </span><a href="https://www.nabshow.com...
-
-## IBM Cloud Updates
-
-- **[How IBM Quantum is enabling healthcare and biology research](https://research.ibm.com/blog/q4bio-finalists?utm_medium=rss&utm_source=rss)** — Thu, 16 Apr 2026 12:00:00 GMT
-  In the first ever Q4Bio Challenge, research teams sought to demonstrate scalable quantum algorithms for healthcare, with \$2 million in prize money on...
