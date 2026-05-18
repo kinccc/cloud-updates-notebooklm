@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-05-18 11:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3](https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/)** — Fri, 15 May 2026 15:41:00 +0000
+  In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify...
+
+## GCP Updates
+
+- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 14 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;"><span style="vertical-align: baseline;">May 11 - May 15</span></span...
+
+
 # ☁️ Cloud Updates — 2026-05-17 09:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -687,31 +704,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-18 07:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing granular cost attribution for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/)** — Fri, 17 Apr 2026 22:04:15 +0000
-  In this post, we share how Amazon Bedrock's granular cost attribution works and walk through example cost tracking scenarios.
-- **[Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/)** — Fri, 17 Apr 2026 19:43:38 +0000
-  In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a la...
-- **[Power video semantic search with Amazon Nova Multimodal Embeddings](https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/)** — Fri, 17 Apr 2026 19:43:35 +0000
-  In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understa...
-- **[Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities](https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/)** — Fri, 17 Apr 2026 17:27:40 +0000
-  This hands-on guide walks through every step of fine-tuning an Amazon Nova model with the Amazon Nova Forge SDK, from data preparation to training wit...
-- **[From hours to minutes: How Agentic AI gave marketers time back for what matters](https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters/)** — Fri, 17 Apr 2026 17:12:10 +0000
-  In this post, we share how AWS Marketing’s Technology, AI, and Analytics (TAA) team worked with Gradial to build an agentic AI solution on Amazon Bedr...
-
-## GCP Updates
-
-- **[Evolving Media CDN for the world’s most demanding broadcast and streaming workloads](https://cloud.google.com/blog/products/networking/media-cdn-and-trends-in-content-delivery/)** — Fri, 17 Apr 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note: </strong><span style="font-style...
-- **[Create Expert Content: Deploying a Multi-Agent System with Terraform and Cloud Run](https://cloud.google.com/blog/topics/developers-practitioners/create-expert-content-deploying-a-multi-agent-system-with-terraform-and-cloud-run/)** — Fri, 17 Apr 2026 08:56:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In support of our mission to accelerate the developer journey on Goog...
