@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-05-19 10:36 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Prompting Amazon Nova 2 for content moderation](https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/)** — Mon, 18 May 2026 18:56:36 +0000
+  In this post, you learn how to prompt Amazon Nova 2 Lite for content moderation using structured and free-form approaches, grounded in the MLCommons A...
+- **[Aderant transforms cloud operations with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/)** — Mon, 18 May 2026 17:26:40 +0000
+  In this post, we share how Aderant used the AI-powered capabilities of Amazon Quick to unify search across six vendor systems and automate documentati...
+- **[Integrate Atlassian Confluence Cloud with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/)** — Mon, 18 May 2026 15:37:55 +0000
+  In this post, you will learn how to set up the Confluence Cloud integration with Quick. This includes creating a knowledge base for semantic search, s...
+- **[Build custom code-based evaluators in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/)** — Mon, 18 May 2026 15:07:15 +0000
+  In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and...
+
+## GCP Updates
+
+- **[Blackstone will create a new TPU cloud in a joint venture with Google.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/)** — Tue, 19 May 2026 01:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp" />Blackstone ann...
+
+
 # ☁️ Cloud Updates — 2026-05-18 11:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -694,13 +717,6 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 # ☁️ Cloud Updates — 2026-04-20 09:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-19 08:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
