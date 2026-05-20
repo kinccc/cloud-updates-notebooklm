@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-05-20 10:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/)** — Tue, 19 May 2026 15:09:36 +0000
+  This post explores how ALS GeoAnalytics successfully deployed LITHOLENS ™ with Amazon Elastic Kubernetes Service (Amazon EKS) to scale model training ...
+- **[How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances](https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/)** — Tue, 19 May 2026 15:06:40 +0000
+  This post introduces a video decoding optimization technique that we have ideated in collaboration with Synthesia Research Engineering team, which we ...
+
+## GCP Updates
+
+- **[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)** — Tue, 19 May 2026 17:45:00 +0000
+  A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text "Is this generated with AI?", and action icons for adding fi...
+- **[New ways to create and get things done in Google Workspace](https://blog.google/products-and-platforms/products/workspace/workspace-updates/)** — Tue, 19 May 2026 17:45:00 +0000
+  Google Workspace
+- **[I/O 2026: Welcome to the agentic Gemini era](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/)** — Tue, 19 May 2026 17:45:00 +0000
+  a series of colorful icons representing Google I/O against a black background
+
+
 # ☁️ Cloud Updates — 2026-05-19 10:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -714,9 +737,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Explore the latest updates, releases, and resources from IBM Quantum and Qiskit.
 - **[Release News: Qiskit v2.4 is here!](https://research.ibm.com/blog/qiskit-2-4-release-summary?utm_medium=rss&utm_source=rss)** — Mon, 20 Apr 2026 04:00:00 GMT
   Detailed technical release summary for Qiskit SDK v2.4
-
-
-# ☁️ Cloud Updates — 2026-04-20 09:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
