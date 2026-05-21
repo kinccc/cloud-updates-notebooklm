@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-05-21 10:39 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events](https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/)** — Wed, 20 May 2026 17:32:57 +0000
+  Cyber resilience is the ability to recover workloads to a known-good state after an adversary has affected the environment. Prevention works to keep t...
+
+## GCP Updates
+
+- **[A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)** — Wed, 20 May 2026 16:45:00 +0000
+  A small group meeting featuring two in-room participants and three participants on-screen.
+
+## IBM Cloud Updates
+
+- **[How researchers built a record-setting quantum circuit](https://research.ibm.com/blog/qft-benchmark?utm_medium=rss&utm_source=rss)** — Wed, 20 May 2026 04:00:00 GMT
+  New demonstration of a 52-qubit quantum Fourier transform shows how ecosystem innovation improves algorithm performance on quantum hardware.
+
+
 # ☁️ Cloud Updates — 2026-05-20 10:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -709,31 +731,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Our new </span><a href="https://developers.google.com/program/gear/" ...
 - **[Introducing the Builders Hub from the Google Developer Program](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-builders-hub-from-the-google-developer-program/)** — Tue, 21 Apr 2026 13:26:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s developer experience is often spread across dozens of console...
-
-
-# ☁️ Cloud Updates — 2026-04-21 08:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances](https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/)** — Mon, 20 Apr 2026 19:38:10 +0000
-  Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker ...
-- **[ToolSimulator: scalable tool testing for AI agents](https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/)** — Mon, 20 Apr 2026 17:06:26 +0000
-  You can use ToolSimulator, an&nbsp;LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on ex...
-- **[Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/)** — Mon, 20 Apr 2026 15:03:28 +0000
-  In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy...
-
-## Azure Updates
-
-- **[Can we AI our way to a more sustainable world?](https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/)** — Mon, 20 Apr 2026 16:24:01 +0000
-  <p>Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter ope...
-
-## IBM Cloud Updates
-
-- **[What's new at IBM Quantum Q1 2026](https://research.ibm.com/blog/whats-new-q1-2026?utm_medium=rss&utm_source=rss)** — Mon, 20 Apr 2026 04:00:00 GMT
-  Explore the latest updates, releases, and resources from IBM Quantum and Qiskit.
-- **[Release News: Qiskit v2.4 is here!](https://research.ibm.com/blog/qiskit-2-4-release-summary?utm_medium=rss&utm_source=rss)** — Mon, 20 Apr 2026 04:00:00 GMT
-  Detailed technical release summary for Qiskit SDK v2.4
