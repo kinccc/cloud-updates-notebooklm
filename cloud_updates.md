@@ -1,3 +1,42 @@
+# ☁️ Cloud Updates — 2026-05-22 10:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Nova Act is now HIPAA eligible](https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/)** — Thu, 21 May 2026 22:22:28 +0000
+  In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started.
+- **[Intelligent radiology workflow optimization with AI agents](https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/)** — Thu, 21 May 2026 19:11:09 +0000
+  Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, c...
+- **[Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime](https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/)** — Thu, 21 May 2026 16:32:09 +0000
+  This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services th...
+- **[Building multi-tenant agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/)** — Thu, 21 May 2026 16:16:09 +0000
+  This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture...
+- **[Break the context window barrier with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore/)** — Thu, 21 May 2026 16:08:54 +0000
+  In this post, you will learn how to implement Recursive Language Models (RLM) using Amazon Bedrock AgentCore Code Interpreter and the Strands Agents S...
+
+## Azure Updates
+
+- **[MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/)** — Thu, 21 May 2026 17:00:00 +0000
+  <p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialize...
+- **[Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/)** — Thu, 21 May 2026 13:48:40 +0000
+  <p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>
+<p>T...
+
+## GCP Updates
+
+- **[The top announcements for startups from Google I/O ‘26](https://cloud.google.com/blog/topics/startups/startup-news-from-io-and-what-it-means-to-founders/)** — Thu, 21 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many of the world’s fastest-growing AI startups are choosing to build...
+- **[AI Studio unlocks full-stack vibe coding with Cloud Run, Firebase, and Cloud SQL, no credit card required](https://cloud.google.com/blog/products/databases/vibe-coded-ai-studio-apps-with-firestore-firebase-cloud-sql/)** — Thu, 21 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At</span><a href="https://io.google/2026/" rel="noopener" target="_bl...
+- **[Shipping features to production just got easier with new feature flags in AppLifecycle Manager](https://cloud.google.com/blog/products/application-development/new-feature-flags-in-applifecycle-manager/)** — Thu, 21 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many development teams are familiar with the hesitation that comes ri...
+- **[Securing Your Gemini and Google API Keys](https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets/)** — Thu, 21 May 2026 10:19:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, AI services rely heavily on API keys. To run AI agents, users ...
+
+
 # ☁️ Cloud Updates — 2026-05-21 10:39 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -706,28 +745,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM's Hanhee Paik on the new IBM-UIUC agreement](https://research.ibm.com/blog/hanhee-paik-interview-on-qcsc-algorithms?utm_medium=rss&utm_source=rss)** — Tue, 21 Apr 2026 17:00:00 GMT
   We spoke with her about quantum-centric supercomputing and how her career path has mirrored quantum’s remarkable rise.
-
-
-# ☁️ Cloud Updates — 2026-04-22 08:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight](https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/)** — Tue, 21 Apr 2026 16:37:12 +0000
-  This post explores how Oldcastle used AWS services to transform their analytics and AI capabilities by integrating Infor ERP with Amazon Aurora and Am...
-
-## GCP Updates
-
-- **[Announcing our 2026 Google Cloud Partners of the Year](https://cloud.google.com/blog/topics/partners/2026-partners-of-the-year-winners-next26/)** — Tue, 21 Apr 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud is honored to present the 2026 Partner of the Year winne...
-- **[Building the foundation for AI across the public sector through our partner ecosystem](https://cloud.google.com/blog/topics/public-sector/building-the-foundation-for-ai-across-the-public-sector-through-our-partner-ecosystem/)** — Tue, 21 Apr 2026 19:00:00 +0000
-  <div class="block-paragraph"><p>The demand for AI within the public sector has never been higher. Practitioners and CXO’s are looking for ways to harn...
-- **[From keynote to the terminal: Join our Next ‘26 developer livestreams](https://cloud.google.com/blog/topics/developers-practitioners/join-our-next26-developer-livestreams/)** — Tue, 21 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The main stage at Google Cloud Next is where the vision is set. This ...
-- **[GEAR up to get the most out of AI learning at Google Cloud Next ‘26](https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26/)** — Tue, 21 Apr 2026 15:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Our new </span><a href="https://developers.google.com/program/gear/" ...
-- **[Introducing the Builders Hub from the Google Developer Program](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-builders-hub-from-the-google-developer-program/)** — Tue, 21 Apr 2026 13:26:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s developer experience is often spread across dozens of console...
