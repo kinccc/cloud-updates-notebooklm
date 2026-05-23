@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-05-23 09:01 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[The Blueprint: How Movix fills a gap in dental skills with specialized agentic AI](https://cloud.google.com/blog/topics/startups/filling-the-gaps-in-dental-skills-with-specialized-agentic-ai/)** — Fri, 22 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a regular feature where...
+
+
 # ☁️ Cloud Updates — 2026-05-22 10:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -710,38 +722,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A new AI model for probing fusion plasma behavior](https://research.ibm.com/blog/fusion-plasma-ai-model?utm_medium=rss&utm_source=rss)** — Thu, 23 Apr 2026 14:00:00 GMT
   Co-designed by IBM, the UKAEA, and STFC Hartree Centre, the model could help to advance nuclear fusion as an alternative to fossil fuels.
-
-
-# ☁️ Cloud Updates — 2026-04-23 08:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS](https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/)** — Wed, 22 Apr 2026 15:33:54 +0000
-  This post explores how PACIFIC enables multi-tenant, sovereign PCF exchange on the Catena-X data space using Amazon Elastic Container Service (Amazon ...
-
-## Azure Updates
-
-- **[AutoAdapt: Automated domain adaptation for large language models](https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/)** — Wed, 22 Apr 2026 16:25:30 +0000
-  <p>Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine,...
-
-## GCP Updates
-
-- **[10 leading enterprises show why agents mean business](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-customer-round-up/)** — Wed, 22 Apr 2026 18:45:00 +0000
-  Blog hero
-- **[1,302 real-world gen AI use cases from the world's leading organizations](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/)** — Wed, 22 Apr 2026 16:00:00 +0000
-  Text reads "Google Cloud Next 26"
-- **[Gemini Enterprise Agent Platform lets you build, govern and optimize your agents.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/)** — Wed, 22 Apr 2026 13:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiEnterprise_social.max-600x600.format-webp.webp" />This new platform cr...
-- **[Google Cloud Next ‘26](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/)** — Wed, 22 Apr 2026 12:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Collection_Header.max-600x600.format-webp.webp" />Here’s a look a...
-- **[Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)** — Wed, 22 Apr 2026 12:00:00 +0000
-  Computer chips
-
-## IBM Cloud Updates
-
-- **[IBM's Hanhee Paik on the new IBM-UIUC agreement](https://research.ibm.com/blog/hanhee-paik-interview-on-qcsc-algorithms?utm_medium=rss&utm_source=rss)** — Tue, 21 Apr 2026 17:00:00 GMT
-  We spoke with her about quantum-centric supercomputing and how her career path has mirrored quantum’s remarkable rise.
