@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-05-24 09:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-05-23 09:01 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -700,25 +707,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[7 highlights from Google Cloud Next ‘26](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/)** — Fri, 24 Apr 2026 18:00:00 +0000
   Wide view of a large audience in a purple-lit arena looking at a main stage screen displaying "Google Cloud NEXT".
-
-
-# ☁️ Cloud Updates — 2026-04-24 08:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Modernizing KYC with AWS serverless solutions and agentic AI for financial services](https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/)** — Thu, 23 Apr 2026 13:20:43 +0000
-  This post extends IBM's approach to real-time KYC validation using generative AI, as previously discussed in the post IBM Digital KYC on AWS uses Gene...
-
-## GCP Updates
-
-- **[Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/)** — Thu, 23 Apr 2026 12:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp" />Learn how Google’s TPUs...
-
-## IBM Cloud Updates
-
-- **[A new AI model for probing fusion plasma behavior](https://research.ibm.com/blog/fusion-plasma-ai-model?utm_medium=rss&utm_source=rss)** — Thu, 23 Apr 2026 14:00:00 GMT
-  Co-designed by IBM, the UKAEA, and STFC Hartree Centre, the model could help to advance nuclear fusion as an alternative to fossil fuels.
