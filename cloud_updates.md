@@ -1,3 +1,21 @@
+# ☁️ Cloud Updates — 2026-05-25 11:10 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services](https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/)** — Mon, 25 May 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Jamie Collier</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><p><span style="vertical-ali...
+- **[Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability](https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/)** — Mon, 25 May 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek</p>
+<hr /></div>
+<div class="block-paragraph_a...
+
+
 # ☁️ Cloud Updates — 2026-05-24 09:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -682,28 +700,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 <div class="block-paragraph_a...
 - **[Day 2 at Google Cloud Next: A marathon developer keynote](https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/)** — Thu, 23 Apr 2026 13:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, every day is Developer Day, but none so much as day ...
-
-
-# ☁️ Cloud Updates — 2026-04-25 08:04 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building Workforce AI Agents with Visier and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/)** — Fri, 24 Apr 2026 18:04:20 +0000
-  In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge wor...
-- **[Amazon Quick for marketing: From scattered data to strategic action](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/)** — Thu, 23 Apr 2026 17:05:17 +0000
-  Amazon Quick changes how you work. You can set it up in minutes and by the end of the day, you will wonder how you ever worked without it. Quick conne...
-- **[Applying multimodal biological foundation models across therapeutics and patient care](https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/)** — Thu, 23 Apr 2026 16:17:29 +0000
-  In this post, we'll explore how multimodal BioFMs work, showcase real-world applications in drug discovery and clinical development, and contextualize...
-- **[Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch](https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/)** — Wed, 22 Apr 2026 21:05:01 +0000
-  In this post, we walk through building a scalable, event-driven transcription pipeline that automatically processes audio files uploaded to Amazon Sim...
-- **[Amazon SageMaker AI now supports optimized generative AI inference recommendations](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/)** — Wed, 22 Apr 2026 19:15:08 +0000
-  Today, Amazon SageMaker AI&nbsp; supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configuration...
-
-## GCP Updates
-
-- **[7 highlights from Google Cloud Next ‘26](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/)** — Fri, 24 Apr 2026 18:00:00 +0000
-  Wide view of a large audience in a purple-lit arena looking at a main stage screen displaying "Google Cloud NEXT".
