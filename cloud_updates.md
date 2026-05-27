@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-05-27 10:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Technical deep dive: AgentCore payments and innovation in agentic commerce](https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/)** — Tue, 26 May 2026 17:57:18 +0000
+  Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per...
+- **[Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/)** — Tue, 26 May 2026 17:41:26 +0000
+  In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrat...
+- **[Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/)** — Tue, 26 May 2026 17:39:46 +0000
+  In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable e...
+- **[AgentWatch: Proactive AWS monitoring with ambient agents](https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/)** — Tue, 26 May 2026 17:22:48 +0000
+  In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure ch...
+- **[From idea to AI app: Creating intelligent research assistants with Strands](https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/)** — Tue, 26 May 2026 16:28:08 +0000
+  Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens...
+
+## GCP Updates
+
+- **[How we evolved Google’s global and data center networks for the AI era](https://cloud.google.com/blog/products/networking/data-center-and-global-networks-built-for-ai-era/)** — Tue, 26 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Over the last 25 years of building Google’s global network, we’ve </s...
+- **[New study: Securing AI in the browser is a top priority for IT Leaders](https://cloud.google.com/blog/products/chrome-enterprise/new-study-securing-ai-in-the-browser-is-a-top-priority-for-it-leaders/)** — Tue, 26 May 2026 11:20:00 +0000
+  <div class="block-paragraph"><p>The way we work has fundamentally changed. From automated agents to sophisticated AI services, Generative AI (GenAI) h...
+
+## IBM Cloud Updates
+
+- **[Qiskit Global Summer School 2026: Registration now open](https://research.ibm.com/blog/qiskit-summer-school-2026?utm_medium=rss&utm_source=rss)** — Tue, 26 May 2026 04:00:00 GMT
+  Sign up for Qiskit Global Summer School 2026: A decade on the cloud — a free, virtual program for learning quantum computing with Qiskit.
+
+
 # ☁️ Cloud Updates — 2026-05-25 11:10 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -675,28 +707,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/)** — Mon, 27 Apr 2026 13:00:00 +0000
   A web next to a laptop
-
-
-# ☁️ Cloud Updates — 2026-04-27 09:17 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-04-26 08:15 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[260 things we announced at Google Cloud Next '26 – a recap](https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up/)** — Fri, 24 Apr 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Next ‘26 took place this week in Las Vegas, and the ener...
-- **[Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite](https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/)** — Thu, 23 Apr 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: JP Glab, Tufail Ahmed, Josh Kelley, Muhammad Umair</p>
-<hr /></div>
-<div class="block-paragraph_a...
-- **[Day 2 at Google Cloud Next: A marathon developer keynote](https://cloud.google.com/blog/topics/google-cloud-next/next26-day-2-recap/)** — Thu, 23 Apr 2026 13:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, every day is Developer Day, but none so much as day ...
