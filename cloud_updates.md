@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-05-28 10:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Process financial documents using Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/)** — Wed, 27 May 2026 21:28:53 +0000
+  In this post, we explore how Amazon Bedrock Data Automation can accurately extract information from four common types of financial documents: bank sta...
+- **[Building AI agents for business support using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/)** — Wed, 27 May 2026 20:06:34 +0000
+  In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents u...
+- **[From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users](https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/)** — Wed, 27 May 2026 20:01:06 +0000
+  In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insi...
+- **[How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/)** — Wed, 27 May 2026 18:51:45 +0000
+  In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Market...
+- **[Powering agentic AI sales strategy with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/)** — Wed, 27 May 2026 18:00:07 +0000
+  As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, b...
+
+## Azure Updates
+
+- **[Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/)** — Wed, 27 May 2026 16:00:00 +0000
+  <p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p...
+
+## GCP Updates
+
+- **[Announcing the newest cohort of the Google for Startups Accelerator: Middle East, North Africa & Turkey](https://cloud.google.com/blog/topics/startups/meet-the-newest-cohort-of-our-mena-t-startup-accelerator/)** — Thu, 28 May 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google’s mission is to organize the world’s information and make it u...
+- **[A Guide to AI Cold Starts on Cloud Run](https://cloud.google.com/blog/topics/developers-practitioners/a-guide-to-ai-cold-starts-on-cloud-run/)** — Wed, 27 May 2026 17:23:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I saw a developer asking on Reddit if there </span><a href="https://w...
+- **[Introducing Google AI Threat Defense to help you outpace the adversary](https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense/)** — Wed, 27 May 2026 12:00:00 +0000
+  <div class="block-aside"><dl>
+    <dt>aside_block</dt>
+    <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;Summary of today’s news&#x27;), ...
+
+
 # ☁️ Cloud Updates — 2026-05-27 10:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -690,20 +726,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph"><p>In unseren Gesprächen mit Führungskräften aus Wirtschaft und öffentlichem Sektor in Deutschland und Europa taucht imme...
 - **[Mapping a smarter future with BigQuery and Google Earth AI models and datasets](https://cloud.google.com/blog/products/data-analytics/google-earth-ai-models-and-datasets-in-bigquery/)** — Mon, 27 Apr 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Last year we </span><a href="https://cloud.google.com/blog/topics/sus...
-
-
-# ☁️ Cloud Updates — 2026-04-28 09:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster](https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/)** — Mon, 27 Apr 2026 17:47:34 +0000
-  In this post, we explore how Deloitte used Amazon EKS and vCluster to transform their testing infrastructure.
-
-## GCP Updates
-
-- **[Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/)** — Mon, 27 Apr 2026 13:00:00 +0000
-  A web next to a laptop
