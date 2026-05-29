@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-05-29 10:46 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## Azure Updates
+
+- **[Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)** — Thu, 28 May 2026 16:00:00 +0000
+  <p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspa...
+
+## GCP Updates
+
+- **[How the University of Central Oklahoma is using AI to streamline analysis of complex criminal cases](https://cloud.google.com/blog/topics/public-sector/how-the-university-of-central-oklahoma-is-using-ai-to-streamline-analysis-of-complex-criminal-cases/)** — Thu, 28 May 2026 19:00:00 +0000
+  <div class="block-paragraph"><p>In the high-stakes world of forensic science, time is the enemy of justice. <a href="https://www.uco.edu/" target="_bl...
+- **[AI in SRE: Where and how Google is deploying agentic AI to improve operations](https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations/)** — Thu, 28 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since its inception over 20 years ago, Google has used </span><a href...
+- **[Evolving Dataflow to process massive datasets for machine learning](https://cloud.google.com/blog/products/data-analytics/ai-focused-innovations-in-dataflow/)** — Thu, 28 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google created </span><a href="https://static.googleusercontent.com/m...
+- **[Nano Banana 2 and Nano Banana Pro are generally available, and already powering creative workflows](https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available/)** — Thu, 28 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations are unlocking entirely new ways to use image generation...
+- **[Go from resource-level to business-level maintenance in Google Cloud](https://cloud.google.com/blog/products/application-development/app-centric-maintenance-visibility-in-unified-maintenance/)** — Thu, 28 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing planned maintenance is a critical part of running a reliable...
+
+## IBM Cloud Updates
+
+- **[New Classroom Accounts expand quantum access for educators](https://research.ibm.com/blog/classroom-accounts?utm_medium=rss&utm_source=rss)** — Thu, 28 May 2026 04:00:00 GMT
+  Classroom Accounts are a new way for educators to give large groups of students free, hands-on access to real quantum computers.
+
+
 # ☁️ Cloud Updates — 2026-05-28 10:56 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -695,34 +730,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   IBM’s most expansive model release to date covers new language, vision, speech, embedding, and guardian models — tailored for enterprise workloads.
 - **[Building the future of computing, together](https://research.ibm.com/blog/building-the-future-of-computing-together?utm_medium=rss&utm_source=rss)** — Wed, 29 Apr 2026 11:00:00 GMT
   IBM Research’s partnerships with MIT, ETH Zurich, and the University of Illinois will lead to next-generation AI and quantum algorithms and applicatio...
-
-
-# ☁️ Cloud Updates — 2026-04-29 09:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/)** — Tue, 28 Apr 2026 17:46:55 +0000
-  In this post, we explore what it takes to migrate a traditional text agent into a conversational voice assistant using Amazon Nova 2 Sonic. We compare...
-- **[NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/)** — Tue, 28 Apr 2026 16:40:34 +0000
-  Today, we are excited to announce the day zero availability of NVIDIA Nemotron 3 Nano Omni on Amazon SageMaker JumpStart. In this post, we walk throug...
-- **[Automate repetitive tasks with Amazon Quick Flows](https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/)** — Mon, 27 Apr 2026 17:52:05 +0000
-  This post shows you how to build your first AI-powered workflow, using Amazon Quick, starting with a financial analysis tool and progressing to an adv...
-- **[Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/)** — Mon, 27 Apr 2026 17:51:41 +0000
-  In this post, we explore an automated solution that detects S3 events and triggers ingestion jobs while respecting service quotas and providing compre...
-- **[Build Strands Agents with SageMaker AI models and MLflow](https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/)** — Mon, 27 Apr 2026 16:50:41 +0000
-  In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to dep...
-
-## GCP Updates
-
-- **[Welcome to the agentic era: Public sector highlights and reflections from Next ‘26](https://cloud.google.com/blog/topics/public-sector/welcome-to-the-agentic-era-public-sector-highlights-and-reflections-from-next-26/)** — Tue, 28 Apr 2026 19:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the agentic era! Last week, leaders from our public sector customer and partner ecosystem took the stage at...
-- **[50+ fully managed MCP servers now available for Google Cloud services](https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone/)** — Tue, 28 Apr 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next ‘26, we announced that more than 50 </span><a hr...
-- **[Google Cloud und das BSI C3A-Framework: Wie wir Digitale Souveränität in Deutschland konkret machen](https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-und-das-bsi-c3a-framework-wie-wir-digitale-souveranitat-in-deutschland-konkret-machen/)** — Tue, 28 Apr 2026 14:30:00 +0000
-  <div class="block-paragraph"><p>In unseren Gesprächen mit Führungskräften aus Wirtschaft und öffentlichem Sektor in Deutschland und Europa taucht imme...
-- **[Mapping a smarter future with BigQuery and Google Earth AI models and datasets](https://cloud.google.com/blog/products/data-analytics/google-earth-ai-models-and-datasets-in-bigquery/)** — Mon, 27 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Last year we </span><a href="https://cloud.google.com/blog/topics/sus...
