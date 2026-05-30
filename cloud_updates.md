@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-05-30 09:17 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality](https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/)** — Fri, 29 May 2026 23:36:58 +0000
+  This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality an...
+- **[Training Azerbaijani language models on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/)** — Thu, 28 May 2026 21:54:06 +0000
+  Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker ...
+- **[Build a custom portal with embedded Amazon SageMaker AI MLflow Apps](https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/)** — Thu, 28 May 2026 20:39:22 +0000
+  In this post, you learn how to build a custom portal with embedded SageMaker AI MLflow Apps UI. You walk through the architecture pattern behind a Rea...
+- **[Streamline external access to Amazon SageMaker MLflow using a REST API proxy](https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/)** — Thu, 28 May 2026 20:35:44 +0000
+  In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requ...
+- **[Evaluating Deep Agents using LangSmith on AWS](https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/)** — Thu, 28 May 2026 20:32:23 +0000
+  This post combines learnings from LangChain’s work on evaluating deep agents and Anthropic’s guide to demystifying evals for AI agents into a practica...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: How to build an AI-ready security program for the public sector](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-to-build-an-ai-ready-security-program-for-the-public-sector/)** — Fri, 29 May 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for May 2026. Today, Usman Chaudhary, Field CISO, Google Public Sector, ...
+- **[Cool stuff Google Cloud customers built, May edition: Agentic algorithms for supply chains; virtual try-on APIs; robotic camera operators & more](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)** — Fri, 29 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">AI and cloud technology are reshaping every corne...
+- **[Developer's guide to Gemini Enterprise and A2UI integration](https://cloud.google.com/blog/topics/developers-practitioners/guide-to-gemini-enterprise-and-a2ui-integration/)** — Fri, 29 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you've built a chatbot, you know this conversation:</span></p>
+<p ...
+- **[From petabytes to predictions: Easy BigQuery insights in Google Sheets](https://cloud.google.com/blog/products/data-analytics/using-connected-sheets-to-analyze-bigquery-data/)** — Fri, 29 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Many organizations’ single source of tru...
+- **[AlloyDB Hot Standby: Faster failovers, consistent performance](https://cloud.google.com/blog/products/databases/alloydb-hot-standby-faster-failovers-and-consistent-performance/)** — Fri, 29 May 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB for PostgreSQL is a fully managed, PostgreSQL-compatible data...
+
+
 # ☁️ Cloud Updates — 2026-05-29 10:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -698,35 +732,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   
 - **[AI-powered design comes to high-speed racing](https://research.ibm.com/blog/dallara-ai-accelerated-simulation?utm_medium=rss&utm_source=rss)** — Thu, 30 Apr 2026 10:00:00 GMT
   IBM and Dallara are exploring how physics-based AI and quantum computing could improve the design of race cars and every day vehicles
-
-
-# ☁️ Cloud Updates — 2026-04-30 09:11 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Extracting contract insights with PwC’s AI-driven annotation on AWS](https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/)** — Wed, 29 Apr 2026 21:19:39 +0000
-  This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant tim...
-- **[Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/)** — Wed, 29 Apr 2026 19:31:54 +0000
-  In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Managemen...
-- **[Building AI-ready data: Vanguard’s Virtual Analyst journey](https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/)** — Wed, 29 Apr 2026 11:56:33 +0000
-  In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS service...
-- **[Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime](https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/)** — Wed, 29 Apr 2026 11:52:16 +0000
-  This post shows you how to deploy a serverless MCP proxy on Amazon Bedrock AgentCore Runtime that gives you a programmable layer to implement proper g...
-
-## GCP Updates
-
-- **[The founder’s AI foundation: The top announcements for startups from Next ‘26](https://cloud.google.com/blog/topics/startups/the-top-startup-announcement-from-next26/)** — Wed, 29 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The momentum is undeniable: the world’s </span><a href="https://cloud...
-- **[UKG unlocks real-time workforce intelligence at scale with the Agentic Data Cloud](https://cloud.google.com/blog/products/databases/how-ukg-taps-workforce-intelligence-with-the-agentic-data-cloud/)** — Wed, 29 Apr 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At UKG, we’ve spent years building and expanding our human capital ma...
-
-## IBM Cloud Updates
-
-- **[Introducing the IBM Granite 4.1 family of models](https://research.ibm.com/blog/granite-4-1-ai-foundation-models?utm_medium=rss&utm_source=rss)** — Wed, 29 Apr 2026 15:00:00 GMT
-  IBM’s most expansive model release to date covers new language, vision, speech, embedding, and guardian models — tailored for enterprise workloads.
-- **[Building the future of computing, together](https://research.ibm.com/blog/building-the-future-of-computing-together?utm_medium=rss&utm_source=rss)** — Wed, 29 Apr 2026 11:00:00 GMT
-  IBM Research’s partnerships with MIT, ETH Zurich, and the University of Illinois will lead to next-generation AI and quantum algorithms and applicatio...
