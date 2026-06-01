@@ -1,3 +1,17 @@
+# ☁️ Cloud Updates — 2026-06-01 12:36 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
+  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
+
+
 # ☁️ Cloud Updates — 2026-05-31 09:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -680,29 +694,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-05-02 08:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AWS Transform now automates BI migration to Amazon Quick in days](https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/)** — Fri, 01 May 2026 18:29:06 +0000
-  In this post, we walk through the full journey, from setting up your migration workspace in AWS Transform to subscribing to partner agents through AWS...
-- **[Reinforcement fine-tuning with LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/)** — Thu, 30 Apr 2026 20:07:25 +0000
-  In this post, we take a deeper look at how RLAIF or RL with LLM-as-a-judge works with Amazon Nova models effectively.
-- **[AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production](https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/)** — Thu, 30 Apr 2026 17:04:41 +0000
-  In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologie...
-- **[Sun Finance automates ID extraction and fraud detection with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/)** — Thu, 30 Apr 2026 17:00:45 +0000
-  In this post, we show how Sun Finance used Amazon Bedrock, Amazon Textract, and Amazon Rekognition to build an AI-powered identity verification (IDV) ...
-- **[Unleashing Agentic AI Analytics on Amazon SageMaker with Amazon Athena and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick/)** — Thu, 30 Apr 2026 16:52:40 +0000
-  This post demonstrates how agentic AI assistant from Amazon Quick transform data analytics into a self-service capability by using Amazon Simple Stora...
-
-## GCP Updates
-
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 01 May 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
