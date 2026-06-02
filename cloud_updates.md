@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-06-02 11:17 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent](https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/)** — Mon, 01 Jun 2026 21:45:52 +0000
+  This post details how NYCBS partnered with Amazon Web Services (AWS) and AWS partner Pronetx (now part of Caylent) to migrate to Amazon Connect Custom...
+- **[Building a scalable user search layer on top of Amazon Cognito](https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/)** — Mon, 01 Jun 2026 16:16:45 +0000
+  In this post, we show how to build a comprehensive scalable user search layer on top of Amazon Cognito using AWS Lambda, Amazon DynamoDB, and Amazon O...
+
+## GCP Updates
+
+- **[How Trustpilot built a real-time architecture for data enrichment using Gemma](https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma/)** — Mon, 01 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Processing millions of user reviews in real-time, under strict latenc...
+- **[The fully-managed Remote MCP Server for AlloyDB is now Generally Available](https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data/)** — Mon, 01 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents possess incredible reasoning capabilities and can perform i...
+- **[Modeling a digital twin of a food supply chain using BigQuery Graph](https://cloud.google.com/blog/products/data-analytics/modeling-a-digital-twin-using-bigquery-graph/)** — Mon, 01 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">The example of a growing restaurant</strong></h3>
+<p><span style="...
+- **[What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)** — Mon, 01 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph"><p><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap...
+- **[Introducing the GKE standby buffer: Improve node startup times without blowing your budget](https://cloud.google.com/blog/products/containers-kubernetes/gke-standby-buffers-speed-up-autoscaling-for-less-spend/)** — Mon, 01 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Application owners and platform engineers have long faced a difficult...
+
+## IBM Cloud Updates
+
+- **[Renowned mathematician Subhash Khot joins IBM Research](https://research.ibm.com/blog/subhash-khot-ibm?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 13:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-06-01 12:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -688,9 +721,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
   AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
-
-
-# ☁️ Cloud Updates — 2026-05-03 08:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
