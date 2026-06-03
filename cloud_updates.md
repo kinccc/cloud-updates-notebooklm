@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-06-03 11:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Automating contract intelligence with Doczy.ai™ on AWS](https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/)** — Tue, 02 Jun 2026 14:06:32 +0000
+  In this post, we show you how Doczy.ai™ uses generative AI on AWS to automate contract intelligence at scale, transforming unstructured documents into...
+
+## GCP Updates
+
+- **[Connecting AI agents with unstructured data using Google Cloud Storage MCP Servers](https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/)** — Tue, 02 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Storage (GCS) is a foundational component of the modern ...
+- **[Announcing Spanner Graph algorithms: Google-grade intelligence for connected data](https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/)** — Tue, 02 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next, we announced the preview of graph algorithms wi...
+- **[Accelerating data lakes: Optimizing Apache Iceberg and Spark with gcs-analytics-core](https://cloud.google.com/blog/products/data-analytics/optimize-iceberg-and-spark-workloads-with-gcs-analytics-core/)** — Tue, 02 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many data engineers spend significant time managing compatibility and...
+- **[Experimenting with TPUs, GKE Managed DRANET, and Multi-cluster Inference Gateway](https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-tpus-gke-managed-dranet-and-multi-cluster-inference-gateway/)** — Tue, 02 Jun 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What happens when your workload fails in one region but you need acce...
+
+## IBM Cloud Updates
+
+- **[IBM to invest $10 billion in quantum computing](https://research.ibm.com/blog/10-billion-investment-faq?utm_medium=rss&utm_source=rss)** — Tue, 02 Jun 2026 13:00:00 GMT
+  The investment will fund R+D, capital expenditure, manufacturing scaling, ecosystem partnerships, and strategic acquisitions.
+- **[Ponder This Challenge - June 2026 - The Superhero Team Movies](https://research.ibm.com/blog/ponder-this-june-2026?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 06:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-06-02 11:17 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -709,15 +739,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A decade of quantum on the cloud](https://research.ibm.com/blog/decade-of-quantum?utm_medium=rss&utm_source=rss)** — Mon, 04 May 2026 04:01:00 GMT
   How a single decision democratized quantum research, launched a new industry, and changed lives around the world.
-
-
-# ☁️ Cloud Updates — 2026-05-04 09:19 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Most Organizations Can’t Use AI Agents Across Teams—Here’s Why](https://aws.amazon.com/blogs/enterprise-strategy/most-organizations-cant-use-ai-agents-across-teams-heres-why/)** — Fri, 30 Jan 2026 20:33:53 +0000
-  AI agents can’t work across teams because they lack the domain knowledge that exists only in developers’ minds (e.g., architectural patterns, business...
