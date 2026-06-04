@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-06-04 10:38 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Align your architecture backlog with Tech Roadmap Prioritization (TRP)](https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/)** — Wed, 03 Jun 2026 18:08:51 +0000
+  In this post, we show you how to run a one-hour prioritization session with your stakeholders, plot competing initiatives on a shared matrix by cost a...
+- **[Building highly available Oracle databases with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap/)** — Wed, 03 Jun 2026 15:51:22 +0000
+  This post shows how to build a highly available Oracle database architecture using FSxN shared storage, Auto Scaling groups with dynamic AMI updates, ...
+
+## GCP Updates
+
+- **[What’s new in serverless Managed Service for Apache Spark](https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features/)** — Wed, 03 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you use it for data preparation, real-time interactive querie...
+
+## IBM Cloud Updates
+
+- **[Qiskit Fall Fest 2026: Applications open](https://research.ibm.com/blog/qiskit-fall-fest-2026?utm_medium=rss&utm_source=rss)** — Wed, 03 Jun 2026 13:00:00 GMT
+  Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.
+
+
 # ☁️ Cloud Updates — 2026-06-03 11:56 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -707,35 +731,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Quantum-centric supercomputing simulates 12,635-atom protein](https://research.ibm.com/blog/cleveland-clinic-riken-chemistry?utm_medium=rss&utm_source=rss)** — Tue, 05 May 2026 04:01:00 GMT
   A team from Cleveland Clinic, RIKEN, and IBM used two IBM quantum computers and two supercomputers to model biologically relevant molecules at scale.
-
-
-# ☁️ Cloud Updates — 2026-05-05 09:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions](https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/)** — Mon, 04 May 2026 17:46:32 +0000
-  Business leaders across industries rely on operational dashboards as the shared source of truth that their teams execute against daily. But dashboards...
-- **[Introducing the agent quality loop: AgentCore Optimization now in preview](https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/)** — Mon, 04 May 2026 17:13:42 +0000
-  Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform...
-- **[Agent-guided workflows to accelerate model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/)** — Mon, 04 May 2026 17:10:46 +0000
-  Amazon SageMaker AI now offers an agentic experience that changes this. Developers describe their use case using natural language, and the AI coding a...
-- **[Generate dashboards from natural language prompts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/)** — Mon, 04 May 2026 16:51:37 +0000
-  Building meaningful dashboards demands hours of manual setup, even for experienced BI professionals.&nbsp;Amazon Quick now generates complete multi-sh...
-- **[From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/)** — Mon, 04 May 2026 16:12:37 +0000
-  Amazon Quick introduces Amazon S3 Tables (Apache Iceberg tables) as a new data source. With this feature, customers can directly query and visualize A...
-
-## GCP Updates
-
-- **[Here’s how we’re helping Belgium's farmers save water with AI.](https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/)** — Tue, 05 May 2026 09:00:00 +0000
-  Agrow’s technology platform integrates climate, water and soil data from satellite and thermal imagery to provide precise irrigation and fertilization...
-- **[The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/)** — Mon, 04 May 2026 17:00:00 +0000
-  mp4 featuring an underwater video and a mobile AI video mockup.
-
-## IBM Cloud Updates
-
-- **[A decade of quantum on the cloud](https://research.ibm.com/blog/decade-of-quantum?utm_medium=rss&utm_source=rss)** — Mon, 04 May 2026 04:01:00 GMT
-  How a single decision democratized quantum research, launched a new industry, and changed lives around the world.
