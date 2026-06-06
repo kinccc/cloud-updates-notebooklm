@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-06-06 09:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)** — Fri, 05 Jun 2026 14:45:00 +0000
+  May AI recap
+
+## IBM Cloud Updates
+
+- **[What is the fast Fourier transform?](https://research.ibm.com/blog/the-fast-fourier-transform-how-and-why-it-works?utm_medium=rss&utm_source=rss)** — Fri, 05 Jun 2026 04:00:00 GMT
+  The brilliance of this algorithm, which underlies the modern internet, is in how it organizes information.
+
+
 # ☁️ Cloud Updates — 2026-06-05 10:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -697,28 +714,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   At Think 2026, IBM Research leadership emphasized that useful quantum computing is already here.
 - **[What is sample-based quantum diagonalization?](https://research.ibm.com/blog/how-to-use-sample-based-quantum-diagonalization-on-ibm-hardware?utm_medium=rss&utm_source=rss)** — Wed, 06 May 2026 14:30:14 GMT
   A new video from IBM shows how quantum and classical hardware work in tandem to perform massive calculations that can help unlock materials science my...
-
-
-# ☁️ Cloud Updates — 2026-05-07 09:32 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2](https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/)** — Wed, 06 May 2026 15:37:08 +0000
-  Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To red...
-
-## GCP Updates
-
-- **[Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX](https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax/)** — Wed, 06 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI coding agents are rapidly becoming ubiquitous across the software ...
-- **[The Blueprint: Translating stream-of-conscious speech into responsive, actionable task lists](https://cloud.google.com/blog/topics/startups/the-blueprint-doist-stream-of-consciousness-ai-task-list-creation/)** — Wed, 06 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a new feature where we ...
-- **[Fitting the future: How Breuninger boosted sales with its "be your own model" AI](https://cloud.google.com/blog/topics/retail/how-breuninger-boosted-sales-with-its-be-your-own-model-ai/)** — Wed, 06 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">“How will this look on me?” It’s the question every online fashion sh...
-- **[What's new in IAM: Security, governance, and runtime defense](https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense/)** — Wed, 06 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The AI era demands a fundamental shift in security, and that includes...
-- **[Google named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies](https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cyberthreat-intelligence-technologies/)** — Wed, 06 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google, we see firsthand how cyber threats can outpace traditional...
