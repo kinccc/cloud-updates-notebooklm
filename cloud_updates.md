@@ -1,3 +1,19 @@
+# ☁️ Cloud Updates — 2026-06-07 10:05 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 05 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+- **[Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms](https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/)** — Fri, 05 Jun 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan</p>
+<hr /></div>
+<div class=...
+
+
 # ☁️ Cloud Updates — 2026-06-06 09:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -690,27 +706,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the high-stakes world of digital infrastructure, speed isn't just ...
 - **[How BASF manages thousands of supply chain decisions with AlphaEvolve’s agentic algorithms](https://cloud.google.com/blog/products/ai-machine-learning/how-basf-manages-thousands-of-supply-chain-decisions-with-alphaevolve/)** — Thu, 07 May 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The agricultural and crop protection supply chain is one of the most ...
-
-
-# ☁️ Cloud Updates — 2026-05-08 08:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
-  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
-
-## GCP Updates
-
-- **[Find out how AlphaEvolve has gone from research to solving real-life problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/)** — Thu, 07 May 2026 15:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/alphaevolve_hero.max-600x600.format-webp.webp" />AlphaEvolve has become a po...
-
-## IBM Cloud Updates
-
-- **[IBM is modeling the universe with quantum computing](https://research.ibm.com/blog/ibm-think-2026-modeling-the-universe-with-quantum-computing?utm_medium=rss&utm_source=rss)** — Thu, 07 May 2026 13:45:00 GMT
-  At Think 2026, IBM Research leadership emphasized that useful quantum computing is already here.
-- **[What is sample-based quantum diagonalization?](https://research.ibm.com/blog/how-to-use-sample-based-quantum-diagonalization-on-ibm-hardware?utm_medium=rss&utm_source=rss)** — Wed, 06 May 2026 14:30:14 GMT
-  A new video from IBM shows how quantum and classical hardware work in tandem to perform massive calculations that can help unlock materials science my...
