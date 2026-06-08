@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-06-08 11:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+
 # ☁️ Cloud Updates — 2026-06-07 10:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -670,39 +682,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-03-09T05:25:43+00:00
   <p> Incident began at <strong>2026-02-27 04:37</strong> and ended at <strong>2026-02-27 06:35</strong> <span>(all times are <strong>US/Pacific</strong...
-
-
-# ☁️ Cloud Updates — 2026-05-09 08:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI](https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/)** — Fri, 08 May 2026 13:20:30 +0000
-  In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a...
-- **[Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans](https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/)** — Thu, 07 May 2026 15:59:50 +0000
-  In this post, you will learn how to secure reserved GPU capacity for short-term workloads using Amazon Elastic Compute Cloud (Amazon EC2) Capacity Blo...
-- **[Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/)** — Thu, 07 May 2026 15:53:30 +0000
-  In this post, you will learn how to implement reinforcement learning with verifiable rewards (RLVR) to introduce verification and transparency into re...
-- **[Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)** — Thu, 07 May 2026 12:55:17 +0000
-  Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to in...
-
-## Azure Updates
-
-- **[Building realistic electric transmission grid dataset at scale: a pipeline from open dataset](https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/)** — Fri, 08 May 2026 19:53:56 +0000
-  <p>Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly availabl...
-
-## GCP Updates
-
-- **[Ship code within minutes with the Gemini CLI DevOps Extension](https://cloud.google.com/blog/topics/developers-practitioners/ship-code-within-minutes-with-the-gemini-cli-devops-extension/)** — Fri, 08 May 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">With AI coding tools like Antigravity and Claude Code, I can build a ...
-- **[With faster node startup for GKE, say goodbye to cold-start latency](https://cloud.google.com/blog/products/containers-kubernetes/gke-node-startup-gets-faster/)** — Fri, 08 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We’ve rolled out a significant update to Google Kubernetes Engine (GK...
-- **[Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available/)** — Thu, 07 May 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re thrilled to announce that Gemini 3.1 Flash-Lite, our fas...
-- **[New Bigtable in-memory tier for sub-millisecond read latency](https://cloud.google.com/blog/products/databases/scaling-real-time-performance-with-bigtable-in-memory-tier/)** — Thu, 07 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the high-stakes world of digital infrastructure, speed isn't just ...
-- **[How BASF manages thousands of supply chain decisions with AlphaEvolve’s agentic algorithms](https://cloud.google.com/blog/products/ai-machine-learning/how-basf-manages-thousands-of-supply-chain-decisions-with-alphaevolve/)** — Thu, 07 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The agricultural and crop protection supply chain is one of the most ...
