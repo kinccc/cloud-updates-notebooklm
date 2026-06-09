@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-06-09 10:34 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access](https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/)** — Mon, 08 Jun 2026 16:40:34 +0000
+  With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advant...
+- **[It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/)** — Mon, 08 Jun 2026 16:35:02 +0000
+  Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, an...
+- **[Better decisions at scale: How mathematical optimization delivers where intuition fails](https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/)** — Mon, 08 Jun 2026 16:31:17 +0000
+  In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories whe...
+- **[End-to-end encrypted ML inference with Amazon SageMaker AI and FHE](https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/)** — Mon, 08 Jun 2026 16:14:14 +0000
+  This blog has previously discussed FHE for ML inference in the post Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, re...
+- **[Amazon Quick ARNs: Cross-account migration and namespace permissions](https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/)** — Mon, 08 Jun 2026 16:07:29 +0000
+  In this post, we cover the structure of Amazon Quick ARNs and provide a practical mental model for working with them. By the end, you can look at an A...
+
+## GCP Updates
+
+- **[Modernizing Healthcare: How Alcidion achieved greater stability and performance with AlloyDB](https://cloud.google.com/blog/products/databases/modernizing-healthcare-how-alcidion-achieved-greater-stability-and-performance/)** — Mon, 08 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In clinical informatics, every second counts. For </span><a href="htt...
+
+## IBM Cloud Updates
+
+- **[Introducing SQL Data Insights Pro](https://research.ibm.com/blog/bringing-the-power-of-semantic-ai-to-ibm-db2?utm_medium=rss&utm_source=rss)** — Mon, 08 Jun 2026 15:00:00 GMT
+  Enabling semantic query processing in Db2 for digital sovereignty
+
+
 # ☁️ Cloud Updates — 2026-06-08 11:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -665,20 +695,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-05-10 08:54 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build a multi-tenant configuration system with tagged storage patterns](https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/)** — Wed, 08 Apr 2026 20:00:04 +0000
-  In this post, we demonstrate how you can build a scalable, multi-tenant configuration service using the tagged storage pattern, an architectural appro...
-
-## GCP Updates
-
-- **[RESOLVED: Vertex AI Gemini API customers experienced increased error rates when accessing the global endpoint.](https://status.cloud.google.com/incidents/41E5S3mkTGDfkZuJZH5k)** — 2026-03-09T05:25:43+00:00
-  <p> Incident began at <strong>2026-02-27 04:37</strong> and ended at <strong>2026-02-27 06:35</strong> <span>(all times are <strong>US/Pacific</strong...
