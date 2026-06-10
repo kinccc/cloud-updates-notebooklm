@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-06-10 10:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake](https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/)** — Tue, 09 Jun 2026 16:51:55 +0000
+  In this post, you learn how to build an automated, serverless pipeline that converts scanned PDF medical records into FHIR R4-compliant data using Ama...
+
+## GCP Updates
+
+- **[Claude Fable 5: Available on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/)** — Tue, 09 Jun 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">Claude Fable 5</strong><span style="vertical-align: baseline;">, An...
+- **[Gemini for Government: Your blueprint for mission impact](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-your-blueprint-for-mission-impact/)** — Tue, 09 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>The public sector has reached a critical inflection point. For years, organizations have explored what’s possible thro...
+- **[Report: GKE Inference Gateway delivers up to 92% faster AI responses](https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/)** — Tue, 09 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As generative AI moves from experimental pilots to massive production...
+- **[Storage Insights datasets: Enabling org-wide operational discovery with activity insights](https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/)** — Tue, 09 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprise storage footprints scale to billions of objects, AI app...
+- **[How to unlock true ROI in software development – a deep dive into the latest DORA research](https://cloud.google.com/blog/products/ai-machine-learning/how-to-measure-the-business-value-of-generative-ai/)** — Tue, 09 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How do you prove the business value of generative AI to your teams? <...
+
+
 # ☁️ Cloud Updates — 2026-06-09 10:34 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -663,35 +688,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Read our new report on AI-powered threats and our latest defenses.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/)** — Mon, 11 May 2026 15:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ou...
-
-
-# ☁️ Cloud Updates — 2026-05-11 10:38 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
