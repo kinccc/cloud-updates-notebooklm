@@ -1,3 +1,40 @@
+# ☁️ Cloud Updates — 2026-06-11 11:22 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework](https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/)** — Wed, 10 Jun 2026 15:06:00 +0000
+  The Snowflake and AWS Custom Well-Architected Framework Lens brings together AWS Well-Architected best practices and Snowflake guidance into a single ...
+
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-06-10 10:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -666,25 +703,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[MIT and IBM renew their research collaboration](https://research.ibm.com/blog/mit-ibm-computing-david-cox?utm_medium=rss&utm_source=rss)** — Mon, 11 May 2026 15:00:00 GMT
   We spoke with IBM’s David Cox about the lab's evolution and what it takes for an industry-academia collaboration to succeed.
-
-
-# ☁️ Cloud Updates — 2026-05-12 09:39 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Choosing between single or multiple organizations in AWS Organizations](https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/)** — Mon, 11 May 2026 18:56:38 +0000
-  Organizations face critical architectural decisions that can impact their operations for years to come such as: Is it better to maintain a single orga...
-
-## Azure Updates
-
-- **[SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests](https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/)** — Mon, 11 May 2026 17:19:28 +0000
-  <p>Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s pos...
-
-## GCP Updates
-
-- **[Read our new report on AI-powered threats and our latest defenses.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/)** — Mon, 11 May 2026 15:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" />Learn more about how ou...
