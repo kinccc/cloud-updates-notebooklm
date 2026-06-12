@@ -1,3 +1,44 @@
+# ☁️ Cloud Updates — 2026-06-12 11:01 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Extract Data with On-demand and Batch Pipelines Dynamically](https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/)** — Thu, 11 Jun 2026 19:40:33 +0000
+  This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bed...
+- **[Evaluate AI agents systematically with Agent-EvalKit](https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/)** — Thu, 11 Jun 2026 15:49:47 +0000
+  Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, inc...
+- **[Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/)** — Thu, 11 Jun 2026 15:36:31 +0000
+  Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custo...
+- **[Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/)** — Thu, 11 Jun 2026 15:11:56 +0000
+  Blueprint instruction optimization is a BDA feature that automatically refines your extraction instructions to address this challenge directly. You pr...
+- **[How frontier teams are reinventing AI-native development](https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/)** — Thu, 11 Jun 2026 00:54:42 +0000
+  Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases...
+
+## GCP Updates
+
+- **[Powering the next era of Confidential AI](https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/)** — Thu, 11 Jun 2026 19:30:00 +0000
+  <div class="block-paragraph"><p>At Google Cloud, we’re committed to providing the most advanced, secure, and private infrastructure for the most deman...
+- **[Transform dashboards into interactive data experiences with Looker agents](https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/)** — Thu, 11 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Dashboards have long served as a primary way for organizations to ext...
+- **[ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit](https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/)** — Thu, 11 Jun 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span></h3>
+<p><span style="vertical-align: baseline;">...
+- **[10 Indispensable Prompts Our Team Refuses to Build Without](https://cloud.google.com/blog/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without/)** — Thu, 11 Jun 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Look at any builder's prompt history and you'll see a collection of h...
+- **[Deep dive: How Lightning Engine delivers 4.9x faster Apache Spark performance](https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/)** — Wed, 10 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">From foundational ETL and analytics to the frontier of generative AI,...
+
+## IBM Cloud Updates
+
+- **[Can LLMs discover quantum error correction codes?](https://research.ibm.com/blog/ai-for-qec?utm_medium=rss&utm_source=rss)** — Thu, 11 Jun 2026 15:15:00 GMT
+  Researchers at IBM created an LLM-guided evolutionary framework that quickly found 465 distinct quantum error correction code candidates.
+- **[Prototype and validate fermionic circuits faster with ffsim](https://research.ibm.com/blog/ffsim?utm_medium=rss&utm_source=rss)** — Thu, 11 Jun 2026 04:00:00 GMT
+  Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.
+
+
 # ☁️ Cloud Updates — 2026-06-11 11:22 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -668,38 +709,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the healthcare and life sciences industries, speed saves lives, bu...
 - **[Smart moves: Building resilient transportation systems with Google AI](https://cloud.google.com/blog/topics/public-sector/smart-moves-building-resilient-transportation-systems-with-google-ai/)** — Wed, 13 May 2026 16:00:00 +0000
   <div class="block-paragraph"><p>What does transportation mean to you? For some, it’s making sure the train is on schedule so they can get to work on t...
-
-
-# ☁️ Cloud Updates — 2026-05-13 09:44 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building hybrid multi-tenant architecture for stateful services on AWS](https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/)** — Tue, 12 May 2026 13:26:49 +0000
-  In this post, we show you how to build a hybrid multi-tenant architecture that provides strong tenant isolation without requiring per-tenant AWS accou...
-
-## Azure Updates
-
-- **[Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models](https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/)** — Tue, 12 May 2026 13:00:00 +0000
-  <p>MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulat...
-
-## GCP Updates
-
-- **[SAP SAPPHIRE 2026: Google Cloud unveils unified agentic vision and massive compute scaling](https://cloud.google.com/blog/products/sap-google-cloud/sap-sapphire-2026-the-future-of-google-cloud-ai-agents/)** — Tue, 12 May 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today's hyper-connected market, an enterprise's most valuable asse...
-- **[Beyond source code: The files AI coding agents trust — and attackers exploit](https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit/)** — Tue, 12 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As AI coding agents become deeply embedded in developer workflows, de...
-- **[How Imgix processes 8 billion images daily with G4 VMs powered by NVIDIA Blackwell](https://cloud.google.com/blog/products/infrastructure/how-imgix-processes-8-billion-images-daily-with-g4-vms-powered-by-nvidia-blackwell/)** — Tue, 12 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The modern web is extremely visual. People are busy and easily-distra...
-- **[Meet the latest Database Center, now with Gemini-powered fleet intelligence](https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26/)** — Mon, 11 May 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing a modern database fleet is both a scale and cognitive proble...
-- **[Cloud Storage Rapid: Turbocharged object storage for AI and analytics](https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics/)** — Mon, 11 May 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next ’26 we </span><a href="https://cloud.google.com/...
-
-## IBM Cloud Updates
-
-- **[MIT and IBM renew their research collaboration](https://research.ibm.com/blog/mit-ibm-computing-david-cox?utm_medium=rss&utm_source=rss)** — Mon, 11 May 2026 15:00:00 GMT
-  We spoke with IBM’s David Cox about the lab's evolution and what it takes for an industry-academia collaboration to succeed.
