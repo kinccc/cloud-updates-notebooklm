@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-06-13 09:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building Supercharger: How Rocket Close optimized title operations with agentic AI](https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/)** — Fri, 12 Jun 2026 20:43:56 +0000
+  In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledg...
+- **[Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers](https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/)** — Fri, 12 Jun 2026 14:49:40 +0000
+  This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the a...
+- **[From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services](https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/)** — Fri, 12 Jun 2026 14:43:11 +0000
+  This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its...
+- **[Built from the inside out: How AWS Professional Services became a frontier team first](https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/)** — Fri, 12 Jun 2026 13:00:10 +0000
+  AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an e...
+
+## Azure Updates
+
+- **[Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/)** — Fri, 12 Jun 2026 20:30:48 +0000
+  <p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as mo...
+
+## GCP Updates
+
+- **[Introducing the Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/)** — Fri, 12 Jun 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As foundation models continue to improve, the lack of relevant contex...
+
+
 # ☁️ Cloud Updates — 2026-06-12 11:01 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -677,35 +705,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Cloud CISO Perspectives: How Google + Wiz changes multicloud strategy for CISOs](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-wiz-changes-multicloud-strategy-for-cisos/)** — Thu, 14 May 2026 16:00:00 +0000
   <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for May 2026. Today, Vinod D’Souza, director, Office of the CISO, shares ...
-
-
-# ☁️ Cloud Updates — 2026-05-14 09:34 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda](https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda/)** — Wed, 13 May 2026 15:45:50 +0000
-  In this post, we demonstrate an approach we used to address this challenge for a customer by implementing an AWS Lambda transformation function that s...
-
-## Azure Updates
-
-- **[mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/)** — Wed, 13 May 2026 17:19:59 +0000
-  <p>mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines...
-- **[GridSFM: A new, small foundation model for the electric grid](https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/)** — Wed, 13 May 2026 16:00:20 +0000
-  <p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost saving...
-
-## GCP Updates
-
-- **[Google Named a Leader in the Gartner® Magic Quadrant™ for AI Application Development Platforms: Mid-cycle update](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-gartner-magic-quadrant/)** — Wed, 13 May 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">May 2026 update: We’ve refreshed this post to ref...
-- **[The power of LLMs on your data, more than two orders of magnitude faster and cheaper](https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models/)** — Wed, 13 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Databases have introduced new AI-powered SQL functions which take nat...
-- **[How Glance turns hours of video into mobile-ready clips with AI](https://cloud.google.com/blog/products/media-entertainment/how-glance-turns-hours-of-video-into-mobile-ready-clips-with-ai/)** — Wed, 13 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every day, thousands of hours of new video content sits waiting to be...
-- **[The new era of SaMD: Why cloud infrastructure is the foundation for digital health in 2026](https://cloud.google.com/blog/products/identity-security/why-cloud-infrastructure-is-the-foundation-for-digital-health-in-2026/)** — Wed, 13 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the healthcare and life sciences industries, speed saves lives, bu...
-- **[Smart moves: Building resilient transportation systems with Google AI](https://cloud.google.com/blog/topics/public-sector/smart-moves-building-resilient-transportation-systems-with-google-ai/)** — Wed, 13 May 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>What does transportation mean to you? For some, it’s making sure the train is on schedule so they can get to work on t...
