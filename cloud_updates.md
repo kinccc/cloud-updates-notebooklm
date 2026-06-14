@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-06-14 10:24 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[UPDATE: Network traffic to Google Cloud originating from Delhi, Chennai, Mumbai and surrounding areas is experiencing intermittent periods of elevated latency and possible packet loss.](https://status.cloud.google.com/incidents/5fGQt4VbkDnr3Yp8PXPr)** — 2026-06-12T22:50:20+00:00
+  <p> Incident began at <strong>2026-06-09 11:22</strong> <span>(all times are <strong>US/Pacific</strong>).</span></p><div class="cBIRi14aVDP__status-u...
+
+
 # ☁️ Cloud Updates — 2026-06-13 09:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -680,28 +692,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo</p>
 <hr /></div>
 <div class="block-para...
-
-
-# ☁️ Cloud Updates — 2026-05-15 09:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Improve bot accuracy with Amazon Lex Assisted NLU](https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu/)** — Thu, 14 May 2026 17:28:44 +0000
-  In this post, you will learn how to implement Assisted NLU effectively. You will learn how to improve your bot design with effective intent and slot d...
-- **[Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/)** — Thu, 14 May 2026 17:23:48 +0000
-  In this post, you learn how to combine Stream's Vision Agents open-source framework with Amazon Bedrock and Amazon Nova 2 Sonic to build real-time voi...
-- **[From siloed data to unified insights: Cross-account Athena Access for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/)** — Thu, 14 May 2026 17:17:50 +0000
-  Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using A...
-- **[Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/)** — Thu, 14 May 2026 17:17:35 +0000
-  In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through ...
-- **[Build financial document processing with Pulse AI and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/)** — Wed, 13 May 2026 18:00:06 +0000
-  This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex fi...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: How Google + Wiz changes multicloud strategy for CISOs](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-wiz-changes-multicloud-strategy-for-cisos/)** — Thu, 14 May 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for May 2026. Today, Vinod D’Souza, director, Office of the CISO, shares ...
