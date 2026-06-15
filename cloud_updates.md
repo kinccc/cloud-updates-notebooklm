@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-06-15 13:14 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-06-14 10:24 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -666,29 +673,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
   What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
-
-
-# ☁️ Cloud Updates — 2026-05-16 08:47 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## Azure Updates
-
-- **[Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability](https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/)** — Fri, 15 May 2026 18:06:57 +0000
-  <p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workfl...
-
-## GCP Updates
-
-- **[Gemini Live Agent Challenge: Announcing the winners and highlights](https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge/)** — Fri, 15 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The Gemini Live Agent Challenge is officially in the books! We challe...
-- **[Welcome to BlackFile: Inside a Vishing Extortion Operation](https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/)** — Fri, 15 May 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo</p>
-<hr /></div>
-<div class="block-para...
