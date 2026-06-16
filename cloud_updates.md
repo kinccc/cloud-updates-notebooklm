@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-06-16 12:11 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## GCP Updates
+
+- **[What’s new in data agents: Supercharging your AI workflows](https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/)** — Mon, 15 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The rise of AI agents is fundamentally disrupting applications and an...
+- **[Cloud CISO Perspectives: The 4 lessons that guided AI Threat Defense](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/)** — Mon, 15 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for June 2026. Today, we introduce Chris Betz as the new CISO of Google C...
+- **[Architecting a trusted agentic platform with graph technologies: A Yahoo case study](https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/)** — Mon, 15 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises adopt agentic AI, they need to shift from reactive sys...
+- **[Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research](https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/)** — Mon, 15 Jun 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Patrick Whitsell, John McGuiness</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><p><span ...
+- **[How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same](https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/)** — Mon, 15 Jun 2026 09:29:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I have been exploring how</span><span style="vertical-align: baseline...
+
+
 # ☁️ Cloud Updates — 2026-06-15 13:14 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -661,15 +688,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 14 May 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;"><span style="vertical-align: baseline;">May 11 - May 15</span></span...
-
-
-# ☁️ Cloud Updates — 2026-05-17 09:05 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Moving from Efficiency to Growth: How Junior Talent Outpaces Tenure with AI](https://aws.amazon.com/blogs/enterprise-strategy/moving-from-efficiency-to-growth-how-junior-talent-outpaces-tenure-with-ai/)** — Thu, 12 Feb 2026 16:47:52 +0000
-  What if the real value of AI isn’t in replacing workers, but in accelerating the development of junior talent? This counterintuitive insight emerged f...
