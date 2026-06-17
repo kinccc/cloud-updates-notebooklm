@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-06-17 11:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Samsung achieved real-time pricing with AWS Lambda Response Streaming](https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming/)** — Mon, 15 Jun 2026 14:13:36 +0000
+  In this post, we walk through the legacy architecture challenges, the stateless streaming solution, key implementation patterns, and performance resul...
+
+## GCP Updates
+
+- **[Scaling the UK government’s AI vision](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/)** — Wed, 17 Jun 2026 07:00:00 +0000
+  An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.
+
+
 # ☁️ Cloud Updates — 2026-06-16 12:11 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -671,20 +688,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Blackstone will create a new TPU cloud in a joint venture with Google.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/)** — Tue, 19 May 2026 01:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp" />Blackstone ann...
-
-
-# ☁️ Cloud Updates — 2026-05-18 11:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3](https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/)** — Fri, 15 May 2026 15:41:00 +0000
-  In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify...
-
-## GCP Updates
-
-- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 14 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;"><span style="vertical-align: baseline;">May 11 - May 15</span></span...
