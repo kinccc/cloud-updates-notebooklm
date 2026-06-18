@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-06-18 11:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito](https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/)** — Wed, 17 Jun 2026 13:50:16 +0000
+  In this post, we show how Vonage network-powered solutions work with Amazon Cognito to enhance many mobile-first use cases with network-level identity...
+
+## GCP Updates
+
+- **[Choice, compliance, and collaboration: Europe’s path to open digital sovereignty](https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/)** — Thu, 18 Jun 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The European Commission’s Tech Sovereignty Package comes at a definin...
+- **[Cloud Network Insights: end-to-end observability for the Cross-Cloud Network](https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/)** — Wed, 17 Jun 2026 19:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today’s digital landscape, the network is no longer confined to a ...
+- **[How growing UK midsize businesses are building in the AI era](https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/)** — Wed, 17 Jun 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The UK’s 5-million-plus small and midsize businesses and enterprises ...
+- **[From AI potential to agentic reality: Driving the UK’s next chapter](https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/)** — Wed, 17 Jun 2026 08:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The United Kingdom, and London in particular, continues to be one of ...
+- **[Build and Deploy a Remote MCP Server to GKE in 30 Minutes](https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/)** — Wed, 17 Jun 2026 00:00:00 +0000
+  <div class="block-paragraph_advanced"><h2>Build and Deploy a Remote MCP Server to GKE in 30 Minutes</h2>
+<p><span style="vertical-align: baseline;">In...
+
+
 # ☁️ Cloud Updates — 2026-06-17 11:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -665,26 +691,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Google Workspace
 - **[I/O 2026: Welcome to the agentic Gemini era](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/)** — Tue, 19 May 2026 17:45:00 +0000
   a series of colorful icons representing Google I/O against a black background
-
-
-# ☁️ Cloud Updates — 2026-05-19 10:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Prompting Amazon Nova 2 for content moderation](https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/)** — Mon, 18 May 2026 18:56:36 +0000
-  In this post, you learn how to prompt Amazon Nova 2 Lite for content moderation using structured and free-form approaches, grounded in the MLCommons A...
-- **[Aderant transforms cloud operations with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/)** — Mon, 18 May 2026 17:26:40 +0000
-  In this post, we share how Aderant used the AI-powered capabilities of Amazon Quick to unify search across six vendor systems and automate documentati...
-- **[Integrate Atlassian Confluence Cloud with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/)** — Mon, 18 May 2026 15:37:55 +0000
-  In this post, you will learn how to set up the Confluence Cloud integration with Quick. This includes creating a knowledge base for semantic search, s...
-- **[Build custom code-based evaluators in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/)** — Mon, 18 May 2026 15:07:15 +0000
-  In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and...
-
-## GCP Updates
-
-- **[Blackstone will create a new TPU cloud in a joint venture with Google.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/)** — Tue, 19 May 2026 01:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp" />Blackstone ann...
