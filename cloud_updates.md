@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-06-19 11:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch](https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/)** — Thu, 18 Jun 2026 23:31:58 +0000
+  Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed ...
+- **[Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)** — Thu, 18 Jun 2026 17:32:22 +0000
+  Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you...
+- **[Amazon SageMaker AI Async Inference now supports inline request payloads](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/)** — Wed, 17 Jun 2026 20:56:36 +0000
+  Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the requ...
+- **[Get back hours every day with autonomous agents in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/)** — Wed, 17 Jun 2026 20:35:39 +0000
+  Today, Quick gets even more powerful: new autonomous agents that work continuously&nbsp;on your behalf,&nbsp;an activity feed that helps you prioritiz...
+- **[Context intelligence for your data and AI agents at scale](https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/)** — Wed, 17 Jun 2026 17:17:37 +0000
+  Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, d...
+
+## GCP Updates
+
+- **[Powering the world’s first AI arts museum](https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/)** — Thu, 18 Jun 2026 15:00:00 +0000
+  AI-generated Infinity Room
+
+## IBM Cloud Updates
+
+- **[Allstate explores quantum computing for insurance portfolios](https://research.ibm.com/blog/allstate-quantum-insurance-portfolio?utm_medium=rss&utm_source=rss)** — Thu, 18 Jun 2026 04:00:00 GMT
+  Insurance involves hard problems with complex, correlated risks. Allstate and IBM are showing how quantum could help solve them.
+
+
 # ☁️ Cloud Updates — 2026-06-18 11:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -668,26 +698,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How researchers built a record-setting quantum circuit](https://research.ibm.com/blog/qft-benchmark?utm_medium=rss&utm_source=rss)** — Wed, 20 May 2026 04:00:00 GMT
   New demonstration of a 52-qubit quantum Fourier transform shows how ecosystem innovation improves algorithm performance on quantum hardware.
-
-
-# ☁️ Cloud Updates — 2026-05-20 10:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/)** — Tue, 19 May 2026 15:09:36 +0000
-  This post explores how ALS GeoAnalytics successfully deployed LITHOLENS ™ with Amazon Elastic Kubernetes Service (Amazon EKS) to scale model training ...
-- **[How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances](https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/)** — Tue, 19 May 2026 15:06:40 +0000
-  This post introduces a video decoding optimization technique that we have ideated in collaboration with Synthesia Research Engineering team, which we ...
-
-## GCP Updates
-
-- **[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)** — Tue, 19 May 2026 17:45:00 +0000
-  A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text "Is this generated with AI?", and action icons for adding fi...
-- **[New ways to create and get things done in Google Workspace](https://blog.google/products-and-platforms/products/workspace/workspace-updates/)** — Tue, 19 May 2026 17:45:00 +0000
-  Google Workspace
-- **[I/O 2026: Welcome to the agentic Gemini era](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/)** — Tue, 19 May 2026 17:45:00 +0000
-  a series of colorful icons representing Google I/O against a black background
