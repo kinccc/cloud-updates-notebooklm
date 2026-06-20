@@ -1,3 +1,22 @@
+# ☁️ Cloud Updates — 2026-06-20 10:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing Web Search on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/)** — Fri, 19 Jun 2026 14:15:24 +0000
+  Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore dif...
+- **[Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/)** — Fri, 19 Jun 2026 14:05:04 +0000
+  This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the in...
+
+## GCP Updates
+
+- **[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)** — Tue, 19 May 2026 17:45:00 +0000
+  A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text "Is this generated with AI?", and action icons for adding fi...
+
+
 # ☁️ Cloud Updates — 2026-06-19 11:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -676,25 +695,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many development teams are familiar with the hesitation that comes ri...
 - **[Securing Your Gemini and Google API Keys](https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets/)** — Thu, 21 May 2026 10:19:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, AI services rely heavily on API keys. To run AI agents, users ...
-
-
-# ☁️ Cloud Updates — 2026-05-21 10:39 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events](https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/)** — Wed, 20 May 2026 17:32:57 +0000
-  Cyber resilience is the ability to recover workloads to a known-good state after an adversary has affected the environment. Prevention works to keep t...
-
-## GCP Updates
-
-- **[A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)** — Wed, 20 May 2026 16:45:00 +0000
-  A small group meeting featuring two in-room participants and three participants on-screen.
-
-## IBM Cloud Updates
-
-- **[How researchers built a record-setting quantum circuit](https://research.ibm.com/blog/qft-benchmark?utm_medium=rss&utm_source=rss)** — Wed, 20 May 2026 04:00:00 GMT
-  New demonstration of a 52-qubit quantum Fourier transform shows how ecosystem innovation improves algorithm performance on quantum hardware.
