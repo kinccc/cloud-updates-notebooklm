@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-06-22 12:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## Azure Updates
+
+- **[MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/)** — Thu, 21 May 2026 17:00:00 +0000
+  <p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialize...
+- **[Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/)** — Thu, 21 May 2026 13:48:40 +0000
+  <p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>
+<p>T...
+
+## GCP Updates
+
+- **[Scaling Ray Serve LLM on GKE: Performance without losing the developer experience](https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/)** — Thu, 18 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Developers looking for LLM inference and model serving often turn to ...
+- **[Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World](https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/)** — Thu, 18 Jun 2026 12:51:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the high-stakes world of tech entrepreneurship, the leap from a br...
+- **[Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0](https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/)** — Thu, 18 Jun 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p>In this episode of the Agent Factory, I sat down with Rody Davis, one of Google’s top agentic engineers. We d...
+
+
 # ☁️ Cloud Updates — 2026-06-21 10:29 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -655,16 +679,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-05-23 09:01 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[The Blueprint: How Movix fills a gap in dental skills with specialized agentic AI](https://cloud.google.com/blog/topics/startups/filling-the-gaps-in-dental-skills-with-specialized-agentic-ai/)** — Fri, 22 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a regular feature where...
