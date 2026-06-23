@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-06-23 10:36 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions](https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/)** — Mon, 22 Jun 2026 16:49:13 +0000
+  This post walks you through a two-layer, defense-in-depth authorization pattern for granular, intra-tenant access control in RAG applications. Defense...
+- **[Modernizing financial analytics with Amazon SageMaker Unified Studio](https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio/)** — Mon, 22 Jun 2026 16:42:55 +0000
+  Avanse Financial Services, India’s leading education loan providers, migrated to a cloud-native lakehouse architecture using Amazon SageMaker Unified ...
+- **[Architecting AI-powered resilience framework on AWS](https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws/)** — Mon, 22 Jun 2026 16:35:07 +0000
+  In this post, you’ll learn how to architect and implement a five-layer AI-powered resilience framework that automatically discovers dependencies, gene...
+
+## GCP Updates
+
+- **[Boost BigQuery with Python: Managed Python UDFs now generally available](https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/)** — Mon, 22 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">SQL is the industry standard for high-performance structured data ana...
+- **[The Starter Tier for Google AI Studio explained](https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/)** — Mon, 22 Jun 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">You've got a working prototype in </span><a href="https://ai.google.d...
+
+## IBM Cloud Updates
+
+- **[Explore next-gen quantum algorithms with IBM Quantum Credits](https://research.ibm.com/blog/credits-recipients?utm_medium=rss&utm_source=rss)** — Mon, 22 Jun 2026 12:45:00 GMT
+  See how top researchers used IBM Quantum Credits to develop new methods that extend today’s quantum hardware.
+
+
 # ☁️ Cloud Updates — 2026-06-22 12:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -673,9 +701,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek</p>
 <hr /></div>
 <div class="block-paragraph_a...
-
-
-# ☁️ Cloud Updates — 2026-05-24 09:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
