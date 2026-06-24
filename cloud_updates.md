@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-06-24 10:22 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build a protein research copilot with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/)** — Tue, 23 Jun 2026 16:39:34 +0000
+  This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extra...
+- **[Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/)** — Tue, 23 Jun 2026 15:43:59 +0000
+  In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patter...
+- **[Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/)** — Mon, 22 Jun 2026 17:53:40 +0000
+  In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomou...
+- **[Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/)** — Mon, 22 Jun 2026 16:32:15 +0000
+  In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we bu...
+- **[Running ComfyUI workflows on Amazon SageMaker AI processing jobs](https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/)** — Mon, 22 Jun 2026 16:28:46 +0000
+  In this post, we walk you through how to deploy ComfyUI workflows on Amazon SageMaker AI processing jobs to generate hundreds of high-quality images i...
+
+## GCP Updates
+
+- **[Verifiable, private AI: Google Cloud expands Confidential Computing frontiers](https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/)** — Tue, 23 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Protecting sensitive data used with AI is a critical part of our comm...
+- **[Log Analytics is now Observability Analytics: Query logs and traces with SQL](https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/)** — Tue, 23 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To effectively operate and troubleshoot applications, developers and ...
+- **[Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/)** — Tue, 23 Jun 2026 12:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Telecommunications is an incredibly complex, highly specialized domai...
+
+## IBM Cloud Updates
+
+- **[Running AI on mixed hardware for speed and affordability](https://research.ibm.com/blog/fast-inference-mixed-gpus?utm_medium=rss&utm_source=rss)** — Tue, 23 Jun 2026 18:00:00 GMT
+  Researchers show that serving AI models with llm-d can boost inference speeds by up to 5 times and double throughput — all while using heterogeneous G...
+
+
 # ☁️ Cloud Updates — 2026-06-23 10:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -683,21 +717,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Qiskit Global Summer School 2026: Registration now open](https://research.ibm.com/blog/qiskit-summer-school-2026?utm_medium=rss&utm_source=rss)** — Tue, 26 May 2026 04:00:00 GMT
   Sign up for Qiskit Global Summer School 2026: A decade on the cloud — a free, virtual program for learning quantum computing with Qiskit.
-
-
-# ☁️ Cloud Updates — 2026-05-25 11:10 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services](https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/)** — Mon, 25 May 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Jamie Collier</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><p><span style="vertical-ali...
-- **[Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability](https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/)** — Mon, 25 May 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek</p>
-<hr /></div>
-<div class="block-paragraph_a...
