@@ -1,3 +1,44 @@
+# ☁️ Cloud Updates — 2026-06-25 10:14 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Huntington Bank: Redacting sensitive data from 400M+ documents with AWS](https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/)** — Wed, 24 Jun 2026 18:24:50 +0000
+  In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment ...
+- **[Build a healthcare appointment agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/)** — Wed, 24 Jun 2026 18:20:27 +0000
+  In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock A...
+- **[AI-powered BI with Snowflake and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/)** — Wed, 24 Jun 2026 18:19:35 +0000
+  In this post, you will learn how to build an end-to-end integration between Snowflake semantic views and Amazon Quick. The sample data is user review ...
+- **[How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/)** — Wed, 24 Jun 2026 16:56:24 +0000
+  In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customer...
+
+## Azure Updates
+
+- **[Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis](https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/)** — Wed, 24 Jun 2026 14:00:14 +0000
+  <p>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnos...
+
+## GCP Updates
+
+- **[Enhanced data resilience with cross-region backups in Backup and DR Service](https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups/)** — Wed, 24 Jun 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To maintain business continuity, you need a robust data-backup strate...
+- **[Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager](https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/)** — Wed, 24 Jun 2026 11:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan</p>
+<hr /></div>
+<div class="block-paragraph_a...
+
+## IBM Cloud Updates
+
+- **[What is IBM's nanostack chip architecture?](https://research.ibm.com/blog/what-is-a-nanostack?utm_medium=rss&utm_source=rss)** — Thu, 25 Jun 2026 10:00:00 GMT
+  This new microchip architecture from IBM builds up, not out, to overcome the spatial limitations of scaling transistor density.
+- **[IBM introduces the smallest computer chip in the world](https://research.ibm.com/blog/sub-1nm-node-chips?utm_medium=rss&utm_source=rss)** — Thu, 25 Jun 2026 10:00:00 GMT
+  It’s the world’s first sub-1nm chip technology, powered by IBM’s new nanostack architecture, paving the way for more powerful chips for years to come.
+- **[A new playbook for quantum optimization benchmarking](https://research.ibm.com/blog/stefan-woerner-optimization-benchmarking?utm_medium=rss&utm_source=rss)** — Wed, 24 Jun 2026 04:00:00 GMT
+  Novel algorithms and community benchmarking efforts are reshaping how researchers search for advantage in quantum optimization.
+
+
 # ☁️ Cloud Updates — 2026-06-24 10:22 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
