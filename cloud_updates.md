@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-06-26 10:22 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
+  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
+
+## Azure Updates
+
+- **[Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)** — Thu, 25 Jun 2026 16:00:00 +0000
+  <p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealin...
+
+## GCP Updates
+
+- **[STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus](https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/)** — Thu, 25 Jun 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Jordan Jones</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><h3><span style="vertical-ali...
+
+## IBM Cloud Updates
+
+- **[Qiskit Paulice: postselected quantum error correction](https://research.ibm.com/blog/qiskit-paulice?utm_medium=rss&utm_source=rss)** — Thu, 25 Jun 2026 14:00:00 GMT
+  Qiskit Paulice, a new Qiskit addon, improves the reliability of quantum circuits by detecting and filtering out errors.
+
+
 # ☁️ Cloud Updates — 2026-06-25 10:14 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -726,35 +755,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-aside"><dl>
     <dt>aside_block</dt>
     <dd>&lt;ListValue: [StructValue([(&#x27;title&#x27;, &#x27;Summary of today’s news&#x27;), ...
-
-
-# ☁️ Cloud Updates — 2026-05-27 10:55 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Technical deep dive: AgentCore payments and innovation in agentic commerce](https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/)** — Tue, 26 May 2026 17:57:18 +0000
-  Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per...
-- **[Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/)** — Tue, 26 May 2026 17:41:26 +0000
-  In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrat...
-- **[Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/)** — Tue, 26 May 2026 17:39:46 +0000
-  In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable e...
-- **[AgentWatch: Proactive AWS monitoring with ambient agents](https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/)** — Tue, 26 May 2026 17:22:48 +0000
-  In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure ch...
-- **[From idea to AI app: Creating intelligent research assistants with Strands](https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/)** — Tue, 26 May 2026 16:28:08 +0000
-  Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens...
-
-## GCP Updates
-
-- **[How we evolved Google’s global and data center networks for the AI era](https://cloud.google.com/blog/products/networking/data-center-and-global-networks-built-for-ai-era/)** — Tue, 26 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Over the last 25 years of building Google’s global network, we’ve </s...
-- **[New study: Securing AI in the browser is a top priority for IT Leaders](https://cloud.google.com/blog/products/chrome-enterprise/new-study-securing-ai-in-the-browser-is-a-top-priority-for-it-leaders/)** — Tue, 26 May 2026 11:20:00 +0000
-  <div class="block-paragraph"><p>The way we work has fundamentally changed. From automated agents to sophisticated AI services, Generative AI (GenAI) h...
-
-## IBM Cloud Updates
-
-- **[Qiskit Global Summer School 2026: Registration now open](https://research.ibm.com/blog/qiskit-summer-school-2026?utm_medium=rss&utm_source=rss)** — Tue, 26 May 2026 04:00:00 GMT
-  Sign up for Qiskit Global Summer School 2026: A decade on the cloud — a free, virtual program for learning quantum computing with Qiskit.
