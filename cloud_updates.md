@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-06-28 09:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## Azure Updates
+
+- **[Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/)** — Wed, 27 May 2026 16:00:00 +0000
+  <p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p...
+
+
 # ☁️ Cloud Updates — 2026-06-27 09:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -711,38 +723,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Many organizations’ single source of tru...
 - **[AlloyDB Hot Standby: Faster failovers, consistent performance](https://cloud.google.com/blog/products/databases/alloydb-hot-standby-faster-failovers-and-consistent-performance/)** — Fri, 29 May 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB for PostgreSQL is a fully managed, PostgreSQL-compatible data...
-
-
-# ☁️ Cloud Updates — 2026-05-29 10:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
-  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
-
-## Azure Updates
-
-- **[Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)** — Thu, 28 May 2026 16:00:00 +0000
-  <p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspa...
-
-## GCP Updates
-
-- **[How the University of Central Oklahoma is using AI to streamline analysis of complex criminal cases](https://cloud.google.com/blog/topics/public-sector/how-the-university-of-central-oklahoma-is-using-ai-to-streamline-analysis-of-complex-criminal-cases/)** — Thu, 28 May 2026 19:00:00 +0000
-  <div class="block-paragraph"><p>In the high-stakes world of forensic science, time is the enemy of justice. <a href="https://www.uco.edu/" target="_bl...
-- **[AI in SRE: Where and how Google is deploying agentic AI to improve operations](https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations/)** — Thu, 28 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since its inception over 20 years ago, Google has used </span><a href...
-- **[Evolving Dataflow to process massive datasets for machine learning](https://cloud.google.com/blog/products/data-analytics/ai-focused-innovations-in-dataflow/)** — Thu, 28 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google created </span><a href="https://static.googleusercontent.com/m...
-- **[Nano Banana 2 and Nano Banana Pro are generally available, and already powering creative workflows](https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available/)** — Thu, 28 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Organizations are unlocking entirely new ways to use image generation...
-- **[Go from resource-level to business-level maintenance in Google Cloud](https://cloud.google.com/blog/products/application-development/app-centric-maintenance-visibility-in-unified-maintenance/)** — Thu, 28 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing planned maintenance is a critical part of running a reliable...
-
-## IBM Cloud Updates
-
-- **[New Classroom Accounts expand quantum access for educators](https://research.ibm.com/blog/classroom-accounts?utm_medium=rss&utm_source=rss)** — Thu, 28 May 2026 04:00:00 GMT
-  Classroom Accounts are a new way for educators to give large groups of students free, hands-on access to real quantum computers.
