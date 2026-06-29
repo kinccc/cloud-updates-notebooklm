@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-06-29 11:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## Azure Updates
+
+- **[Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)** — Thu, 28 May 2026 16:00:00 +0000
+  <p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspa...
+
+
 # ☁️ Cloud Updates — 2026-06-28 09:56 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -688,38 +705,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-05-30 09:17 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality](https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/)** — Fri, 29 May 2026 23:36:58 +0000
-  This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality an...
-- **[Training Azerbaijani language models on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/)** — Thu, 28 May 2026 21:54:06 +0000
-  Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker ...
-- **[Build a custom portal with embedded Amazon SageMaker AI MLflow Apps](https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/)** — Thu, 28 May 2026 20:39:22 +0000
-  In this post, you learn how to build a custom portal with embedded SageMaker AI MLflow Apps UI. You walk through the architecture pattern behind a Rea...
-- **[Streamline external access to Amazon SageMaker MLflow using a REST API proxy](https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/)** — Thu, 28 May 2026 20:35:44 +0000
-  In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requ...
-- **[Evaluating Deep Agents using LangSmith on AWS](https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/)** — Thu, 28 May 2026 20:32:23 +0000
-  This post combines learnings from LangChain’s work on evaluating deep agents and Anthropic’s guide to demystifying evals for AI agents into a practica...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: How to build an AI-ready security program for the public sector](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-to-build-an-ai-ready-security-program-for-the-public-sector/)** — Fri, 29 May 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for May 2026. Today, Usman Chaudhary, Field CISO, Google Public Sector, ...
-- **[Cool stuff Google Cloud customers built, May edition: Agentic algorithms for supply chains; virtual try-on APIs; robotic camera operators & more](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)** — Fri, 29 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">AI and cloud technology are reshaping every corne...
-- **[Developer's guide to Gemini Enterprise and A2UI integration](https://cloud.google.com/blog/topics/developers-practitioners/guide-to-gemini-enterprise-and-a2ui-integration/)** — Fri, 29 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you've built a chatbot, you know this conversation:</span></p>
-<p ...
-- **[From petabytes to predictions: Easy BigQuery insights in Google Sheets](https://cloud.google.com/blog/products/data-analytics/using-connected-sheets-to-analyze-bigquery-data/)** — Fri, 29 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Many organizations’ single source of tru...
-- **[AlloyDB Hot Standby: Faster failovers, consistent performance](https://cloud.google.com/blog/products/databases/alloydb-hot-standby-faster-failovers-and-consistent-performance/)** — Fri, 29 May 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB for PostgreSQL is a fully managed, PostgreSQL-compatible data...
