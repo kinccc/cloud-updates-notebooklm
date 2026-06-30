@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-06-30 10:31 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Lessons learned from scaling to 1 million Lambda functions](https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/)** — Mon, 29 Jun 2026 17:21:05 +0000
+  In this post, we share our journey and the lessons learned from building and running a fully serverless, multi-account software as a service (SaaS) pl...
+- **[Preventing data exfiltration in machine learning environments with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/)** — Mon, 29 Jun 2026 17:16:48 +0000
+  In this post, we demonstrate how iBusiness implemented a three-layered security architecture using Amazon SageMaker AI, virtual private cloud (VPC) en...
+- **[Dual-token authentication for Nakama game servers with Amazon Cognito on AWS](https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/)** — Mon, 29 Jun 2026 17:09:54 +0000
+  In this post, you learn how to configure an Amazon Cognito User Pool for SRP-based game client authentication with no client secret. You will implemen...
+
+## Azure Updates
+
+- **[Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)** — Mon, 29 Jun 2026 21:14:22 +0000
+  <p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and mo...
+
+## GCP Updates
+
+- **[Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.](https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/)** — Mon, 29 Jun 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" />Google Meet's "Take notes ...
+
+## IBM Cloud Updates
+
+- **[Apply to IBM Quantum Developer Conference 2026](https://research.ibm.com/blog/qdc-application-2026?utm_medium=rss&utm_source=rss)** — Mon, 29 Jun 2026 14:00:00 GMT
+  Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.
+
+
 # ☁️ Cloud Updates — 2026-06-29 11:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -699,9 +730,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
 - **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
   AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
-
-
-# ☁️ Cloud Updates — 2026-05-31 09:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
