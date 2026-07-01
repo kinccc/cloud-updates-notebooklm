@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-07-01 10:41 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Safely Releasing Frontier Models to Customers](https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/)** — Wed, 01 Jul 2026 03:13:19 +0000
+  It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our servi...
+- **[Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/)** — Tue, 30 Jun 2026 18:40:09 +0000
+  Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on...
+- **[Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol](https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/)** — Tue, 30 Jun 2026 16:46:17 +0000
+  This post walks through how AG-UI integrates into the Fullstack AgentCore Solution Template (FAST) to build interactive agent frontends on Amazon Bedr...
+- **[Simplify multi-account access to Amazon Bedrock models with managed entitlements](https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/)** — Tue, 30 Jun 2026 16:42:49 +0000
+  In this post, we show you how to use managed entitlements for Amazon Bedrock to subscribe once from a central account and distribute model access acro...
+- **[Implementing resilience patterns with Amazon Bedrock and LLM gateway](https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/)** — Tue, 30 Jun 2026 16:40:47 +0000
+  In this post, you will learn five practical patterns for building resilient generative AI applications on AWS, progressing from native Amazon Bedrock ...
+
+## Azure Updates
+
+- **[SkillOpt: Agent skills as trainable parameters](https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/)** — Tue, 30 Jun 2026 16:50:02 +0000
+  <p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill ...
+
+## GCP Updates
+
+- **[Conversational analytics in BigQuery brings trusted agentic reasoning to everyone](https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/)** — Tue, 30 Jun 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Businesses run on fast decisions, but the teams who hold the answers ...
+- **[Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni](https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/)** — Tue, 30 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The financial services industry (FSI) operates under a unique set of ...
+- **[How Schrödinger sped up molecular discovery by 4x with Alphaevolve](https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/)** — Tue, 30 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Computational chemistry researchers have traditionally faced a frustr...
+- **[Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server](https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/)** — Tue, 30 Jun 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A couple of months ago, we announced that </span><a href="https://clo...
+
+
 # ☁️ Cloud Updates — 2026-06-30 10:31 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -715,18 +751,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Renowned mathematician Subhash Khot joins IBM Research](https://research.ibm.com/blog/subhash-khot-ibm?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 13:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-06-01 12:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
-  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
-- **[Agentic AI: Bridging the Widening Gap Between Ambition and Execution](https://aws.amazon.com/blogs/enterprise-strategy/agentic-ai-bridging-the-widening-gap-between-ambition-and-execution/)** — Fri, 27 Feb 2026 17:48:59 +0000
-  AWS recently partnered with Harvard Business Review Analytic Services to understand the current state of agentic AI in organisations.1 The results wer...
