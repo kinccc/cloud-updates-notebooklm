@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-07-02 10:09 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+
+## GCP Updates
+
+- **[SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise](https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/)** — Wed, 01 Jul 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
+- **[AlloyDB AI Functions - now with revolutionary performance boosts and cost savings](https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/)** — Wed, 01 Jul 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/products/alloydb"><span style="text-decoration: underline; vertical-align: ...
+- **[Get started with the Claude apps gateway for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/)** — Wed, 01 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Anthropic's agentic coding tool Claude Code has worked with Google Cl...
+- **[Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row](https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/)** — Wed, 01 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the third consecutive year, Google has been recognized as a Leade...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - July 2026 - Return of the Superheroes](https://research.ibm.com/blog/ponder-this-july-2026?utm_medium=rss&utm_source=rss)** — Wed, 01 Jul 2026 15:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-07-01 10:41 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -718,36 +746,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[IBM to invest $10 billion in quantum computing](https://research.ibm.com/blog/10-billion-investment-faq?utm_medium=rss&utm_source=rss)** — Tue, 02 Jun 2026 13:00:00 GMT
   The investment will fund R+D, capital expenditure, manufacturing scaling, ecosystem partnerships, and strategic acquisitions.
 - **[Ponder This Challenge - June 2026 - The Superhero Team Movies](https://research.ibm.com/blog/ponder-this-june-2026?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 06:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-06-02 11:17 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent](https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/)** — Mon, 01 Jun 2026 21:45:52 +0000
-  This post details how NYCBS partnered with Amazon Web Services (AWS) and AWS partner Pronetx (now part of Caylent) to migrate to Amazon Connect Custom...
-- **[Building a scalable user search layer on top of Amazon Cognito](https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/)** — Mon, 01 Jun 2026 16:16:45 +0000
-  In this post, we show how to build a comprehensive scalable user search layer on top of Amazon Cognito using AWS Lambda, Amazon DynamoDB, and Amazon O...
-
-## GCP Updates
-
-- **[How Trustpilot built a real-time architecture for data enrichment using Gemma](https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma/)** — Mon, 01 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Processing millions of user reviews in real-time, under strict latenc...
-- **[The fully-managed Remote MCP Server for AlloyDB is now Generally Available](https://cloud.google.com/blog/products/data-analytics/alloydb-remote-mcp-server-ga-secure-ai-agent-access-to-your-data/)** — Mon, 01 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents possess incredible reasoning capabilities and can perform i...
-- **[Modeling a digital twin of a food supply chain using BigQuery Graph](https://cloud.google.com/blog/products/data-analytics/modeling-a-digital-twin-using-bigquery-graph/)** — Mon, 01 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">The example of a growing restaurant</strong></h3>
-<p><span style="...
-- **[What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)** — Mon, 01 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph"><p><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap...
-- **[Introducing the GKE standby buffer: Improve node startup times without blowing your budget](https://cloud.google.com/blog/products/containers-kubernetes/gke-standby-buffers-speed-up-autoscaling-for-less-spend/)** — Mon, 01 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Application owners and platform engineers have long faced a difficult...
-
-## IBM Cloud Updates
-
-- **[Renowned mathematician Subhash Khot joins IBM Research](https://research.ibm.com/blog/subhash-khot-ibm?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 13:00:00 GMT
