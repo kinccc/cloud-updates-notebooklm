@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-07-03 10:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Amazon Bedrock catches AI-generated phishing](https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/)** — Thu, 02 Jul 2026 17:55:41 +0000
+  Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a...
+- **[Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)** — Thu, 02 Jul 2026 17:50:23 +0000
+  In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an exter...
+- **[Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)** — Wed, 01 Jul 2026 18:14:34 +0000
+  We're excited to introduce US-based frontier open-weight models in AWS GovCloud (US). With this release, Amazon Bedrock now supports OpenAI’s open-wei...
+- **[Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)** — Wed, 01 Jul 2026 18:07:06 +0000
+  In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (...
+- **[Structured memory filtering with metadata in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/)** — Wed, 01 Jul 2026 18:03:10 +0000
+  In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and...
+
+## GCP Updates
+
+- **[Google’s Continued Disruption of Malicious Residential Proxy Networks](https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/)** — Thu, 02 Jul 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Background</span></h3>
+<p><span style="vertical-align: baseline;">To...
+
+
 # ☁️ Cloud Updates — 2026-07-02 10:09 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -717,32 +743,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Qiskit Fall Fest 2026: Applications open](https://research.ibm.com/blog/qiskit-fall-fest-2026?utm_medium=rss&utm_source=rss)** — Wed, 03 Jun 2026 13:00:00 GMT
   Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.
-
-
-# ☁️ Cloud Updates — 2026-06-03 11:56 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Automating contract intelligence with Doczy.ai™ on AWS](https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/)** — Tue, 02 Jun 2026 14:06:32 +0000
-  In this post, we show you how Doczy.ai™ uses generative AI on AWS to automate contract intelligence at scale, transforming unstructured documents into...
-
-## GCP Updates
-
-- **[Connecting AI agents with unstructured data using Google Cloud Storage MCP Servers](https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server/)** — Tue, 02 Jun 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Storage (GCS) is a foundational component of the modern ...
-- **[Announcing Spanner Graph algorithms: Google-grade intelligence for connected data](https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms/)** — Tue, 02 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud Next, we announced the preview of graph algorithms wi...
-- **[Accelerating data lakes: Optimizing Apache Iceberg and Spark with gcs-analytics-core](https://cloud.google.com/blog/products/data-analytics/optimize-iceberg-and-spark-workloads-with-gcs-analytics-core/)** — Tue, 02 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many data engineers spend significant time managing compatibility and...
-- **[Experimenting with TPUs, GKE Managed DRANET, and Multi-cluster Inference Gateway](https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-tpus-gke-managed-dranet-and-multi-cluster-inference-gateway/)** — Tue, 02 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What happens when your workload fails in one region but you need acce...
-
-## IBM Cloud Updates
-
-- **[IBM to invest $10 billion in quantum computing](https://research.ibm.com/blog/10-billion-investment-faq?utm_medium=rss&utm_source=rss)** — Tue, 02 Jun 2026 13:00:00 GMT
-  The investment will fund R+D, capital expenditure, manufacturing scaling, ecosystem partnerships, and strategic acquisitions.
-- **[Ponder This Challenge - June 2026 - The Superhero Team Movies](https://research.ibm.com/blog/ponder-this-june-2026?utm_medium=rss&utm_source=rss)** — Mon, 01 Jun 2026 06:00:00 GMT
