@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-07-04 09:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-07-03 10:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -719,27 +726,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   IBM is bringing the rigor and modularity of software engineering to LLMs.
 - **[The future of quantum takes center stage at NY Tech Week](https://research.ibm.com/blog/the-future-of-quantum-takes-center-stage-at-ny-tech-week?utm_medium=rss&utm_source=rss)** — Thu, 04 Jun 2026 04:00:00 GMT
   IBM and educational partners outlined which quantum advancements excite them and explained why it’s never too early to get on board.
-
-
-# ☁️ Cloud Updates — 2026-06-04 10:38 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Align your architecture backlog with Tech Roadmap Prioritization (TRP)](https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/)** — Wed, 03 Jun 2026 18:08:51 +0000
-  In this post, we show you how to run a one-hour prioritization session with your stakeholders, plot competing initiatives on a shared matrix by cost a...
-- **[Building highly available Oracle databases with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap/)** — Wed, 03 Jun 2026 15:51:22 +0000
-  This post shows how to build a highly available Oracle database architecture using FSxN shared storage, Auto Scaling groups with dynamic AMI updates, ...
-
-## GCP Updates
-
-- **[What’s new in serverless Managed Service for Apache Spark](https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features/)** — Wed, 03 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you use it for data preparation, real-time interactive querie...
-
-## IBM Cloud Updates
-
-- **[Qiskit Fall Fest 2026: Applications open](https://research.ibm.com/blog/qiskit-fall-fest-2026?utm_medium=rss&utm_source=rss)** — Wed, 03 Jun 2026 13:00:00 GMT
-  Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.
