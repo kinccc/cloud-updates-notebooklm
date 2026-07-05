@@ -1,3 +1,10 @@
+# ☁️ Cloud Updates — 2026-07-05 09:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
+
+
+
 # ☁️ Cloud Updates — 2026-07-04 09:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -692,37 +699,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[What is the fast Fourier transform?](https://research.ibm.com/blog/the-fast-fourier-transform-how-and-why-it-works?utm_medium=rss&utm_source=rss)** — Fri, 05 Jun 2026 04:00:00 GMT
   The brilliance of this algorithm, which underlies the modern internet, is in how it organizes information.
-
-
-# ☁️ Cloud Updates — 2026-06-05 10:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/)** — Thu, 04 Jun 2026 16:59:08 +0000
-  Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier r...
-- **[How to build self-driving AI operations on Amazon Bedrock at scale](https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/)** — Wed, 03 Jun 2026 20:14:16 +0000
-  In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamica...
-- **[Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/)** — Wed, 03 Jun 2026 17:55:37 +0000
-  In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run...
-- **[Reducing container cold start times using SOCI index on DLAMI and DLC](https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/)** — Wed, 03 Jun 2026 16:26:35 +0000
-  In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the t...
-- **[Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/)** — Wed, 03 Jun 2026 15:56:50 +0000
-  In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy...
-
-## GCP Updates
-
-- **[What's new for Managed Service for Apache Spark clusters](https://cloud.google.com/blog/products/data-analytics/enhancements-to-managed-service-for-apache-spark-clusters/)** — Thu, 04 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, our goal is to let you run large-scale analytical an...
-- **[Scaling AI Agents: A Step-by-Step Guide to Deploying ADK on GKE Autopilot](https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/)** — Thu, 04 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">While building AI agents locally using Google’s Agent Development Kit...
-
-## IBM Cloud Updates
-
-- **[Introducing Granite Libraries and Project Granite Switch](https://research.ibm.com/blog/granite-libraries-project-switch?utm_medium=rss&utm_source=rss)** — Thu, 04 Jun 2026 12:45:00 GMT
-  IBM is bringing the rigor and modularity of software engineering to LLMs.
-- **[The future of quantum takes center stage at NY Tech Week](https://research.ibm.com/blog/the-future-of-quantum-takes-center-stage-at-ny-tech-week?utm_medium=rss&utm_source=rss)** — Thu, 04 Jun 2026 04:00:00 GMT
-  IBM and educational partners outlined which quantum advancements excite them and explained why it’s never too early to get on board.
