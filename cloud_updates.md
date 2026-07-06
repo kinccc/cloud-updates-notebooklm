@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-07-06 11:27 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## IBM Cloud Updates
+
+- **[Modeling the chemistry of fusion reactor material](https://research.ibm.com/blog/molten-salts-fusion-quantum?utm_medium=rss&utm_source=rss)** — Mon, 06 Jul 2026 11:00:00 GMT
+  Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.
+
+
 # ☁️ Cloud Updates — 2026-07-05 09:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -682,20 +694,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan</p>
 <hr /></div>
 <div class=...
-
-
-# ☁️ Cloud Updates — 2026-06-06 09:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)** — Fri, 05 Jun 2026 14:45:00 +0000
-  May AI recap
-
-## IBM Cloud Updates
-
-- **[What is the fast Fourier transform?](https://research.ibm.com/blog/the-fast-fourier-transform-how-and-why-it-works?utm_medium=rss&utm_source=rss)** — Fri, 05 Jun 2026 04:00:00 GMT
-  The brilliance of this algorithm, which underlies the modern internet, is in how it organizes information.
