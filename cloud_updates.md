@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-07-07 10:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[From Hugging Face to Amazon SageMaker Studio in one click](https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)** — Mon, 06 Jul 2026 22:35:55 +0000
+  Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to h...
+- **[Teaching models to forget: Selective unlearning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)** — Mon, 06 Jul 2026 22:23:45 +0000
+  In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moder...
+- **[Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)** — Mon, 06 Jul 2026 17:00:44 +0000
+  In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the serv...
+- **[Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)** — Mon, 06 Jul 2026 16:58:13 +0000
+  In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an ev...
+- **[Automatically redact PII in images with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/)** — Mon, 06 Jul 2026 16:55:02 +0000
+  In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, ...
+
+## GCP Updates
+
+- **[The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)** — Fri, 05 Jun 2026 14:45:00 +0000
+  May AI recap
+
+
 # ☁️ Cloud Updates — 2026-07-06 11:27 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -678,19 +703,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
   Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
-
-
-# ☁️ Cloud Updates — 2026-06-07 10:05 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 05 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms](https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/)** — Fri, 05 Jun 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan</p>
-<hr /></div>
-<div class=...
