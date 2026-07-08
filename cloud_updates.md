@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-07-08 09:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots](https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/)** — Tue, 07 Jul 2026 16:32:21 +0000
+  In this post, we explain how S&amp;P Global Market Intelligence implemented an innovative disaster recovery solution for their Capital IQ platform usi...
+
+## GCP Updates
+
+- **[A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace](https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/)** — Tue, 07 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Software-as-a-service (SaaS) is evolving into Agents-as-a-service (Aa...
+- **[BGP route policies: Top 3 use cases by customer demand](https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/)** — Tue, 07 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When we first made </span><a href="https://docs.cloud.google.com/netw...
+- **[Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM](https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/)** — Tue, 07 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Being more proactive continues to be a leading goal for security orga...
+- **[20 questions for the Agentic Enterprise (and how Agent Platform can help)](https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/)** — Tue, 07 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you’re an IT leader, you might be getting a lot of questions about...
+- **[Report: 83% of organizations need to upgrade their infrastructure to support agentic AI](https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/)** — Tue, 07 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, enterprise AI has been synonymous with conversational AI —...
+
+
 # ☁️ Cloud Updates — 2026-07-07 10:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -691,15 +716,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Introducing SQL Data Insights Pro](https://research.ibm.com/blog/bringing-the-power-of-semantic-ai-to-ibm-db2?utm_medium=rss&utm_source=rss)** — Mon, 08 Jun 2026 15:00:00 GMT
   Enabling semantic query processing in Db2 for digital sovereignty
-
-
-# ☁️ Cloud Updates — 2026-06-08 11:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
-  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
