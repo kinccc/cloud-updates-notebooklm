@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-07-09 10:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+## Azure Updates
+
+- **[Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/)** — Wed, 08 Jul 2026 16:00:00 +0000
+  <p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a m...
+
+## GCP Updates
+
+- **[C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads](https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/)** — Wed, 08 Jul 2026 20:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">As organizations scale modern workloads ...
+- **[Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure](https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/)** — Wed, 08 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the agentic era, </span><span style="vertical-align: baseline;">AI...
+- **[New ways to keep Google Cloud certifications current and boost your career](https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/)** — Wed, 08 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you’re reading this, you’ve likely already done the hard work to p...
+- **[Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms](https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/)** — Wed, 08 Jul 2026 15:14:00 +0000
+  <div class="block-paragraph"><p>The agentic AI era is here, transforming how higher education institutions innovate, operate, and fundamentally empowe...
+- **[Meet the 33 cybersecurity startups joining the Gemini Startup Forum](https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/)** — Wed, 08 Jul 2026 13:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Startups are at the forefront of tackling some of the world’s most co...
+
+## IBM Cloud Updates
+
+- **[What's new at IBM Quantum Q2 2026](https://research.ibm.com/blog/whats-new-q2-2026?utm_medium=rss&utm_source=rss)** — Wed, 08 Jul 2026 04:00:00 GMT
+  Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
+
+
 # ☁️ Cloud Updates — 2026-07-08 09:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -686,33 +721,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprise storage footprints scale to billions of objects, AI app...
 - **[How to unlock true ROI in software development – a deep dive into the latest DORA research](https://cloud.google.com/blog/products/ai-machine-learning/how-to-measure-the-business-value-of-generative-ai/)** — Tue, 09 Jun 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How do you prove the business value of generative AI to your teams? <...
-
-
-# ☁️ Cloud Updates — 2026-06-09 10:34 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access](https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/)** — Mon, 08 Jun 2026 16:40:34 +0000
-  With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advant...
-- **[It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/)** — Mon, 08 Jun 2026 16:35:02 +0000
-  Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, an...
-- **[Better decisions at scale: How mathematical optimization delivers where intuition fails](https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/)** — Mon, 08 Jun 2026 16:31:17 +0000
-  In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories whe...
-- **[End-to-end encrypted ML inference with Amazon SageMaker AI and FHE](https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/)** — Mon, 08 Jun 2026 16:14:14 +0000
-  This blog has previously discussed FHE for ML inference in the post Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, re...
-- **[Amazon Quick ARNs: Cross-account migration and namespace permissions](https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/)** — Mon, 08 Jun 2026 16:07:29 +0000
-  In this post, we cover the structure of Amazon Quick ARNs and provide a practical mental model for working with them. By the end, you can look at an A...
-
-## GCP Updates
-
-- **[Modernizing Healthcare: How Alcidion achieved greater stability and performance with AlloyDB](https://cloud.google.com/blog/products/databases/modernizing-healthcare-how-alcidion-achieved-greater-stability-and-performance/)** — Mon, 08 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In clinical informatics, every second counts. For </span><a href="htt...
-
-## IBM Cloud Updates
-
-- **[Introducing SQL Data Insights Pro](https://research.ibm.com/blog/bringing-the-power-of-semantic-ai-to-ibm-db2?utm_medium=rss&utm_source=rss)** — Mon, 08 Jun 2026 15:00:00 GMT
-  Enabling semantic query processing in Db2 for digital sovereignty
