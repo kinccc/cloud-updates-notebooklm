@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-07-10 10:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Specification-driven composition for flexible data workflows](https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/)** — Thu, 09 Jul 2026 22:27:31 +0000
+  Specification-driven composition addresses a common scalability bottleneck in data pipelines. Data pipelines often start as simple scripts, but as the...
+
+## Azure Updates
+
+- **[Aurora 1.5: Extending open foundation models for weather and Earth-system applications](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/)** — Thu, 09 Jul 2026 16:46:22 +0000
+  <p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it mor...
+
+## GCP Updates
+
+- **[We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/)** — Thu, 09 Jul 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" />Finding the most efficient a...
+
+## IBM Cloud Updates
+
+- **[CoFrGeNets replace the ‘bones’ of transformer-based models](https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models?utm_medium=rss&utm_source=rss)** — Thu, 09 Jul 2026 15:30:39 GMT
+  This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even ...
+- **[How training environments can teach AI models to misbehave](https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave?utm_medium=rss&utm_source=rss)** — Thu, 09 Jul 2026 13:30:39 GMT
+  A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a...
+
+
 # ☁️ Cloud Updates — 2026-07-09 10:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -696,28 +725,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-06-10 10:55 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake](https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/)** — Tue, 09 Jun 2026 16:51:55 +0000
-  In this post, you learn how to build an automated, serverless pipeline that converts scanned PDF medical records into FHIR R4-compliant data using Ama...
-
-## GCP Updates
-
-- **[Claude Fable 5: Available on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/)** — Tue, 09 Jun 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="vertical-align: baseline;">Claude Fable 5</strong><span style="vertical-align: baseline;">, An...
-- **[Gemini for Government: Your blueprint for mission impact](https://cloud.google.com/blog/topics/public-sector/gemini-for-government-your-blueprint-for-mission-impact/)** — Tue, 09 Jun 2026 17:00:00 +0000
-  <div class="block-paragraph"><p>The public sector has reached a critical inflection point. For years, organizations have explored what’s possible thro...
-- **[Report: GKE Inference Gateway delivers up to 92% faster AI responses](https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/)** — Tue, 09 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As generative AI moves from experimental pilots to massive production...
-- **[Storage Insights datasets: Enabling org-wide operational discovery with activity insights](https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/)** — Tue, 09 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprise storage footprints scale to billions of objects, AI app...
-- **[How to unlock true ROI in software development – a deep dive into the latest DORA research](https://cloud.google.com/blog/products/ai-machine-learning/how-to-measure-the-business-value-of-generative-ai/)** — Tue, 09 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How do you prove the business value of generative AI to your teams? <...
