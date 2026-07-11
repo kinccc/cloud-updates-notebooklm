@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-07-11 08:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)** — Fri, 10 Jul 2026 15:35:05 +0000
+  In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step h...
+- **[Real-time dental image verification with Amazon SageMaker AI at Henry Schein One](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)** — Fri, 10 Jul 2026 15:33:47 +0000
+  This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI th...
+- **[Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)** — Fri, 10 Jul 2026 15:31:12 +0000
+  In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to r...
+- **[Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)** — Fri, 10 Jul 2026 15:28:54 +0000
+  In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and expl...
+- **[Deploying quantized models on Amazon SageMaker AI with Unsloth](https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/)** — Fri, 10 Jul 2026 15:26:05 +0000
+  In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infras...
+
+## GCP Updates
+
+- **[Contributing to U.K. financial sector resilience as a critical third party](https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/)** — Fri, 10 Jul 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we take our role in the financial ecosystem very ser...
+- **[Frontier and Center: Who evaluates the evaluations?](https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/)** — Fri, 10 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 10 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+- **[Safely run AI-generated code in Cloud Run sandboxes](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/)** — Thu, 09 Jul 2026 16:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Here’s a question we hear often at Google Cloud: How do you safely ru...
+- **[Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/)** — Thu, 09 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many of the most challenging and valuable problems in the world are r...
+
+
 # ☁️ Cloud Updates — 2026-07-10 10:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -688,40 +721,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Researchers at IBM created an LLM-guided evolutionary framework that quickly found 465 distinct quantum error correction code candidates.
 - **[Prototype and validate fermionic circuits faster with ffsim](https://research.ibm.com/blog/ffsim?utm_medium=rss&utm_source=rss)** — Thu, 11 Jun 2026 04:00:00 GMT
   Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.
-
-
-# ☁️ Cloud Updates — 2026-06-11 11:22 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework](https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/)** — Wed, 10 Jun 2026 15:06:00 +0000
-  The Snowflake and AWS Custom Well-Architected Framework Lens brings together AWS Well-Architected best practices and Snowflake guidance into a single ...
-
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
