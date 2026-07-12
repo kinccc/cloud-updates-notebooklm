@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-07-12 09:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
+  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
+
+<img src="https...
+- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
+  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29...
+- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
+  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
+
+
+<img src="https:/...
+- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
+  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
+
+<img ...
+- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
+  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
+
+
+<img src="https://blogger.goo...
+
+
 # ☁️ Cloud Updates — 2026-07-11 08:47 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -680,44 +712,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Introducing the Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/)** — Fri, 12 Jun 2026 13:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As foundation models continue to improve, the lack of relevant contex...
-
-
-# ☁️ Cloud Updates — 2026-06-12 11:01 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Extract Data with On-demand and Batch Pipelines Dynamically](https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/)** — Thu, 11 Jun 2026 19:40:33 +0000
-  This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bed...
-- **[Evaluate AI agents systematically with Agent-EvalKit](https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/)** — Thu, 11 Jun 2026 15:49:47 +0000
-  Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, inc...
-- **[Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/)** — Thu, 11 Jun 2026 15:36:31 +0000
-  Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custo...
-- **[Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/)** — Thu, 11 Jun 2026 15:11:56 +0000
-  Blueprint instruction optimization is a BDA feature that automatically refines your extraction instructions to address this challenge directly. You pr...
-- **[How frontier teams are reinventing AI-native development](https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/)** — Thu, 11 Jun 2026 00:54:42 +0000
-  Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases...
-
-## GCP Updates
-
-- **[Powering the next era of Confidential AI](https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/)** — Thu, 11 Jun 2026 19:30:00 +0000
-  <div class="block-paragraph"><p>At Google Cloud, we’re committed to providing the most advanced, secure, and private infrastructure for the most deman...
-- **[Transform dashboards into interactive data experiences with Looker agents](https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/)** — Thu, 11 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Dashboards have long served as a primary way for organizations to ext...
-- **[ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit](https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/)** — Thu, 11 Jun 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span></h3>
-<p><span style="vertical-align: baseline;">...
-- **[10 Indispensable Prompts Our Team Refuses to Build Without](https://cloud.google.com/blog/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without/)** — Thu, 11 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Look at any builder's prompt history and you'll see a collection of h...
-- **[Deep dive: How Lightning Engine delivers 4.9x faster Apache Spark performance](https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/)** — Wed, 10 Jun 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">From foundational ETL and analytics to the frontier of generative AI,...
-
-## IBM Cloud Updates
-
-- **[Can LLMs discover quantum error correction codes?](https://research.ibm.com/blog/ai-for-qec?utm_medium=rss&utm_source=rss)** — Thu, 11 Jun 2026 15:15:00 GMT
-  Researchers at IBM created an LLM-guided evolutionary framework that quickly found 465 distinct quantum error correction code candidates.
-- **[Prototype and validate fermionic circuits faster with ffsim](https://research.ibm.com/blog/ffsim?utm_medium=rss&utm_source=rss)** — Thu, 11 Jun 2026 04:00:00 GMT
-  Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.
