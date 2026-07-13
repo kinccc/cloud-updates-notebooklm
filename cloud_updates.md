@@ -1,3 +1,17 @@
+# ☁️ Cloud Updates — 2026-07-13 10:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Unlocking the future of video data: March Networks cloud storage on AWS](https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/)** — Mon, 13 Jul 2026 10:06:18 +0000
+  Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), conveni...
+- **[How MAPFRE USA modernized fraud claims with Amazon EMR Serverless](https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/)** — Mon, 13 Jul 2026 09:26:59 +0000
+  Insurance fraud remains a significant challenge for the insurance industry. Fraudulent claims can increase loss costs, reduce trust, and consume inves...
+
+
 # ☁️ Cloud Updates — 2026-07-12 09:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -684,31 +698,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[UPDATE: Network traffic to Google Cloud originating from Delhi, Chennai, Mumbai and surrounding areas is experiencing intermittent periods of elevated latency and possible packet loss.](https://status.cloud.google.com/incidents/5fGQt4VbkDnr3Yp8PXPr)** — 2026-06-12T22:50:20+00:00
   <p> Incident began at <strong>2026-06-09 11:22</strong> <span>(all times are <strong>US/Pacific</strong>).</span></p><div class="cBIRi14aVDP__status-u...
-
-
-# ☁️ Cloud Updates — 2026-06-13 09:55 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building Supercharger: How Rocket Close optimized title operations with agentic AI](https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/)** — Fri, 12 Jun 2026 20:43:56 +0000
-  In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledg...
-- **[Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers](https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/)** — Fri, 12 Jun 2026 14:49:40 +0000
-  This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the a...
-- **[From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services](https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/)** — Fri, 12 Jun 2026 14:43:11 +0000
-  This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its...
-- **[Built from the inside out: How AWS Professional Services became a frontier team first](https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/)** — Fri, 12 Jun 2026 13:00:10 +0000
-  AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an e...
-
-## Azure Updates
-
-- **[Ire identifies another LOTUSLITE specimen](https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/)** — Fri, 12 Jun 2026 20:30:48 +0000
-  <p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as mo...
-
-## GCP Updates
-
-- **[Introducing the Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/)** — Fri, 12 Jun 2026 13:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As foundation models continue to improve, the lack of relevant contex...
