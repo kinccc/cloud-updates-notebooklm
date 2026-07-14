@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-07-14 09:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)** — Mon, 13 Jul 2026 21:01:20 +0000
+  Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to A...
+- **[When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)** — Mon, 13 Jul 2026 17:50:16 +0000
+  In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an...
+- **[Building an agentic AI solution at Bluesight with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/)** — Mon, 13 Jul 2026 17:34:38 +0000
+  In this post, we describe how Bluesight used two AWS engagements and Amazon Bedrock AgentCore to evolve from a single-product AI prototype to Prism, a...
+- **[Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)** — Mon, 13 Jul 2026 17:27:40 +0000
+  Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish...
+- **[Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)** — Mon, 13 Jul 2026 16:42:15 +0000
+  In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) exper...
+
+## Azure Updates
+
+- **[Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/)** — Mon, 13 Jul 2026 16:00:00 +0000
+  <p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while pr...
+
+## GCP Updates
+
+- **[Key findings from the 2026 Public Sector M-Trends report and beyond](https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/)** — Mon, 13 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>In 2026, the public sector is no longer defending a traditional perimeter. Instead, they are defending a complex web o...
+- **[Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs](https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/)** — Mon, 13 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How should your security team manage shadow AI? Workloads deployed by...
+- **[Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV](https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/)** — Mon, 13 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The automotive industry is moving from building hardware-centric plat...
+
+
 # ☁️ Cloud Updates — 2026-07-13 10:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -685,16 +719,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-06-14 10:24 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[UPDATE: Network traffic to Google Cloud originating from Delhi, Chennai, Mumbai and surrounding areas is experiencing intermittent periods of elevated latency and possible packet loss.](https://status.cloud.google.com/incidents/5fGQt4VbkDnr3Yp8PXPr)** — 2026-06-12T22:50:20+00:00
-  <p> Incident began at <strong>2026-06-09 11:22</strong> <span>(all times are <strong>US/Pacific</strong>).</span></p><div class="cBIRi14aVDP__status-u...
