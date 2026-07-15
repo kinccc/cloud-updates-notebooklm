@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-07-15 09:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Multi-agent social intelligence with Strands Agents and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)** — Tue, 14 Jul 2026 18:44:26 +0000
+  This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect ...
+- **[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/)** — Tue, 14 Jul 2026 16:47:32 +0000
+  In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites t...
+- **[Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis](https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/)** — Tue, 14 Jul 2026 16:43:41 +0000
+  Using generative AI enables parallel execution of comprehensive user flow testing at scale. This solution demonstrates how to build a cloud-deployed U...
+- **[Scaling medical content review at Flo Health with Amazon Bedrock – Part 2](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/)** — Tue, 14 Jul 2026 16:33:08 +0000
+  In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a productio...
+- **[ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS](https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/)** — Tue, 14 Jul 2026 16:25:03 +0000
+  In this post, you will learn how ScienceSoft, an Amazon Web Services (AWS) Services Partner, integrated Amazon Nova 2 Sonic with Amazon Bedrock Guardr...
+
+## GCP Updates
+
+- **[Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/)** — Tue, 14 Jul 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, we’ve built with a clear priority: putting the practical n...
+- **[Claude at scale on Google Cloud: Frontier AI, built for enterprise production](https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/)** — Tue, 14 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Running frontier AI in production is demanding — accelerators to mana...
+
+## IBM Cloud Updates
+
+- **[Release News: Qiskit v2.5 is here!](https://research.ibm.com/blog/qiskit-2-5-release-summary?utm_medium=rss&utm_source=rss)** — Tue, 14 Jul 2026 04:00:00 GMT
+  Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.
+
+
 # ☁️ Cloud Updates — 2026-07-14 09:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -713,9 +745,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 <div class="block-paragraph_advanced"><p><span ...
 - **[How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same](https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/)** — Mon, 15 Jun 2026 09:29:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I have been exploring how</span><span style="vertical-align: baseline...
-
-
-# ☁️ Cloud Updates — 2026-06-15 13:14 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
