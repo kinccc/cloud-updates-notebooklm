@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-07-16 09:13 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events](https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/)** — Wed, 15 Jul 2026 15:27:47 +0000
+  When 121 million mobile devices establish persistent gRPC connections to your origin infrastructure within seconds of a live broadcast, the routing po...
+
+## GCP Updates
+
+- **[IDC: Why the right networking approach is foundational to agentic AI](https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/)** — Wed, 15 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
+- **[How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery](https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/)** — Wed, 15 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Deploying the </span><a href="https://cl...
+- **[How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI](https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/)** — Wed, 15 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB powers enterprise-grade search for some of the largest organi...
+- **[The Risk of Exposed Cloud Functions and How to Harden](https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/)** — Wed, 15 Jul 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: Corné de Jong</p>
+<hr /></div>
+<div class="block-paragraph_advanced"><h3><span style="vertical-al...
+
+
 # ☁️ Cloud Updates — 2026-07-15 09:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -718,30 +743,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Scaling the UK government’s AI vision](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/)** — Wed, 17 Jun 2026 07:00:00 +0000
   An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.
-
-
-# ☁️ Cloud Updates — 2026-06-16 12:11 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## GCP Updates
-
-- **[What’s new in data agents: Supercharging your AI workflows](https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/)** — Mon, 15 Jun 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The rise of AI agents is fundamentally disrupting applications and an...
-- **[Cloud CISO Perspectives: The 4 lessons that guided AI Threat Defense](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/)** — Mon, 15 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for June 2026. Today, we introduce Chris Betz as the new CISO of Google C...
-- **[Architecting a trusted agentic platform with graph technologies: A Yahoo case study](https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/)** — Mon, 15 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises adopt agentic AI, they need to shift from reactive sys...
-- **[Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research](https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/)** — Mon, 15 Jun 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Patrick Whitsell, John McGuiness</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><p><span ...
-- **[How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same](https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/)** — Mon, 15 Jun 2026 09:29:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I have been exploring how</span><span style="vertical-align: baseline...
