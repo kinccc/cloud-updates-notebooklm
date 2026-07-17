@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-07-17 09:09 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## GCP Updates
+
+- **[Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)** — Thu, 16 Jul 2026 16:00:00 +0000
+  Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by various images
+
+## IBM Cloud Updates
+
+- **[This could be the largest synthetic code dataset yet](https://research.ibm.com/blog/code-alchemy-for-synthetic-code?utm_medium=rss&utm_source=rss)** — Thu, 16 Jul 2026 16:20:00 GMT
+  Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code
+- **[How to measure the performance of a quantum computer](https://research.ibm.com/blog/hardware-metrics-2026?utm_medium=rss&utm_source=rss)** — Thu, 16 Jul 2026 04:00:00 GMT
+  Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost effic...
+
+
 # ☁️ Cloud Updates — 2026-07-16 09:13 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -726,20 +750,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[Build and Deploy a Remote MCP Server to GKE in 30 Minutes](https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/)** — Wed, 17 Jun 2026 00:00:00 +0000
   <div class="block-paragraph_advanced"><h2>Build and Deploy a Remote MCP Server to GKE in 30 Minutes</h2>
 <p><span style="vertical-align: baseline;">In...
-
-
-# ☁️ Cloud Updates — 2026-06-17 11:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Samsung achieved real-time pricing with AWS Lambda Response Streaming](https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming/)** — Mon, 15 Jun 2026 14:13:36 +0000
-  In this post, we walk through the legacy architecture challenges, the stateless streaming solution, key implementation patterns, and performance resul...
-
-## GCP Updates
-
-- **[Scaling the UK government’s AI vision](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/)** — Wed, 17 Jun 2026 07:00:00 +0000
-  An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.
