@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-07-18 08:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Eclipse Dataspace Components on AWS: Cost optimization strategies](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/)** — Fri, 17 Jul 2026 16:03:47 +0000
+  When you deploy Eclipse Dataspace Components (EDC) connectors on AWS, one of the first challenges you face is predicting and controlling the cost of t...
+- **[Eclipse Dataspace Components on AWS: Architecture patterns in production](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production/)** — Fri, 17 Jul 2026 16:03:44 +0000
+  Running Eclipse Dataspace Components (EDC) connectors in production on AWS requires deliberate architecture decisions around isolation, managed servic...
+- **[Eclipse Dataspace Components on AWS: Data sharing fundamentals](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals/)** — Fri, 17 Jul 2026 16:03:40 +0000
+  This three-part blog series guides you through implementing Eclipse Dataspace Components (EDC) on AWS, from foundational concept to production deploym...
+- **[Prioritize your AWS Health alerts using AWS User Notifications](https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/)** — Thu, 16 Jul 2026 14:56:22 +0000
+  If you run critical workloads on AWS, such as a contact center on Amazon Connect Customer, database workloads on Amazon Relational Database Service (A...
+
+## GCP Updates
+
+- **[Scaling the UK government’s AI vision](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/)** — Wed, 17 Jun 2026 07:00:00 +0000
+  An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.
+
+## IBM Cloud Updates
+
+- **[It’s time for cryptography to get its own abstraction layer](https://research.ibm.com/blog/cyrography-abstraction-layer?utm_medium=rss&utm_source=rss)** — Fri, 17 Jul 2026 10:15:00 GMT
+  Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for th...
+
+
 # ☁️ Cloud Updates — 2026-07-17 09:09 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -724,29 +752,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Allstate explores quantum computing for insurance portfolios](https://research.ibm.com/blog/allstate-quantum-insurance-portfolio?utm_medium=rss&utm_source=rss)** — Thu, 18 Jun 2026 04:00:00 GMT
   Insurance involves hard problems with complex, correlated risks. Allstate and IBM are showing how quantum could help solve them.
-
-
-# ☁️ Cloud Updates — 2026-06-18 11:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito](https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/)** — Wed, 17 Jun 2026 13:50:16 +0000
-  In this post, we show how Vonage network-powered solutions work with Amazon Cognito to enhance many mobile-first use cases with network-level identity...
-
-## GCP Updates
-
-- **[Choice, compliance, and collaboration: Europe’s path to open digital sovereignty](https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/)** — Thu, 18 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The European Commission’s Tech Sovereignty Package comes at a definin...
-- **[Cloud Network Insights: end-to-end observability for the Cross-Cloud Network](https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/)** — Wed, 17 Jun 2026 19:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today’s digital landscape, the network is no longer confined to a ...
-- **[How growing UK midsize businesses are building in the AI era](https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/)** — Wed, 17 Jun 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The UK’s 5-million-plus small and midsize businesses and enterprises ...
-- **[From AI potential to agentic reality: Driving the UK’s next chapter](https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/)** — Wed, 17 Jun 2026 08:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The United Kingdom, and London in particular, continues to be one of ...
-- **[Build and Deploy a Remote MCP Server to GKE in 30 Minutes](https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/)** — Wed, 17 Jun 2026 00:00:00 +0000
-  <div class="block-paragraph_advanced"><h2>Build and Deploy a Remote MCP Server to GKE in 30 Minutes</h2>
-<p><span style="vertical-align: baseline;">In...
