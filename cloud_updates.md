@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-07-19 09:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Transform your sales organization with Amazon Quick: your new agentic AI teammate](https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/)** — Fri, 17 Jul 2026 18:42:36 +0000
+  In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority ...
+- **[Introducing Mobile Layout for Amazon Quick dashboards](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)** — Fri, 17 Jul 2026 17:13:15 +0000
+  Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checkin...
+- **[How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)** — Fri, 17 Jul 2026 16:32:06 +0000
+  In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes se...
+- **[Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)** — Thu, 16 Jul 2026 21:29:14 +0000
+  In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show y...
+- **[Introducing Grok on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)** — Thu, 16 Jul 2026 19:29:26 +0000
+  This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the ca...
+
+## GCP Updates
+
+- **[Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery](https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/)** — Fri, 17 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many BigQuery customers rely on policy tags for protecting their sens...
+- **[13 hands-on demos to build on Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/)** — Fri, 17 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Earlier this year, we introduced </span><a href="https://cloud.google...
+- **[Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering](https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/)** — Fri, 17 Jul 2026 09:14:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Optimizing token consumption is key to keeping </span><a href="http:/...
+- **[Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms](https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/)** — Thu, 16 Jul 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the second consecutive year, Google has been named a Leader in th...
+
+
 # ☁️ Cloud Updates — 2026-07-18 08:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -722,33 +753,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)** — Tue, 19 May 2026 17:45:00 +0000
   A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text "Is this generated with AI?", and action icons for adding fi...
-
-
-# ☁️ Cloud Updates — 2026-06-19 11:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch](https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/)** — Thu, 18 Jun 2026 23:31:58 +0000
-  Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed ...
-- **[Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)** — Thu, 18 Jun 2026 17:32:22 +0000
-  Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you...
-- **[Amazon SageMaker AI Async Inference now supports inline request payloads](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/)** — Wed, 17 Jun 2026 20:56:36 +0000
-  Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the requ...
-- **[Get back hours every day with autonomous agents in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/)** — Wed, 17 Jun 2026 20:35:39 +0000
-  Today, Quick gets even more powerful: new autonomous agents that work continuously&nbsp;on your behalf,&nbsp;an activity feed that helps you prioritiz...
-- **[Context intelligence for your data and AI agents at scale](https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/)** — Wed, 17 Jun 2026 17:17:37 +0000
-  Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, d...
-
-## GCP Updates
-
-- **[Powering the world’s first AI arts museum](https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/)** — Thu, 18 Jun 2026 15:00:00 +0000
-  AI-generated Infinity Room
-
-## IBM Cloud Updates
-
-- **[Allstate explores quantum computing for insurance portfolios](https://research.ibm.com/blog/allstate-quantum-insurance-portfolio?utm_medium=rss&utm_source=rss)** — Thu, 18 Jun 2026 04:00:00 GMT
-  Insurance involves hard problems with complex, correlated risks. Allstate and IBM are showing how quantum could help solve them.
