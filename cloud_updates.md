@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-07-20 10:10 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[Powering the world’s first AI arts museum](https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/)** — Thu, 18 Jun 2026 15:00:00 +0000
+  AI-generated Infinity Room
+
+
 # ☁️ Cloud Updates — 2026-07-19 09:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -734,22 +746,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)** — Wed, 20 May 2026 16:45:00 +0000
   A small group meeting featuring two in-room participants and three participants on-screen.
-
-
-# ☁️ Cloud Updates — 2026-06-20 10:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing Web Search on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/)** — Fri, 19 Jun 2026 14:15:24 +0000
-  Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore dif...
-- **[Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/)** — Fri, 19 Jun 2026 14:05:04 +0000
-  This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the in...
-
-## GCP Updates
-
-- **[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)** — Tue, 19 May 2026 17:45:00 +0000
-  A chat input box mockup featuring an uploaded thumbnail of dog-themed latte art, the text "Is this generated with AI?", and action icons for adding fi...
