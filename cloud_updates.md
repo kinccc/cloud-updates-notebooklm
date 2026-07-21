@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-07-21 09:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Custom OS installation now available on AWS DeepRacer devices](https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/)** — Mon, 20 Jul 2026 17:25:24 +0000
+  With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can ...
+- **[Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)** — Mon, 20 Jul 2026 17:01:32 +0000
+  In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit...
+- **[How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/)** — Mon, 20 Jul 2026 16:58:52 +0000
+  This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions beh...
+- **[Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/)** — Mon, 20 Jul 2026 16:56:48 +0000
+  In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response...
+
+## GCP Updates
+
+- **[Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen](https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/)** — Mon, 20 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As the automotive landscape accelerates toward software-defined vehic...
+- **[Making highly available, multi-region Cloud Run services just got easier](https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/)** — Mon, 20 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Application downtime for mission-critical services can directly impac...
+
+
 # ☁️ Cloud Updates — 2026-07-20 10:10 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -734,15 +759,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the high-stakes world of tech entrepreneurship, the leap from a br...
 - **[Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0](https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/)** — Thu, 18 Jun 2026 07:00:00 +0000
   <div class="block-paragraph_advanced"><p>In this episode of the Agent Factory, I sat down with Rody Davis, one of Google’s top agentic engineers. We d...
-
-
-# ☁️ Cloud Updates — 2026-06-21 10:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[A new experiment brings better group meetings to Google Beam](https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/)** — Wed, 20 May 2026 16:45:00 +0000
-  A small group meeting featuring two in-room participants and three participants on-screen.
