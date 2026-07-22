@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-07-22 09:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)** — Tue, 21 Jul 2026 16:23:12 +0000
+  In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the rea...
+
+## GCP Updates
+
+- **[Why AI apps fail in production (And how Google solved it)](https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/)** — Tue, 21 Jul 2026 23:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are living in the golden age of the weekend AI side project. Thank...
+- **[Supercharging pgvector: 4x faster HNSW vector search with AlloyDB](https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/)** — Tue, 21 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/alloydb"><span style="text-decoration: underline; vertical-align: baseline;...
+- **[Now in preview: Find and fix software vulnerabilities with CodeMender](https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/)** — Tue, 21 Jul 2026 15:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As adversarial AI threats accelerate attacks on code, security teams ...
+- **[Generosity Under Conditions: Hardening Google Cloud Access Management](https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/)** — Tue, 21 Jul 2026 11:19:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In Google Cloud, Identity and Access Management (IAM) helps you maint...
+
+
 # ☁️ Cloud Updates — 2026-07-21 09:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -735,27 +758,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Explore next-gen quantum algorithms with IBM Quantum Credits](https://research.ibm.com/blog/credits-recipients?utm_medium=rss&utm_source=rss)** — Mon, 22 Jun 2026 12:45:00 GMT
   See how top researchers used IBM Quantum Credits to develop new methods that extend today’s quantum hardware.
-
-
-# ☁️ Cloud Updates — 2026-06-22 12:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## Azure Updates
-
-- **[MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/)** — Thu, 21 May 2026 17:00:00 +0000
-  <p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialize...
-- **[Vega: Zero-knowledge proofs for digital identity in the age of AI](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/)** — Thu, 21 May 2026 13:48:40 +0000
-  <p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>
-<p>T...
-
-## GCP Updates
-
-- **[Scaling Ray Serve LLM on GKE: Performance without losing the developer experience](https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/)** — Thu, 18 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Developers looking for LLM inference and model serving often turn to ...
-- **[Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World](https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/)** — Thu, 18 Jun 2026 12:51:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the high-stakes world of tech entrepreneurship, the leap from a br...
-- **[Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0](https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/)** — Thu, 18 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p>In this episode of the Agent Factory, I sat down with Rody Davis, one of Google’s top agentic engineers. We d...
