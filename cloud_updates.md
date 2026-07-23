@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-07-23 09:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building a serverless AI assistant at Pelago: concept to care in two weeks](https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/)** — Wed, 22 Jul 2026 17:12:27 +0000
+  Healthcare organizations face a critical scaling challenge – how to maintain deeply personalized patient interactions as member bases grow, without ov...
+- **[Building multi-Region resiliency for AWS CloudFormation custom resource deployment](https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment/)** — Wed, 22 Jul 2026 14:25:09 +0000
+  AWS CloudFormation is the foundational tool of infrastructure-as-code for thousands of organizations running workloads on AWS. But as teams push the b...
+- **[Architecting offline-first generative AI applications for edge deployments using AWS services](https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/)** — Wed, 22 Jul 2026 13:32:57 +0000
+  According to Siemens’ 2024 report The True Cost of Downtime, Fortune 500 companies lose an estimated $1.4 trillion annually because of unplanned downt...
+- **[Automate custom PII detection at scale with Amazon Macie and Step Functions](https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/)** — Wed, 22 Jul 2026 13:30:26 +0000
+  Organizations in regulated industries like financial services, insurance, healthcare, and government ingest large volumes of data containing personall...
+
+## GCP Updates
+
+- **[From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration](https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/)** — Wed, 22 Jul 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Data engineering teams often face a “Day 2” operational reality after...
+- **[Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/)** — Wed, 22 Jul 2026 13:30:00 +0000
+  <div class="block-paragraph"><p>Scientists today face challenges of extraordinary scale and complexity. From shaping and simulating the intricate dyna...
+
+## IBM Cloud Updates
+
+- **[IBM commits $50M in quantum access for US Genesis Mission](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai?utm_medium=rss&utm_source=rss)** — Wed, 22 Jul 2026 20:00:00 GMT
+  An IBM project was also selected to accelerate AI-driven quantum application discovery.
+
+
 # ☁️ Cloud Updates — 2026-07-22 09:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -730,31 +760,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Running AI on mixed hardware for speed and affordability](https://research.ibm.com/blog/fast-inference-mixed-gpus?utm_medium=rss&utm_source=rss)** — Tue, 23 Jun 2026 18:00:00 GMT
   Researchers show that serving AI models with llm-d can boost inference speeds by up to 5 times and double throughput — all while using heterogeneous G...
-
-
-# ☁️ Cloud Updates — 2026-06-23 10:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions](https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/)** — Mon, 22 Jun 2026 16:49:13 +0000
-  This post walks you through a two-layer, defense-in-depth authorization pattern for granular, intra-tenant access control in RAG applications. Defense...
-- **[Modernizing financial analytics with Amazon SageMaker Unified Studio](https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio/)** — Mon, 22 Jun 2026 16:42:55 +0000
-  Avanse Financial Services, India’s leading education loan providers, migrated to a cloud-native lakehouse architecture using Amazon SageMaker Unified ...
-- **[Architecting AI-powered resilience framework on AWS](https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws/)** — Mon, 22 Jun 2026 16:35:07 +0000
-  In this post, you’ll learn how to architect and implement a five-layer AI-powered resilience framework that automatically discovers dependencies, gene...
-
-## GCP Updates
-
-- **[Boost BigQuery with Python: Managed Python UDFs now generally available](https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/)** — Mon, 22 Jun 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">SQL is the industry standard for high-performance structured data ana...
-- **[The Starter Tier for Google AI Studio explained](https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/)** — Mon, 22 Jun 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">You've got a working prototype in </span><a href="https://ai.google.d...
-
-## IBM Cloud Updates
-
-- **[Explore next-gen quantum algorithms with IBM Quantum Credits](https://research.ibm.com/blog/credits-recipients?utm_medium=rss&utm_source=rss)** — Mon, 22 Jun 2026 12:45:00 GMT
-  See how top researchers used IBM Quantum Credits to develop new methods that extend today’s quantum hardware.
