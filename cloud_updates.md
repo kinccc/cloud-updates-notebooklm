@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2026-07-24 09:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)** — Thu, 23 Jul 2026 23:03:44 +0000
+  In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constr...
+- **[Evaluating AI Agents: A production blueprint with Strands and AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)** — Thu, 23 Jul 2026 17:00:20 +0000
+  Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detecti...
+- **[Building trade assistant: How Jefferies optimized front office trading operations with AI](https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/)** — Thu, 23 Jul 2026 16:42:54 +0000
+  In this post, we explore how Jefferies overcame these challenges with a solution built on Strands Agents, an agent harness SDK for building AI agents ...
+- **[Building multi-Region visualizations with Highcharts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/)** — Thu, 23 Jul 2026 16:40:59 +0000
+  This post shows you how to build multi-Region carrier performance dashboards in Quick Sight using Highcharts custom visualizations to overcome native ...
+- **[Detecting silent agent failures with Amazon Bedrock AgentCore optimization](https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/)** — Thu, 23 Jul 2026 16:38:34 +0000
+  Amazon Bedrock AgentCore optimization surfaces silent behavioral failures in production AI agents: the ones that pass every health check but still del...
+
+## GCP Updates
+
+- **[Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d](https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/)** — Thu, 23 Jul 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The math behind reinforcement learning (RL) post-training for large l...
+- **[Your AI agents are ready. Is your data?](https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/)** — Thu, 23 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What’s one of the biggest bottlenecks stopping organizations from sca...
+- **[The Blueprint: How Voicify makes AI-enabled ordering a delight for customers](https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/)** — Thu, 23 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a new feature where we ...
+
+## IBM Cloud Updates
+
+- **[All of AI benchmarking at your fingertips](https://research.ibm.com/blog/every-evaluation-ever?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 14:00:00 GMT
+  IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.
+- **[What are spin qubits?](https://research.ibm.com/blog/spin-qubits?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 11:00:00 GMT
+  Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.
+- **[IBM to acquire HRL Laboratories](https://research.ibm.com/blog/hrl-laboratories-ibm?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 11:00:00 GMT
+  Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.
+
+
 # ☁️ Cloud Updates — 2026-07-23 09:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -726,37 +764,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   It’s the world’s first sub-1nm chip technology, powered by IBM’s new nanostack architecture, paving the way for more powerful chips for years to come.
 - **[A new playbook for quantum optimization benchmarking](https://research.ibm.com/blog/stefan-woerner-optimization-benchmarking?utm_medium=rss&utm_source=rss)** — Wed, 24 Jun 2026 04:00:00 GMT
   Novel algorithms and community benchmarking efforts are reshaping how researchers search for advantage in quantum optimization.
-
-
-# ☁️ Cloud Updates — 2026-06-24 10:22 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build a protein research copilot with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/)** — Tue, 23 Jun 2026 16:39:34 +0000
-  This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extra...
-- **[Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/)** — Tue, 23 Jun 2026 15:43:59 +0000
-  In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patter...
-- **[Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/)** — Mon, 22 Jun 2026 17:53:40 +0000
-  In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomou...
-- **[Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/)** — Mon, 22 Jun 2026 16:32:15 +0000
-  In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we bu...
-- **[Running ComfyUI workflows on Amazon SageMaker AI processing jobs](https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/)** — Mon, 22 Jun 2026 16:28:46 +0000
-  In this post, we walk you through how to deploy ComfyUI workflows on Amazon SageMaker AI processing jobs to generate hundreds of high-quality images i...
-
-## GCP Updates
-
-- **[Verifiable, private AI: Google Cloud expands Confidential Computing frontiers](https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/)** — Tue, 23 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Protecting sensitive data used with AI is a critical part of our comm...
-- **[Log Analytics is now Observability Analytics: Query logs and traces with SQL](https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/)** — Tue, 23 Jun 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To effectively operate and troubleshoot applications, developers and ...
-- **[Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/)** — Tue, 23 Jun 2026 12:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Telecommunications is an incredibly complex, highly specialized domai...
-
-## IBM Cloud Updates
-
-- **[Running AI on mixed hardware for speed and affordability](https://research.ibm.com/blog/fast-inference-mixed-gpus?utm_medium=rss&utm_source=rss)** — Tue, 23 Jun 2026 18:00:00 GMT
-  Researchers show that serving AI models with llm-d can boost inference speeds by up to 5 times and double throughput — all while using heterogeneous G...
