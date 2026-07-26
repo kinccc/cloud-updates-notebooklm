@@ -1,3 +1,17 @@
+# ☁️ Cloud Updates — 2026-07-26 09:12 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## GCP Updates
+
+- **[RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure.](https://status.cloud.google.com/incidents/3BvH3LVGcupoYqV6F4Nw)** — 2026-07-25T13:16:55+00:00
+  <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
+- **[RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure.](https://status.cloud.google.com/incidents/3BvH3LVGcupoYqV6F4Nw)** — 2026-07-25T13:16:55+00:00
+  <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
+
+
 # ☁️ Cloud Updates — 2026-07-25 09:00 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -723,32 +737,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises scale autonomous AI agents into production, enabling s...
 - **[From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics](https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/)** — Fri, 26 Jun 2026 16:30:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional alerting systems often force a compromise: you can either...
-
-
-# ☁️ Cloud Updates — 2026-06-26 10:22 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
-  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
-
-## Azure Updates
-
-- **[Understanding the brain with AI-driven explanations and experiments](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)** — Thu, 25 Jun 2026 16:00:00 +0000
-  <p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealin...
-
-## GCP Updates
-
-- **[STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus](https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/)** — Thu, 25 Jun 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Jordan Jones</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><h3><span style="vertical-ali...
-
-## IBM Cloud Updates
-
-- **[Qiskit Paulice: postselected quantum error correction](https://research.ibm.com/blog/qiskit-paulice?utm_medium=rss&utm_source=rss)** — Thu, 25 Jun 2026 14:00:00 GMT
-  Qiskit Paulice, a new Qiskit addon, improves the reliability of quantum circuits by detecting and filtering out errors.
