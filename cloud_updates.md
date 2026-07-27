@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-07-27 10:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
+  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
+
+
 # ☁️ Cloud Updates — 2026-07-26 09:12 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -710,30 +722,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/)** — Wed, 27 May 2026 16:00:00 +0000
   <p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p...
-
-
-# ☁️ Cloud Updates — 2026-06-27 09:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/)** — Fri, 26 Jun 2026 14:47:45 +0000
-  In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic do...
-- **[How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS](https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/)** — Fri, 26 Jun 2026 14:42:20 +0000
-  In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the A...
-- **[Production-grade AI agents for financial compliance: Lessons from Stripe](https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/)** — Fri, 26 Jun 2026 14:38:01 +0000
-  In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ...
-- **[Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/)** — Thu, 25 Jun 2026 17:55:10 +0000
-  In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper laye...
-- **[Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell](https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/)** — Thu, 25 Jun 2026 16:41:47 +0000
-  This post shows you how to configure training jobs on Amazon SageMaker AI to get the most out of Blackwell’s architecture on AWS. You learn how to sel...
-
-## GCP Updates
-
-- **[Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls](https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/)** — Fri, 26 Jun 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises scale autonomous AI agents into production, enabling s...
-- **[From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics](https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/)** — Fri, 26 Jun 2026 16:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional alerting systems often force a compromise: you can either...
