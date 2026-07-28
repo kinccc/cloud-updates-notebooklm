@@ -1,3 +1,24 @@
+# ☁️ Cloud Updates — 2026-07-28 09:36 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS](https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/)** — Mon, 27 Jul 2026 16:11:32 +0000
+  Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC)...
+- **[Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation](https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/)** — Mon, 27 Jul 2026 16:07:44 +0000
+  In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running...
+- **[How Guardoc transforms medical document processing with Amazon Nova models](https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/)** — Mon, 27 Jul 2026 16:05:00 +0000
+  In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentati...
+
+## GCP Updates
+
+- **[NOAA and Google Cloud collaborate to advance weather forecasting.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/)** — Mon, 27 Jul 2026 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" />Google Cloud is now...
+
+
 # ☁️ Cloud Updates — 2026-07-27 10:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -710,15 +731,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)** — Thu, 28 May 2026 16:00:00 +0000
   <p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspa...
-
-
-# ☁️ Cloud Updates — 2026-06-28 09:56 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## Azure Updates
-
-- **[Extending Human Intelligence Through AI](https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/)** — Wed, 27 May 2026 16:00:00 +0000
-  <p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p...
