@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-07-29 09:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)** — Tue, 28 Jul 2026 19:07:09 +0000
+  The Model Context Protocol (MCP) published its 2026-07-28 specification, the largest revision since launch: MCP is now stateless, with a governed exte...
+- **[Market surveillance agent with LangGraph and Strands on AgentCore](https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/)** — Tue, 28 Jul 2026 17:24:54 +0000
+  Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning ...
+
+## GCP Updates
+
+- **[Bringing Conversational Analytics to your entire data ecosystem](https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/)** — Tue, 28 Jul 2026 17:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Increasing the adoption of generative AI across the enterprise requir...
+- **[Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/)** — Tue, 28 Jul 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">With cryptographically relevant quantum computers (CRQC) on the horiz...
+- **[Best Buy scales AI workloads and secures access with Workforce Identity Federation](https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/)** — Tue, 28 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As Best Buy expanded its use of Google Cloud for advanced analytics a...
+- **[Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend](https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/)** — Tue, 28 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Generative AI can make cloud costs difficult to predict. A single fiv...
+- **[Announcing general availability of SAP Business Data Cloud Connect for BigQuery](https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/)** — Mon, 27 Jul 2026 16:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional data replication techniques often struggle to deliver the...
+
+
 # ☁️ Cloud Updates — 2026-07-28 09:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -714,20 +741,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Apply to IBM Quantum Developer Conference 2026](https://research.ibm.com/blog/qdc-application-2026?utm_medium=rss&utm_source=rss)** — Mon, 29 Jun 2026 14:00:00 GMT
   Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.
-
-
-# ☁️ Cloud Updates — 2026-06-29 11:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
-  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
-
-## Azure Updates
-
-- **[Data Formulator 0.7: AI-powered data analytics for enterprise data](https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/)** — Thu, 28 May 2026 16:00:00 +0000
-  <p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspa...
