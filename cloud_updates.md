@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-07-30 09:30 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## GCP Updates
+
+- **[The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents](https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/)** — Wed, 29 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s data lakehouse is no longer mere data repository, but increas...
+- **[Automate data monitoring and root-cause analysis with Looker Agentic Workflows](https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/)** — Wed, 29 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional business intelligence alerts can only tell you that a met...
+- **[Automate your agent development lifecycle using any coding agent](https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/)** — Wed, 29 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Welcome to our latest </span><a href="https://docs.cloud.google.com/g...
+- **[What’s new in Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/)** — Wed, 29 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since we launched </span><a href="https://console.cloud.google.com/ag...
+
+
 # ☁️ Cloud Updates — 2026-07-29 09:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -710,34 +733,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Computational chemistry researchers have traditionally faced a frustr...
 - **[Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server](https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/)** — Tue, 30 Jun 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A couple of months ago, we announced that </span><a href="https://clo...
-
-
-# ☁️ Cloud Updates — 2026-06-30 10:31 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Lessons learned from scaling to 1 million Lambda functions](https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/)** — Mon, 29 Jun 2026 17:21:05 +0000
-  In this post, we share our journey and the lessons learned from building and running a fully serverless, multi-account software as a service (SaaS) pl...
-- **[Preventing data exfiltration in machine learning environments with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/)** — Mon, 29 Jun 2026 17:16:48 +0000
-  In this post, we demonstrate how iBusiness implemented a three-layered security architecture using Amazon SageMaker AI, virtual private cloud (VPC) en...
-- **[Dual-token authentication for Nakama game servers with Amazon Cognito on AWS](https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/)** — Mon, 29 Jun 2026 17:09:54 +0000
-  In this post, you learn how to configure an Amazon Cognito User Pool for SRP-based game client authentication with no client secret. You will implemen...
-
-## Azure Updates
-
-- **[Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)** — Mon, 29 Jun 2026 21:14:22 +0000
-  <p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and mo...
-
-## GCP Updates
-
-- **[Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.](https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/)** — Mon, 29 Jun 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" />Google Meet's "Take notes ...
-
-## IBM Cloud Updates
-
-- **[Apply to IBM Quantum Developer Conference 2026](https://research.ibm.com/blog/qdc-application-2026?utm_medium=rss&utm_source=rss)** — Mon, 29 Jun 2026 14:00:00 GMT
-  Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.
