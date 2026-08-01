@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-08-01 09:05 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/)** — Fri, 31 Jul 2026 19:53:04 +0000
+  Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural langua...
+- **[Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/)** — Fri, 31 Jul 2026 15:33:11 +0000
+  As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to u...
+- **[Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/)** — Thu, 30 Jul 2026 17:22:32 +0000
+  This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and&nbsp; Amazon Elastic Kubernetes Service (Amazon ...
+
+## GCP Updates
+
+- **[What’s new in AI infrastructure and orchestration this month](https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/)** — Fri, 31 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google, AI is a soup-to-nuts endeavor. Obviously, we make leading ...
+- **[Cloud CISO Perspectives: Why AI Threat Defense is the new boardroom baseline](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/)** — Fri, 31 Jul 2026 13:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the second Cloud CISO Perspectives for July 2026. Today, Chris Betz, CISO, Google Cloud, and Alicja Cade, S...
+- **[Do more with less: How GKE can reduce your cost per agent by 75%](https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/)** — Thu, 30 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In today’s agentic era, modern cloud applications are evolving from a...
+- **[AlloyDB adds group authentication to secure enterprise scale and AI agents](https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/)** — Thu, 30 Jul 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Database security traditionally relies on a fragile balance between t...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - August 2026 - The Wheel of Buttons](https://research.ibm.com/blog/ponder-this-august-2026?utm_medium=rss&utm_source=rss)** — Fri, 31 Jul 2026 22:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-07-31 09:44 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -706,30 +738,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 - **[Google’s Continued Disruption of Malicious Residential Proxy Networks](https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/)** — Thu, 02 Jul 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Background</span></h3>
 <p><span style="vertical-align: baseline;">To...
-
-
-# ☁️ Cloud Updates — 2026-07-02 10:09 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
-  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
-
-## GCP Updates
-
-- **[SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise](https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/)** — Wed, 01 Jul 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
-- **[AlloyDB AI Functions - now with revolutionary performance boosts and cost savings](https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/)** — Wed, 01 Jul 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/products/alloydb"><span style="text-decoration: underline; vertical-align: ...
-- **[Get started with the Claude apps gateway for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/)** — Wed, 01 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Anthropic's agentic coding tool Claude Code has worked with Google Cl...
-- **[Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row](https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/)** — Wed, 01 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the third consecutive year, Google has been recognized as a Leade...
-
-## IBM Cloud Updates
-
-- **[Ponder This Challenge - July 2026 - Return of the Superheroes](https://research.ibm.com/blog/ponder-this-july-2026?utm_medium=rss&utm_source=rss)** — Wed, 01 Jul 2026 15:00:00 GMT
