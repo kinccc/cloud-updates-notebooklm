@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-08-04 09:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)** — Mon, 03 Aug 2026 17:24:15 +0000
+  Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Lear...
+- **[Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)** — Mon, 03 Aug 2026 16:30:58 +0000
+  Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic f...
+
+## Azure Updates
+
+- **[Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/)** — Mon, 03 Aug 2026 16:00:00 +0000
+  <p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while suppo...
+
+## GCP Updates
+
+- **[Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud](https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/)** — Mon, 03 Aug 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For too long, enterprises with legacy mainframe estates have been fac...
+- **[Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations](https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster/)** — Mon, 03 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Businesses want to quickly and safely deploy AI agents to drive reven...
+- **[Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner](https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph/)** — Mon, 03 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To make informed decisions, businesses often need to connect their in...
+- **[Behind the scenes: How we build, test, and scale Google Agent Skills](https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/)** — Mon, 03 Aug 2026 11:23:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents are only as good as the instructions and context you give t...
+
+## IBM Cloud Updates
+
+- **[The search for quantum advantage in differential equations](https://research.ibm.com/blog/hari-krovi-differential-equations?utm_medium=rss&utm_source=rss)** — Mon, 03 Aug 2026 13:00:00 GMT
+  New quantum algorithms could unlock faster ways to model the complex systems behind circuits, fluids, finance, and more.
+
+
 # ☁️ Cloud Updates — 2026-08-03 10:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -717,9 +752,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Modeling the chemistry of fusion reactor material](https://research.ibm.com/blog/molten-salts-fusion-quantum?utm_medium=rss&utm_source=rss)** — Mon, 06 Jul 2026 11:00:00 GMT
   Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.
-
-
-# ☁️ Cloud Updates — 2026-07-05 09:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
