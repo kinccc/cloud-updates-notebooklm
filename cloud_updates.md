@@ -1,3 +1,24 @@
+# ☁️ Cloud Updates — 2026-08-05 09:36 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)** — Tue, 04 Aug 2026 18:39:14 +0000
+  Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in ...
+- **[Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)** — Tue, 04 Aug 2026 16:02:21 +0000
+  Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction sol...
+
+## GCP Updates
+
+- **[The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)** — Tue, 04 Aug 2026 13:00:00 +0000
+  July AI recap header
+- **[Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/)** — Mon, 03 Aug 2026 15:00:00 +0000
+  Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
+
+
 # ☁️ Cloud Updates — 2026-08-04 09:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -740,15 +761,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)** — Fri, 05 Jun 2026 14:45:00 +0000
   May AI recap
-
-
-# ☁️ Cloud Updates — 2026-07-06 11:27 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## IBM Cloud Updates
-
-- **[Modeling the chemistry of fusion reactor material](https://research.ibm.com/blog/molten-salts-fusion-quantum?utm_medium=rss&utm_source=rss)** — Mon, 06 Jul 2026 11:00:00 GMT
-  Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.
