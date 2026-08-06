@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-08-06 09:39 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/)** — Wed, 05 Aug 2026 18:50:02 +0000
+  Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context P...
+- **[How Mobileye transformed support operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/)** — Wed, 05 Aug 2026 18:09:03 +0000
+  In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparke...
+- **[How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools](https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/)** — Wed, 05 Aug 2026 18:02:23 +0000
+  AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that ...
+- **[Run production AI agents in n8n with Amazon Bedrock AgentCore harness](https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/)** — Wed, 05 Aug 2026 18:00:57 +0000
+  Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community n...
+
+## GCP Updates
+
+- **[Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer](https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/)** — Wed, 05 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As a market leader in enterprise agentic automation and business orch...
+- **[Solving the "Noisy Neighbor": How Sharded Architecture Protects Multi-Tenant Platforms](https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/)** — Wed, 05 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you are a multi-tenant SaaS provider, a large enterprise mana...
+- **[Unlocking the future of shared storage: Filestore on Colossus](https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/)** — Wed, 05 Aug 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today,  enterprise storage must be as agile, elastic, and responsive ...
+- **[Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation](https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/)** — Tue, 04 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the Medium blog post, </span><strong style="vertical-align: baseli...
+- **[How Deutsche Bank unlocked agility with an API-ready ecosystem](https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/)** — Tue, 04 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When people think about digital transformation in banking, they often...
+
+
 # ☁️ Cloud Updates — 2026-08-05 09:36 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -736,28 +767,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you’re an IT leader, you might be getting a lot of questions about...
 - **[Report: 83% of organizations need to upgrade their infrastructure to support agentic AI](https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/)** — Tue, 07 Jul 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, enterprise AI has been synonymous with conversational AI —...
-
-
-# ☁️ Cloud Updates — 2026-07-07 10:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[From Hugging Face to Amazon SageMaker Studio in one click](https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)** — Mon, 06 Jul 2026 22:35:55 +0000
-  Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to h...
-- **[Teaching models to forget: Selective unlearning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)** — Mon, 06 Jul 2026 22:23:45 +0000
-  In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moder...
-- **[Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)** — Mon, 06 Jul 2026 17:00:44 +0000
-  In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the serv...
-- **[Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)** — Mon, 06 Jul 2026 16:58:13 +0000
-  In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an ev...
-- **[Automatically redact PII in images with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/)** — Mon, 06 Jul 2026 16:55:02 +0000
-  In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, ...
-
-## GCP Updates
-
-- **[The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/)** — Fri, 05 Jun 2026 14:45:00 +0000
-  May AI recap
