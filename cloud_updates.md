@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-08-07 08:13 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Securing AI agents with temporal policies in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/)** — Thu, 06 Aug 2026 18:57:55 +0000
+  Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how...
+- **[Configure rate limits for AI traffic on AgentCore gateway](https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/)** — Thu, 06 Aug 2026 17:50:42 +0000
+  Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and...
+- **[Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/)** — Thu, 06 Aug 2026 16:43:19 +0000
+  Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and r...
+- **[Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch](https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/)** — Thu, 06 Aug 2026 16:30:47 +0000
+  As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route...
+- **[Enforcing data residency with single-Region Claude Code on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/)** — Thu, 06 Aug 2026 16:21:54 +0000
+  A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pi...
+
+## GCP Updates
+
+- **[Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort](https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/)** — Thu, 06 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the modern data landscape, query performance tuning and managing s...
+- **[Advancing brain tumor research with privacy-first AI](https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/)** — Thu, 06 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The intersection of medicine and AI has led to remarkable innovations...
+- **[Your agentic summer: No-cost lessons from Google experts to build and scale agents](https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/)** — Thu, 06 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I’ve talked to developers, IT leaders, and builders who all ask the s...
+- **[Digital sovereignty in the age of AI: You don’t have to choose between control and innovation](https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/)** — Thu, 06 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For enterprises and governments with strict compliance and sovereignt...
+- **[UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments](https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/)** — Thu, 06 Aug 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p>Written by: <span style="vertical-align: baseline;">Tyler McLellan,</span><span style="vertical-align: baseli...
+
+
 # ☁️ Cloud Updates — 2026-08-06 09:39 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -742,28 +775,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[What's new at IBM Quantum Q2 2026](https://research.ibm.com/blog/whats-new-q2-2026?utm_medium=rss&utm_source=rss)** — Wed, 08 Jul 2026 04:00:00 GMT
   Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
-
-
-# ☁️ Cloud Updates — 2026-07-08 09:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots](https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/)** — Tue, 07 Jul 2026 16:32:21 +0000
-  In this post, we explain how S&amp;P Global Market Intelligence implemented an innovative disaster recovery solution for their Capital IQ platform usi...
-
-## GCP Updates
-
-- **[A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace](https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/)** — Tue, 07 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Software-as-a-service (SaaS) is evolving into Agents-as-a-service (Aa...
-- **[BGP route policies: Top 3 use cases by customer demand](https://cloud.google.com/blog/products/networking/bgp-route-policies-top-3-use-cases-by-customer-demand/)** — Tue, 07 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When we first made </span><a href="https://docs.cloud.google.com/netw...
-- **[Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM](https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/)** — Tue, 07 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Being more proactive continues to be a leading goal for security orga...
-- **[20 questions for the Agentic Enterprise (and how Agent Platform can help)](https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/)** — Tue, 07 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you’re an IT leader, you might be getting a lot of questions about...
-- **[Report: 83% of organizations need to upgrade their infrastructure to support agentic AI](https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview/)** — Tue, 07 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, enterprise AI has been synonymous with conversational AI —...
