@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-08-08 07:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)** — Fri, 07 Aug 2026 16:26:58 +0000
+  In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, u...
+- **[How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)** — Fri, 07 Aug 2026 16:22:50 +0000
+  TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that auto...
+- **[Determining playoff clinching scenarios in the NHL using constraint programming](https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/)** — Fri, 07 Aug 2026 16:21:00 +0000
+  The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathemati...
+
+## GCP Updates
+
+- **[Zero-code, low-cost data ingestion: New BigQuery DTS capabilities](https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/)** — Fri, 07 Aug 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a fast-paced digital economy, data is your most critical engine. Y...
+- **[How Google Cloud detects, contains, and protects against emerging threats](https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/)** — Fri, 07 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, securing your data and business systems is our found...
+- **[Unifying Structured and Unstructured Data Insights with BQ Search Innovations](https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/)** — Fri, 07 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Modern enterprises possess a vast amount of unstructured data, yet th...
+- **[GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud](https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/)** — Fri, 07 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Live sports broadcasting represents the ultimate stress test for digi...
+
+
 # ☁️ Cloud Updates — 2026-08-07 08:13 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -740,38 +767,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even ...
 - **[How training environments can teach AI models to misbehave](https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave?utm_medium=rss&utm_source=rss)** — Thu, 09 Jul 2026 13:30:39 GMT
   A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a...
-
-
-# ☁️ Cloud Updates — 2026-07-09 10:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
-  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
-
-## Azure Updates
-
-- **[Flint: A visualization language for the AI era](https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/)** — Wed, 08 Jul 2026 16:00:00 +0000
-  <p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a m...
-
-## GCP Updates
-
-- **[C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads](https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/)** — Wed, 08 Jul 2026 20:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">As organizations scale modern workloads ...
-- **[Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure](https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/)** — Wed, 08 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the agentic era, </span><span style="vertical-align: baseline;">AI...
-- **[New ways to keep Google Cloud certifications current and boost your career](https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/)** — Wed, 08 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">If you’re reading this, you’ve likely already done the hard work to p...
-- **[Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms](https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/)** — Wed, 08 Jul 2026 15:14:00 +0000
-  <div class="block-paragraph"><p>The agentic AI era is here, transforming how higher education institutions innovate, operate, and fundamentally empowe...
-- **[Meet the 33 cybersecurity startups joining the Gemini Startup Forum](https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/)** — Wed, 08 Jul 2026 13:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Startups are at the forefront of tackling some of the world’s most co...
-
-## IBM Cloud Updates
-
-- **[What's new at IBM Quantum Q2 2026](https://research.ibm.com/blog/whats-new-q2-2026?utm_medium=rss&utm_source=rss)** — Wed, 08 Jul 2026 04:00:00 GMT
-  Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
