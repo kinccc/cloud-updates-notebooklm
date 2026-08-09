@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-08-09 07:53 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+
 # ☁️ Cloud Updates — 2026-08-08 07:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -738,32 +750,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Here’s a question we hear often at Google Cloud: How do you safely ru...
 - **[Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/)** — Thu, 09 Jul 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many of the most challenging and valuable problems in the world are r...
-
-
-# ☁️ Cloud Updates — 2026-07-10 10:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Specification-driven composition for flexible data workflows](https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/)** — Thu, 09 Jul 2026 22:27:31 +0000
-  Specification-driven composition addresses a common scalability bottleneck in data pipelines. Data pipelines often start as simple scripts, but as the...
-
-## Azure Updates
-
-- **[Aurora 1.5: Extending open foundation models for weather and Earth-system applications](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/)** — Thu, 09 Jul 2026 16:46:22 +0000
-  <p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it mor...
-
-## GCP Updates
-
-- **[We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/)** — Thu, 09 Jul 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" />Finding the most efficient a...
-
-## IBM Cloud Updates
-
-- **[CoFrGeNets replace the ‘bones’ of transformer-based models](https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models?utm_medium=rss&utm_source=rss)** — Thu, 09 Jul 2026 15:30:39 GMT
-  This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even ...
-- **[How training environments can teach AI models to misbehave](https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave?utm_medium=rss&utm_source=rss)** — Thu, 09 Jul 2026 13:30:39 GMT
-  A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a...
