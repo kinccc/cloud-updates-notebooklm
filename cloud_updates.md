@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-08-10 08:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## Azure Updates
+
+- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/)** — Thu, 06 Aug 2026 15:00:00 +0000
+  <p>GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.</p>
+<p>The ...
+- **[What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/)** — Mon, 27 Jul 2026 15:00:00 +0000
+  <p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>
+<p>Th...
+- **[AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/)** — Thu, 23 Jul 2026 18:30:00 +0000
+  <p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and ...
+- **[Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/)** — Wed, 15 Jul 2026 15:00:00 +0000
+  <p>Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measur...
+- **[GPT-5.6 now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/)** — Thu, 09 Jul 2026 17:00:00 +0000
+  <p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft...
+
+## GCP Updates
+
+- **[Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)** — Thu, 30 Jul 2026 20:36:36 +0000
+  General Science
+- **[SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/)** — Wed, 22 Jul 2026 21:32:00 +0000
+  General Science
+- **[Towards a quantum computer that learns from its errors](https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/)** — Wed, 22 Jul 2026 18:40:21 +0000
+  Machine Intelligence
+- **[Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)** — Wed, 15 Jul 2026 18:06:00 +0000
+  Algorithms & Theory
+- **[SensorFM: Towards a general intelligence and interface for wearable health data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/)** — Thu, 09 Jul 2026 09:56:00 +0000
+  Generative AI
+
+
 # ☁️ Cloud Updates — 2026-08-10 02:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
