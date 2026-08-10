@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-08-10 02:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)** — Fri, 07 Aug 2026 21:11:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances ar...
+- **[Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)** — Fri, 07 Aug 2026 19:21:00 GMT
+  <p>Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand...
+- **[Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)** — Fri, 07 Aug 2026 18:00:48 GMT
+  <p>Amazon Cognito is now available as a core skill (aws-auth) in the <a href="https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/">...
+- **[AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)** — Fri, 07 Aug 2026 16:00:00 GMT
+  <p>AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Re...
+- **[Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)** — Fri, 07 Aug 2026 16:00:00 GMT
+  <p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrast...
+
+## Azure Updates
+
+- **[Aurora 1.5: Extending open foundation models for weather and Earth-system applications](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/)** — Thu, 09 Jul 2026 16:46:22 +0000
+  <p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it mor...
+
+## GCP Updates
+
+- **[We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/)** — Thu, 09 Jul 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" />Finding the most efficient a...
+
+
 # ☁️ Cloud Updates — 2026-08-09 07:53 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -717,36 +747,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 
 <img src="https://blogger.goo...
-
-
-# ☁️ Cloud Updates — 2026-07-11 08:47 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)** — Fri, 10 Jul 2026 15:35:05 +0000
-  In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step h...
-- **[Real-time dental image verification with Amazon SageMaker AI at Henry Schein One](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)** — Fri, 10 Jul 2026 15:33:47 +0000
-  This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI th...
-- **[Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)** — Fri, 10 Jul 2026 15:31:12 +0000
-  In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to r...
-- **[Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)** — Fri, 10 Jul 2026 15:28:54 +0000
-  In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and expl...
-- **[Deploying quantized models on Amazon SageMaker AI with Unsloth](https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/)** — Fri, 10 Jul 2026 15:26:05 +0000
-  In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infras...
-
-## GCP Updates
-
-- **[Contributing to U.K. financial sector resilience as a critical third party](https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/)** — Fri, 10 Jul 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we take our role in the financial ecosystem very ser...
-- **[Frontier and Center: Who evaluates the evaluations?](https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/)** — Fri, 10 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 10 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[Safely run AI-generated code in Cloud Run sandboxes](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/)** — Thu, 09 Jul 2026 16:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Here’s a question we hear often at Google Cloud: How do you safely ru...
-- **[Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/)** — Thu, 09 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many of the most challenging and valuable problems in the world are r...
