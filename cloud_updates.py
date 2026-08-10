@@ -13,18 +13,19 @@ FEEDS = {
     "AWS": [
         "https://aws.amazon.com/blogs/enterprise-strategy/feed/",
         "https://aws.amazon.com/blogs/architecture/feed/",
-        "https://aws.amazon.com/blogs/machine-learning/feed/"
+        "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "https://aws.amazon.com/about-aws/whats-new/recent/feed/"   # NEW: granular announcements, parallel to Azure Updates
     ],
     "Azure": [
         "https://www.microsoft.com/en-us/research/feed/",
-        "https://azurecomcdn.azureedge.net/en-us/updates/feed/",
-        "https://azure.microsoft.com/en-us/updates/feed/"  # backup URL
+        "https://azure.microsoft.com/en-us/blog/feed/",  # NEW: Azure Blog, parallel to AWS's narrative blogs   
+        "https://www.microsoft.com/releasecommunications/api/v2/azure/rss"  
     ],
     "GCP": [
         "https://blog.google/products/google-cloud/rss",
-        "http://googleaiblog.blogspot.com/atom.xml",
-        "https://cloudblog.withgoogle.com/rss",
-        "https://status.cloud.google.com/en/feed.atom"  # backup (status + updates)
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/rss",  # resolved redirect target
+        "https://research.google/blog/rss",   # FIXED: replaces the dead googleaiblog.blogspot.com feed (frozen since Mar 2024)
+        "https://cloudblog.withgoogle.com/rss"
     ],
     "IBM Cloud": [
         "https://www.ibm.com/cloud/blog/atom.xml",
