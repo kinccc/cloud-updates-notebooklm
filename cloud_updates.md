@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-08-11 08:09 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)** — Mon, 10 Aug 2026 16:34:37 +0000
+  The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates...
+- **[How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)** — Mon, 10 Aug 2026 16:30:46 +0000
+  nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The mov...
+
+## Azure Updates
+
+- **[Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting](https://azure.microsoft.com/updates?id=569140)** — Mon, 10 Aug 2026 17:50:54 Z
+  Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported...
+- **[[In preview] Public Preview: Azure ExpressRoute resiliency guard](https://azure.microsoft.com/updates?id=568666)** — Fri, 07 Aug 2026 15:52:31 Z
+  Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual
+network gateways. The new resiliency model property le...
+- **[Announcing:  Azure Databricks Genie One and Genie Agents Free Usage extended through January 31, 2027](https://azure.microsoft.com/updates?id=568964)** — Thu, 06 Aug 2026 19:41:52 Z
+  Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...
+- **[[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover](https://azure.microsoft.com/updates?id=567979)** — Thu, 06 Aug 2026 16:40:19 Z
+  Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You ...
+- **[[Launched] Generally Available: SharePoint Connector for Azure Databricks](https://azure.microsoft.com/updates?id=568905)** — Wed, 05 Aug 2026 22:34:02 Z
+  The SharePoint connector for Azure Databricks is now generally
+available. Organizations can use Lakeflow Connect to ingest files from
+SharePoint into ...
+
+## GCP Updates
+
+- **[Introducing the Developer Device Platform for agentic mobile app development](https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/)** — Mon, 10 Aug 2026 22:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Most enterprises connect with their customers through a device. Wheth...
+- **[How WPP operationalizes platform and data engineering for AI marketing](https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/)** — Mon, 10 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Between chaotic levels of market fragmentation and economic volatilit...
+- **[How Malachyte solves retail’s cold-start problem with managed real-time AI](https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/)** — Mon, 10 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What’s the best way to recommend products to little-known users? </sp...
+- **[ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices](https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/)** — Mon, 10 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing network security in a multi-tenant Kubernetes environment ty...
+- **[Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/)** — Mon, 10 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we help organizations of all sizes build and operati...
+
+
 # ☁️ Cloud Updates — 2026-08-10 08:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -750,35 +793,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), conveni...
 - **[How MAPFRE USA modernized fraud claims with Amazon EMR Serverless](https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/)** — Mon, 13 Jul 2026 09:26:59 +0000
   Insurance fraud remains a significant challenge for the insurance industry. Fraudulent claims can increase loss costs, reduce trust, and consume inves...
-
-
-# ☁️ Cloud Updates — 2026-07-12 09:02 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)** — 2024-03-29T11:03:00.000-07:00
-  <span class="byline-author">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>
-
-<img src="https...
-- **[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)** — 2024-03-28T13:53:00.000-07:00
-  <span class="byline-author">Posted by Urs Köster, Software Engineer, Google Research</span>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29...
-- **[Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)** — 2024-03-20T13:54:00.000-07:00
-  <span class="byline-author">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research </span>
-
-
-<img src="https:/...
-- **[Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)** — 2024-03-20T09:06:00.000-07:00
-  <span class="byline-author">Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research</span>
-
-<img ...
-- **[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)** — 2024-03-19T13:15:00.000-07:00
-  <span class="byline-author">Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research</span>
-
-
-<img src="https://blogger.goo...
