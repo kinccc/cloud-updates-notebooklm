@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-08-12 08:17 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scaling patterns for self-organizing multi-agent clusters with Kiro](https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/)** — Tue, 11 Aug 2026 21:17:02 +0000
+  Learn how to coordinate AI agents through shared state in Amazon S3 instead of a central orchestrator. Deploy and observe self-organizing agent cluste...
+
+## Azure Updates
+
+- **[Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/)** — Tue, 11 Aug 2026 16:00:00 +0000
+  <p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, an...
+
+## GCP Updates
+
+- **[Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)** — Tue, 11 Aug 2026 17:04:00 +0000
+  Health & Bioscience
+
+## IBM Cloud Updates
+
+- **[From vision to reality: a unified AI solver for the grid](https://research.ibm.com/blog/gridfm-neural-solver-power-grid?utm_medium=rss&utm_source=rss)** — Tue, 11 Aug 2026 13:00:40 GMT
+  GENCO is a neural solver that, alongside the GridFM Development Framework, unifies three core electrical grid analysis tasks.
+
+
 # ☁️ Cloud Updates — 2026-08-11 08:09 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -779,17 +806,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How should your security team manage shadow AI? Workloads deployed by...
 - **[Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV](https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/)** — Mon, 13 Jul 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The automotive industry is moving from building hardware-centric plat...
-
-
-# ☁️ Cloud Updates — 2026-07-13 10:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Unlocking the future of video data: March Networks cloud storage on AWS](https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/)** — Mon, 13 Jul 2026 10:06:18 +0000
-  Enterprise video surveillance is operating at an unprecedented scale as organizations across retail, banking, quick-service restaurants (QSR), conveni...
-- **[How MAPFRE USA modernized fraud claims with Amazon EMR Serverless](https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/)** — Mon, 13 Jul 2026 09:26:59 +0000
-  Insurance fraud remains a significant challenge for the insurance industry. Fraudulent claims can increase loss costs, reduce trust, and consume inves...
