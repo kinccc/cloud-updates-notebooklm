@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-08-13 08:20 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Reducing Text2SQL latency with parameterized query templates](https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/)** — Thu, 13 Aug 2026 00:40:32 +0000
+  Learn how parameterized query templates reduced Text2SQL latency by 80% and cut token consumption by over 50%. This post covers the architecture behin...
+- **[Adobe Firefly: Simplified observability with Amazon Managed Prometheus](https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/)** — Thu, 13 Aug 2026 00:14:19 +0000
+  Learn how Adobe Firefly achieved 28x faster GPU metric queries by migrating from self-managed Prometheus to Amazon Managed Service for Prometheus, wit...
+
+## Azure Updates
+
+- **[MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/)** — Wed, 12 Aug 2026 16:00:00 +0000
+  <p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities t...
+
+## GCP Updates
+
+- **[Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)** — Wed, 12 Aug 2026 09:51:00 +0000
+  Generative AI
+
+## IBM Cloud Updates
+
+- **[QOBLIB: tracking progress in quantum optimization](https://research.ibm.com/blog/qoblib?utm_medium=rss&utm_source=rss)** — Wed, 12 Aug 2026 13:00:00 GMT
+  Quantum advantage is here. The next question is where to apply it. New updates from the Quantum Optimization Working Group offer a glimpse at the path...
+- **[DocLang: a markup language for LLMs](https://research.ibm.com/blog/doclang-ai-native-doc-standard?utm_medium=rss&utm_source=rss)** — Wed, 12 Aug 2026 12:00:00 GMT
+  The lead researcher behind IBM’s popular document parser, Docling, explains why generative AI needs its own document standard.
+
+
 # ☁️ Cloud Updates — 2026-08-12 08:17 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -772,37 +803,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Release News: Qiskit v2.5 is here!](https://research.ibm.com/blog/qiskit-2-5-release-summary?utm_medium=rss&utm_source=rss)** — Tue, 14 Jul 2026 04:00:00 GMT
   Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.
-
-
-# ☁️ Cloud Updates — 2026-07-14 09:04 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)** — Mon, 13 Jul 2026 21:01:20 +0000
-  Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to A...
-- **[When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)** — Mon, 13 Jul 2026 17:50:16 +0000
-  In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an...
-- **[Building an agentic AI solution at Bluesight with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/)** — Mon, 13 Jul 2026 17:34:38 +0000
-  In this post, we describe how Bluesight used two AWS engagements and Amazon Bedrock AgentCore to evolve from a single-product AI prototype to Prism, a...
-- **[Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)** — Mon, 13 Jul 2026 17:27:40 +0000
-  Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish...
-- **[Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)** — Mon, 13 Jul 2026 16:42:15 +0000
-  In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) exper...
-
-## Azure Updates
-
-- **[Verifying Rust cryptography in SymCrypt, from standards to code](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/)** — Mon, 13 Jul 2026 16:00:00 +0000
-  <p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while pr...
-
-## GCP Updates
-
-- **[Key findings from the 2026 Public Sector M-Trends report and beyond](https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/)** — Mon, 13 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>In 2026, the public sector is no longer defending a traditional perimeter. Instead, they are defending a complex web o...
-- **[Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs](https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/)** — Mon, 13 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">How should your security team manage shadow AI? Workloads deployed by...
-- **[Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV](https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/)** — Mon, 13 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The automotive industry is moving from building hardware-centric plat...
