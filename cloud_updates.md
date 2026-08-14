@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-08-14 08:15 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Track generative AI costs with Amazon Bedrock inference profiles](https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/)** — Thu, 13 Aug 2026 15:59:39 +0000
+  Learn how to track generative AI costs by department using Amazon Bedrock application inference profiles and AWS cost allocation tags. Create tagged p...
+- **[Recovery strategies to meet data residency requirements](https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/)** — Thu, 13 Aug 2026 14:05:39 +0000
+  Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Regi...
+
+## Azure Updates
+
+- **[The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/)** — Wed, 12 Aug 2026 16:00:00 +0000
+  <p>Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.</p...
+
+## GCP Updates
+
+- **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
+  The video shows Sheets canvas in action.
+
+
 # ☁️ Cloud Updates — 2026-08-13 08:20 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -771,35 +795,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p>Written by: Corné de Jong</p>
 <hr /></div>
 <div class="block-paragraph_advanced"><h3><span style="vertical-al...
-
-
-# ☁️ Cloud Updates — 2026-07-15 09:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Multi-agent social intelligence with Strands Agents and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)** — Tue, 14 Jul 2026 18:44:26 +0000
-  This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect ...
-- **[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/)** — Tue, 14 Jul 2026 16:47:32 +0000
-  In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites t...
-- **[Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis](https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/)** — Tue, 14 Jul 2026 16:43:41 +0000
-  Using generative AI enables parallel execution of comprehensive user flow testing at scale. This solution demonstrates how to build a cloud-deployed U...
-- **[Scaling medical content review at Flo Health with Amazon Bedrock – Part 2](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/)** — Tue, 14 Jul 2026 16:33:08 +0000
-  In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a productio...
-- **[ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS](https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/)** — Tue, 14 Jul 2026 16:25:03 +0000
-  In this post, you will learn how ScienceSoft, an Amazon Web Services (AWS) Services Partner, integrated Amazon Nova 2 Sonic with Amazon Bedrock Guardr...
-
-## GCP Updates
-
-- **[Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/)** — Tue, 14 Jul 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, we’ve built with a clear priority: putting the practical n...
-- **[Claude at scale on Google Cloud: Frontier AI, built for enterprise production](https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/)** — Tue, 14 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Running frontier AI in production is demanding — accelerators to mana...
-
-## IBM Cloud Updates
-
-- **[Release News: Qiskit v2.5 is here!](https://research.ibm.com/blog/qiskit-2-5-release-summary?utm_medium=rss&utm_source=rss)** — Tue, 14 Jul 2026 04:00:00 GMT
-  Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.
