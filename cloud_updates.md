@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-08-15 07:30 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Serverless vehicle tracking at scale: Bosch L.OS on AWS](https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/)** — Fri, 14 Aug 2026 10:02:13 +0000
+  Learn how Bosch Mobility Platform Solutions built L.OS, a serverless vehicle tracking platform on AWS that unifies India's fragmented spot logistics m...
+
+## Azure Updates
+
+- **[Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026](https://azure.microsoft.com/updates?id=569353)** — Fri, 14 Aug 2026 17:43:51 Z
+  Azure Databricks Runtime
+10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached
+end of support on March 18, 2025 and will reach...
+- **[[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus](https://azure.microsoft.com/updates?id=568830)** — Thu, 13 Aug 2026 16:19:56 Z
+  Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally availab...
+- **[[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks](https://azure.microsoft.com/updates?id=569281)** — Thu, 13 Aug 2026 16:17:41 Z
+  We’re excited to announce the GA
+of Live Resize for shared Premium
+SSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically
+expand th...
+- **[[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/updates?id=568419)** — Thu, 13 Aug 2026 16:13:22 Z
+  Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major ve...
+- **[Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications](https://azure.microsoft.com/updates?id=568457)** — Wed, 12 Aug 2026 19:41:20 Z
+  On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date ...
+
+## GCP Updates
+
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 14 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+- **[Using BigQuery Graphs with measures for trusted agentic workloads](https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/)** — Thu, 13 Aug 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When enterprises transition from using simple chat assistants to auto...
+- **[PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap](https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/)** — Tue, 11 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Securing infrastructure and services against a future cryptographical...
+- **[Accelerate PostgreSQL migrations using Gemini in Database Migration Service](https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/)** — Tue, 11 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine this scenario: Your team decides to migrate a core applicatio...
+- **[Looker’s semantic layer governs Gemini Enterprise data for user trust](https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/)** — Tue, 11 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For organizations deploying AI agents at scale, there’s often a criti...
+
+
 # ☁️ Cloud Updates — 2026-08-14 08:15 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -770,28 +813,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code
 - **[How to measure the performance of a quantum computer](https://research.ibm.com/blog/hardware-metrics-2026?utm_medium=rss&utm_source=rss)** — Thu, 16 Jul 2026 04:00:00 GMT
   Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost effic...
-
-
-# ☁️ Cloud Updates — 2026-07-16 09:13 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events](https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/)** — Wed, 15 Jul 2026 15:27:47 +0000
-  When 121 million mobile devices establish persistent gRPC connections to your origin infrastructure within seconds of a live broadcast, the routing po...
-
-## GCP Updates
-
-- **[IDC: Why the right networking approach is foundational to agentic AI](https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/)** — Wed, 15 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
-- **[How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery](https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/)** — Wed, 15 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Deploying the </span><a href="https://cl...
-- **[How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI](https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/)** — Wed, 15 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AlloyDB powers enterprise-grade search for some of the largest organi...
-- **[The Risk of Exposed Cloud Functions and How to Harden](https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/)** — Wed, 15 Jul 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: Corné de Jong</p>
-<hr /></div>
-<div class="block-paragraph_advanced"><h3><span style="vertical-al...
