@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-08-16 07:30 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)** — Fri, 14 Aug 2026 16:02:10 +0000
+  In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite mu...
+- **[Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)** — Fri, 14 Aug 2026 15:58:44 +0000
+  Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where ea...
+- **[Monitor on-premises and multi-cloud AI agents with AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)** — Thu, 13 Aug 2026 16:02:10 +0000
+  Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthr...
+- **[Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)** — Thu, 13 Aug 2026 15:56:07 +0000
+  Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This wa...
+- **[Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)** — Thu, 13 Aug 2026 15:52:44 +0000
+  Learn how to build a multi-agent M&amp;A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combi...
+
+
 # ☁️ Cloud Updates — 2026-08-15 07:30 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -789,27 +809,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[It’s time for cryptography to get its own abstraction layer](https://research.ibm.com/blog/cyrography-abstraction-layer?utm_medium=rss&utm_source=rss)** — Fri, 17 Jul 2026 10:15:00 GMT
   Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for th...
-
-
-# ☁️ Cloud Updates — 2026-07-17 09:09 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## GCP Updates
-
-- **[Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)** — Thu, 16 Jul 2026 16:00:00 +0000
-  Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by various images
-
-## IBM Cloud Updates
-
-- **[This could be the largest synthetic code dataset yet](https://research.ibm.com/blog/code-alchemy-for-synthetic-code?utm_medium=rss&utm_source=rss)** — Thu, 16 Jul 2026 16:20:00 GMT
-  Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code
-- **[How to measure the performance of a quantum computer](https://research.ibm.com/blog/hardware-metrics-2026?utm_medium=rss&utm_source=rss)** — Thu, 16 Jul 2026 04:00:00 GMT
-  Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost effic...
