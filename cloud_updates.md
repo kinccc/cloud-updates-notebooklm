@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-08-17 07:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## GCP Updates
+
+- **[Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)** — Thu, 16 Jul 2026 16:00:00 +0000
+  Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by various images
+
+
 # ☁️ Cloud Updates — 2026-08-16 07:30 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -781,31 +798,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Optimizing token consumption is key to keeping </span><a href="http:/...
 - **[Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms](https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/)** — Thu, 16 Jul 2026 19:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the second consecutive year, Google has been named a Leader in th...
-
-
-# ☁️ Cloud Updates — 2026-07-18 08:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Eclipse Dataspace Components on AWS: Cost optimization strategies](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/)** — Fri, 17 Jul 2026 16:03:47 +0000
-  When you deploy Eclipse Dataspace Components (EDC) connectors on AWS, one of the first challenges you face is predicting and controlling the cost of t...
-- **[Eclipse Dataspace Components on AWS: Architecture patterns in production](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production/)** — Fri, 17 Jul 2026 16:03:44 +0000
-  Running Eclipse Dataspace Components (EDC) connectors in production on AWS requires deliberate architecture decisions around isolation, managed servic...
-- **[Eclipse Dataspace Components on AWS: Data sharing fundamentals](https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals/)** — Fri, 17 Jul 2026 16:03:40 +0000
-  This three-part blog series guides you through implementing Eclipse Dataspace Components (EDC) on AWS, from foundational concept to production deploym...
-- **[Prioritize your AWS Health alerts using AWS User Notifications](https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/)** — Thu, 16 Jul 2026 14:56:22 +0000
-  If you run critical workloads on AWS, such as a contact center on Amazon Connect Customer, database workloads on Amazon Relational Database Service (A...
-
-## GCP Updates
-
-- **[Scaling the UK government’s AI vision](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/)** — Wed, 17 Jun 2026 07:00:00 +0000
-  An abstract digital design of four angled, colorful rounded capsule shapes and a small sphere over a black background.
-
-## IBM Cloud Updates
-
-- **[It’s time for cryptography to get its own abstraction layer](https://research.ibm.com/blog/cyrography-abstraction-layer?utm_medium=rss&utm_source=rss)** — Fri, 17 Jul 2026 10:15:00 GMT
-  Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for th...
