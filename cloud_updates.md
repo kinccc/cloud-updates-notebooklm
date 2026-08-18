@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-08-18 07:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)** — Mon, 17 Aug 2026 18:06:33 +0000
+  NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows ...
+- **[Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)** — Mon, 17 Aug 2026 16:19:56 +0000
+  Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw ...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose](https://azure.microsoft.com/updates?id=568344)** — Mon, 17 Aug 2026 19:54:52 Z
+  You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This ...
+- **[[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace](https://azure.microsoft.com/updates?id=557775)** — Mon, 17 Aug 2026 19:37:49 Z
+  This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in ...
+- **[[In preview] Public Preview: Azure Linux on WSL](https://azure.microsoft.com/updates?id=569376)** — Mon, 17 Aug 2026 17:08:40 Z
+  Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate be...
+
+## GCP Updates
+
+- **[Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)** — Mon, 17 Aug 2026 10:34:00 +0000
+  General Science
+
+
 # ☁️ Cloud Updates — 2026-08-17 07:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -767,34 +795,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Powering the world’s first AI arts museum](https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/)** — Thu, 18 Jun 2026 15:00:00 +0000
   AI-generated Infinity Room
-
-
-# ☁️ Cloud Updates — 2026-07-19 09:04 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Transform your sales organization with Amazon Quick: your new agentic AI teammate](https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/)** — Fri, 17 Jul 2026 18:42:36 +0000
-  In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority ...
-- **[Introducing Mobile Layout for Amazon Quick dashboards](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)** — Fri, 17 Jul 2026 17:13:15 +0000
-  Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checkin...
-- **[How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)** — Fri, 17 Jul 2026 16:32:06 +0000
-  In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes se...
-- **[Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)** — Thu, 16 Jul 2026 21:29:14 +0000
-  In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show y...
-- **[Introducing Grok on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)** — Thu, 16 Jul 2026 19:29:26 +0000
-  This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the ca...
-
-## GCP Updates
-
-- **[Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery](https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/)** — Fri, 17 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Many BigQuery customers rely on policy tags for protecting their sens...
-- **[13 hands-on demos to build on Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/)** — Fri, 17 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Earlier this year, we introduced </span><a href="https://cloud.google...
-- **[Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering](https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/)** — Fri, 17 Jul 2026 09:14:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Optimizing token consumption is key to keeping </span><a href="http:/...
-- **[Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms](https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/)** — Thu, 16 Jul 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the second consecutive year, Google has been named a Leader in th...
