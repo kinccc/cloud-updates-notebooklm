@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-08-19 07:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Consistency is the new latency: AI at the data layer](https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/)** — Tue, 18 Aug 2026 11:13:20 +0000
+  As AI agents move from chatbots to taking action, their reliability depends on the consistency of the data layer beneath them. This post examines how ...
+
+## Azure Updates
+
+- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/)** — Mon, 17 Aug 2026 15:00:00 +0000
+  <p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations m...
+
+## GCP Updates
+
+- **[Governance on autopilot, minus the turbulence](https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/)** — Tue, 18 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every data team knows the moment. Someone opens a table, sees a colum...
+- **[Building cost-effective, high-throughput gen AI workflows in Google Dataflow](https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/)** — Tue, 18 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Real-time streaming pipelines are the operational backbone of modern ...
+- **[How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2](https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/)** — Tue, 18 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise content management is experiencing its biggest architectur...
+- **[Staying Ahead of Adversarial AI Through Agentic Source Code Review](https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/)** — Tue, 18 Aug 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><div>Written by: Alex Tselevich, Michael Maturi</div>
+<div><hr />
+<h3><span style="vertical-align: baseline;">In...
+- **[Building operational resilience with agentic AI in financial services](https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/)** — Tue, 18 Aug 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span><span style="vertical-align: baseline;">For financial institutions, operational resilience has long bee...
+
+
 # ☁️ Cloud Updates — 2026-08-18 07:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -783,15 +815,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As the automotive landscape accelerates toward software-defined vehic...
 - **[Making highly available, multi-region Cloud Run services just got easier](https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/)** — Mon, 20 Jul 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Application downtime for mission-critical services can directly impac...
-
-
-# ☁️ Cloud Updates — 2026-07-20 10:10 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[Powering the world’s first AI arts museum](https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/)** — Thu, 18 Jun 2026 15:00:00 +0000
-  AI-generated Infinity Room
