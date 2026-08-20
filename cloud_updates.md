@@ -1,3 +1,44 @@
+# ☁️ Cloud Updates — 2026-08-20 07:40 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1](https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/)** — Thu, 20 Aug 2026 00:32:52 +0000
+  Learn how AgentFlo built always-on AI sales agents on Amazon Bedrock AgentCore and the Strands Agents SDK. Part 1 covers three pillars of production-g...
+- **[How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/)** — Wed, 19 Aug 2026 14:29:31 +0000
+  Clario, part of Thermo Fisher Scientific, uses Amazon Bedrock and Amazon Textract to automatically detect protected health information (PHI) and perso...
+- **[AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/)** — Wed, 19 Aug 2026 13:11:51 +0000
+  AI agents built on Amazon Bedrock AgentCore help clinical trial teams make fast, accurate enrollment decisions while keeping clinicians in control. Th...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Databricks Lakebase in four additional regions](https://azure.microsoft.com/updates?id=569684)** — Wed, 19 Aug 2026 21:04:18 Z
+  Lakebase is now generally available in four additional Azure regions: North Central US, France Central, Germany West Central, and East Asia. This expa...
+- **[[Launched] Generally Available: Azure SQL updates for mid-August 2026](https://azure.microsoft.com/updates?id=569145)** — Wed, 19 Aug 2026 21:01:47 Z
+  In mid-August 2026, the following updates and enhancements were made to Azure SQL: You can customize keyboard shortcuts for Quick Queries, the Results...
+- **[[In preview] Public Preview: SQL Formatter in MSSQL extension](https://azure.microsoft.com/updates?id=569155)** — Wed, 19 Aug 2026 21:00:19 Z
+  With SQL Formatter, you can format SQL scripts directly in your editor for cleaner, more consistent, and readable code. Now in public preview, it incl...
+- **[[Launched] Generally Available: Azure SQL Database provisioning in MSSQL extension](https://azure.microsoft.com/updates?id=569160)** — Wed, 19 Aug 2026 20:59:19 Z
+  With Azure SQL Database provisioning, you can create and connect to a fully managed cloud database directly from your editor—at no cost. Now generally...
+- **[[Launched] Generally Available: vCore Customization: Disable Multithreading and Configurable Constrained Cores](https://azure.microsoft.com/updates?id=569051)** — Wed, 19 Aug 2026 17:20:42 Z
+  Today, we are announcing the General Availability of VM vCore Customization for Azure Virtual Machines, introducing two new capabilities: Disable Simu...
+
+## GCP Updates
+
+- **[Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting](https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/)** — Wed, 19 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In modern enterprise data engineering, Apache Spark remains a corners...
+- **[How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog](https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/)** — Wed, 19 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For over a decade, the Apache Hive Metastore (HMS) has served as the ...
+
+## IBM Cloud Updates
+
+- **[IBM’s new modular architecture for cryogenic systems](https://research.ibm.com/blog/modular-cryogenics?utm_medium=rss&utm_source=rss)** — Wed, 19 Aug 2026 10:00:00 GMT
+  Modular approach to housing and cooling quantum processors clears a path for interconnected, fault-tolerant systems.
+
+
 # ☁️ Cloud Updates — 2026-08-19 07:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -790,28 +831,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As adversarial AI threats accelerate attacks on code, security teams ...
 - **[Generosity Under Conditions: Hardening Google Cloud Access Management](https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/)** — Tue, 21 Jul 2026 11:19:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In Google Cloud, Identity and Access Management (IAM) helps you maint...
-
-
-# ☁️ Cloud Updates — 2026-07-21 09:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Custom OS installation now available on AWS DeepRacer devices](https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/)** — Mon, 20 Jul 2026 17:25:24 +0000
-  With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can ...
-- **[Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)** — Mon, 20 Jul 2026 17:01:32 +0000
-  In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit...
-- **[How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/)** — Mon, 20 Jul 2026 16:58:52 +0000
-  This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions beh...
-- **[Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/)** — Mon, 20 Jul 2026 16:56:48 +0000
-  In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response...
-
-## GCP Updates
-
-- **[Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen](https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/)** — Mon, 20 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As the automotive landscape accelerates toward software-defined vehic...
-- **[Making highly available, multi-region Cloud Run services just got easier](https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/)** — Mon, 20 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Application downtime for mission-critical services can directly impac...
