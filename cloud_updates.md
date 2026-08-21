@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2026-08-21 07:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/)** — Thu, 20 Aug 2026 21:46:03 +0000
+  Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographi...
+- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/)** — Thu, 20 Aug 2026 21:23:38 +0000
+  Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 o...
+- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/)** — Thu, 20 Aug 2026 21:23:29 +0000
+  In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual tra...
+- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/)** — Thu, 20 Aug 2026 21:23:23 +0000
+  In Part 3 of this no-code ML series, you bring fraud detection predictions to life. Import your Amazon SageMaker Canvas predictions into Amazon Quick ...
+- **[Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/)** — Thu, 20 Aug 2026 16:31:28 +0000
+  AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agent...
+
+## Azure Updates
+
+- **[Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility acr...
+
+## GCP Updates
+
+- **[Expanding Google Antigravity for enterprise customers](https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/)** — Thu, 20 Aug 2026 17:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since announcing Google Antigravity in Gemini Enterprise Agent Platfo...
+- **[Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are thrilled to announce that Google has been recognized as </span...
+- **[How AlloyDB ScaNN scales vector search to 10 billion vectors](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To satisfy the demands of enterprise-grade agentic AI applications, u...
+- **[Announcing quantum-safe key import in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises increasingly adopt multicloud architectures, bring you...
+- **[10 questions every startup should answer before moving to production with their AI prototype](https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">It’s never been easier to start an AI-powered startup on Google Cloud...
+
+
 # ☁️ Cloud Updates — 2026-08-20 07:40 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -808,26 +846,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM commits $50M in quantum access for US Genesis Mission](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai?utm_medium=rss&utm_source=rss)** — Wed, 22 Jul 2026 20:00:00 GMT
   An IBM project was also selected to accelerate AI-driven quantum application discovery.
-
-
-# ☁️ Cloud Updates — 2026-07-22 09:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)** — Tue, 21 Jul 2026 16:23:12 +0000
-  In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the rea...
-
-## GCP Updates
-
-- **[Why AI apps fail in production (And how Google solved it)](https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/)** — Tue, 21 Jul 2026 23:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are living in the golden age of the weekend AI side project. Thank...
-- **[Supercharging pgvector: 4x faster HNSW vector search with AlloyDB](https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/)** — Tue, 21 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><a href="https://cloud.google.com/alloydb"><span style="text-decoration: underline; vertical-align: baseline;...
-- **[Now in preview: Find and fix software vulnerabilities with CodeMender](https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/)** — Tue, 21 Jul 2026 15:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As adversarial AI threats accelerate attacks on code, security teams ...
-- **[Generosity Under Conditions: Hardening Google Cloud Access Management](https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/)** — Tue, 21 Jul 2026 11:19:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In Google Cloud, Identity and Access Management (IAM) helps you maint...
