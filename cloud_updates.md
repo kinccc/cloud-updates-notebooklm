@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-08-22 07:31 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build a unified AI agent architecture with DynamoDB and Bedrock](https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/)** — Fri, 21 Aug 2026 18:19:23 +0000
+  With native vector search in Amazon DynamoDB, you can store vector embeddings alongside your operational data in a single table. This post shows how t...
+- **[How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2/)** — Fri, 21 Aug 2026 10:01:18 +0000
+  Part 2: how AgentFlo built trusted, reliable AI sales agents on Amazon Bedrock AgentCore and AWS serverless architecture. Learn the three-layer guardr...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement](https://azure.microsoft.com/updates?id=569743)** — Thu, 20 Aug 2026 17:02:23 Z
+  Summarized advertised gateway
+prefixes for route advertisement is now generally available. You can specify
+aggregated (summarized) prefixes for an Azu...
+- **[Announcing: Azure Copilot introduces direct access to agents](https://azure.microsoft.com/updates?id=569685)** — Thu, 20 Aug 2026 16:08:02 Z
+  Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose...
+
+## GCP Updates
+
+- **[An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)** — Fri, 21 Aug 2026 17:02:24 +0000
+  Generative AI
+- **[How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)** — Fri, 21 Aug 2026 10:54:00 +0000
+  Algorithms & Theory
+
+
 # ☁️ Cloud Updates — 2026-08-21 07:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -816,33 +846,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.
 - **[IBM to acquire HRL Laboratories](https://research.ibm.com/blog/hrl-laboratories-ibm?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 11:00:00 GMT
   Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.
-
-
-# ☁️ Cloud Updates — 2026-07-23 09:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building a serverless AI assistant at Pelago: concept to care in two weeks](https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/)** — Wed, 22 Jul 2026 17:12:27 +0000
-  Healthcare organizations face a critical scaling challenge – how to maintain deeply personalized patient interactions as member bases grow, without ov...
-- **[Building multi-Region resiliency for AWS CloudFormation custom resource deployment](https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment/)** — Wed, 22 Jul 2026 14:25:09 +0000
-  AWS CloudFormation is the foundational tool of infrastructure-as-code for thousands of organizations running workloads on AWS. But as teams push the b...
-- **[Architecting offline-first generative AI applications for edge deployments using AWS services](https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/)** — Wed, 22 Jul 2026 13:32:57 +0000
-  According to Siemens’ 2024 report The True Cost of Downtime, Fortune 500 companies lose an estimated $1.4 trillion annually because of unplanned downt...
-- **[Automate custom PII detection at scale with Amazon Macie and Step Functions](https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/)** — Wed, 22 Jul 2026 13:30:26 +0000
-  Organizations in regulated industries like financial services, insurance, healthcare, and government ingest large volumes of data containing personall...
-
-## GCP Updates
-
-- **[From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration](https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/)** — Wed, 22 Jul 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Data engineering teams often face a “Day 2” operational reality after...
-- **[Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/)** — Wed, 22 Jul 2026 13:30:00 +0000
-  <div class="block-paragraph"><p>Scientists today face challenges of extraordinary scale and complexity. From shaping and simulating the intricate dyna...
-
-## IBM Cloud Updates
-
-- **[IBM commits $50M in quantum access for US Genesis Mission](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai?utm_medium=rss&utm_source=rss)** — Wed, 22 Jul 2026 20:00:00 GMT
-  An IBM project was also selected to accelerate AI-driven quantum application discovery.
