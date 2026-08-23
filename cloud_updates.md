@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-08-23 07:32 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)** — Fri, 21 Aug 2026 17:06:17 +0000
+  The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-...
+- **[Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)** — Fri, 21 Aug 2026 17:02:35 +0000
+  Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity...
+- **[Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/)** — Fri, 21 Aug 2026 16:59:15 +0000
+  Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware conte...
+- **[Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)** — Fri, 21 Aug 2026 16:57:01 +0000
+  Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and ...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: Sticking to security fundamentals in the AI era](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/)** — Fri, 21 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more ...
+- **[How agents can delegate better](https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/)** — Fri, 21 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In any organizational behavior class, students will learn that effect...
+
+
 # ☁️ Cloud Updates — 2026-08-22 07:31 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -808,41 +833,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[It’s time for cryptography to get its own abstraction layer](https://research.ibm.com/blog/cryptography-abstraction-layer?utm_medium=rss&utm_source=rss)** — Fri, 17 Jul 2026 10:15:00 GMT
   Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for th...
-
-
-# ☁️ Cloud Updates — 2026-07-24 09:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)** — Thu, 23 Jul 2026 23:03:44 +0000
-  In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constr...
-- **[Evaluating AI Agents: A production blueprint with Strands and AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)** — Thu, 23 Jul 2026 17:00:20 +0000
-  Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detecti...
-- **[Building trade assistant: How Jefferies optimized front office trading operations with AI](https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/)** — Thu, 23 Jul 2026 16:42:54 +0000
-  In this post, we explore how Jefferies overcame these challenges with a solution built on Strands Agents, an agent harness SDK for building AI agents ...
-- **[Building multi-Region visualizations with Highcharts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/)** — Thu, 23 Jul 2026 16:40:59 +0000
-  This post shows you how to build multi-Region carrier performance dashboards in Quick Sight using Highcharts custom visualizations to overcome native ...
-- **[Detecting silent agent failures with Amazon Bedrock AgentCore optimization](https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/)** — Thu, 23 Jul 2026 16:38:34 +0000
-  Amazon Bedrock AgentCore optimization surfaces silent behavioral failures in production AI agents: the ones that pass every health check but still del...
-
-## GCP Updates
-
-- **[Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d](https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/)** — Thu, 23 Jul 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The math behind reinforcement learning (RL) post-training for large l...
-- **[Your AI agents are ready. Is your data?](https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/)** — Thu, 23 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What’s one of the biggest bottlenecks stopping organizations from sca...
-- **[The Blueprint: How Voicify makes AI-enabled ordering a delight for customers](https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/)** — Thu, 23 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Welcome to The Blueprint, a new feature where we ...
-
-## IBM Cloud Updates
-
-- **[All of AI benchmarking at your fingertips](https://research.ibm.com/blog/every-evaluation-ever?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 14:00:00 GMT
-  IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.
-- **[What are spin qubits?](https://research.ibm.com/blog/spin-qubits?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 11:00:00 GMT
-  Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.
-- **[IBM to acquire HRL Laboratories](https://research.ibm.com/blog/hrl-laboratories-ibm?utm_medium=rss&utm_source=rss)** — Thu, 23 Jul 2026 11:00:00 GMT
-  Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.
