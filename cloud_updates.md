@@ -1,3 +1,23 @@
+# ☁️ Cloud Updates — 2026-08-24 07:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/)** — Fri, 21 Aug 2026 20:11:00 GMT
+  <p>Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 p...
+- **[Amazon Connect Customer now lets managers chat with their data](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics)** — Fri, 21 Aug 2026 20:00:00 GMT
+  <p>Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in s...
+- **[AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/)** — Fri, 21 Aug 2026 18:00:00 GMT
+  <p>The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downlaods from jobs running in the cloud. Deadline...
+- **[Amazon EKS Capability for Argo CD now supports custom configuration](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration)** — Fri, 21 Aug 2026 17:00:00 GMT
+  <p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap ...
+- **[AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3)** — Fri, 21 Aug 2026 16:42:00 GMT
+  <p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apa...
+
+
 # ☁️ Cloud Updates — 2026-08-23 07:32 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -804,32 +824,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
 - **[RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure.](https://status.cloud.google.com/incidents/3BvH3LVGcupoYqV6F4Nw)** — 2026-07-25T13:16:55+00:00
   <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
-
-
-# ☁️ Cloud Updates — 2026-07-25 09:00 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)** — Fri, 24 Jul 2026 17:59:03 +0000
-  This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference wor...
-- **[Build an explainable next-best-product recommendation system for banking on AWS](https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/)** — Fri, 24 Jul 2026 15:42:11 +0000
-  Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI ...
-- **[Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/)** — Fri, 24 Jul 2026 15:40:08 +0000
-  OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses AP...
-
-## GCP Updates
-
-- **[Open Knowledge format v0.2 tackles agentic trust](https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/)** — Fri, 24 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When we </span><a href="https://cloud.google.com/blog/products/data-a...
-- **[Updated Cyber Threat Actor Naming System](https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/)** — Fri, 24 Jul 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h2><strong style="vertical-align: baseline;">Introduction </strong></h2>
-<p><span style="vertical-align: baseli...
-
-## IBM Cloud Updates
-
-- **[It’s time for cryptography to get its own abstraction layer](https://research.ibm.com/blog/cryptography-abstraction-layer?utm_medium=rss&utm_source=rss)** — Fri, 17 Jul 2026 10:15:00 GMT
-  Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for th...
