@@ -1,3 +1,42 @@
+# ☁️ Cloud Updates — 2026-08-25 07:42 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration](https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/)** — Mon, 24 Aug 2026 15:23:21 +0000
+  When AWS accounts move between organizations, organization-bound AWS RAM resource shares break and control-plane access is lost. Learn how a global pa...
+
+## Azure Updates
+
+- **[Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/updates?id=569526)** — Mon, 24 Aug 2026 19:15:05 Z
+  Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer Postgre...
+- **[[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS](https://azure.microsoft.com/updates?id=569873)** — Mon, 24 Aug 2026 18:36:01 Z
+  eBPF Host Routing in Advanced
+Container Networking Services for Azure Kubernetes Service (AKS) is now
+generally available. eBPF Host Routing improves
+...
+- **[Retirement: Support for Node 22 LTS ends on April 30, 2027](https://azure.microsoft.com/updates?id=567334)** — Mon, 24 Aug 2026 17:30:43 Z
+  On April 30 2027, support for Node 22 LTS will end. Your apps that are hosted on App
+Service will continue to run, but security updates will no longer...
+- **[[Launched] Generally Available: Custom block response code and body for Application Gateway WAF](https://azure.microsoft.com/updates?id=569504)** — Mon, 24 Aug 2026 17:25:03 Z
+  Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...
+
+## GCP Updates
+
+- **[New AI-powered quick assessments in Migration Center turbocharge modernization](https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/)** — Mon, 24 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Technology leaders are under mounting pressure to modernize infrastru...
+- **[Empowering autonomous agents with advanced security governance](https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/)** — Mon, 24 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents are the ultimate insiders. We grant them permission to read...
+
+## IBM Cloud Updates
+
+- **[Qiskit Fermions: a modular toolbox for fermionic systems](https://research.ibm.com/blog/qiskit-fermions?utm_medium=rss&utm_source=rss)** — Mon, 24 Aug 2026 14:30:00 GMT
+  A new research tool for expressing fermionic operators, circuits, and mappings—and for building efficient fermionic algorithms.
+
+
 # ☁️ Cloud Updates — 2026-08-24 07:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -810,17 +849,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
   As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
-
-
-# ☁️ Cloud Updates — 2026-07-26 09:12 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## GCP Updates
-
-- **[RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure.](https://status.cloud.google.com/incidents/3BvH3LVGcupoYqV6F4Nw)** — 2026-07-25T13:16:55+00:00
-  <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
-- **[RESOLVED: Google Cloud VMware Engine (GCVE), Google Cloud NetApp Volumes, and Bare Metal Solutions (BMS) services are experiencing a service outage in europe-west4-a due to a cooling failure.](https://status.cloud.google.com/incidents/3BvH3LVGcupoYqV6F4Nw)** — 2026-07-25T13:16:55+00:00
-  <p> Incident began at <strong>2026-07-15 16:57</strong> and ended at <strong>2026-07-16 05:25</strong> <span>(all times are <strong>US/Pacific</strong...
