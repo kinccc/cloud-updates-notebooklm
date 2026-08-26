@@ -1,3 +1,40 @@
+# ☁️ Cloud Updates — 2026-08-26 07:45 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Agentic observability with Amazon OpenSearch Service MCP Apps](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)** — Tue, 25 Aug 2026 19:00:09 +0000
+  Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single,...
+- **[Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/)** — Tue, 25 Aug 2026 16:35:01 +0000
+  Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved fo...
+- **[Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)** — Mon, 24 Aug 2026 19:32:14 +0000
+  Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks ...
+- **[Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)** — Mon, 24 Aug 2026 18:59:15 +0000
+  Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge throug...
+- **[Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)** — Mon, 24 Aug 2026 16:22:03 +0000
+  AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Di...
+
+## Azure Updates
+
+- **[Announcing: Aspire 13.5 has shipped](https://azure.microsoft.com/updates?id=569910)** — Tue, 25 Aug 2026 19:55:34 Z
+  Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volum...
+- **[[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs](https://azure.microsoft.com/updates?id=569546)** — Tue, 25 Aug 2026 18:05:54 Z
+  Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...
+
+## GCP Updates
+
+- **[AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)** — Tue, 25 Aug 2026 19:10:59 +0000
+  Human-Computer Interaction and Visualization
+
+## IBM Cloud Updates
+
+- **[Granite 4.2 brings native reasoning to enterprise agents](https://research.ibm.com/blog/introducing-granite-4-2?utm_medium=rss&utm_source=rss)** — Tue, 25 Aug 2026 15:00:00 GMT
+  IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.
+
+
 # ☁️ Cloud Updates — 2026-08-25 07:42 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -837,15 +874,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[NOAA and Google Cloud collaborate to advance weather forecasting.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/)** — Mon, 27 Jul 2026 17:00:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" />Google Cloud is now...
-
-
-# ☁️ Cloud Updates — 2026-07-27 10:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
-  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
