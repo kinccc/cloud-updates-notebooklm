@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-08-27 18:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
+  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
+
+## Azure Updates
+
+- **[The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/)** — Tue, 25 Aug 2026 16:00:00 +0000
+  <p>Organizations need protection that operates in the gap between discovery and remediation.</p>
+<p>The post <a href="https://azure.microsoft.com/en-u...
+
+## GCP Updates
+
+- **[7 ways to kick-start back to school using Gemini in Workspace](https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/)** — Wed, 26 Aug 2026 20:30:00 +0000
+  A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini
+
+
 # ☁️ Cloud Updates — 2026-08-26 07:45 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -853,24 +876,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Generative AI can make cloud costs difficult to predict. A single fiv...
 - **[Announcing general availability of SAP Business Data Cloud Connect for BigQuery](https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/)** — Mon, 27 Jul 2026 16:30:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional data replication techniques often struggle to deliver the...
-
-
-# ☁️ Cloud Updates — 2026-07-28 09:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS](https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/)** — Mon, 27 Jul 2026 16:11:32 +0000
-  Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC)...
-- **[Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation](https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/)** — Mon, 27 Jul 2026 16:07:44 +0000
-  In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running...
-- **[How Guardoc transforms medical document processing with Amazon Nova models](https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/)** — Mon, 27 Jul 2026 16:05:00 +0000
-  In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentati...
-
-## GCP Updates
-
-- **[NOAA and Google Cloud collaborate to advance weather forecasting.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/)** — Mon, 27 Jul 2026 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" />Google Cloud is now...
