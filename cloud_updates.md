@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-08-28 19:16 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Gallup scales real-time coaching for thousands with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/)** — Wed, 26 Aug 2026 17:36:23 +0000
+  Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personal...
+- **[Closing the AI agent trust gap with graduated autonomy](https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/)** — Wed, 26 Aug 2026 17:33:03 +0000
+  Most teams give AI agents either full access or read-only, leaving value unused or risk unmanaged. This post describes graduated autonomy, an architec...
+
+## Azure Updates
+
+- **[Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/)** — Thu, 27 Aug 2026 17:00:00 +0000
+  <p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>
+<p>The p...
+- **[The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/)** — Wed, 26 Aug 2026 16:00:00 +0000
+  <p>Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes.</p>
+<p>The post <a href="https://az...
+
+## GCP Updates
+
+- **[NOAA and Google Cloud collaborate to advance weather forecasting.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/)** — Mon, 27 Jul 2026 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" />Google Cloud is now...
+
+## IBM Cloud Updates
+
+- **[What happens when information theory accounts for reasoning?](https://research.ibm.com/blog/information-theory-meaning?utm_medium=rss&utm_source=rss)** — Fri, 28 Aug 2026 12:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-08-27 18:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -849,30 +882,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Welcome to our latest </span><a href="https://docs.cloud.google.com/g...
 - **[What’s new in Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/)** — Wed, 29 Jul 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since we launched </span><a href="https://console.cloud.google.com/ag...
-
-
-# ☁️ Cloud Updates — 2026-07-29 09:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)** — Tue, 28 Jul 2026 19:07:09 +0000
-  The Model Context Protocol (MCP) published its 2026-07-28 specification, the largest revision since launch: MCP is now stateless, with a governed exte...
-- **[Market surveillance agent with LangGraph and Strands on AgentCore](https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/)** — Tue, 28 Jul 2026 17:24:54 +0000
-  Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning ...
-
-## GCP Updates
-
-- **[Bringing Conversational Analytics to your entire data ecosystem](https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/)** — Tue, 28 Jul 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Increasing the adoption of generative AI across the enterprise requir...
-- **[Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/)** — Tue, 28 Jul 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">With cryptographically relevant quantum computers (CRQC) on the horiz...
-- **[Best Buy scales AI workloads and secures access with Workforce Identity Federation](https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/)** — Tue, 28 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As Best Buy expanded its use of Google Cloud for advanced analytics a...
-- **[Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend](https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/)** — Tue, 28 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Generative AI can make cloud costs difficult to predict. A single fiv...
-- **[Announcing general availability of SAP Business Data Cloud Connect for BigQuery](https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/)** — Mon, 27 Jul 2026 16:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional data replication techniques often struggle to deliver the...
