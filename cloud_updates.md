@@ -1,3 +1,51 @@
+# ☁️ Cloud Updates — 2026-08-29 12:58 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Batch write and discover records in Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/)** — Fri, 28 Aug 2026 19:31:05 +0000
+  Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, an...
+- **[How Decathlon runs demand forecasting at scale with Chronos-2](https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/)** — Fri, 28 Aug 2026 16:22:30 +0000
+  Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. ...
+- **[Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components](https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/)** — Fri, 28 Aug 2026 16:20:40 +0000
+  Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multipl...
+- **[Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)** — Thu, 27 Aug 2026 23:04:22 +0000
+  Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusabl...
+- **[Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/)** — Thu, 27 Aug 2026 18:36:08 +0000
+  Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data p...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure](https://azure.microsoft.com/updates?id=570120)** — Fri, 28 Aug 2026 20:25:22 Z
+  The Azure Files Container Storage Interface (CSI) driver in Azure
+Kubernetes Service (AKS) now supports workload identity for pod-level
+authentication...
+- **[[Launched] Generally Available: Azure VM Image Builder in sovereign and air-gapped clouds](https://azure.microsoft.com/updates?id=570105)** — Fri, 28 Aug 2026 15:45:32 Z
+  Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secre...
+- **[[Launched] Generally Available: Azure Bastion shareable link expiration](https://azure.microsoft.com/updates?id=570020)** — Wed, 26 Aug 2026 16:57:56 Z
+  Azure Bastion shareable link expiration is now generally
+available. When creating a shareable link, administrators can specify the date
+and time when ...
+- **[[In preview] Public Preview: IPv6 dual-stack support for Azure Bastion](https://azure.microsoft.com/updates?id=570025)** — Wed, 26 Aug 2026 16:56:29 Z
+  Azure Bastion support for IPv4 and IPv6 dual-stack
+configurations is now available in public preview. Customers can configure a
+newly created Bastion ...
+- **[[Launched] Generally Available: Connect to AKS clusters using Azure Bastion](https://azure.microsoft.com/updates?id=570030)** — Wed, 26 Aug 2026 16:55:25 Z
+  Azure Bastion integration with Azure Kubernetes Service is
+now generally available. Customers can establish a secure tunnel from their
+local machine t...
+
+## GCP Updates
+
+- **[Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)** — Thu, 27 Aug 2026 17:37:20 +0000
+  Earth AI
+- **[GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)** — Wed, 26 Aug 2026 18:42:43 +0000
+  Health & Bioscience
+
+
 # ☁️ Cloud Updates — 2026-08-28 19:16 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -859,26 +907,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Quantum advantage through trusted quantum computation](https://research.ibm.com/blog/quantum-advantage?utm_medium=rss&utm_source=rss)** — Thu, 30 Jul 2026 10:00:00 GMT
   Demonstration shows trusted quantum computation in regimes where classical methods fail.
-
-
-# ☁️ Cloud Updates — 2026-07-30 09:30 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
-  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
-
-## GCP Updates
-
-- **[The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents](https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/)** — Wed, 29 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today’s data lakehouse is no longer mere data repository, but increas...
-- **[Automate data monitoring and root-cause analysis with Looker Agentic Workflows](https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/)** — Wed, 29 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Traditional business intelligence alerts can only tell you that a met...
-- **[Automate your agent development lifecycle using any coding agent](https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/)** — Wed, 29 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Welcome to our latest </span><a href="https://docs.cloud.google.com/g...
-- **[What’s new in Gemini Enterprise Agent Platform](https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/)** — Wed, 29 Jul 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since we launched </span><a href="https://console.cloud.google.com/ag...
