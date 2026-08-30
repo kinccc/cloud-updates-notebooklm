@@ -1,3 +1,26 @@
+# ☁️ Cloud Updates — 2026-08-30 12:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## GCP Updates
+
+- **[Reimagining work: How Pythian’s internal AI playbook delivers customer ROI](https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/)** — Thu, 27 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When </span><a href="https://www.pythian.com/" rel="noopener" target=...
+- **[Deploy personal AI agents with Cloud Run instances](https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/)** — Thu, 27 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Need a low-cost, high-performance way to run long-lived, stateful wor...
+- **[Simplify your resilience testing strategy with Fault Injection Testing](https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/)** — Wed, 26 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When databases fail and network paths falter, you still need your mis...
+- **[Using OKF with Knowledge Catalog to serve context for agents](https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/)** — Wed, 26 Aug 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We continue to iterate on the </span><a href="https://cloud.google.co...
+
+
 # ☁️ Cloud Updates — 2026-08-29 12:58 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -869,41 +892,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Ponder This Challenge - August 2026 - The Wheel of Buttons](https://research.ibm.com/blog/ponder-this-august-2026?utm_medium=rss&utm_source=rss)** — Fri, 31 Jul 2026 22:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-07-31 09:44 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Deploying Kimi K3 on AWS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/)** — Thu, 30 Jul 2026 17:22:32 +0000
-  This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and&nbsp; Amazon Elastic Kubernetes Service (Amazon ...
-- **[How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)** — Thu, 30 Jul 2026 16:40:36 +0000
-  In this post, we demonstrate how Yahoo implemented Amazon Bedrock to enhance their Search Retargeting (SRT) capabilities in the Yahoo DSP ad tech suit...
-- **[Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)** — Thu, 30 Jul 2026 16:10:10 +0000
-  Learn how to build an inference meta-monitoring system for Amazon SageMaker AI endpoints using Amazon Quick. This governance layer sits above producti...
-- **[Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/)** — Thu, 30 Jul 2026 16:02:32 +0000
-  OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control o...
-- **[Migrate your prompts to new models and optimize them on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/)** — Thu, 30 Jul 2026 15:58:32 +0000
-  Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance acros...
-
-## Azure Updates
-
-- **[Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/)** — Thu, 30 Jul 2026 17:00:00 +0000
-  <p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather...
-- **[EvoLib: Turning experience into evolving knowledge](https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/)** — Thu, 30 Jul 2026 16:00:00 +0000
-  <p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help mo...
-
-## GCP Updates
-
-- **[Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.](https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/)** — Mon, 29 Jun 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" />Google Meet's "Take notes ...
-
-## IBM Cloud Updates
-
-- **[Quantum advantage through trusted quantum computation](https://research.ibm.com/blog/quantum-advantage?utm_medium=rss&utm_source=rss)** — Thu, 30 Jul 2026 10:00:00 GMT
-  Demonstration shows trusted quantum computation in regimes where classical methods fail.
