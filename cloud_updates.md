@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-09-02 11:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
+  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
+
+## Azure Updates
+
+- **[Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/)** — Mon, 31 Aug 2026 18:00:00 +0000
+  <p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and...
+- **[Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/)** — Mon, 31 Aug 2026 16:00:00 +0000
+  <p>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.</p>
+<p>The post <a href="http...
+
+## GCP Updates
+
+- **[Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/)** — Tue, 01 Sep 2026 16:00:00 +0000
+  Collage of images created by Google Pics, with the text "Say hello to Google Pics" on top
+
+
 # ☁️ Cloud Updates — 2026-09-01 12:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -902,9 +927,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[The search for quantum advantage in differential equations](https://research.ibm.com/blog/hari-krovi-differential-equations?utm_medium=rss&utm_source=rss)** — Mon, 03 Aug 2026 13:00:00 GMT
   New quantum algorithms could unlock faster ways to model the complex systems behind circuits, fluids, finance, and more.
-
-
-# ☁️ Cloud Updates — 2026-08-03 10:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
