@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-09-04 11:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/)** — Thu, 03 Sep 2026 16:16:28 +0000
+  Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two...
+- **[Migrate agentic workloads to Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/)** — Thu, 03 Sep 2026 16:14:12 +0000
+  An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedroc...
+- **[Integrating Outlook with Amazon Quick for AI-powered email automation](https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/)** — Thu, 03 Sep 2026 16:11:57 +0000
+  Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through th...
+- **[Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/)** — Thu, 03 Sep 2026 16:10:39 +0000
+  Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to rou...
+- **[Best practices for building agentic automations with Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/)** — Thu, 03 Sep 2026 16:08:28 +0000
+  Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, d...
+
+## Azure Updates
+
+- **[Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/)** — Mon, 03 Aug 2026 16:00:00 +0000
+  <p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while suppo...
+
+## GCP Updates
+
+- **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
+  Text reading: "Do more with your voice in Workspace"
+
+
 # ☁️ Cloud Updates — 2026-09-03 11:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,24 +930,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the Medium blog post, </span><strong style="vertical-align: baseli...
 - **[How Deutsche Bank unlocked agility with an API-ready ecosystem](https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/)** — Tue, 04 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When people think about digital transformation in banking, they often...
-
-
-# ☁️ Cloud Updates — 2026-08-05 09:36 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)** — Tue, 04 Aug 2026 18:39:14 +0000
-  Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in ...
-- **[Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)** — Tue, 04 Aug 2026 16:02:21 +0000
-  Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction sol...
-
-## GCP Updates
-
-- **[The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)** — Tue, 04 Aug 2026 13:00:00 +0000
-  July AI recap header
-- **[Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/)** — Mon, 03 Aug 2026 15:00:00 +0000
-  Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
