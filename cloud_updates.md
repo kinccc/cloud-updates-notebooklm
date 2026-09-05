@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-09-05 11:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)** — Fri, 04 Sep 2026 21:45:52 +0000
+  Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a sing...
+- **[Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)** — Fri, 04 Sep 2026 17:20:04 +0000
+  Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for...
+- **[Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)** — Fri, 04 Sep 2026 16:16:00 +0000
+  Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data ge...
+- **[Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/)** — Fri, 04 Sep 2026 16:12:17 +0000
+  HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPo...
+- **[Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract](https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/)** — Fri, 04 Sep 2026 16:08:10 +0000
+  Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract...
+
+## Azure Updates
+
+- **[Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/)** — Thu, 03 Sep 2026 19:00:00 +0000
+  <p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working a...
+- **[GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/)** — Thu, 03 Sep 2026 18:15:00 +0000
+  <p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expan...
+- **[How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/)** — Thu, 03 Sep 2026 15:00:00 +0000
+  <p>Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.</p>
+<p...
+
+## GCP Updates
+
+- **[The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)** — Tue, 04 Aug 2026 13:00:00 +0000
+  July AI recap header
+
+
 # ☁️ Cloud Updates — 2026-09-04 11:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -899,34 +934,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For enterprises and governments with strict compliance and sovereignt...
 - **[UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments](https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/)** — Thu, 06 Aug 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><p>Written by: <span style="vertical-align: baseline;">Tyler McLellan,</span><span style="vertical-align: baseli...
-
-
-# ☁️ Cloud Updates — 2026-08-06 09:39 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/)** — Wed, 05 Aug 2026 18:50:02 +0000
-  Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context P...
-- **[How Mobileye transformed support operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/)** — Wed, 05 Aug 2026 18:09:03 +0000
-  In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparke...
-- **[How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools](https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/)** — Wed, 05 Aug 2026 18:02:23 +0000
-  AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that ...
-- **[Run production AI agents in n8n with Amazon Bedrock AgentCore harness](https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/)** — Wed, 05 Aug 2026 18:00:57 +0000
-  Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community n...
-
-## GCP Updates
-
-- **[Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer](https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/)** — Wed, 05 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As a market leader in enterprise agentic automation and business orch...
-- **[Solving the "Noisy Neighbor": How Sharded Architecture Protects Multi-Tenant Platforms](https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/)** — Wed, 05 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you are a multi-tenant SaaS provider, a large enterprise mana...
-- **[Unlocking the future of shared storage: Filestore on Colossus](https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/)** — Wed, 05 Aug 2026 13:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today,  enterprise storage must be as agile, elastic, and responsive ...
-- **[Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation](https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/)** — Tue, 04 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the Medium blog post, </span><strong style="vertical-align: baseli...
-- **[How Deutsche Bank unlocked agility with an API-ready ecosystem](https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/)** — Tue, 04 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When people think about digital transformation in banking, they often...
