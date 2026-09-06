@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-09-06 11:31 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/)** — Fri, 04 Sep 2026 21:29:00 GMT
+  <p>AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, ...
+- **[Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)** — Fri, 04 Sep 2026 21:14:00 GMT
+  <p>AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) ...
+- **[Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)** — Fri, 04 Sep 2026 21:01:00 GMT
+  <p>AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service tha...
+- **[Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)** — Fri, 04 Sep 2026 19:26:00 GMT
+  <p>Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsup...
+- **[Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)** — Fri, 04 Sep 2026 17:00:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS)&nbsp;now supports Early Success Criteria fo...
+
+## Azure Updates
+
+- **[GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/)** — Thu, 03 Sep 2026 18:15:00 +0000
+  <p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expan...
+
+## GCP Updates
+
+- **[Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)** — Thu, 03 Sep 2026 18:20:31 +0000
+  General Science
+- **[A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)** — Thu, 03 Sep 2026 16:00:03 +0000
+  General Science
+
+
 # ☁️ Cloud Updates — 2026-09-05 11:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -901,36 +933,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Modern enterprises possess a vast amount of unstructured data, yet th...
 - **[GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud](https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/)** — Fri, 07 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Live sports broadcasting represents the ultimate stress test for digi...
-
-
-# ☁️ Cloud Updates — 2026-08-07 08:13 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Securing AI agents with temporal policies in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/)** — Thu, 06 Aug 2026 18:57:55 +0000
-  Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how...
-- **[Configure rate limits for AI traffic on AgentCore gateway](https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/)** — Thu, 06 Aug 2026 17:50:42 +0000
-  Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and...
-- **[Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/)** — Thu, 06 Aug 2026 16:43:19 +0000
-  Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and r...
-- **[Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch](https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/)** — Thu, 06 Aug 2026 16:30:47 +0000
-  As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route...
-- **[Enforcing data residency with single-Region Claude Code on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/)** — Thu, 06 Aug 2026 16:21:54 +0000
-  A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pi...
-
-## GCP Updates
-
-- **[Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort](https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/)** — Thu, 06 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In the modern data landscape, query performance tuning and managing s...
-- **[Advancing brain tumor research with privacy-first AI](https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/)** — Thu, 06 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The intersection of medicine and AI has led to remarkable innovations...
-- **[Your agentic summer: No-cost lessons from Google experts to build and scale agents](https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/)** — Thu, 06 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">I’ve talked to developers, IT leaders, and builders who all ask the s...
-- **[Digital sovereignty in the age of AI: You don’t have to choose between control and innovation](https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/)** — Thu, 06 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For enterprises and governments with strict compliance and sovereignt...
-- **[UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments](https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/)** — Thu, 06 Aug 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p>Written by: <span style="vertical-align: baseline;">Tyler McLellan,</span><span style="vertical-align: baseli...
