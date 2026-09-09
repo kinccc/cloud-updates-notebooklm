@@ -1,3 +1,40 @@
+# ☁️ Cloud Updates — 2026-09-09 12:10 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North](https://azure.microsoft.com/updates?id=570919)** — Tue, 08 Sep 2026 17:35:32 Z
+  Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provi...
+- **[[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework](https://azure.microsoft.com/updates?id=570881)** — Tue, 08 Sep 2026 17:18:38 Z
+  The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure De...
+
+## GCP Updates
+
+- **[Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit](https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/)** — Tue, 08 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise agent adoption isn’t one-size-fits-all. While many teams w...
+- **[Agentic analytics with the Data Agent Kit](https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/)** — Tue, 08 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine your director sends you a chat message Monday morning: </span...
+- **[How KDDI built Buffmee, a faster, reliable consumer RAG app](https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/)** — Tue, 08 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When building consumer-facing generative AI applications,  balancing ...
+- **[GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI](https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/)** — Tue, 08 Sep 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Executive Summary</span><strong style="vertical-align: baseline;"> <...
+
+## IBM Cloud Updates
+
+- **[Cleveland Clinic, RIKEN, IBM named Gordon Bell finalists](https://research.ibm.com/blog/gordon-bell-finalists-2026?utm_medium=rss&utm_source=rss)** — Wed, 09 Sep 2026 04:00:00 GMT
+  Finalist recognition for one of supercomputing’s top prizes arrives as researchers report new progress in automated quantum-HPC chemistry workflows.
+- **[How llm-d makes the most of the hardware you already have](https://research.ibm.com/blog/running-open-models-on-h100-gpus-with-llmd?utm_medium=rss&utm_source=rss)** — Tue, 08 Sep 2026 12:00:00 GMT
+  IBM Research and Red Hat deployed a 753B open model on H100 GPUs, serving thousands of concurrent coding agents at 5-10x lower cost than commercial AP...
+
+
 # ☁️ Cloud Updates — 2026-09-08 11:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -875,68 +912,3 @@ SharePoint into ...
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing network security in a multi-tenant Kubernetes environment ty...
 - **[Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/)** — Mon, 10 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we help organizations of all sizes build and operati...
-
-
-# ☁️ Cloud Updates — 2026-08-10 08:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## Azure Updates
-
-- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/)** — Thu, 06 Aug 2026 15:00:00 +0000
-  <p>GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.</p>
-<p>The ...
-- **[What customers value most in Microsoft Databases—from reliability to AI readiness](https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/)** — Mon, 27 Jul 2026 15:00:00 +0000
-  <p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>
-<p>Th...
-- **[AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/)** — Thu, 23 Jul 2026 18:30:00 +0000
-  <p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and ...
-- **[Azure Databricks delivers proven business value](https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/)** — Wed, 15 Jul 2026 15:00:00 +0000
-  <p>Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measur...
-- **[GPT-5.6 now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/)** — Thu, 09 Jul 2026 17:00:00 +0000
-  <p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft...
-
-## GCP Updates
-
-- **[Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)** — Thu, 30 Jul 2026 20:36:36 +0000
-  General Science
-- **[SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/)** — Wed, 22 Jul 2026 21:32:00 +0000
-  General Science
-- **[Towards a quantum computer that learns from its errors](https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/)** — Wed, 22 Jul 2026 18:40:21 +0000
-  Machine Intelligence
-- **[Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)** — Wed, 15 Jul 2026 18:06:00 +0000
-  Algorithms & Theory
-- **[SensorFM: Towards a general intelligence and interface for wearable health data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/)** — Thu, 09 Jul 2026 09:56:00 +0000
-  Generative AI
-
-
-# ☁️ Cloud Updates — 2026-08-10 02:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)** — Fri, 07 Aug 2026 21:11:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances ar...
-- **[Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)** — Fri, 07 Aug 2026 19:21:00 GMT
-  <p>Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand...
-- **[Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)** — Fri, 07 Aug 2026 18:00:48 GMT
-  <p>Amazon Cognito is now available as a core skill (aws-auth) in the <a href="https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/">...
-- **[AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)** — Fri, 07 Aug 2026 16:00:00 GMT
-  <p>AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Re...
-- **[Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)** — Fri, 07 Aug 2026 16:00:00 GMT
-  <p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrast...
-
-## Azure Updates
-
-- **[Aurora 1.5: Extending open foundation models for weather and Earth-system applications](https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/)** — Thu, 09 Jul 2026 16:46:22 +0000
-  <p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it mor...
-
-## GCP Updates
-
-- **[We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/)** — Thu, 09 Jul 2026 16:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" />Finding the most efficient a...
