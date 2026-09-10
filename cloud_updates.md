@@ -1,3 +1,40 @@
+# ☁️ Cloud Updates — 2026-09-10 12:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Testing application resilience with Amazon SQS and AWS Fault Injection Service](https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/)** — Wed, 09 Sep 2026 21:33:59 +0000
+  Learn how to use AWS Fault Injection Service and AWS Systems Manager Automation to run progressive chaos experiments against Amazon SQS queues. Valida...
+- **[Validating multi-Region DR for Terraform Enterprise with AWS FIS](https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/)** — Wed, 09 Sep 2026 21:05:02 +0000
+  Learn how AWS, HashiCorp, and Athenahealth designed and chaos-tested a multi-Region disaster recovery strategy for Terraform Enterprise on AWS. This p...
+
+## Azure Updates
+
+- **[Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/)** — Tue, 08 Sep 2026 20:00:00 +0000
+  <p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex...
+
+## GCP Updates
+
+- **[Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available](https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/)** — Wed, 09 Sep 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are thrilled to announce the general availability of the </span><a...
+- **[Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants](https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/)** — Wed, 09 Sep 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are excited to share that Gartner has named Google a Leader in its...
+- **[Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL](https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/)** — Wed, 09 Sep 2026 16:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">So, you’ve planned your database modernization journey. You’ve set up...
+- **[Spanner: Removing cumulative mutation limits for DML transactions](https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/)** — Wed, 09 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Spanner is Google Cloud’s no-compromise operational database that giv...
+- **[How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts](https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/)** — Wed, 09 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the millions of fervent fans of the </span><a href="https://www.i...
+
+## IBM Cloud Updates
+
+- **[Switzerland's first IBM Quantum System Two](https://research.ibm.com/blog/swiss-innovation-hub?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 07:00:00 GMT
+  Lockheed Martin and IBM are launching a Swiss quantum innovation hub at ETH Zurich to advance research, industry collaboration, and workforce developm...
+
+
 # ☁️ Cloud Updates — 2026-09-09 12:10 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -869,46 +906,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[From vision to reality: a unified AI solver for the grid](https://research.ibm.com/blog/gridfm-neural-solver-power-grid?utm_medium=rss&utm_source=rss)** — Tue, 11 Aug 2026 13:00:40 GMT
   GENCO is a neural solver that, alongside the GridFM Development Framework, unifies three core electrical grid analysis tasks.
-
-
-# ☁️ Cloud Updates — 2026-08-11 08:09 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)** — Mon, 10 Aug 2026 16:34:37 +0000
-  The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates...
-- **[How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)** — Mon, 10 Aug 2026 16:30:46 +0000
-  nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The mov...
-
-## Azure Updates
-
-- **[Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting](https://azure.microsoft.com/updates?id=569140)** — Mon, 10 Aug 2026 17:50:54 Z
-  Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported...
-- **[[In preview] Public Preview: Azure ExpressRoute resiliency guard](https://azure.microsoft.com/updates?id=568666)** — Fri, 07 Aug 2026 15:52:31 Z
-  Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual
-network gateways. The new resiliency model property le...
-- **[Announcing:  Azure Databricks Genie One and Genie Agents Free Usage extended through January 31, 2027](https://azure.microsoft.com/updates?id=568964)** — Thu, 06 Aug 2026 19:41:52 Z
-  Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...
-- **[[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover](https://azure.microsoft.com/updates?id=567979)** — Thu, 06 Aug 2026 16:40:19 Z
-  Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You ...
-- **[[Launched] Generally Available: SharePoint Connector for Azure Databricks](https://azure.microsoft.com/updates?id=568905)** — Wed, 05 Aug 2026 22:34:02 Z
-  The SharePoint connector for Azure Databricks is now generally
-available. Organizations can use Lakeflow Connect to ingest files from
-SharePoint into ...
-
-## GCP Updates
-
-- **[Introducing the Developer Device Platform for agentic mobile app development](https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/)** — Mon, 10 Aug 2026 22:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Most enterprises connect with their customers through a device. Wheth...
-- **[How WPP operationalizes platform and data engineering for AI marketing](https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/)** — Mon, 10 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Between chaotic levels of market fragmentation and economic volatilit...
-- **[How Malachyte solves retail’s cold-start problem with managed real-time AI](https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/)** — Mon, 10 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What’s the best way to recommend products to little-known users? </sp...
-- **[ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices](https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/)** — Mon, 10 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing network security in a multi-tenant Kubernetes environment ty...
-- **[Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026](https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/)** — Mon, 10 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we help organizations of all sizes build and operati...
