@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-09-11 12:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building resilient real-time streaming workers with Amazon DynamoDB leases](https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/)** — Thu, 10 Sep 2026 16:14:22 +0000
+  Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet...
+
+## Azure Updates
+
+- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/)** — Thu, 10 Sep 2026 21:00:00 +0000
+  <p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps h...
+- **[The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/)** — Thu, 10 Sep 2026 17:00:00 +0000
+  <p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof poi...
+- **[The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/)** — Thu, 10 Sep 2026 16:00:00 +0000
+  <p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical ...
+- **[Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/)** — Wed, 09 Sep 2026 18:00:00 +0000
+  <p>Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each comp...
+
+## GCP Updates
+
+- **[ToolGrad: Efficient tool-use dataset generation with textual "gradients"](https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/)** — Thu, 10 Sep 2026 22:50:22 +0000
+  Machine Intelligence
+
+## IBM Cloud Updates
+
+- **[Introducing IBM and NASA's new foundation model for the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 12:30:00 GMT
+  The multi-modal model could help astronauts navigate craters, investigate ancient lava, and search for ice, as the US plans for a long-term lunar pres...
+
+
 # ☁️ Cloud Updates — 2026-09-10 12:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -879,30 +912,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Quantum advantage is here. The next question is where to apply it. New updates from the Quantum Optimization Working Group offer a glimpse at the path...
 - **[DocLang: a markup language for LLMs](https://research.ibm.com/blog/doclang-ai-native-doc-standard?utm_medium=rss&utm_source=rss)** — Wed, 12 Aug 2026 12:00:00 GMT
   The lead researcher behind IBM’s popular document parser, Docling, explains why generative AI needs its own document standard.
-
-
-# ☁️ Cloud Updates — 2026-08-12 08:17 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scaling patterns for self-organizing multi-agent clusters with Kiro](https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/)** — Tue, 11 Aug 2026 21:17:02 +0000
-  Learn how to coordinate AI agents through shared state in Amazon S3 instead of a central orchestrator. Deploy and observe self-organizing agent cluste...
-
-## Azure Updates
-
-- **[Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/)** — Tue, 11 Aug 2026 16:00:00 +0000
-  <p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, an...
-
-## GCP Updates
-
-- **[Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)** — Tue, 11 Aug 2026 17:04:00 +0000
-  Health & Bioscience
-
-## IBM Cloud Updates
-
-- **[From vision to reality: a unified AI solver for the grid](https://research.ibm.com/blog/gridfm-neural-solver-power-grid?utm_medium=rss&utm_source=rss)** — Tue, 11 Aug 2026 13:00:40 GMT
-  GENCO is a neural solver that, alongside the GridFM Development Framework, unifies three core electrical grid analysis tasks.
