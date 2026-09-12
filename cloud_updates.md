@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-09-12 11:29 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[From zero-shot forecast to purchase order with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/)** — Fri, 11 Sep 2026 14:08:01 +0000
+  Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated p...
+
+## Azure Updates
+
+- **[Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/)** — Tue, 11 Aug 2026 16:00:00 +0000
+  <p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, an...
+
+## GCP Updates
+
+- **[3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference](https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/)** — Fri, 11 Sep 2026 09:00:00 +0000
+  <div class="block-paragraph"><p>On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Googl...
+- **[Introducing the Google Cloud Developer Plugin for AI Coding Agents](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/)** — Thu, 10 Sep 2026 19:53:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agent skills fit well alongside documentation and remote MCP servers ...
+
+
 # ☁️ Cloud Updates — 2026-09-11 12:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -881,34 +905,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
   The video shows Sheets canvas in action.
-
-
-# ☁️ Cloud Updates — 2026-08-13 08:20 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Reducing Text2SQL latency with parameterized query templates](https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/)** — Thu, 13 Aug 2026 00:40:32 +0000
-  Learn how parameterized query templates reduced Text2SQL latency by 80% and cut token consumption by over 50%. This post covers the architecture behin...
-- **[Adobe Firefly: Simplified observability with Amazon Managed Prometheus](https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/)** — Thu, 13 Aug 2026 00:14:19 +0000
-  Learn how Adobe Firefly achieved 28x faster GPU metric queries by migrating from self-managed Prometheus to Amazon Managed Service for Prometheus, wit...
-
-## Azure Updates
-
-- **[MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/)** — Wed, 12 Aug 2026 16:00:00 +0000
-  <p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities t...
-
-## GCP Updates
-
-- **[Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)** — Wed, 12 Aug 2026 09:51:00 +0000
-  Generative AI
-
-## IBM Cloud Updates
-
-- **[QOBLIB: tracking progress in quantum optimization](https://research.ibm.com/blog/qoblib?utm_medium=rss&utm_source=rss)** — Wed, 12 Aug 2026 13:00:00 GMT
-  Quantum advantage is here. The next question is where to apply it. New updates from the Quantum Optimization Working Group offer a glimpse at the path...
-- **[DocLang: a markup language for LLMs](https://research.ibm.com/blog/doclang-ai-native-doc-standard?utm_medium=rss&utm_source=rss)** — Wed, 12 Aug 2026 12:00:00 GMT
-  The lead researcher behind IBM’s popular document parser, Docling, explains why generative AI needs its own document standard.
