@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-09-13 12:33 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)** — Fri, 11 Sep 2026 18:26:38 +0000
+  Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedro...
+- **[Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/)** — Fri, 11 Sep 2026 18:24:38 +0000
+  Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarki...
+- **[Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/)** — Fri, 11 Sep 2026 18:23:17 +0000
+  Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the ...
+- **[Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)** — Thu, 10 Sep 2026 21:58:09 +0000
+  Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance...
+- **[Reduce inference cold starts on Amazon SageMaker HyperPod with model caching](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)** — Thu, 10 Sep 2026 21:37:49 +0000
+  Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read...
+
+## Azure Updates
+
+- **[MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/)** — Wed, 12 Aug 2026 16:00:00 +0000
+  <p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities t...
+
+
 # ☁️ Cloud Updates — 2026-09-12 11:29 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -881,27 +906,3 @@ expand th...
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine this scenario: Your team decides to migrate a core applicatio...
 - **[Looker’s semantic layer governs Gemini Enterprise data for user trust](https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/)** — Tue, 11 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For organizations deploying AI agents at scale, there’s often a criti...
-
-
-# ☁️ Cloud Updates — 2026-08-14 08:15 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Track generative AI costs with Amazon Bedrock inference profiles](https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/)** — Thu, 13 Aug 2026 15:59:39 +0000
-  Learn how to track generative AI costs by department using Amazon Bedrock application inference profiles and AWS cost allocation tags. Create tagged p...
-- **[Recovery strategies to meet data residency requirements](https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/)** — Thu, 13 Aug 2026 14:05:39 +0000
-  Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Regi...
-
-## Azure Updates
-
-- **[The Economics of Agent Optimization: From pilots to measurable returns](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/)** — Wed, 12 Aug 2026 16:00:00 +0000
-  <p>Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.</p...
-
-## GCP Updates
-
-- **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
-  The video shows Sheets canvas in action.
