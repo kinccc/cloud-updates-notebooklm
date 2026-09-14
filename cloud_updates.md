@@ -1,3 +1,43 @@
+# ☁️ Cloud Updates — 2026-09-14 13:41 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/)** — Sat, 12 Sep 2026 08:00:00 GMT
+  <p>AWS Elemental MediaLive now supports Video Aligned Locking, a new feature to synchronize video pipelines without requiring timecode from the source...
+- **[Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/)** — Fri, 11 Sep 2026 18:35:00 GMT
+  <p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, p...
+- **[Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/)** — Fri, 11 Sep 2026 18:25:00 GMT
+  <p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster node...
+- **[AWS Lambda now supports direct read configuration for Amazon S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/)** — Fri, 11 Sep 2026 17:00:00 GMT
+  <p>AWS Lambda now supports <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how">direct r...
+- **[Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/)** — Fri, 11 Sep 2026 15:13:00 GMT
+  <p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to crea...
+
+## Azure Updates
+
+- **[Retirement: Azure Linux with OS Guard in Azure Kubernetes Service](https://azure.microsoft.com/updates?id=571257)** — Fri, 11 Sep 2026 18:08:28 Z
+  Support for Azure Linux with OS Guard in Azure Kubernetes Service will end on December 10, 2026. Azure Container Linux is the replacement for Azure Li...
+- **[[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)](https://azure.microsoft.com/updates?id=570910)** — Fri, 11 Sep 2026 15:58:56 Z
+  Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data fr...
+- **[[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption](https://azure.microsoft.com/updates?id=570940)** — Thu, 10 Sep 2026 16:12:49 Z
+  Azure
+Functions Flex Consumption support for TLS/SSL certificates is now generally
+available through a new site-scoped certificate model. Each functio...
+- **[[Launched] Generally Available: Azure Copilot Troubleshooting Agent](https://azure.microsoft.com/updates?id=570980)** — Thu, 10 Sep 2026 15:25:52 Z
+  Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps custo...
+- **[[Launched] Generally Available: User-bound user delegation SAS for Azure Storage](https://azure.microsoft.com/updates?id=569241)** — Wed, 09 Sep 2026 22:30:41 Z
+  Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (S...
+
+## GCP Updates
+
+- **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
+  The video shows Sheets canvas in action.
+
+
 # ☁️ Cloud Updates — 2026-09-13 12:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -863,46 +903,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This wa...
 - **[Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)** — Thu, 13 Aug 2026 15:52:44 +0000
   Learn how to build a multi-agent M&amp;A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combi...
-
-
-# ☁️ Cloud Updates — 2026-08-15 07:30 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Serverless vehicle tracking at scale: Bosch L.OS on AWS](https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/)** — Fri, 14 Aug 2026 10:02:13 +0000
-  Learn how Bosch Mobility Platform Solutions built L.OS, a serverless vehicle tracking platform on AWS that unifies India's fragmented spot logistics m...
-
-## Azure Updates
-
-- **[Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026](https://azure.microsoft.com/updates?id=569353)** — Fri, 14 Aug 2026 17:43:51 Z
-  Azure Databricks Runtime
-10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached
-end of support on March 18, 2025 and will reach...
-- **[[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus](https://azure.microsoft.com/updates?id=568830)** — Thu, 13 Aug 2026 16:19:56 Z
-  Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally availab...
-- **[[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks](https://azure.microsoft.com/updates?id=569281)** — Thu, 13 Aug 2026 16:17:41 Z
-  We’re excited to announce the GA
-of Live Resize for shared Premium
-SSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically
-expand th...
-- **[[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/updates?id=568419)** — Thu, 13 Aug 2026 16:13:22 Z
-  Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major ve...
-- **[Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications](https://azure.microsoft.com/updates?id=568457)** — Wed, 12 Aug 2026 19:41:20 Z
-  On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date ...
-
-## GCP Updates
-
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 14 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[Using BigQuery Graphs with measures for trusted agentic workloads](https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/)** — Thu, 13 Aug 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When enterprises transition from using simple chat assistants to auto...
-- **[PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap](https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/)** — Tue, 11 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Securing infrastructure and services against a future cryptographical...
-- **[Accelerate PostgreSQL migrations using Gemini in Database Migration Service](https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/)** — Tue, 11 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine this scenario: Your team decides to migrate a core applicatio...
-- **[Looker’s semantic layer governs Gemini Enterprise data for user trust](https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/)** — Tue, 11 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For organizations deploying AI agents at scale, there’s often a criti...
