@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-09-15 12:28 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/)** — Mon, 14 Sep 2026 21:22:45 +0000
+  Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email...
+- **[Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)** — Mon, 14 Sep 2026 20:35:45 +0000
+  Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post ...
+- **[How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/)** — Mon, 14 Sep 2026 15:58:57 +0000
+  Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data ...
+- **[The generative AI customization spectrum: From prompt engineering to custom models on AWS](https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/)** — Mon, 14 Sep 2026 15:47:12 +0000
+  Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continue...
+- **[Automate replenishment with MMF, Databricks Genie, and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/)** — Mon, 14 Sep 2026 15:42:06 +0000
+  Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act ...
+
+## Azure Updates
+
+- **[Announcing: New Windows App client-side endpoints for Azure Virtual Desktop](https://azure.microsoft.com/updates?id=571360)** — Mon, 14 Sep 2026 18:24:04 Z
+  Beginning in early October 2026, Windows App will begin using three new wildcard fully qualified domain names (FQDNs) for client-side service traffic ...
+- **[[In preview] Public Preview: HTTP/3 over QUIC support in Azure Application Gateway](https://azure.microsoft.com/updates?id=571123)** — Mon, 14 Sep 2026 17:55:00 Z
+  Announcing public preview
+support for HTTP/3 over QUIC on Azure Application Gateway. HTTP/3 is the next
+evolution of HTTP and uses QUIC to improve con...
+
+## GCP Updates
+
+- **[DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/)** — Mon, 14 Sep 2026 16:00:00 +0000
+  Animation of the text "{DevFest} 2026 Join us! Google Developer Groups" with a globe icon, asterisk icon, < icon, and > icon
+
+
 # ☁️ Cloud Updates — 2026-09-14 13:41 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -883,23 +917,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)** — Thu, 16 Jul 2026 16:00:00 +0000
   Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by various images
-
-
-# ☁️ Cloud Updates — 2026-08-16 07:30 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)** — Fri, 14 Aug 2026 16:02:10 +0000
-  In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite mu...
-- **[Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)** — Fri, 14 Aug 2026 15:58:44 +0000
-  Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where ea...
-- **[Monitor on-premises and multi-cloud AI agents with AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)** — Thu, 13 Aug 2026 16:02:10 +0000
-  Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthr...
-- **[Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)** — Thu, 13 Aug 2026 15:56:07 +0000
-  Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This wa...
-- **[Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)** — Thu, 13 Aug 2026 15:52:44 +0000
-  Learn how to build a multi-agent M&amp;A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combi...
