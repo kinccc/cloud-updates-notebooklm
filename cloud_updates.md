@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-09-16 12:27 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)** — Tue, 15 Sep 2026 16:18:19 +0000
+  Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walk...
+- **[Build an AI-powered product tagging system with Amazon SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)** — Tue, 15 Sep 2026 16:11:36 +0000
+  Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning ...
+- **[Announcing instance preference lists for Amazon SageMaker AI training jobs](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)** — Tue, 15 Sep 2026 16:01:47 +0000
+  Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and S...
+
+## GCP Updates
+
+- **[Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/)** — Tue, 15 Sep 2026 20:00:35 +0000
+  Algorithms & Theory
+
+## IBM Cloud Updates
+
+- **[From error mitigation to fault-tolerant quantum computing](https://research.ibm.com/blog/qec-continuum?utm_medium=rss&utm_source=rss)** — Tue, 15 Sep 2026 14:30:00 GMT
+  A spectrum of error-correcting techniques is enabling useful quantum computation, measured not by logical qubits but by the circuits you can run with ...
+- **[A theoretical separation between quantum computers & LLMs](https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss)** — Tue, 15 Sep 2026 04:00:00 GMT
+  Recent research further demonstrates the theoretical abilities of quantum computing
+
+
 # ☁️ Cloud Updates — 2026-09-15 12:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,20 +928,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)** — Mon, 17 Aug 2026 10:34:00 +0000
   General Science
-
-
-# ☁️ Cloud Updates — 2026-08-17 07:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## GCP Updates
-
-- **[Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/)** — Thu, 16 Jul 2026 16:00:00 +0000
-  Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by various images
