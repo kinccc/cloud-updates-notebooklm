@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-09-17 12:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## Azure Updates
+
+- **[Retirement Update: SAP container images removed October 14, 2026](https://azure.microsoft.com/updates?id=571342)** — Wed, 16 Sep 2026 17:19:02 Z
+  The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sen...
+- **[[In preview] Public Preview: Azure SQL updates for mid-September 2026](https://azure.microsoft.com/updates?id=571056)** — Wed, 16 Sep 2026 17:15:10 Z
+  In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the ...
+- **[[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes](https://azure.microsoft.com/updates?id=571621)** — Wed, 16 Sep 2026 14:13:08 Z
+  Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the O...
+- **[[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL](https://azure.microsoft.com/updates?id=569664)** — Wed, 16 Sep 2026 14:07:14 Z
+  The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act...
+
+## GCP Updates
+
+- **[Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/)** — Wed, 16 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Goog...
+- **[For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%](https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/)** — Wed, 16 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
+- **[M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads](https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/)** — Wed, 16 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprise organizations scale mission-critical applications, stor...
+- **[How Orange built FinOps accountability, and why agents are next](https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/)** — Wed, 16 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://cloud.google.com/customers/orange"><span s...
+- **[Introducing new session management tools with native, granular controls](https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/)** — Tue, 15 Sep 2026 17:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud session management provides flexible options for </span>...
+
+
 # ☁️ Cloud Updates — 2026-09-16 12:27 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,31 +936,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 <h3><span style="vertical-align: baseline;">In...
 - **[Building operational resilience with agentic AI in financial services](https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/)** — Tue, 18 Aug 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><p><span><span style="vertical-align: baseline;">For financial institutions, operational resilience has long bee...
-
-
-# ☁️ Cloud Updates — 2026-08-18 07:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)** — Mon, 17 Aug 2026 18:06:33 +0000
-  NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows ...
-- **[Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)** — Mon, 17 Aug 2026 16:19:56 +0000
-  Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw ...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose](https://azure.microsoft.com/updates?id=568344)** — Mon, 17 Aug 2026 19:54:52 Z
-  You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This ...
-- **[[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace](https://azure.microsoft.com/updates?id=557775)** — Mon, 17 Aug 2026 19:37:49 Z
-  This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in ...
-- **[[In preview] Public Preview: Azure Linux on WSL](https://azure.microsoft.com/updates?id=569376)** — Mon, 17 Aug 2026 17:08:40 Z
-  Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate be...
-
-## GCP Updates
-
-- **[Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)** — Mon, 17 Aug 2026 10:34:00 +0000
-  General Science
