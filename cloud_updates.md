@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-09-18 12:05 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Equinix cut operational overhead with a shared services architecture on Amazon EKS](https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/)** — Thu, 17 Sep 2026 18:00:56 +0000
+  Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its sel...
+- **[Building cloud-native PACS on AWS](https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/)** — Thu, 17 Sep 2026 15:21:06 +0000
+  A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cro...
+- **[How DHI Group accelerates generative AI workloads from idea to production using hackathons](https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/)** — Thu, 17 Sep 2026 15:13:42 +0000
+  Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hack...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Payments HSM v2](https://azure.microsoft.com/updates?id=570509)** — Thu, 17 Sep 2026 18:36:44 Z
+  Azure Payments HSM v2 is a highly available,
+single-tenant Payment HSM service for payment processing, credential issuance,
+PIN processing, key manage...
+- **[[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager](https://azure.microsoft.com/updates?id=571572)** — Thu, 17 Sep 2026 17:40:33 Z
+  High-scale mesh using connected
+group in Azure Virtual Network
+Manager is now in general availability. In available regions, customers may connect
+up ...
+
+## GCP Updates
+
+- **[The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/)** — Thu, 17 Sep 2026 20:45:00 +0000
+  Education Innovation
+
+
 # ☁️ Cloud Updates — 2026-09-17 12:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -904,35 +937,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM’s new modular architecture for cryogenic systems](https://research.ibm.com/blog/modular-cryogenics?utm_medium=rss&utm_source=rss)** — Wed, 19 Aug 2026 10:00:00 GMT
   Modular approach to housing and cooling quantum processors clears a path for interconnected, fault-tolerant systems.
-
-
-# ☁️ Cloud Updates — 2026-08-19 07:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Consistency is the new latency: AI at the data layer](https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/)** — Tue, 18 Aug 2026 11:13:20 +0000
-  As AI agents move from chatbots to taking action, their reliability depends on the consistency of the data layer beneath them. This post examines how ...
-
-## Azure Updates
-
-- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/)** — Mon, 17 Aug 2026 15:00:00 +0000
-  <p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations m...
-
-## GCP Updates
-
-- **[Governance on autopilot, minus the turbulence](https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/)** — Tue, 18 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every data team knows the moment. Someone opens a table, sees a colum...
-- **[Building cost-effective, high-throughput gen AI workflows in Google Dataflow](https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/)** — Tue, 18 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Real-time streaming pipelines are the operational backbone of modern ...
-- **[How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2](https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/)** — Tue, 18 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise content management is experiencing its biggest architectur...
-- **[Staying Ahead of Adversarial AI Through Agentic Source Code Review](https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/)** — Tue, 18 Aug 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><div>Written by: Alex Tselevich, Michael Maturi</div>
-<div><hr />
-<h3><span style="vertical-align: baseline;">In...
-- **[Building operational resilience with agentic AI in financial services](https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/)** — Tue, 18 Aug 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span><span style="vertical-align: baseline;">For financial institutions, operational resilience has long bee...
