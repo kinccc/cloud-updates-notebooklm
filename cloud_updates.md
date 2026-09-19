@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-09-19 11:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[ReadyOn’s Four Walls of tenant isolation on Amazon EKS](https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/)** — Fri, 18 Sep 2026 21:33:13 +0000
+  ReadyOn runs a multi-tenant platform on Amazon EKS that handles highly sensitive enterprise data. This post describes their Four Walls model: four ind...
+- **[How CSIRO built scalable, cost-optimized genomic variant querying on AWS](https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/)** — Fri, 18 Sep 2026 14:35:42 +0000
+  Learn how researchers at CSIRO, Australia's national science agency, built Serverless Beacon (sBeacon), a scalable serverless solution for securely qu...
+
+## Azure Updates
+
+- **[Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/)** — Wed, 16 Sep 2026 16:00:00 +0000
+  <p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</...
+
+## GCP Updates
+
+- **[MilleMiglia: A realistic instance generator for middle-mile logistics](https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/)** — Fri, 18 Sep 2026 17:46:09 +0000
+  Algorithms & Theory
+
+
 # ☁️ Cloud Updates — 2026-09-18 12:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -896,44 +920,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises increasingly adopt multicloud architectures, bring you...
 - **[10 questions every startup should answer before moving to production with their AI prototype](https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/)** — Thu, 20 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">It’s never been easier to start an AI-powered startup on Google Cloud...
-
-
-# ☁️ Cloud Updates — 2026-08-20 07:40 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1](https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/)** — Thu, 20 Aug 2026 00:32:52 +0000
-  Learn how AgentFlo built always-on AI sales agents on Amazon Bedrock AgentCore and the Strands Agents SDK. Part 1 covers three pillars of production-g...
-- **[How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/)** — Wed, 19 Aug 2026 14:29:31 +0000
-  Clario, part of Thermo Fisher Scientific, uses Amazon Bedrock and Amazon Textract to automatically detect protected health information (PHI) and perso...
-- **[AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/)** — Wed, 19 Aug 2026 13:11:51 +0000
-  AI agents built on Amazon Bedrock AgentCore help clinical trial teams make fast, accurate enrollment decisions while keeping clinicians in control. Th...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Azure Databricks Lakebase in four additional regions](https://azure.microsoft.com/updates?id=569684)** — Wed, 19 Aug 2026 21:04:18 Z
-  Lakebase is now generally available in four additional Azure regions: North Central US, France Central, Germany West Central, and East Asia. This expa...
-- **[[Launched] Generally Available: Azure SQL updates for mid-August 2026](https://azure.microsoft.com/updates?id=569145)** — Wed, 19 Aug 2026 21:01:47 Z
-  In mid-August 2026, the following updates and enhancements were made to Azure SQL: You can customize keyboard shortcuts for Quick Queries, the Results...
-- **[[In preview] Public Preview: SQL Formatter in MSSQL extension](https://azure.microsoft.com/updates?id=569155)** — Wed, 19 Aug 2026 21:00:19 Z
-  With SQL Formatter, you can format SQL scripts directly in your editor for cleaner, more consistent, and readable code. Now in public preview, it incl...
-- **[[Launched] Generally Available: Azure SQL Database provisioning in MSSQL extension](https://azure.microsoft.com/updates?id=569160)** — Wed, 19 Aug 2026 20:59:19 Z
-  With Azure SQL Database provisioning, you can create and connect to a fully managed cloud database directly from your editor—at no cost. Now generally...
-- **[[Launched] Generally Available: vCore Customization: Disable Multithreading and Configurable Constrained Cores](https://azure.microsoft.com/updates?id=569051)** — Wed, 19 Aug 2026 17:20:42 Z
-  Today, we are announcing the General Availability of VM vCore Customization for Azure Virtual Machines, introducing two new capabilities: Disable Simu...
-
-## GCP Updates
-
-- **[Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting](https://cloud.google.com/blog/products/data-analytics/serverless-apache-spark-on-google-cloud-architecture-ai-troubleshooting/)** — Wed, 19 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In modern enterprise data engineering, Apache Spark remains a corners...
-- **[How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog](https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/)** — Wed, 19 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For over a decade, the Apache Hive Metastore (HMS) has served as the ...
-
-## IBM Cloud Updates
-
-- **[IBM’s new modular architecture for cryogenic systems](https://research.ibm.com/blog/modular-cryogenics?utm_medium=rss&utm_source=rss)** — Wed, 19 Aug 2026 10:00:00 GMT
-  Modular approach to housing and cooling quantum processors clears a path for interconnected, fault-tolerant systems.
