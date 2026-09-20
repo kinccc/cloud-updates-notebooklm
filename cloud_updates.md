@@ -1,3 +1,51 @@
+# ☁️ Cloud Updates — 2026-09-20 12:02 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/)** — Fri, 18 Sep 2026 20:52:14 +0000
+  Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod I...
+- **[Introducing Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/)** — Fri, 18 Sep 2026 16:52:01 +0000
+  Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers nat...
+- **[Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/)** — Fri, 18 Sep 2026 15:38:53 +0000
+  Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model o...
+- **[The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)** — Fri, 18 Sep 2026 15:31:34 +0000
+  Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that...
+- **[Deploy Hugging Face models on Amazon SageMaker AI with coding agents](https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/)** — Fri, 18 Sep 2026 15:25:23 +0000
+  Deploy production-ready Hugging Face models on Amazon SageMaker AI using six open-source agent skills. Point a coding agent at a model and get back a ...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Foundry Routines in Foundry Agent Service](https://azure.microsoft.com/updates?id=563536)** — Fri, 18 Sep 2026 19:10:53 Z
+  In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agen...
+- **[[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP](https://azure.microsoft.com/updates?id=571530)** — Fri, 18 Sep 2026 17:29:29 Z
+  The Mdsv4
+and Msv4 Series are memory-optimized virtual machine series built on 6th
+Generation Intel® Xeon® Scalable processors and enhanced with advan...
+- **[[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365](https://azure.microsoft.com/updates?id=571826)** — Fri, 18 Sep 2026 17:24:02 Z
+  Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, ...
+- **[[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry](https://azure.microsoft.com/updates?id=571821)** — Fri, 18 Sep 2026 17:23:21 Z
+  In public preview, Microsoft Foundry now lets customers govern the outbound connections a hosted agent can make. Customers author ordered rules matche...
+- **[[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams](https://azure.microsoft.com/updates?id=571816)** — Fri, 18 Sep 2026 17:21:06 Z
+  Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the pe...
+
+## GCP Updates
+
+- **[Announcing Native BM25 Ranking in AlloyDB and Cloud SQL](https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/)** — Fri, 18 Sep 2026 16:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Vector search is a critical component of generative AI, retrieval-aug...
+- **[Reimagining service delivery in the agentic era with Google Public Sector](https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/)** — Fri, 18 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>State and local governments are driven by a shared mission to provide responsive, equitable, and accessible services. ...
+- **[The DevFest Community Workshop Experience: Building Real Agents Together](https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/)** — Fri, 18 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">This week we kicked off the DevFest season in North America at Google...
+- **[How to upskill enterprise AI builders by using daily micro habits](https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/)** — Fri, 18 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises invest in generative AI, tech leaders keep seeing the ...
+- **[Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching](https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/)** — Fri, 18 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we are excited to announce enhancements to the </span><a href=...
+
+
 # ☁️ Cloud Updates — 2026-09-19 11:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -882,41 +930,3 @@ aggregated (summarized) prefixes for an Azu...
   Generative AI
 - **[How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)** — Fri, 21 Aug 2026 10:54:00 +0000
   Algorithms & Theory
-
-
-# ☁️ Cloud Updates — 2026-08-21 07:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/)** — Thu, 20 Aug 2026 21:46:03 +0000
-  Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographi...
-- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/)** — Thu, 20 Aug 2026 21:23:38 +0000
-  Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 o...
-- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/)** — Thu, 20 Aug 2026 21:23:29 +0000
-  In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual tra...
-- **[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/)** — Thu, 20 Aug 2026 21:23:23 +0000
-  In Part 3 of this no-code ML series, you bring fraud detection predictions to life. Import your Amazon SageMaker Canvas predictions into Amazon Quick ...
-- **[Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/)** — Thu, 20 Aug 2026 16:31:28 +0000
-  AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agent...
-
-## Azure Updates
-
-- **[Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility acr...
-
-## GCP Updates
-
-- **[Expanding Google Antigravity for enterprise customers](https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/)** — Thu, 20 Aug 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Since announcing Google Antigravity in Gemini Enterprise Agent Platfo...
-- **[Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are thrilled to announce that Google has been recognized as </span...
-- **[How AlloyDB ScaNN scales vector search to 10 billion vectors](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To satisfy the demands of enterprise-grade agentic AI applications, u...
-- **[Announcing quantum-safe key import in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises increasingly adopt multicloud architectures, bring you...
-- **[10 questions every startup should answer before moving to production with their AI prototype](https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">It’s never been easier to start an AI-powered startup on Google Cloud...
