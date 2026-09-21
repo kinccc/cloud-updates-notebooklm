@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-09-21 13:40 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon EC2 X8i instances are now available in the South America (São Paulo) Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/)** — Fri, 18 Sep 2026 22:16:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the South America (São Paulo) region. These instances are ...
+- **[AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/)** — Fri, 18 Sep 2026 18:34:00 GMT
+  <p>AWS Continuum for penetration testing is a frontier agent that proactively secures applications throughout the development lifecycle by offering on...
+- **[Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/)** — Fri, 18 Sep 2026 17:27:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> Express Mode now supports specifying ARM64 as the CPU ar...
+- **[AWS Resilience Hub adds three new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/)** — Fri, 18 Sep 2026 16:49:00 GMT
+  <p>The next generation of AWS Resilience Hub is a central location in the AWS that helps platform engineering and site reliability teams assess and st...
+- **[AWS RTB Fabric now supports configurable Availability Zone affinity](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/)** — Fri, 18 Sep 2026 15:30:00 GMT
+  <p>AWS RTB Fabric now supports <a href="https://docs.aws.amazon.com/rtb-fabric/latest/userguide/working-with-responder-gateways.html#configuring-avail...
+
+## Azure Updates
+
+- **[Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/)** — Thu, 20 Aug 2026 16:00:00 +0000
+  <p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility acr...
+
+
 # ☁️ Cloud Updates — 2026-09-20 12:02 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,33 +925,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more ...
 - **[How agents can delegate better](https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/)** — Fri, 21 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In any organizational behavior class, students will learn that effect...
-
-
-# ☁️ Cloud Updates — 2026-08-22 07:31 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build a unified AI agent architecture with DynamoDB and Bedrock](https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/)** — Fri, 21 Aug 2026 18:19:23 +0000
-  With native vector search in Amazon DynamoDB, you can store vector embeddings alongside your operational data in a single table. This post shows how t...
-- **[How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2/)** — Fri, 21 Aug 2026 10:01:18 +0000
-  Part 2: how AgentFlo built trusted, reliable AI sales agents on Amazon Bedrock AgentCore and AWS serverless architecture. Learn the three-layer guardr...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement](https://azure.microsoft.com/updates?id=569743)** — Thu, 20 Aug 2026 17:02:23 Z
-  Summarized advertised gateway
-prefixes for route advertisement is now generally available. You can specify
-aggregated (summarized) prefixes for an Azu...
-- **[Announcing: Azure Copilot introduces direct access to agents](https://azure.microsoft.com/updates?id=569685)** — Thu, 20 Aug 2026 16:08:02 Z
-  Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose...
-
-## GCP Updates
-
-- **[An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)** — Fri, 21 Aug 2026 17:02:24 +0000
-  Generative AI
-- **[How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)** — Fri, 21 Aug 2026 10:54:00 +0000
-  Algorithms & Theory
