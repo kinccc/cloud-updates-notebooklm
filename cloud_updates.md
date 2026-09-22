@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-09-22 12:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)** — Mon, 21 Sep 2026 18:30:34 +0000
+  xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context win...
+- **[How BMW Group detects cost anomalies across 14,000 cloud accounts](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)** — Mon, 21 Sep 2026 16:36:10 +0000
+  BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly dete...
+- **[Run Positron on Amazon SageMaker AI for data science workflows](https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/)** — Mon, 21 Sep 2026 16:34:21 +0000
+  Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validat...
+- **[How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/)** — Mon, 21 Sep 2026 16:27:34 +0000
+  Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life scien...
+- **[Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution](https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/)** — Mon, 21 Sep 2026 16:24:40 +0000
+  EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Ama...
+
+## Azure Updates
+
+- **[Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/)** — Mon, 21 Sep 2026 15:30:19 +0000
+  <p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights R...
+
+## GCP Updates
+
+- **[Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway](https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/)** — Mon, 21 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Demand for AI infrastructure is at an all-time high. Global accelerat...
+- **[Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices](https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/)** — Mon, 21 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The surge in AI development has created unprecedented demand for comp...
+- **[Scale your AI workloads faster and more efficiently with GKE Pod snapshots](https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/)** — Mon, 21 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When running modern AI workloads, there’s often a conflict between pe...
+- **[Strengthen your CI/CD pipeline with new Secure Source Manager capabilities](https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/)** — Mon, 21 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A resilient software supply chain is the foundation of modern deliver...
+
+
 # ☁️ Cloud Updates — 2026-09-21 13:40 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,28 +936,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap ...
 - **[AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3)** — Fri, 21 Aug 2026 16:42:00 GMT
   <p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apa...
-
-
-# ☁️ Cloud Updates — 2026-08-23 07:32 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)** — Fri, 21 Aug 2026 17:06:17 +0000
-  The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-...
-- **[Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)** — Fri, 21 Aug 2026 17:02:35 +0000
-  Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity...
-- **[Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/)** — Fri, 21 Aug 2026 16:59:15 +0000
-  Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware conte...
-- **[Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)** — Fri, 21 Aug 2026 16:57:01 +0000
-  Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and ...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: Sticking to security fundamentals in the AI era](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/)** — Fri, 21 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more ...
-- **[How agents can delegate better](https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/)** — Fri, 21 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In any organizational behavior class, students will learn that effect...
