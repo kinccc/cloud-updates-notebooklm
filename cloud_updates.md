@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-09-23 12:35 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)** — Tue, 22 Sep 2026 18:10:22 +0000
+  GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.
+- **[Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)** — Tue, 22 Sep 2026 17:28:01 +0000
+  Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock an...
+- **[Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/)** — Tue, 22 Sep 2026 17:18:13 +0000
+  Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the...
+- **[How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)** — Tue, 22 Sep 2026 15:46:07 +0000
+  Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, re...
+- **[Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/)** — Tue, 22 Sep 2026 15:35:53 +0000
+  Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. Th...
+
+## Azure Updates
+
+- **[GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/)** — Tue, 22 Sep 2026 18:30:00 +0000
+  <p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-vo...
+- **[Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051)** — Tue, 22 Sep 2026 17:00:25 +0000
+  <p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex is...
+
+
 # ☁️ Cloud Updates — 2026-09-22 12:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -916,23 +943,3 @@ Service will continue to run, but security updates will no longer...
 
 - **[Qiskit Fermions: a modular toolbox for fermionic systems](https://research.ibm.com/blog/qiskit-fermions?utm_medium=rss&utm_source=rss)** — Mon, 24 Aug 2026 14:30:00 GMT
   A new research tool for expressing fermionic operators, circuits, and mappings—and for building efficient fermionic algorithms.
-
-
-# ☁️ Cloud Updates — 2026-08-24 07:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/)** — Fri, 21 Aug 2026 20:11:00 GMT
-  <p>Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 p...
-- **[Amazon Connect Customer now lets managers chat with their data](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics)** — Fri, 21 Aug 2026 20:00:00 GMT
-  <p>Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in s...
-- **[AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/)** — Fri, 21 Aug 2026 18:00:00 GMT
-  <p>The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downlaods from jobs running in the cloud. Deadline...
-- **[Amazon EKS Capability for Argo CD now supports custom configuration](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration)** — Fri, 21 Aug 2026 17:00:00 GMT
-  <p>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports custom configuration through a standard argocd-cm ConfigMap ...
-- **[AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3)** — Fri, 21 Aug 2026 16:42:00 GMT
-  <p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apa...
