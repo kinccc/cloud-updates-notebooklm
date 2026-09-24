@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-09-24 12:33 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the New AWS Reimagine Report on AI](https://aws.amazon.com/blogs/enterprise-strategy/announcing-the-new-aws-reimagine-report-on-ai/)** — Thu, 24 Sep 2026 04:19:10 +0000
+  Two questions come up in almost every conversation we have with executives. The first is: What are other organizations doing to make AI work? The seco...
+
+## Azure Updates
+
+- **[Offloaded inference for real-world physical AI robotics](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)** — Wed, 23 Sep 2026 16:01:36 +0000
+  <p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the ...
+
+## GCP Updates
+
+- **[Anyone can make stunning HD videos with Gemini Omni in Google Vids](https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/)** — Wed, 23 Sep 2026 19:00:00 +0000
+  Google Vids logo surrounded by various video editing options
+- **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
+  Google Beam promotional animation
+
+
 # ☁️ Cloud Updates — 2026-09-23 12:35 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -904,42 +928,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Granite 4.2 brings native reasoning to enterprise agents](https://research.ibm.com/blog/introducing-granite-4-2?utm_medium=rss&utm_source=rss)** — Tue, 25 Aug 2026 15:00:00 GMT
   IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.
-
-
-# ☁️ Cloud Updates — 2026-08-25 07:42 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration](https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/)** — Mon, 24 Aug 2026 15:23:21 +0000
-  When AWS accounts move between organizations, organization-bound AWS RAM resource shares break and control-plane access is lost. Learn how a global pa...
-
-## Azure Updates
-
-- **[Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/updates?id=569526)** — Mon, 24 Aug 2026 19:15:05 Z
-  Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer Postgre...
-- **[[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS](https://azure.microsoft.com/updates?id=569873)** — Mon, 24 Aug 2026 18:36:01 Z
-  eBPF Host Routing in Advanced
-Container Networking Services for Azure Kubernetes Service (AKS) is now
-generally available. eBPF Host Routing improves
-...
-- **[Retirement: Support for Node 22 LTS ends on April 30, 2027](https://azure.microsoft.com/updates?id=567334)** — Mon, 24 Aug 2026 17:30:43 Z
-  On April 30 2027, support for Node 22 LTS will end. Your apps that are hosted on App
-Service will continue to run, but security updates will no longer...
-- **[[Launched] Generally Available: Custom block response code and body for Application Gateway WAF](https://azure.microsoft.com/updates?id=569504)** — Mon, 24 Aug 2026 17:25:03 Z
-  Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...
-
-## GCP Updates
-
-- **[New AI-powered quick assessments in Migration Center turbocharge modernization](https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/)** — Mon, 24 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Technology leaders are under mounting pressure to modernize infrastru...
-- **[Empowering autonomous agents with advanced security governance](https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/)** — Mon, 24 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents are the ultimate insiders. We grant them permission to read...
-
-## IBM Cloud Updates
-
-- **[Qiskit Fermions: a modular toolbox for fermionic systems](https://research.ibm.com/blog/qiskit-fermions?utm_medium=rss&utm_source=rss)** — Mon, 24 Aug 2026 14:30:00 GMT
-  A new research tool for expressing fermionic operators, circuits, and mappings—and for building efficient fermionic algorithms.
