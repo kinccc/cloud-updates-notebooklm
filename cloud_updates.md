@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-09-25 12:35 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Speaker-labeled transcription with WhisperX on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)** — Thu, 24 Sep 2026 16:20:12 +0000
+  The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to dep...
+- **[Build a multi-account AI agent with AgentCore Gateway and MCP](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)** — Thu, 24 Sep 2026 16:12:47 +0000
+  Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A cen...
+- **[Aderant builds intelligent ticket triage with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/)** — Thu, 24 Sep 2026 16:06:46 +0000
+  Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, ...
+- **[From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)** — Wed, 23 Sep 2026 18:41:09 +0000
+  HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock ...
+- **[Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)** — Wed, 23 Sep 2026 18:21:54 +0000
+  Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates A...
+
+## Azure Updates
+
+- **[Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/)** — Wed, 23 Sep 2026 16:00:00 +0000
+  <p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a...
+- **[Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/)** — Wed, 23 Sep 2026 15:00:00 +0000
+  <p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>
+<p>The...
+
+## GCP Updates
+
+- **[Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)** — Thu, 24 Sep 2026 19:40:00 +0000
+  Generative AI
+
+
 # ☁️ Cloud Updates — 2026-09-24 12:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -891,40 +924,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[7 ways to kick-start back to school using Gemini in Workspace](https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/)** — Wed, 26 Aug 2026 20:30:00 +0000
   A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini
-
-
-# ☁️ Cloud Updates — 2026-08-26 07:45 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Agentic observability with Amazon OpenSearch Service MCP Apps](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)** — Tue, 25 Aug 2026 19:00:09 +0000
-  Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single,...
-- **[Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/)** — Tue, 25 Aug 2026 16:35:01 +0000
-  Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved fo...
-- **[Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)** — Mon, 24 Aug 2026 19:32:14 +0000
-  Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks ...
-- **[Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)** — Mon, 24 Aug 2026 18:59:15 +0000
-  Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge throug...
-- **[Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)** — Mon, 24 Aug 2026 16:22:03 +0000
-  AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Di...
-
-## Azure Updates
-
-- **[Announcing: Aspire 13.5 has shipped](https://azure.microsoft.com/updates?id=569910)** — Tue, 25 Aug 2026 19:55:34 Z
-  Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volum...
-- **[[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs](https://azure.microsoft.com/updates?id=569546)** — Tue, 25 Aug 2026 18:05:54 Z
-  Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...
-
-## GCP Updates
-
-- **[AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)** — Tue, 25 Aug 2026 19:10:59 +0000
-  Human-Computer Interaction and Visualization
-
-## IBM Cloud Updates
-
-- **[Granite 4.2 brings native reasoning to enterprise agents](https://research.ibm.com/blog/introducing-granite-4-2?utm_medium=rss&utm_source=rss)** — Tue, 25 Aug 2026 15:00:00 GMT
-  IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.
