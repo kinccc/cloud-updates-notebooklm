@@ -1,3 +1,53 @@
+# ☁️ Cloud Updates — 2026-09-26 12:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)** — Fri, 25 Sep 2026 16:29:50 +0000
+  Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an ...
+- **[Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)** — Fri, 25 Sep 2026 16:18:07 +0000
+  Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language mode...
+- **[NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)** — Fri, 25 Sep 2026 16:15:22 +0000
+  NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-...
+- **[Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/)** — Fri, 25 Sep 2026 16:09:46 +0000
+  Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, an...
+- **[How Datacor built self-service rental analytics with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/)** — Fri, 25 Sep 2026 15:54:42 +0000
+  Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and nat...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18](https://azure.microsoft.com/updates?id=573048)** — Fri, 25 Sep 2026 18:07:26 Z
+  Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...
+- **[Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028](https://azure.microsoft.com/updates?id=557117)** — Thu, 24 Sep 2026 17:51:23 Z
+  Microsoft will retire several standalone Azure Communication
+Services (ACS) offerings on September 30, 2028. After this date, the affected
+services wi...
+- **[[Launched] Generally Available: Instant Access for VM restore points](https://azure.microsoft.com/updates?id=572573)** — Thu, 24 Sep 2026 16:04:16 Z
+  Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally avai...
+- **[[Launched] Generally Available: Azure Container Apps Sandboxes](https://azure.microsoft.com/updates?id=561262)** — Tue, 02 Jun 2026 19:00:47 Z
+  Teams building agentic applications, multi-tenant platforms,
+development environments, and CI/CD systems have often had to stitch together
+custom infr...
+- **[[Launched] Generally Available: Azure Container Apps Express](https://azure.microsoft.com/updates?id=559242)** — Wed, 13 May 2026 17:30:20 Z
+  Azure Container Apps Express is now generally available. It is the simplest and fastest way to launch and scale powerful applications on Azure, from z...
+
+## GCP Updates
+
+- **[Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1](https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/)** — Fri, 25 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we are committed to delivering the best managed expe...
+- **[Storage Intelligence advisor: Know what changed in your storage estate and act on it](https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/)** — Fri, 25 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The volume of data being generated today brings both opportunity and ...
+- **[Best practices guide for customizing Gemini models via Reinforcement Learning (RL)](https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/)** — Fri, 25 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Reinforcement learning (RL) has been a keystone of modern LLM post-tr...
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 25 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+- **[ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft](https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/)** — Fri, 25 Sep 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
+
+
 # ☁️ Cloud Updates — 2026-09-25 12:35 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,27 +950,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[What happens when information theory accounts for reasoning?](https://research.ibm.com/blog/information-theory-meaning?utm_medium=rss&utm_source=rss)** — Fri, 28 Aug 2026 12:00:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-08-27 18:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
-  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
-
-## Azure Updates
-
-- **[The patch window is collapsing: Why security needs a new control plane](https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/)** — Tue, 25 Aug 2026 16:00:00 +0000
-  <p>Organizations need protection that operates in the gap between discovery and remediation.</p>
-<p>The post <a href="https://azure.microsoft.com/en-u...
-
-## GCP Updates
-
-- **[7 ways to kick-start back to school using Gemini in Workspace](https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/)** — Wed, 26 Aug 2026 20:30:00 +0000
-  A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini
