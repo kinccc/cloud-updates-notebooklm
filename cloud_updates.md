@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-09-27 12:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
+  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
+
+## Azure Updates
+
+- **[Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/)** — Thu, 24 Sep 2026 18:00:00 +0000
+  <p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architec...
+
+
 # ☁️ Cloud Updates — 2026-09-26 12:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -918,35 +935,3 @@ local machine t...
   Earth AI
 - **[GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)** — Wed, 26 Aug 2026 18:42:43 +0000
   Health & Bioscience
-
-
-# ☁️ Cloud Updates — 2026-08-28 19:16 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Gallup scales real-time coaching for thousands with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/)** — Wed, 26 Aug 2026 17:36:23 +0000
-  Gallup transformed 90 years of workplace science into Gallup AI, a generative AI assistant powered by Amazon Bedrock that delivers real-time, personal...
-- **[Closing the AI agent trust gap with graduated autonomy](https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/)** — Wed, 26 Aug 2026 17:33:03 +0000
-  Most teams give AI agents either full access or read-only, leaving value unused or risk unmanaged. This post describes graduated autonomy, an architec...
-
-## Azure Updates
-
-- **[Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs](https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/)** — Thu, 27 Aug 2026 17:00:00 +0000
-  <p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>
-<p>The p...
-- **[The Economics of Agent Optimization: Four ways to lower the cost](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/)** — Wed, 26 Aug 2026 16:00:00 +0000
-  <p>Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes.</p>
-<p>The post <a href="https://az...
-
-## GCP Updates
-
-- **[NOAA and Google Cloud collaborate to advance weather forecasting.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/)** — Mon, 27 Jul 2026 17:00:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" />Google Cloud is now...
-
-## IBM Cloud Updates
-
-- **[What happens when information theory accounts for reasoning?](https://research.ibm.com/blog/information-theory-meaning?utm_medium=rss&utm_source=rss)** — Fri, 28 Aug 2026 12:00:00 GMT
