@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-09-28 14:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/)** — Fri, 25 Sep 2026 19:19:00 GMT
+  <p>Amazon Transcribe now lets you encrypt your custom vocabularies, custom vocabulary filters, and custom language models at rest with a customer-mana...
+- **[Amazon EC2 M8i and M8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/)** — Fri, 25 Sep 2026 18:40:00 GMT
+  <p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in the AWS European Sovereign Cloud (Germany) region. These instances are p...
+- **[Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/)** — Fri, 25 Sep 2026 18:37:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS European Sovereign Cloud (Germany) re...
+- **[Amazon EC2 C8i and C8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/)** — Fri, 25 Sep 2026 18:09:00 GMT
+  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the AWS European Sovereign Cloud (Germany) re...
+- **[AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/)** — Fri, 25 Sep 2026 17:54:00 GMT
+  <p><a href="https://aws.amazon.com/identity/federation/outbound-federation/">AWS Identity and Access Management (IAM) outbound identity federation</a>...
+
+## IBM Cloud Updates
+
+- **[Why are silicon wafers round?](https://research.ibm.com/blog/why-are-silicon-wafers-round?utm_medium=rss&utm_source=rss)** — Mon, 28 Sep 2026 13:15:00 GMT
+  It’s a result of metallurgy, but circular silicon wafers are also the best shape to ensure uniformity in the chip production process.
+
+
 # ☁️ Cloud Updates — 2026-09-27 12:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -887,51 +912,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When databases fail and network paths falter, you still need your mis...
 - **[Using OKF with Knowledge Catalog to serve context for agents](https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/)** — Wed, 26 Aug 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We continue to iterate on the </span><a href="https://cloud.google.co...
-
-
-# ☁️ Cloud Updates — 2026-08-29 12:58 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Batch write and discover records in Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/)** — Fri, 28 Aug 2026 19:31:05 +0000
-  Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, an...
-- **[How Decathlon runs demand forecasting at scale with Chronos-2](https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/)** — Fri, 28 Aug 2026 16:22:30 +0000
-  Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. ...
-- **[Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components](https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/)** — Fri, 28 Aug 2026 16:20:40 +0000
-  Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multipl...
-- **[Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)** — Thu, 27 Aug 2026 23:04:22 +0000
-  Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusabl...
-- **[Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/)** — Thu, 27 Aug 2026 18:36:08 +0000
-  Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data p...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure](https://azure.microsoft.com/updates?id=570120)** — Fri, 28 Aug 2026 20:25:22 Z
-  The Azure Files Container Storage Interface (CSI) driver in Azure
-Kubernetes Service (AKS) now supports workload identity for pod-level
-authentication...
-- **[[Launched] Generally Available: Azure VM Image Builder in sovereign and air-gapped clouds](https://azure.microsoft.com/updates?id=570105)** — Fri, 28 Aug 2026 15:45:32 Z
-  Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secre...
-- **[[Launched] Generally Available: Azure Bastion shareable link expiration](https://azure.microsoft.com/updates?id=570020)** — Wed, 26 Aug 2026 16:57:56 Z
-  Azure Bastion shareable link expiration is now generally
-available. When creating a shareable link, administrators can specify the date
-and time when ...
-- **[[In preview] Public Preview: IPv6 dual-stack support for Azure Bastion](https://azure.microsoft.com/updates?id=570025)** — Wed, 26 Aug 2026 16:56:29 Z
-  Azure Bastion support for IPv4 and IPv6 dual-stack
-configurations is now available in public preview. Customers can configure a
-newly created Bastion ...
-- **[[Launched] Generally Available: Connect to AKS clusters using Azure Bastion](https://azure.microsoft.com/updates?id=570030)** — Wed, 26 Aug 2026 16:55:25 Z
-  Azure Bastion integration with Azure Kubernetes Service is
-now generally available. Customers can establish a secure tunnel from their
-local machine t...
-
-## GCP Updates
-
-- **[Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)** — Thu, 27 Aug 2026 17:37:20 +0000
-  Earth AI
-- **[GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)** — Wed, 26 Aug 2026 18:42:43 +0000
-  Health & Bioscience
