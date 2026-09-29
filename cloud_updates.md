@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-09-29 13:46 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS](https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/)** — Tue, 29 Sep 2026 13:44:23 +0000
+  Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the St...
+
+## Azure Updates
+
+- **[One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/)** — Mon, 28 Sep 2026 21:00:00 +0000
+  <p>Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across governme...
+
+## GCP Updates
+
+- **[Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances](https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/)** — Tue, 29 Sep 2026 05:00:00 +0000
+  <div class="block-paragraph_advanced"><h3>Introduction</h3>
+<p><span style="vertical-align: baseline;">In late September 2026, Mandiant Consulting and...
+- **[Why your startup needs open models alongside frontier APIs](https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/)** — Mon, 28 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every week, I talk with founders who are building at an unbelievable ...
+- **[Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding](https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/)** — Mon, 28 Sep 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you are mapping global forest cover, detecting changes in the...
+- **[Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads](https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/)** — Mon, 28 Sep 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re excited to announce the general availability of our next...
+
+
 # ☁️ Cloud Updates — 2026-09-28 14:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -889,26 +918,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/)** — Thu, 30 Jul 2026 17:00:00 +0000
   <p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather...
-
-
-# ☁️ Cloud Updates — 2026-08-30 12:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
-  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
-
-## GCP Updates
-
-- **[Reimagining work: How Pythian’s internal AI playbook delivers customer ROI](https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/)** — Thu, 27 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When </span><a href="https://www.pythian.com/" rel="noopener" target=...
-- **[Deploy personal AI agents with Cloud Run instances](https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/)** — Thu, 27 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Need a low-cost, high-performance way to run long-lived, stateful wor...
-- **[Simplify your resilience testing strategy with Fault Injection Testing](https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/)** — Wed, 26 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When databases fail and network paths falter, you still need your mis...
-- **[Using OKF with Knowledge Catalog to serve context for agents](https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/)** — Wed, 26 Aug 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We continue to iterate on the </span><a href="https://cloud.google.co...
