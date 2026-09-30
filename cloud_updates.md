@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-09-30 13:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## Azure Updates
+
+- **[Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/)** — Tue, 29 Sep 2026 14:00:02 +0000
+  <p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal wo...
+
+## GCP Updates
+
+- **[How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/)** — Tue, 29 Sep 2026 18:38:27 +0000
+  Algorithms & Theory
+
+
 # ☁️ Cloud Updates — 2026-09-29 13:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -892,29 +914,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Ponder This Challenge - September 2026 - Loeschian Arithmetic Progressions](https://research.ibm.com/blog/ponder-this-september-2026?utm_medium=rss&utm_source=rss)** — Tue, 01 Sep 2026 05:30:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-08-31 14:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/)** — Fri, 28 Aug 2026 22:00:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available ...
-- **[Amazon Bedrock AgentCore Memory now supports fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control)** — Fri, 28 Aug 2026 20:00:00 GMT
-  <p>Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation t...
-- **[Amazon Bedrock AgentCore Memory now supports flexible namespace variables](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces)** — Fri, 28 Aug 2026 20:00:00 GMT
-  <p>Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific ...
-- **[AWS Transform now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/)** — Fri, 28 Aug 2026 19:45:00 GMT
-  <p>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build...
-- **[Amazon EC2 P6-B300 instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions)** — Fri, 28 Aug 2026 17:34:00 GMT
-  <p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo)...
-
-## Azure Updates
-
-- **[Echoverse: Deep, evolving environments for computer-use agents](https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/)** — Thu, 30 Jul 2026 17:00:00 +0000
-  <p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather...
