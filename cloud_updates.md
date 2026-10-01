@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-10-01 14:15 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Running multi-day AZ evacuation drills with ARC Zonal Shift](https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/)** — Wed, 30 Sep 2026 19:01:57 +0000
+  Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill...
+- **[How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/)** — Wed, 30 Sep 2026 18:30:24 +0000
+  MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven p...
+
+## Azure Updates
+
+- **[Forecasting space weather risks on power grids](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/)** — Wed, 30 Sep 2026 16:00:00 +0000
+  <p>Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can...
+
+## GCP Updates
+
+- **[Google is supporting water resilience in Chile.](https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/)** — Wed, 30 Sep 2026 18:34:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp" />Google is investing $...
+
+
 # ☁️ Cloud Updates — 2026-09-30 13:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -880,37 +904,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/)** — Tue, 01 Sep 2026 16:00:00 +0000
   Collage of images created by Google Pics, with the text "Say hello to Google Pics" on top
-
-
-# ☁️ Cloud Updates — 2026-09-01 12:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)** — Mon, 31 Aug 2026 22:47:53 +0000
-  In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisi...
-- **[AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)** — Mon, 31 Aug 2026 19:50:12 +0000
-  We're excited to share that AWS has been recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025. In this evaluation of 13 ...
-- **[Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)** — Mon, 31 Aug 2026 19:18:09 +0000
-  AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your ...
-- **[Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/)** — Mon, 31 Aug 2026 19:08:45 +0000
-  This post builds an enterprise agentic retrieval solution on the Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore. An agent reasons,...
-- **[Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/)** — Mon, 31 Aug 2026 18:56:12 +0000
-  Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immedia...
-
-## Azure Updates
-
-- **[GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models](https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/)** — Mon, 31 Aug 2026 16:00:00 +0000
-  <p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong p...
-
-## GCP Updates
-
-- **[TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)** — Mon, 31 Aug 2026 17:19:40 +0000
-  Data Management
-
-## IBM Cloud Updates
-
-- **[Ponder This Challenge - September 2026 - Loeschian Arithmetic Progressions](https://research.ibm.com/blog/ponder-this-september-2026?utm_medium=rss&utm_source=rss)** — Tue, 01 Sep 2026 05:30:00 GMT
