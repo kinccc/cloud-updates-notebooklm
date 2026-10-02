@@ -1,3 +1,45 @@
+# ☁️ Cloud Updates — 2026-10-02 13:37 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI](https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/)** — Thu, 01 Oct 2026 15:37:06 +0000
+  Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibil...
+
+## Azure Updates
+
+- **[Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/)** — Wed, 30 Sep 2026 15:00:00 +0000
+  <p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardwa...
+- **[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)** — Tue, 29 Sep 2026 16:40:06 +0000
+  <p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and d...
+- **[FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/)** — Tue, 29 Sep 2026 06:30:00 +0000
+  <p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>
+<p...
+- **[Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/)** — Mon, 28 Sep 2026 15:00:00 +0000
+  <p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>...
+
+## GCP Updates
+
+- **[Enabling Cloud Storage end-to-end checksums for improved data integrity and durability](https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/)** — Thu, 01 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we know that you count on us to maintain the durabil...
+- **[Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark](https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/)** — Thu, 01 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a data-driven world, PayPal’s ability to deliver timely and action...
+- **[Democratizing Managed Lustre with lower cost and frictionless development](https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/)** — Thu, 01 Oct 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">This is the first of a two-part series exploring how Google Cloud is ...
+- **[The future of browser-based security: Leveraging browser data for proactive defense](https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/)** — Thu, 01 Oct 2026 09:02:00 +0000
+  <div class="block-paragraph"><p>The browser has changed significantly. Rather than just a window to the web, it serves as an AI workspace and central ...
+- **[Introducing the Server Side Cloud Swift SDK](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/)** — Thu, 01 Oct 2026 04:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, <a href="https://swift.org/" rel="noopener nofollow norefe...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - October 2026 - The Ultimate Ultimate Tic-Tac-Toe Game](https://research.ibm.com/blog/ponder-this-october-2026?utm_medium=rss&utm_source=rss)** — Thu, 01 Oct 2026 16:30:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-10-01 14:15 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -879,28 +921,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM Quantum Nighthawk r2—more circuits, faster](https://research.ibm.com/blog/nighthawk-r2?utm_medium=rss&utm_source=rss)** — Mon, 31 Aug 2026 14:30:00 GMT
   High-speed, independent qubit reset boosts circuit throughput 25x over Heron while enabling accurate observable estimation on circuits with 7,500+ gat...
-
-
-# ☁️ Cloud Updates — 2026-09-02 11:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[True Data-Centricity](https://aws.amazon.com/blogs/enterprise-strategy/true-data-centricity/)** — Fri, 27 Feb 2026 18:22:23 +0000
-  We’ve heard that companies must become data-driven. They must treat data as an asset, govern it, improve its quality, and make it easily available acr...
-
-## Azure Updates
-
-- **[Introducing Azure Multicloud Interconnect for AWS](https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/)** — Mon, 31 Aug 2026 18:00:00 +0000
-  <p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and...
-- **[Inside Microsoft’s marketing team: Scaling expertise with AI](https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/)** — Mon, 31 Aug 2026 16:00:00 +0000
-  <p>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.</p>
-<p>The post <a href="http...
-
-## GCP Updates
-
-- **[Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/)** — Tue, 01 Sep 2026 16:00:00 +0000
-  Collage of images created by Google Pics, with the text "Say hello to Google Pics" on top
