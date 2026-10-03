@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-10-03 12:15 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP](https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/)** — Fri, 02 Oct 2026 17:57:15 +0000
+  This post provides step-by-step procedures to deploy Oracle Database on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP as...
+- **[Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP](https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/)** — Fri, 02 Oct 2026 17:57:01 +0000
+  Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. ...
+- **[Deploy open source Regional availability tools in your VPC](https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/)** — Fri, 02 Oct 2026 17:50:56 +0000
+  Deploy AWS Regional availability data as infrastructure you own. Capability Insights for AWS runs a self-hosted dashboard in your VPC that auto-refres...
+
+## Azure Updates
+
+- **[[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters](https://azure.microsoft.com/updates?id=571504)** — Fri, 02 Oct 2026 17:35:21 Z
+  MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer Postgre...
+- **[Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029](https://azure.microsoft.com/updates?id=569592)** — Thu, 01 Oct 2026 17:02:55 Z
+  On October 31, 2029, DCsv3 and DCdsv3-series
+Azure Linux, Windows and Dedicated Host virtual
+machines will be retired. After that date, they will no l...
+- **[[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines](https://azure.microsoft.com/updates?id=571894)** — Wed, 30 Sep 2026 21:13:13 Z
+  The public preview of Microsoft-managed performance monitoring for SQL Server on Azure Virtual Machines is now available. You can now monitor SQL Serv...
+- **[Retirement: NVv3-series Azure Virtual Machines](https://azure.microsoft.com/updates?id=573414)** — Wed, 30 Sep 2026 18:26:47 Z
+  On September 30, 2026, Microsoft Azure retired the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, a...
+
+## GCP Updates
+
+- **[Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/)** — Fri, 02 Oct 2026 14:57:41 +0000
+  Mobile Systems
+
+
 # ☁️ Cloud Updates — 2026-10-02 13:37 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -892,32 +926,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
   Text reading: "Do more with your voice in Workspace"
-
-
-# ☁️ Cloud Updates — 2026-09-03 11:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS](https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/)** — Tue, 01 Sep 2026 14:01:10 +0000
-  Learn how to build a hybrid cloud orchestration solution that manages distributed on-premises infrastructure at scale using AWS serverless technologie...
-- **[MCP went stateless: Is your AWS MCP server deployment well-architected?](https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/)** — Tue, 01 Sep 2026 13:09:19 +0000
-  On July 28, 2026, MCP made its protocol core stateless, removing the initialize handshake and session header. This post maps the MCP 2026-07-28 specif...
-
-## Azure Updates
-
-- **[The Economics of Agent Optimization: Context engineering for enterprise AI agents](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/)** — Wed, 02 Sep 2026 16:00:00 +0000
-  <p>AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge...
-
-## GCP Updates
-
-- **[Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/)** — Tue, 01 Sep 2026 18:40:00 +0000
-  Climate & Sustainability
-
-## IBM Cloud Updates
-
-- **[IBM Quantum Nighthawk r2—more circuits, faster](https://research.ibm.com/blog/nighthawk-r2?utm_medium=rss&utm_source=rss)** — Mon, 31 Aug 2026 14:30:00 GMT
-  High-speed, independent qubit reset boosts circuit throughput 25x over Heron while enabling accurate observable estimation on circuits with 7,500+ gat...
