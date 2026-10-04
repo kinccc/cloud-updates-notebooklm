@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-10-04 13:03 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/)** — Fri, 02 Oct 2026 15:48:26 +0000
+  The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably comple...
+- **[Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/)** — Fri, 02 Oct 2026 15:46:05 +0000
+  Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Deskto...
+- **[Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)** — Fri, 02 Oct 2026 15:44:20 +0000
+  Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this ...
+- **[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)** — Thu, 01 Oct 2026 22:06:14 +0000
+  Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end....
+- **[Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)** — Thu, 01 Oct 2026 19:49:06 +0000
+  With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. E...
+
+## GCP Updates
+
+- **[AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer](https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/)** — Fri, 02 Oct 2026 19:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;"><strong>Editor’s note</strong>: AI21 Labs is a le...
+- **[Announcing Spanner queues: Transactional messaging for agentic workloads and beyond](https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/)** — Fri, 02 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents don't just answer queries — they can autonomously issue ref...
+- **[GKE CPU startup boost: Accelerate app starts without over-provisioning](https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/)** — Fri, 02 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you’re launching microservices in response to sudden traffic ...
+- **[How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey](https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/)** — Fri, 02 Oct 2026 07:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Enterprise AI agents need persistent memory to ex...
+
+
 # ☁️ Cloud Updates — 2026-10-03 12:15 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -896,33 +927,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)** — Tue, 04 Aug 2026 13:00:00 +0000
   July AI recap header
-
-
-# ☁️ Cloud Updates — 2026-09-04 11:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/)** — Thu, 03 Sep 2026 16:16:28 +0000
-  Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two...
-- **[Migrate agentic workloads to Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/)** — Thu, 03 Sep 2026 16:14:12 +0000
-  An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedroc...
-- **[Integrating Outlook with Amazon Quick for AI-powered email automation](https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/)** — Thu, 03 Sep 2026 16:11:57 +0000
-  Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through th...
-- **[Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/)** — Thu, 03 Sep 2026 16:10:39 +0000
-  Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to rou...
-- **[Best practices for building agentic automations with Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/)** — Thu, 03 Sep 2026 16:08:28 +0000
-  Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, d...
-
-## Azure Updates
-
-- **[Orchard: An open framework for scalable agentic AI](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/)** — Mon, 03 Aug 2026 16:00:00 +0000
-  <p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while suppo...
-
-## GCP Updates
-
-- **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
-  Text reading: "Do more with your voice in Workspace"
