@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-10-05 15:35 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments)** — Fri, 02 Oct 2026 20:18:00 GMT
+  <p><a href="https://aws.amazon.com/ecs/" rel="noopener noreferrer" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS) now supports buil...
+- **[AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management)** — Fri, 02 Oct 2026 18:09:00 GMT
+  <p>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS serv...
+- **[Amazon Aurora DSQL now supports partial indexes](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/)** — Fri, 02 Oct 2026 17:30:00 GMT
+  <p><a href="https://aws.amazon.com/rds/aurora/dsql/">Amazon Aurora DSQL</a> now lets you build an index over a specific subset of a table, storing onl...
+- **[Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37)** — Fri, 02 Oct 2026 17:30:00 GMT
+  <p>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href="https://aws.ama...
+- **[AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/)** — Fri, 02 Oct 2026 16:30:00 GMT
+  <p>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program. Eligible non-Brazilian independent softw...
+
+## GCP Updates
+
+- **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
+  Text reading: "Do more with your voice in Workspace"
+
+
 # ☁️ Cloud Updates — 2026-10-04 13:03 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -892,38 +917,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   General Science
 - **[A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)** — Thu, 03 Sep 2026 16:00:03 +0000
   General Science
-
-
-# ☁️ Cloud Updates — 2026-09-05 11:08 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)** — Fri, 04 Sep 2026 21:45:52 +0000
-  Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a sing...
-- **[Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)** — Fri, 04 Sep 2026 17:20:04 +0000
-  Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for...
-- **[Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)** — Fri, 04 Sep 2026 16:16:00 +0000
-  Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data ge...
-- **[Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/)** — Fri, 04 Sep 2026 16:12:17 +0000
-  HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPo...
-- **[Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract](https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/)** — Fri, 04 Sep 2026 16:08:10 +0000
-  Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract...
-
-## Azure Updates
-
-- **[Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment](https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/)** — Thu, 03 Sep 2026 19:00:00 +0000
-  <p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working a...
-- **[GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/)** — Thu, 03 Sep 2026 18:15:00 +0000
-  <p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expan...
-- **[How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop](https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/)** — Thu, 03 Sep 2026 15:00:00 +0000
-  <p>Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.</p>
-<p...
-
-## GCP Updates
-
-- **[The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/)** — Tue, 04 Aug 2026 13:00:00 +0000
-  July AI recap header
