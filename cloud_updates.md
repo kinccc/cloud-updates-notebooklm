@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-10-06 13:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework](https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/)** — Mon, 05 Oct 2026 17:54:56 +0000
+  October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens pro...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure HorizonDB expands to additional regions](https://azure.microsoft.com/updates?id=572940)** — Mon, 05 Oct 2026 18:51:57 Z
+  Azure HorizonDB is expanding to additional Azure regions, giving you greater flexibility to deploy PostgreSQL workloads closer to your applications an...
+- **[[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu](https://azure.microsoft.com/updates?id=571499)** — Mon, 05 Oct 2026 18:12:09 Z
+  SQL Server on Azure Virtual Machines is now available in Azure Bleu, enabling you to deploy and manage SQL Server workloads in France's sovereign clou...
+- **[Announcing: Table discovery in OneLake Catalog search](https://azure.microsoft.com/updates?id=573875)** — Mon, 05 Oct 2026 17:55:23 Z
+  Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual result...
+- **[[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)](https://azure.microsoft.com/updates?id=573425)** — Mon, 05 Oct 2026 17:44:31 Z
+  Azure Backup for PostgreSQL flexible server and elastic cluster (v2) preview brings enterprise-grade long-term retention to PostgreSQL. Backups are ta...
+- **[[In preview] Public Preview: IPv6 Support for Application Gateway WAF](https://azure.microsoft.com/updates?id=573861)** — Mon, 05 Oct 2026 17:41:41 Z
+  Announcing the Public Preview of IPv6 support for Application Gateway WAF.Application Gateway Web Application Firewall (WAF) now supports inspection a...
+
+## GCP Updates
+
+- **[Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)** — Mon, 05 Oct 2026 21:08:31 +0000
+  Education Innovation
+
+## IBM Cloud Updates
+
+- **[Directed execution: same performance, more control](https://research.ibm.com/blog/directed-execution?utm_medium=rss&utm_source=rss)** — Mon, 05 Oct 2026 16:30:00 GMT
+  See, customize, and extend how your circuits use the error mitigation and correction methods researchers are exploring today on IBM quantum hardware
+
+
 # ☁️ Cloud Updates — 2026-10-05 15:35 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -885,35 +920,3 @@ policy associations in public preview. This gives you more ...
   <div class="block-paragraph_advanced"><h3>August 31 - September 4</h3>
 <ul>
 <li><strong style="vertical-align: baseline;">Stateful processing is avail...
-
-
-# ☁️ Cloud Updates — 2026-09-06 11:31 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/)** — Fri, 04 Sep 2026 21:29:00 GMT
-  <p>AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, ...
-- **[Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)** — Fri, 04 Sep 2026 21:14:00 GMT
-  <p>AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) ...
-- **[Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)** — Fri, 04 Sep 2026 21:01:00 GMT
-  <p>AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service tha...
-- **[Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)** — Fri, 04 Sep 2026 19:26:00 GMT
-  <p>Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsup...
-- **[Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)** — Fri, 04 Sep 2026 17:00:00 GMT
-  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS)&nbsp;now supports Early Success Criteria fo...
-
-## Azure Updates
-
-- **[GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/)** — Thu, 03 Sep 2026 18:15:00 +0000
-  <p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expan...
-
-## GCP Updates
-
-- **[Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)** — Thu, 03 Sep 2026 18:20:31 +0000
-  General Science
-- **[A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)** — Thu, 03 Sep 2026 16:00:03 +0000
-  General Science
