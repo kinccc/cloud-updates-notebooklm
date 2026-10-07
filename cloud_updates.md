@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-10-07 14:14 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)** — Tue, 06 Oct 2026 19:19:15 +0000
+  Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenCla...
+- **[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/)** — Tue, 06 Oct 2026 15:53:28 +0000
+  AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impa...
+- **[Best practices for Amazon SageMaker HyperPod administration and governance](https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/)** — Tue, 06 Oct 2026 15:50:23 +0000
+  Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platfor...
+- **[Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/)** — Tue, 06 Oct 2026 15:47:02 +0000
+  Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly ...
+- **[Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/)** — Tue, 06 Oct 2026 15:45:42 +0000
+  Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bas...
+
+## Azure Updates
+
+- **[What AI gets wrong and what failure teaches us](https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/)** — Tue, 06 Oct 2026 16:19:06 +0000
+  <p>Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to h...
+
+## GCP Updates
+
+- **[Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/)** — Tue, 06 Oct 2026 15:05:11 +0000
+  Earth AI
+
+## IBM Cloud Updates
+
+- **[Qiskit beyond Python: Fortran, C++, and Julia](https://research.ibm.com/blog/qiskit-beyond-python?utm_medium=rss&utm_source=rss)** — Tue, 06 Oct 2026 04:00:00 GMT
+  Qiskit’s C API connects the SDK’s Rust core to the languages of HPC and scientific computing, so you can build and run circuits natively—no Python req...
+
+
 # ☁️ Cloud Updates — 2026-10-06 13:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -880,43 +915,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
 > ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
-
-
-
-# ☁️ Cloud Updates — 2026-09-07 13:18 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## Azure Updates
-
-- **[[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions](https://azure.microsoft.com/updates?id=570557)** — Thu, 03 Sep 2026 17:17:08 Z
-  Azure
-Virtual Network Manager IP address management is now generally available in
-additional regions: US Gov Virginia, US Gov Texas and US Gov Arizona...
-- **[[Launched] Generally Available: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers.](https://azure.microsoft.com/updates?id=565103)** — Mon, 08 Jun 2026 17:15:43 Z
-  Azure Site Recovery
-now supports replication and disaster recovery for Linux Azure Virtual Machines
-running on NVMe-enabled Generation 2 VM families, ...
-- **[[In preview] Public Preview: Azure Front Door profile and route level WAF policies](https://azure.microsoft.com/updates?id=569804)** — Wed, 02 Sep 2026 17:00:51 Z
-  Azure Front
-Door’s Web Application Firewall (WAF) now supports profile and route level WAF
-policy associations in public preview. This gives you more ...
-- **[[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL](https://azure.microsoft.com/updates?id=569653)** — Wed, 02 Sep 2026 16:59:15 Z
-  We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database...
-- **[[Launched] Generally Available: Microsoft Defender for Cloud support for Azure Container Apps (Serverless Containers Posture)](https://azure.microsoft.com/updates?id=570282)** — Tue, 01 Sep 2026 22:34:43 Z
-  Customers can now bring Azure Container Apps environments into Microsoft Defender for Cloud’s Serverless Containers Posture experience, helping securi...
-
-## GCP Updates
-
-- **[How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark](https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/)** — Fri, 04 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As a global media and technology company connecting hundreds of milli...
-- **[Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption](https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/)** — Fri, 04 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When Google's Finance Engineering team needed to modernize their lega...
-- **[Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation](https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/)** — Fri, 04 Sep 2026 15:36:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Moving Large Language Models (LLMs) from experimental prototypes into...
-- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Thu, 03 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3>August 31 - September 4</h3>
-<ul>
-<li><strong style="vertical-align: baseline;">Stateful processing is avail...
