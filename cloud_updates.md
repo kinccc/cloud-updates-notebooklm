@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-10-08 14:23 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)** — Wed, 07 Oct 2026 18:52:10 +0000
+  Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the...
+- **[Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)** — Wed, 07 Oct 2026 18:34:44 +0000
+  Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Lea...
+- **[Beyond hours saved: Building the business case for agentic automation](https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/)** — Wed, 07 Oct 2026 15:50:00 +0000
+  The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the ful...
+- **[How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/)** — Wed, 07 Oct 2026 15:48:46 +0000
+  Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. ...
+- **[Automate remediation post AWS DevOps Agent investigation](https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/)** — Wed, 07 Oct 2026 15:46:49 +0000
+  AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows ho...
+
+## Azure Updates
+
+- **[Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/)** — Wed, 07 Oct 2026 16:00:00 +0000
+  <p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex framewor...
+
+## GCP Updates
+
+- **[Google Cloud introduces the Gemini agent.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/)** — Thu, 08 Oct 2026 12:05:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" />Google Cloud’s new Gem...
+
+## IBM Cloud Updates
+
+- **[What's new at IBM Quantum Q3 2026](https://research.ibm.com/blog/whats-new-q3-2026?utm_medium=rss&utm_source=rss)** — Wed, 07 Oct 2026 04:00:00 GMT
+  Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
+
+
 # ☁️ Cloud Updates — 2026-10-07 14:14 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -909,9 +944,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Finalist recognition for one of supercomputing’s top prizes arrives as researchers report new progress in automated quantum-HPC chemistry workflows.
 - **[How llm-d makes the most of the hardware you already have](https://research.ibm.com/blog/running-open-models-on-h100-gpus-with-llmd?utm_medium=rss&utm_source=rss)** — Tue, 08 Sep 2026 12:00:00 GMT
   IBM Research and Red Hat deployed a 753B open model on H100 GPUs, serving thousands of concurrent coding agents at 5-10x lower cost than commercial AP...
-
-
-# ☁️ Cloud Updates — 2026-09-08 11:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest skipped: Missing API Key or no new data to summarize.
