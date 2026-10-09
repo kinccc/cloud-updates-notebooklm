@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-10-09 14:09 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)** — Thu, 08 Oct 2026 18:33:29 +0000
+  Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. Se...
+- **[Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)** — Thu, 08 Oct 2026 16:20:04 +0000
+  A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authe...
+
+## Azure Updates
+
+- **[AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/)** — Wed, 07 Oct 2026 15:00:00 +0000
+  <p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and...
+- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/)** — Tue, 06 Oct 2026 21:00:00 +0000
+  <p>We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.</p>
+<p>The p...
+
+## GCP Updates
+
+- **[Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)** — Wed, 07 Oct 2026 20:19:57 +0000
+  
+
+
 # ☁️ Cloud Updates — 2026-10-08 14:23 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -907,40 +934,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Switzerland's first IBM Quantum System Two](https://research.ibm.com/blog/swiss-innovation-hub?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 07:00:00 GMT
   Lockheed Martin and IBM are launching a Swiss quantum innovation hub at ETH Zurich to advance research, industry collaboration, and workforce developm...
-
-
-# ☁️ Cloud Updates — 2026-09-09 12:10 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
-  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North](https://azure.microsoft.com/updates?id=570919)** — Tue, 08 Sep 2026 17:35:32 Z
-  Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provi...
-- **[[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework](https://azure.microsoft.com/updates?id=570881)** — Tue, 08 Sep 2026 17:18:38 Z
-  The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure De...
-
-## GCP Updates
-
-- **[Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit](https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/)** — Tue, 08 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Enterprise agent adoption isn’t one-size-fits-all. While many teams w...
-- **[Agentic analytics with the Data Agent Kit](https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/)** — Tue, 08 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine your director sends you a chat message Monday morning: </span...
-- **[How KDDI built Buffmee, a faster, reliable consumer RAG app](https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/)** — Tue, 08 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When building consumer-facing generative AI applications,  balancing ...
-- **[GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI](https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/)** — Tue, 08 Sep 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Executive Summary</span><strong style="vertical-align: baseline;"> <...
-
-## IBM Cloud Updates
-
-- **[Cleveland Clinic, RIKEN, IBM named Gordon Bell finalists](https://research.ibm.com/blog/gordon-bell-finalists-2026?utm_medium=rss&utm_source=rss)** — Wed, 09 Sep 2026 04:00:00 GMT
-  Finalist recognition for one of supercomputing’s top prizes arrives as researchers report new progress in automated quantum-HPC chemistry workflows.
-- **[How llm-d makes the most of the hardware you already have](https://research.ibm.com/blog/running-open-models-on-h100-gpus-with-llmd?utm_medium=rss&utm_source=rss)** — Tue, 08 Sep 2026 12:00:00 GMT
-  IBM Research and Red Hat deployed a 753B open model on H100 GPUs, serving thousands of concurrent coding agents at 5-10x lower cost than commercial AP...
