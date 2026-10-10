@@ -1,3 +1,49 @@
+# ☁️ Cloud Updates — 2026-10-10 13:18 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+## Azure Updates
+
+- **[Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://azure.microsoft.com/updates?id=570313)** — Fri, 09 Oct 2026 20:27:17 Z
+  The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...
+- **[[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS](https://azure.microsoft.com/updates?id=574430)** — Thu, 08 Oct 2026 22:51:01 Z
+  AKS will now provision and manage a StandardV2 NAT Gateway
+for clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT...
+- **[[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3](https://azure.microsoft.com/updates?id=573691)** — Thu, 08 Oct 2026 19:56:31 Z
+  Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.
+- **[Retirement: Microsoft Dev Box will be retired on September 18, 2028](https://azure.microsoft.com/updates?id=567933)** — Thu, 08 Oct 2026 18:23:25 Z
+  Microsoft Dev Box will
+retire on September 18, 2028. Beginning on September 14, 2026,
+Microsoft Dev Box will begin the closing-down process. After ret...
+- **[Retirement: Azure Deployment Environments will be retired on February 22, 2027](https://azure.microsoft.com/updates?id=567934)** — Thu, 08 Oct 2026 18:20:34 Z
+  Azure Deployment
+Environments will retire on February 22, 2027. Beginning on September
+14, 2026, Azure Deployment Environments will begin the closing-...
+
+## GCP Updates
+
+- **[Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery](https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/)** — Fri, 09 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Alteryx One Live Query and Google Cloud BigQuery redefine how enterpr...
+- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Fri, 09 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><h3>October 5 - October 9</h3>
+<ul>
+<li style="vertical-align: baseline;">
+<p><strong style="vertical-align: bas...
+- **[Innovation in Ireland: How Irish brands scale with Gemini Enterprise](https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/)** — Thu, 08 Oct 2026 12:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In recent decades, Ireland has grown into a vibrant hub for global te...
+- **[Empowering SMBs to do more with Gemini](https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/)** — Thu, 08 Oct 2026 12:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we </span><a href="https://cloud.google.com/blog/products/ai-m...
+- **[Welcome to Gemini at Work 2026: Introducing the Gemini agent](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/)** — Thu, 08 Oct 2026 12:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Editor’s note: This article is adapted from Thoma...
+
+
 # ☁️ Cloud Updates — 2026-10-09 14:09 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -897,40 +943,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Introducing IBM and NASA's new foundation model for the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 12:30:00 GMT
   The multi-modal model could help astronauts navigate craters, investigate ancient lava, and search for ice, as the US plans for a long-term lunar pres...
-
-
-# ☁️ Cloud Updates — 2026-09-10 12:04 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Testing application resilience with Amazon SQS and AWS Fault Injection Service](https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/)** — Wed, 09 Sep 2026 21:33:59 +0000
-  Learn how to use AWS Fault Injection Service and AWS Systems Manager Automation to run progressive chaos experiments against Amazon SQS queues. Valida...
-- **[Validating multi-Region DR for Terraform Enterprise with AWS FIS](https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/)** — Wed, 09 Sep 2026 21:05:02 +0000
-  Learn how AWS, HashiCorp, and Athenahealth designed and chaos-tested a multi-Region disaster recovery strategy for Terraform Enterprise on AWS. This p...
-
-## Azure Updates
-
-- **[Beyond the benchmark: How an adaptive approach drives scientific discovery](https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/)** — Tue, 08 Sep 2026 20:00:00 +0000
-  <p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex...
-
-## GCP Updates
-
-- **[Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available](https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/)** — Wed, 09 Sep 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are thrilled to announce the general availability of the </span><a...
-- **[Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants](https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/)** — Wed, 09 Sep 2026 18:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">We are excited to share that Gartner has named Google a Leader in its...
-- **[Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL](https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/)** — Wed, 09 Sep 2026 16:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">So, you’ve planned your database modernization journey. You’ve set up...
-- **[Spanner: Removing cumulative mutation limits for DML transactions](https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/)** — Wed, 09 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Spanner is Google Cloud’s no-compromise operational database that giv...
-- **[How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts](https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/)** — Wed, 09 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For the millions of fervent fans of the </span><a href="https://www.i...
-
-## IBM Cloud Updates
-
-- **[Switzerland's first IBM Quantum System Two](https://research.ibm.com/blog/swiss-innovation-hub?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 07:00:00 GMT
-  Lockheed Martin and IBM are launching a Swiss quantum innovation hub at ETH Zurich to advance research, industry collaboration, and workforce developm...
