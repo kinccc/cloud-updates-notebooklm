@@ -1,3 +1,17 @@
+# ☁️ Cloud Updates — 2026-10-11 13:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/)** — Fri, 09 Oct 2026 15:38:39 +0000
+  A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverle...
+- **[How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)** — Fri, 09 Oct 2026 15:35:02 +0000
+  Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural p...
+
+
 # ☁️ Cloud Updates — 2026-10-10 13:18 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -910,36 +924,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph"><p>On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Googl...
 - **[Introducing the Google Cloud Developer Plugin for AI Coding Agents](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/)** — Thu, 10 Sep 2026 19:53:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agent skills fit well alongside documentation and remote MCP servers ...
-
-
-# ☁️ Cloud Updates — 2026-09-11 12:02 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building resilient real-time streaming workers with Amazon DynamoDB leases](https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/)** — Thu, 10 Sep 2026 16:14:22 +0000
-  Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet...
-
-## Azure Updates
-
-- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/)** — Thu, 10 Sep 2026 21:00:00 +0000
-  <p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps h...
-- **[The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI](https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/)** — Thu, 10 Sep 2026 17:00:00 +0000
-  <p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof poi...
-- **[The future of infrastructure resiliency starts with modernization](https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/)** — Thu, 10 Sep 2026 16:00:00 +0000
-  <p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical ...
-- **[Two zones or three? A design framework for zone-resilient Azure workloads](https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/)** — Wed, 09 Sep 2026 18:00:00 +0000
-  <p>Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each comp...
-
-## GCP Updates
-
-- **[ToolGrad: Efficient tool-use dataset generation with textual "gradients"](https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/)** — Thu, 10 Sep 2026 22:50:22 +0000
-  Machine Intelligence
-
-## IBM Cloud Updates
-
-- **[Introducing IBM and NASA's new foundation model for the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model?utm_medium=rss&utm_source=rss)** — Thu, 10 Sep 2026 12:30:00 GMT
-  The multi-modal model could help astronauts navigate craters, investigate ancient lava, and search for ice, as the US plans for a long-term lunar pres...
