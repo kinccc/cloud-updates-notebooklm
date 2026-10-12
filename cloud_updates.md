@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-10-12 16:31 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/)** — Mon, 12 Oct 2026 14:34:57 +0000
+  This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. ...
+
+## Azure Updates
+
+- **[Simulating student learning for better AI tutoring](https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/)** — Mon, 12 Oct 2026 16:00:00 +0000
+  <p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may ...
+
+## GCP Updates
+
+- **[Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery](https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/)** — Mon, 12 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">Overview</strong></h3>
+<p><span style="vertical-align: baseline;">...
+- **[Trusted Data Apps for the Agentic Data Cloud, powered by Looker](https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/)** — Mon, 12 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As a business intelligence user, this probably sounds familiar: Most ...
+- **[10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”](https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/)** — Mon, 12 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><div>
+<div class="Draftail-block--unstyled">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault...
+- **[Agentic data science with the Data Agent Kit](https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/)** — Mon, 12 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine your compliance team notices that payments are taking longer ...
+
+## IBM Cloud Updates
+
+- **[How distributed inference keeps large AI models moving](https://research.ibm.com/blog/distributed-inference?utm_medium=rss&utm_source=rss)** — Mon, 12 Oct 2026 04:00:00 GMT
+  Distributed inference serving is an air traffic control tower for AI traffic, and agentic workflows make it more necessary than ever.
+
+
 # ☁️ Cloud Updates — 2026-10-11 13:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -900,27 +936,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/)** — Wed, 12 Aug 2026 16:00:00 +0000
   <p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities t...
-
-
-# ☁️ Cloud Updates — 2026-09-12 11:29 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[From zero-shot forecast to purchase order with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/)** — Fri, 11 Sep 2026 14:08:01 +0000
-  Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated p...
-
-## Azure Updates
-
-- **[Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement](https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/)** — Tue, 11 Aug 2026 16:00:00 +0000
-  <p> Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, an...
-
-## GCP Updates
-
-- **[3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference](https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/)** — Fri, 11 Sep 2026 09:00:00 +0000
-  <div class="block-paragraph"><p>On Tuesday, September 8, Thomas Kurian participated in the Goldman Sachs Tech Conference, providing an update on Googl...
-- **[Introducing the Google Cloud Developer Plugin for AI Coding Agents](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/)** — Thu, 10 Sep 2026 19:53:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agent skills fit well alongside documentation and remote MCP servers ...
