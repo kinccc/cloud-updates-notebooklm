@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-10-13 14:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS](https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/)** — Tue, 13 Oct 2026 14:32:42 +0000
+  Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses ma...
+- **[Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way](https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/)** — Tue, 13 Oct 2026 14:23:33 +0000
+  In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit whi...
+
+## Azure Updates
+
+- **[Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)** — Mon, 12 Oct 2026 13:00:00 +0000
+  <p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>
+<p>The post <a href="https://azure.microsoft.com/e...
+
+## GCP Updates
+
+- **[One Agent Development Kit, five languages](https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/)** — Tue, 13 Oct 2026 12:22:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When we talk about agents, that doesn't necessarily mean we're talkin...
+
+## IBM Cloud Updates
+
+- **[Scaling AI-driven chip design with open agent factories](https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 12:00:00 GMT
+  Open models and llm-d enabled IBM Research to explore quantum error correction hardware at 11.5× lower inference cost than an all-proprietary configur...
+
+
 # ☁️ Cloud Updates — 2026-10-12 16:31 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -911,28 +941,3 @@ available through a new site-scoped certificate model. Each functio...
 
 - **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
   The video shows Sheets canvas in action.
-
-
-# ☁️ Cloud Updates — 2026-09-13 12:33 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)** — Fri, 11 Sep 2026 18:26:38 +0000
-  Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedro...
-- **[Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/)** — Fri, 11 Sep 2026 18:24:38 +0000
-  Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarki...
-- **[Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/)** — Fri, 11 Sep 2026 18:23:17 +0000
-  Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the ...
-- **[Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)** — Thu, 10 Sep 2026 21:58:09 +0000
-  Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance...
-- **[Reduce inference cold starts on Amazon SageMaker HyperPod with model caching](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)** — Thu, 10 Sep 2026 21:37:49 +0000
-  Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read...
-
-## Azure Updates
-
-- **[MindTopo reveals VLMs’ spatial reasoning abilities](https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/)** — Wed, 12 Aug 2026 16:00:00 +0000
-  <p>A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and  highlights new opportunities t...
