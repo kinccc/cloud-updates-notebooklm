@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-10-14 12:40 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Scope workloads and share resilience policies with AWS Resilience Hub](https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/)** — Tue, 13 Oct 2026 21:30:10 +0000
+  The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environ...
+
+## GCP Updates
+
+- **[We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)** — Wed, 14 Oct 2026 08:00:00 +0000
+  Photo of Grand Canal Dock, Dublin City Centre, Ireland
+
+## IBM Cloud Updates
+
+- **[Preparing chip designers for the nanostack era](https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 16:00:00 GMT
+  IBM is releasing a process design kit for our groundbreaking 0.7-nanometer transistor architecture.
+
+
 # ☁️ Cloud Updates — 2026-10-13 14:49 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -901,43 +923,3 @@ evolution of HTTP and uses QUIC to improve con...
 
 - **[DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/)** — Mon, 14 Sep 2026 16:00:00 +0000
   Animation of the text "{DevFest} 2026 Join us! Google Developer Groups" with a globe icon, asterisk icon, < icon, and > icon
-
-
-# ☁️ Cloud Updates — 2026-09-14 13:41 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/)** — Sat, 12 Sep 2026 08:00:00 GMT
-  <p>AWS Elemental MediaLive now supports Video Aligned Locking, a new feature to synchronize video pipelines without requiring timecode from the source...
-- **[Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/)** — Fri, 11 Sep 2026 18:35:00 GMT
-  <p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, p...
-- **[Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/)** — Fri, 11 Sep 2026 18:25:00 GMT
-  <p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster node...
-- **[AWS Lambda now supports direct read configuration for Amazon S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/)** — Fri, 11 Sep 2026 17:00:00 GMT
-  <p>AWS Lambda now supports <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how">direct r...
-- **[Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/)** — Fri, 11 Sep 2026 15:13:00 GMT
-  <p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to crea...
-
-## Azure Updates
-
-- **[Retirement: Azure Linux with OS Guard in Azure Kubernetes Service](https://azure.microsoft.com/updates?id=571257)** — Fri, 11 Sep 2026 18:08:28 Z
-  Support for Azure Linux with OS Guard in Azure Kubernetes Service will end on December 10, 2026. Azure Container Linux is the replacement for Azure Li...
-- **[[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)](https://azure.microsoft.com/updates?id=570910)** — Fri, 11 Sep 2026 15:58:56 Z
-  Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data fr...
-- **[[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption](https://azure.microsoft.com/updates?id=570940)** — Thu, 10 Sep 2026 16:12:49 Z
-  Azure
-Functions Flex Consumption support for TLS/SSL certificates is now generally
-available through a new site-scoped certificate model. Each functio...
-- **[[Launched] Generally Available: Azure Copilot Troubleshooting Agent](https://azure.microsoft.com/updates?id=570980)** — Thu, 10 Sep 2026 15:25:52 Z
-  Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps custo...
-- **[[Launched] Generally Available: User-bound user delegation SAS for Azure Storage](https://azure.microsoft.com/updates?id=569241)** — Wed, 09 Sep 2026 22:30:41 Z
-  Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (S...
-
-## GCP Updates
-
-- **[Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/)** — Thu, 13 Aug 2026 16:45:00 +0000
-  The video shows Sheets canvas in action.
