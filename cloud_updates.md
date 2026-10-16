@@ -1,3 +1,31 @@
+# ☁️ Cloud Updates — 2026-10-16 12:06 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE](https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/)** — Thu, 15 Oct 2026 15:50:31 +0000
+  Dynata reimagined its development lifecycle with AI, moving from AI-assisted coding to the AI-Driven Development Lifecycle (AI-DLC) methodology with K...
+
+## Azure Updates
+
+- **[Proof-based general-purpose computing with Magnetar](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <p>Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mains...
+
+## GCP Updates
+
+- **[Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand](https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The open-source </span><a href="https://temporal.io/" rel="noopener" ...
+- **[What the Gemini agent means for startups](https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Small teams, short runway, and constant pressure to ship faster — it’...
+- **[Bringing the borderless Lakehouse into the agentic era with innovations for Gemini](https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises shift their AI usage from experimental chatbots to aut...
+- **[Modernizing perimeter security: Scalable perimeters with VPC Service Controls](https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agents represent a fundamental shift in cloud operations. They can ac...
+
+
 # ☁️ Cloud Updates — 2026-10-15 12:28 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -891,31 +919,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://cloud.google.com/customers/orange"><span s...
 - **[Introducing new session management tools with native, granular controls](https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/)** — Tue, 15 Sep 2026 17:30:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud session management provides flexible options for </span>...
-
-
-# ☁️ Cloud Updates — 2026-09-16 12:27 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)** — Tue, 15 Sep 2026 16:18:19 +0000
-  Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walk...
-- **[Build an AI-powered product tagging system with Amazon SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)** — Tue, 15 Sep 2026 16:11:36 +0000
-  Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning ...
-- **[Announcing instance preference lists for Amazon SageMaker AI training jobs](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)** — Tue, 15 Sep 2026 16:01:47 +0000
-  Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and S...
-
-## GCP Updates
-
-- **[Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/)** — Tue, 15 Sep 2026 20:00:35 +0000
-  Algorithms & Theory
-
-## IBM Cloud Updates
-
-- **[From error mitigation to fault-tolerant quantum computing](https://research.ibm.com/blog/qec-continuum?utm_medium=rss&utm_source=rss)** — Tue, 15 Sep 2026 14:30:00 GMT
-  A spectrum of error-correcting techniques is enabling useful quantum computation, measured not by logical qubits but by the circuits you can run with ...
-- **[A theoretical separation between quantum computers & LLMs](https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss)** — Tue, 15 Sep 2026 04:00:00 GMT
-  Recent research further demonstrates the theoretical abilities of quantum computing
