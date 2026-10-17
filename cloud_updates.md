@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-10-17 11:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)** — Fri, 16 Oct 2026 20:48:16 +0000
+  Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on...
+- **[Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)** — Fri, 16 Oct 2026 15:23:10 +0000
+  Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazo...
+- **[Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)** — Thu, 15 Oct 2026 17:43:35 +0000
+  Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in yo...
+- **[Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)** — Thu, 15 Oct 2026 15:05:35 +0000
+  Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approac...
+- **[Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)** — Wed, 14 Oct 2026 16:24:07 +0000
+  Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and le...
+
+## Azure Updates
+
+- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/)** — Wed, 14 Oct 2026 19:00:00 +0000
+  <p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>
+<p>The post <a href="https:...
+
+## GCP Updates
+
+- **[Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/)** — Fri, 16 Oct 2026 18:11:34 +0000
+  General Science
+
+
 # ☁️ Cloud Updates — 2026-10-16 12:06 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -883,39 +914,3 @@ up ...
 
 - **[The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/)** — Thu, 17 Sep 2026 20:45:00 +0000
   Education Innovation
-
-
-# ☁️ Cloud Updates — 2026-09-17 12:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## Azure Updates
-
-- **[Retirement Update: SAP container images removed October 14, 2026](https://azure.microsoft.com/updates?id=571342)** — Wed, 16 Sep 2026 17:19:02 Z
-  The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sen...
-- **[[In preview] Public Preview: Azure SQL updates for mid-September 2026](https://azure.microsoft.com/updates?id=571056)** — Wed, 16 Sep 2026 17:15:10 Z
-  In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the ...
-- **[[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes](https://azure.microsoft.com/updates?id=571621)** — Wed, 16 Sep 2026 14:13:08 Z
-  Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the O...
-- **[[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL](https://azure.microsoft.com/updates?id=569664)** — Wed, 16 Sep 2026 14:07:14 Z
-  The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act...
-
-## GCP Updates
-
-- **[Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/)** — Wed, 16 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Goog...
-- **[For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%](https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/)** — Wed, 16 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><strong style="font-style: italic; vertical-align: baseline;">Editor’s note:</strong><span style="font-style:...
-- **[M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads](https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/)** — Wed, 16 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprise organizations scale mission-critical applications, stor...
-- **[How Orange built FinOps accountability, and why agents are next](https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/)** — Wed, 16 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At </span><a href="https://cloud.google.com/customers/orange"><span s...
-- **[Introducing new session management tools with native, granular controls](https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/)** — Tue, 15 Sep 2026 17:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud session management provides flexible options for </span>...
