@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-10-18 11:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## Azure Updates
+
+- **[Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/)** — Fri, 16 Oct 2026 16:05:00 +0000
+  <p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>
+<p>The post <a...
+- **[Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/)** — Thu, 15 Oct 2026 16:00:00 +0000
+  <p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>
+<p...
+
+## GCP Updates
+
+- **[Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo](https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/)** — Fri, 16 Oct 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, Reflection released </span><a href="https://huggingface.co/ref...
+- **[Architecting autonomy: A design pattern for high-compute, governed agents in biotech](https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/)** — Fri, 16 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">In production systems today, most AI age...
+- **[Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes](https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/)** — Fri, 16 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Everything is moving faster in the age of AI, and that includes secur...
+- **[Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/)** — Fri, 16 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The real challenge of building an agentic system isn't the constructi...
+- **[The SAVE method: Learn the fundamentals to engineer trustworthy generative media](https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/)** — Fri, 16 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Consulting works with organizations every day to build g...
+
+
 # ☁️ Cloud Updates — 2026-10-17 11:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -881,36 +915,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[MilleMiglia: A realistic instance generator for middle-mile logistics](https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/)** — Fri, 18 Sep 2026 17:46:09 +0000
   Algorithms & Theory
-
-
-# ☁️ Cloud Updates — 2026-09-18 12:05 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Equinix cut operational overhead with a shared services architecture on Amazon EKS](https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/)** — Thu, 17 Sep 2026 18:00:56 +0000
-  Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its sel...
-- **[Building cloud-native PACS on AWS](https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/)** — Thu, 17 Sep 2026 15:21:06 +0000
-  A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cro...
-- **[How DHI Group accelerates generative AI workloads from idea to production using hackathons](https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/)** — Thu, 17 Sep 2026 15:13:42 +0000
-  Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hack...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure Payments HSM v2](https://azure.microsoft.com/updates?id=570509)** — Thu, 17 Sep 2026 18:36:44 Z
-  Azure Payments HSM v2 is a highly available,
-single-tenant Payment HSM service for payment processing, credential issuance,
-PIN processing, key manage...
-- **[[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager](https://azure.microsoft.com/updates?id=571572)** — Thu, 17 Sep 2026 17:40:33 Z
-  High-scale mesh using connected
-group in Azure Virtual Network
-Manager is now in general availability. In available regions, customers may connect
-up ...
-
-## GCP Updates
-
-- **[The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/)** — Thu, 17 Sep 2026 20:45:00 +0000
-  Education Innovation
