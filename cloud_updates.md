@@ -1,3 +1,44 @@
+# ☁️ Cloud Updates — 2026-10-21 12:44 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/)** — Tue, 20 Oct 2026 21:14:10 +0000
+  Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 ...
+- **[Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)** — Tue, 20 Oct 2026 17:59:07 +0000
+  The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to conn...
+- **[From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)** — Tue, 20 Oct 2026 17:52:50 +0000
+  Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post s...
+- **[Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)** — Tue, 20 Oct 2026 17:48:27 +0000
+  Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) an...
+- **[How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/)** — Tue, 20 Oct 2026 17:34:04 +0000
+  Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated ag...
+
+## Azure Updates
+
+- **[Called to serve: Tech, research, and positive impact](https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/)** — Tue, 20 Oct 2026 16:00:00 +0000
+  <p>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for c...
+
+## GCP Updates
+
+- **[Google Cloud expands model choice and flexibility, bringing OpenAI models to customers](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/)** — Wed, 21 Oct 2026 12:00:00 +0000
+  <div class="block-paragraph"><p>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key...
+- **[Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA](https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/)** — Wed, 21 Oct 2026 11:30:00 +0000
+  <div class="block-paragraph"><p>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real ...
+- **[Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era](https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/)** — Wed, 21 Oct 2026 11:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises transition to continuous, multi-step agentic workflows...
+- **[Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity](https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/)** — Tue, 20 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different model...
+
+## IBM Cloud Updates
+
+- **[A new plugin can enable fast runtime monitoring and control](https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss)** — Wed, 21 Oct 2026 12:00:00 GMT
+  IBM's vLLM-Hook MIA lets developers inspect and edit the AI generation process with hardly any delay.
+
+
 # ☁️ Cloud Updates — 2026-10-20 12:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -912,28 +953,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When running modern AI workloads, there’s often a conflict between pe...
 - **[Strengthen your CI/CD pipeline with new Secure Source Manager capabilities](https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/)** — Mon, 21 Sep 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A resilient software supply chain is the foundation of modern deliver...
-
-
-# ☁️ Cloud Updates — 2026-09-21 13:40 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon EC2 X8i instances are now available in the South America (São Paulo) Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/)** — Fri, 18 Sep 2026 22:16:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the South America (São Paulo) region. These instances are ...
-- **[AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/)** — Fri, 18 Sep 2026 18:34:00 GMT
-  <p>AWS Continuum for penetration testing is a frontier agent that proactively secures applications throughout the development lifecycle by offering on...
-- **[Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/)** — Fri, 18 Sep 2026 17:27:00 GMT
-  <p><a href="https://aws.amazon.com/ecs/" target="_blank">Amazon Elastic Container Service</a> Express Mode now supports specifying ARM64 as the CPU ar...
-- **[AWS Resilience Hub adds three new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/)** — Fri, 18 Sep 2026 16:49:00 GMT
-  <p>The next generation of AWS Resilience Hub is a central location in the AWS that helps platform engineering and site reliability teams assess and st...
-- **[AWS RTB Fabric now supports configurable Availability Zone affinity](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/)** — Fri, 18 Sep 2026 15:30:00 GMT
-  <p>AWS RTB Fabric now supports <a href="https://docs.aws.amazon.com/rtb-fabric/latest/userguide/working-with-responder-gateways.html#configuring-avail...
-
-## Azure Updates
-
-- **[Broadening access to Skala creates a faster path to predictive DFT](https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/)** — Thu, 20 Aug 2026 16:00:00 +0000
-  <p>Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility acr...
