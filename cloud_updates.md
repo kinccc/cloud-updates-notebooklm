@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-10-22 12:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Automate medical coding with Step Functions and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/)** — Wed, 21 Oct 2026 21:26:23 +0000
+  Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. Thi...
+
+## Azure Updates
+
+- **[Solving a 31-year-old grand challenge in mathematics – the KLS conjecture](https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/)** — Wed, 21 Oct 2026 16:00:00 +0000
+  <p>For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this que...
+
+## GCP Updates
+
+- **[Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/)** — Wed, 21 Oct 2026 16:23:53 +0000
+  Health & Bioscience
+
+
 # ☁️ Cloud Updates — 2026-10-21 12:44 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -917,39 +939,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-vo...
 - **[Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051)** — Tue, 22 Sep 2026 17:00:25 +0000
   <p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex is...
-
-
-# ☁️ Cloud Updates — 2026-09-22 12:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)** — Mon, 21 Sep 2026 18:30:34 +0000
-  xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context win...
-- **[How BMW Group detects cost anomalies across 14,000 cloud accounts](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)** — Mon, 21 Sep 2026 16:36:10 +0000
-  BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly dete...
-- **[Run Positron on Amazon SageMaker AI for data science workflows](https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/)** — Mon, 21 Sep 2026 16:34:21 +0000
-  Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validat...
-- **[How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/)** — Mon, 21 Sep 2026 16:27:34 +0000
-  Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life scien...
-- **[Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution](https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/)** — Mon, 21 Sep 2026 16:24:40 +0000
-  EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Ama...
-
-## Azure Updates
-
-- **[Improving synthesis prediction of small molecules at scale with RetroChimera](https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/)** — Mon, 21 Sep 2026 15:30:19 +0000
-  <p>Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights R...
-
-## GCP Updates
-
-- **[Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway](https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/)** — Mon, 21 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Demand for AI infrastructure is at an all-time high. Global accelerat...
-- **[Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices](https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/)** — Mon, 21 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The surge in AI development has created unprecedented demand for comp...
-- **[Scale your AI workloads faster and more efficiently with GKE Pod snapshots](https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/)** — Mon, 21 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When running modern AI workloads, there’s often a conflict between pe...
-- **[Strengthen your CI/CD pipeline with new Secure Source Manager capabilities](https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/)** — Mon, 21 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">A resilient software supply chain is the foundation of modern deliver...
