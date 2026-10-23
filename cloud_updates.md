@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-10-23 12:26 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)** — Thu, 22 Oct 2026 18:06:35 +0000
+  The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales a...
+- **[How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/)** — Thu, 22 Oct 2026 18:01:53 +0000
+  Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases...
+- **[Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)** — Thu, 22 Oct 2026 18:00:04 +0000
+  Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-t...
+- **[Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/)** — Thu, 22 Oct 2026 18:00:01 +0000
+  Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the servic...
+- **[Deploy AI in a HIPAA-eligible environment with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/)** — Thu, 22 Oct 2026 17:48:22 +0000
+  Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows throug...
+
+## Azure Updates
+
+- **[Flint-interactive: A language for creating interactive data visualizations](https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/)** — Thu, 22 Oct 2026 16:00:00 +0000
+  <p>Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and ex...
+
+## GCP Updates
+
+- **[Expanding Claude availability and deployment choice on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/)** — Thu, 22 Oct 2026 21:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every organization has unique requirements for building and scaling g...
+- **[Introducing new self-learning context enrichment in Knowledge Catalog](https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/)** — Thu, 22 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Today, we’re launching self-learning context enrichment (preview) and a reimagined Knowledge Studio experience (previe...
+- **[Inside Agent Compute Engine: Building the compute foundation for the agentic era](https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/)** — Thu, 22 Oct 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every decade or so, a shift in software forces us to rethink computer...
+- **[Introducing Agent Compute Engine and expanded agent governance](https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/)** — Thu, 22 Oct 2026 04:00:00 +0000
+  <div class="block-paragraph"><p><b>Blog authors:</b> Nirav Mehta, VP Product Management; Michael Bachman, VP/GM; Kevin Hutchins, VP Product Management...
+- **[BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL](https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/)** — Wed, 21 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>For data science, data engineering, and machine learning teams, unlocking the value of unstructured data, such as imag...
+
+## IBM Cloud Updates
+
+- **[Qiskit SDK v2.6 release summary](https://research.ibm.com/blog/qiskit-2-6-release-summary?utm_medium=rss&utm_source=rss)** — Thu, 22 Oct 2026 04:00:00 GMT
+  Technical release summary for Qiskit SDK v2.6, including updates on top new features.
+
+
 # ☁️ Cloud Updates — 2026-10-22 12:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -912,30 +955,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Google Vids logo surrounded by various video editing options
 - **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
   Google Beam promotional animation
-
-
-# ☁️ Cloud Updates — 2026-09-23 12:35 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)** — Tue, 22 Sep 2026 18:10:22 +0000
-  GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.
-- **[Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)** — Tue, 22 Sep 2026 17:28:01 +0000
-  Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock an...
-- **[Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/)** — Tue, 22 Sep 2026 17:18:13 +0000
-  Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the...
-- **[How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)** — Tue, 22 Sep 2026 15:46:07 +0000
-  Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, re...
-- **[Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/)** — Tue, 22 Sep 2026 15:35:53 +0000
-  Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. Th...
-
-## Azure Updates
-
-- **[GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/)** — Tue, 22 Sep 2026 18:30:00 +0000
-  <p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-vo...
-- **[Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051)** — Tue, 22 Sep 2026 17:00:25 +0000
-  <p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex is...
