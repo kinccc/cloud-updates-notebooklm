@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-10-24 11:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)** — Fri, 23 Oct 2026 17:48:54 +0000
+  Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. Thi...
+- **[Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)** — Fri, 23 Oct 2026 16:30:10 +0000
+  Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows h...
+- **[Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)** — Fri, 23 Oct 2026 16:24:55 +0000
+  Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes...
+- **[How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)** — Fri, 23 Oct 2026 16:21:36 +0000
+  Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and resea...
+
+## Azure Updates
+
+- **[Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/)** — Tue, 20 Oct 2026 17:34:47 +0000
+  <p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putt...
+- **[Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/)** — Mon, 19 Oct 2026 19:00:00 +0000
+  <p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintai...
+
+## GCP Updates
+
+- **[Bringing foundational models to the front lines of TB screening](https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/)** — Fri, 23 Oct 2026 18:51:33 +0000
+  Generative AI
+
+## IBM Cloud Updates
+
+- **[IBM supports award-winning projects in NEDO Challenge](https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss)** — Fri, 23 Oct 2026 04:00:00 GMT
+  Teams across all three tracks of Japan's national quantum competition used IBM quantum computers during research on real-world applications.
+
+
 # ☁️ Cloud Updates — 2026-10-23 12:26 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -931,27 +966,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)** — Thu, 24 Sep 2026 19:40:00 +0000
   Generative AI
-
-
-# ☁️ Cloud Updates — 2026-09-24 12:33 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Announcing the New AWS Reimagine Report on AI](https://aws.amazon.com/blogs/enterprise-strategy/announcing-the-new-aws-reimagine-report-on-ai/)** — Thu, 24 Sep 2026 04:19:10 +0000
-  Two questions come up in almost every conversation we have with executives. The first is: What are other organizations doing to make AI work? The seco...
-
-## Azure Updates
-
-- **[Offloaded inference for real-world physical AI robotics](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)** — Wed, 23 Sep 2026 16:01:36 +0000
-  <p>Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the ...
-
-## GCP Updates
-
-- **[Anyone can make stunning HD videos with Gemini Omni in Google Vids](https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/)** — Wed, 23 Sep 2026 19:00:00 +0000
-  Google Vids logo surrounded by various video editing options
-- **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
-  Google Beam promotional animation
