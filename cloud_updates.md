@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-10-25 12:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the New AWS Reimagine Report on AI](https://aws.amazon.com/blogs/enterprise-strategy/announcing-the-new-aws-reimagine-report-on-ai/)** — Thu, 24 Sep 2026 04:19:10 +0000
+  Two questions come up in almost every conversation we have with executives. The first is: What are other organizations doing to make AI work? The seco...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup](https://azure.microsoft.com/updates?id=577963)** — Fri, 23 Oct 2026 19:21:07 Z
+  Azure Backup now supports Item-Level Recovery (ILR) for Azure virtual machines using Premium SSD v2 and Ultra disks with both 512 byte and 4KB logical...
+- **[[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage](https://azure.microsoft.com/updates?id=577618)** — Thu, 22 Oct 2026 18:01:00 Z
+  ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file...
+- **[Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra](https://azure.microsoft.com/updates?id=577273)** — Wed, 21 Oct 2026 17:38:32 Z
+  What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables ...
+- **[[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation](https://azure.microsoft.com/updates?id=576716)** — Wed, 21 Oct 2026 17:13:16 Z
+  Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping...
+- **[[In preview] Public Preview: Disable VNet peering route](https://azure.microsoft.com/updates?id=576242)** — Tue, 20 Oct 2026 18:55:47 Z
+  Announcing
+the public preview of disable VNet peering route, a route-table capability that
+gives you more control over traffic between peered virtual ...
+
+## GCP Updates
+
+- **[Anyone can make stunning HD videos with Gemini Omni in Google Vids](https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/)** — Wed, 23 Sep 2026 19:00:00 +0000
+  Google Vids logo surrounded by various video editing options
+- **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
+  Google Beam promotional animation
+
+
 # ☁️ Cloud Updates — 2026-10-24 11:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -933,36 +967,3 @@ custom infr...
   <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
 - **[ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft](https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/)** — Fri, 25 Sep 2026 14:00:00 +0000
   <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
-
-
-# ☁️ Cloud Updates — 2026-09-25 12:35 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Speaker-labeled transcription with WhisperX on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)** — Thu, 24 Sep 2026 16:20:12 +0000
-  The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to dep...
-- **[Build a multi-account AI agent with AgentCore Gateway and MCP](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)** — Thu, 24 Sep 2026 16:12:47 +0000
-  Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A cen...
-- **[Aderant builds intelligent ticket triage with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/)** — Thu, 24 Sep 2026 16:06:46 +0000
-  Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, ...
-- **[From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)** — Wed, 23 Sep 2026 18:41:09 +0000
-  HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock ...
-- **[Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)** — Wed, 23 Sep 2026 18:21:54 +0000
-  Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates A...
-
-## Azure Updates
-
-- **[Your architecture diagram is not your resilience](https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/)** — Wed, 23 Sep 2026 16:00:00 +0000
-  <p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a...
-- **[Designing agent-first platforms: What changes when agents do the work](https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/)** — Wed, 23 Sep 2026 15:00:00 +0000
-  <p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>
-<p>The...
-
-## GCP Updates
-
-- **[Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)** — Thu, 24 Sep 2026 19:40:00 +0000
-  Generative AI
