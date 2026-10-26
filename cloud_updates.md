@@ -1,3 +1,28 @@
+# ☁️ Cloud Updates — 2026-10-26 13:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)** — Fri, 23 Oct 2026 21:04:00 GMT
+  <p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domai...
+- **[Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)** — Fri, 23 Oct 2026 17:00:00 GMT
+  <p>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions...
+- **[AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)** — Fri, 23 Oct 2026 15:43:00 GMT
+  <p>AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integ...
+- **[Amazon Corretto October 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates)** — Fri, 23 Oct 2026 14:00:00 GMT
+  <p>On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Cor...
+- **[Amazon MWAA now available in Mexico (Central) Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)** — Fri, 23 Oct 2026 08:00:00 GMT
+  <p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Provisioned environments are now available in the Mexico (Central) Region (mx-central-1)....
+
+## IBM Cloud Updates
+
+- **[PyTorch opens the AI ecosystem to a new accelerator class](https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss)** — Mon, 26 Oct 2026 12:00:00 GMT
+  IBM has made Spyre a first-class PyTorch backend, giving developers the same workflows across devices.
+
+
 # ☁️ Cloud Updates — 2026-10-25 12:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -917,53 +942,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/)** — Thu, 24 Sep 2026 18:00:00 +0000
   <p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architec...
-
-
-# ☁️ Cloud Updates — 2026-09-26 12:04 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)** — Fri, 25 Sep 2026 16:29:50 +0000
-  Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an ...
-- **[Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)** — Fri, 25 Sep 2026 16:18:07 +0000
-  Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language mode...
-- **[NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)** — Fri, 25 Sep 2026 16:15:22 +0000
-  NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-...
-- **[Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/)** — Fri, 25 Sep 2026 16:09:46 +0000
-  Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, an...
-- **[How Datacor built self-service rental analytics with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/)** — Fri, 25 Sep 2026 15:54:42 +0000
-  Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and nat...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18](https://azure.microsoft.com/updates?id=573048)** — Fri, 25 Sep 2026 18:07:26 Z
-  Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...
-- **[Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028](https://azure.microsoft.com/updates?id=557117)** — Thu, 24 Sep 2026 17:51:23 Z
-  Microsoft will retire several standalone Azure Communication
-Services (ACS) offerings on September 30, 2028. After this date, the affected
-services wi...
-- **[[Launched] Generally Available: Instant Access for VM restore points](https://azure.microsoft.com/updates?id=572573)** — Thu, 24 Sep 2026 16:04:16 Z
-  Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally avai...
-- **[[Launched] Generally Available: Azure Container Apps Sandboxes](https://azure.microsoft.com/updates?id=561262)** — Tue, 02 Jun 2026 19:00:47 Z
-  Teams building agentic applications, multi-tenant platforms,
-development environments, and CI/CD systems have often had to stitch together
-custom infr...
-- **[[Launched] Generally Available: Azure Container Apps Express](https://azure.microsoft.com/updates?id=559242)** — Wed, 13 May 2026 17:30:20 Z
-  Azure Container Apps Express is now generally available. It is the simplest and fastest way to launch and scale powerful applications on Azure, from z...
-
-## GCP Updates
-
-- **[Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1](https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/)** — Fri, 25 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we are committed to delivering the best managed expe...
-- **[Storage Intelligence advisor: Know what changed in your storage estate and act on it](https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates/)** — Fri, 25 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The volume of data being generated today brings both opportunity and ...
-- **[Best practices guide for customizing Gemini models via Reinforcement Learning (RL)](https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/)** — Fri, 25 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Reinforcement learning (RL) has been a keystone of modern LLM post-tr...
-- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 25 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
-- **[ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft](https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/)** — Fri, 25 Sep 2026 14:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
