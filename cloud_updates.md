@@ -1,3 +1,37 @@
+# ☁️ Cloud Updates — 2026-10-27 12:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Data governance with annotations in Amazon S3](https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/)** — Mon, 26 Oct 2026 18:00:26 +0000
+  Attach governance context such as classification, retention, residency, and PII flags directly to your Amazon S3 objects with S3 annotations. This pos...
+- **[Recommended resilience testing in the next generation of AWS Resilience Hub](https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/)** — Mon, 26 Oct 2026 17:35:01 +0000
+  The next generation of AWS Resilience Hub introduces recommended resilience testing: four pre-configured, AWS FIS-powered tests that validate how your...
+
+## Azure Updates
+
+- **[Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/)** — Mon, 26 Oct 2026 16:00:00 +0000
+  <p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>
+<...
+
+## GCP Updates
+
+- **[Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger](https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/)** — Mon, 26 Oct 2026 20:00:00 +0000
+  <div class="block-paragraph"><p>Every day, countless financial transactions are interrupted by slow, expensive, and inflexible conventional payment sy...
+- **[Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA](https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/)** — Mon, 26 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>As enterprises go from experimental AI agent prototypes to using them in production, data teams are realizing that <i>...
+
+## IBM Cloud Updates
+
+- **[Modular quantum computing takes shape with l-couplers](https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers?utm_medium=rss&utm_source=rss)** — Tue, 27 Oct 2026 12:00:00 GMT
+  IBM researchers achieve a critical advance for scaling quantum computers.
+- **[IBM and Kaggle launch Java framework migration leaderboard](https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration?utm_medium=rss&utm_source=rss)** — Tue, 27 Oct 2026 12:00:00 GMT
+  ScarfBench evaluates model-and-agent-harness combinations for enterprise Java migration, pairing migration validation with reproduced runs and a leade...
+
+
 # ☁️ Cloud Updates — 2026-10-26 13:56 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -925,20 +959,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Why are silicon wafers round?](https://research.ibm.com/blog/why-are-silicon-wafers-round?utm_medium=rss&utm_source=rss)** — Mon, 28 Sep 2026 13:15:00 GMT
   It’s a result of metallurgy, but circular silicon wafers are also the best shape to ensure uniformity in the chip production process.
-
-
-# ☁️ Cloud Updates — 2026-09-27 12:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
-  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
-
-## Azure Updates
-
-- **[Ship agents faster with expanded model choice, voice agents, and continuous optimization](https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/)** — Thu, 24 Sep 2026 18:00:00 +0000
-  <p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architec...
