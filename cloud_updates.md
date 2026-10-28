@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-10-28 13:50 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
+  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription](https://azure.microsoft.com/updates?id=578358)** — Tue, 27 Oct 2026 21:16:52 Z
+  Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, ...
+- **[[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry](https://azure.microsoft.com/updates?id=577260)** — Tue, 27 Oct 2026 17:19:43 Z
+  Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude...
+- **[[Launched] Generally Available: Azure Front Door profile and route level WAF policies](https://azure.microsoft.com/updates?id=578153)** — Tue, 27 Oct 2026 16:58:04 Z
+  Announcing the general availability of profile and route
+level policies for Azure Web Application Firewall (WAF) on Azure Front Door
+Premium. WAF poli...
+- **[[Launched] Generally Available: Network Watcher VNet flow logs filtering](https://azure.microsoft.com/updates?id=577782)** — Mon, 26 Oct 2026 16:02:05 Z
+  Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which
+network traffic flows are logged based on spe...
+
+## GCP Updates
+
+- **[The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)** — Tue, 27 Oct 2026 17:35:00 +0000
+  Education Innovation
+
+
 # ☁️ Cloud Updates — 2026-10-27 12:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -934,28 +965,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you are mapping global forest cover, detecting changes in the...
 - **[Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads](https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/)** — Mon, 28 Sep 2026 07:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re excited to announce the general availability of our next...
-
-
-# ☁️ Cloud Updates — 2026-09-28 14:59 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/)** — Fri, 25 Sep 2026 19:19:00 GMT
-  <p>Amazon Transcribe now lets you encrypt your custom vocabularies, custom vocabulary filters, and custom language models at rest with a customer-mana...
-- **[Amazon EC2 M8i and M8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/)** — Fri, 25 Sep 2026 18:40:00 GMT
-  <p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in the AWS European Sovereign Cloud (Germany) region. These instances are p...
-- **[Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/)** — Fri, 25 Sep 2026 18:37:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS European Sovereign Cloud (Germany) re...
-- **[Amazon EC2 C8i and C8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/)** — Fri, 25 Sep 2026 18:09:00 GMT
-  <p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the AWS European Sovereign Cloud (Germany) re...
-- **[AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/)** — Fri, 25 Sep 2026 17:54:00 GMT
-  <p><a href="https://aws.amazon.com/identity/federation/outbound-federation/">AWS Identity and Access Management (IAM) outbound identity federation</a>...
-
-## IBM Cloud Updates
-
-- **[Why are silicon wafers round?](https://research.ibm.com/blog/why-are-silicon-wafers-round?utm_medium=rss&utm_source=rss)** — Mon, 28 Sep 2026 13:15:00 GMT
-  It’s a result of metallurgy, but circular silicon wafers are also the best shape to ensure uniformity in the chip production process.
