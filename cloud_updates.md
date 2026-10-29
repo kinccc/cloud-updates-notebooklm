@@ -1,3 +1,42 @@
+# ☁️ Cloud Updates — 2026-10-29 13:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Revinate accelerated API adoption with Amazon API Gateway](https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/)** — Wed, 28 Oct 2026 18:32:34 +0000
+  Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provid...
+- **[Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens](https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/)** — Wed, 28 Oct 2026 18:25:50 +0000
+  Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the c...
+- **[Publishing LMS courses with a Kiro SCORM pipeline](https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/)** — Tue, 27 Oct 2026 17:23:23 +0000
+  See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning ...
+- **[Vessel-specific voyage optimization with machine learning: Manta on AWS](https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/)** — Tue, 27 Oct 2026 17:14:32 +0000
+  Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational histor...
+- **[How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves](https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/)** — Tue, 27 Oct 2026 17:10:35 +0000
+  Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a...
+
+## Azure Updates
+
+- **[Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/)** — Wed, 28 Oct 2026 17:40:56 +0000
+  <p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>
+<p>The post <a href="https://devblogs.micros...
+
+## GCP Updates
+
+- **[Introducing the AlloyDB Omni web UI for easier cluster observability](https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/)** — Wed, 28 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Managing PostgreSQL databases across on-premises, edge, and multi-clo...
+- **[Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments](https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/)** — Wed, 28 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Keeping production databases on supported versions shouldn’t require ...
+- **[Behind the scenes, two months later: How we ship Google Agent Skills like products](https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/)** — Wed, 28 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In my previous post, I took you </span><a href="https://cloud.google....
+- **[How to troubleshoot GKE workloads faster with VPC Flow Logs](https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/)** — Wed, 28 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Having visibility into your network traf...
+- **[How GKE networking scales to support high densities of concurrent AI agents](https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/)** — Wed, 28 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What do you need to orchestrate high-density concurrent AI agents? As...
+
+
 # ☁️ Cloud Updates — 2026-10-28 13:50 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -936,32 +975,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/)** — Tue, 29 Sep 2026 18:38:27 +0000
   Algorithms & Theory
-
-
-# ☁️ Cloud Updates — 2026-09-29 13:46 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS](https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/)** — Tue, 29 Sep 2026 13:44:23 +0000
-  Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the St...
-
-## Azure Updates
-
-- **[One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact](https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/)** — Mon, 28 Sep 2026 21:00:00 +0000
-  <p>Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across governme...
-
-## GCP Updates
-
-- **[Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances](https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/)** — Tue, 29 Sep 2026 05:00:00 +0000
-  <div class="block-paragraph_advanced"><h3>Introduction</h3>
-<p><span style="vertical-align: baseline;">In late September 2026, Mandiant Consulting and...
-- **[Why your startup needs open models alongside frontier APIs](https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/)** — Mon, 28 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every week, I talk with founders who are building at an unbelievable ...
-- **[Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding](https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/)** — Mon, 28 Sep 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you are mapping global forest cover, detecting changes in the...
-- **[Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads](https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/)** — Mon, 28 Sep 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we’re excited to announce the general availability of our next...
