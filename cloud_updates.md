@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-10-30 13:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How BMW Group accelerated connected vehicle workloads on AWS Graviton](https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/)** — Thu, 29 Oct 2026 20:11:14 +0000
+  Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Gravit...
+- **[How boAt delivers personalized fitness coaching with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/)** — Thu, 29 Oct 2026 18:16:38 +0000
+  Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwat...
+
+## GCP Updates
+
+- **[New Gemini courses for financial services and legal teams](https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/)** — Fri, 30 Oct 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today Google Skills is sharing new, industry-specific video learning ...
+- **[Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/)** — Thu, 29 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Welcome to the second Cloud CISO Perspectives for October 2026. Today...
+- **[Querying Databricks Apache Iceberg Tables with the borderless Lakehouse](https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/)** — Thu, 29 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Enterprise organizations often leverage ...
+- **[Grounding agents in one context graph connecting semantic models you already trust](https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/)** — Thu, 29 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Picture the scene: Before an executive business review, your VP of Sa...
+
+## IBM Cloud Updates
+
+- **[How Zurich is shaping the future of algorithms, 70 years in](https://research.ibm.com/blog/celebrating-70-years-ibm-research-europe?utm_medium=rss&utm_source=rss)** — Thu, 29 Oct 2026 14:15:00 GMT
+  As IBM's Zurich Lab turns 70, director Alessandro Curioni speaks about the celebrations, his work on Algorithms & Applications, and his vision for the...
+
+
 # ☁️ Cloud Updates — 2026-10-29 13:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -953,25 +983,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Google is supporting water resilience in Chile.](https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/)** — Wed, 30 Sep 2026 18:34:00 +0000
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp" />Google is investing $...
-
-
-# ☁️ Cloud Updates — 2026-09-30 13:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
-  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
-
-## Azure Updates
-
-- **[Introducing Quine: An AI research system designed for the complexity of biology](https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/)** — Tue, 29 Sep 2026 14:00:02 +0000
-  <p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal wo...
-
-## GCP Updates
-
-- **[How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/)** — Tue, 29 Sep 2026 18:38:27 +0000
-  Algorithms & Theory
