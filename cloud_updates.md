@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-10-31 13:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Experience, Exploration, Execution: The Three Channels Reshaping Retail](https://aws.amazon.com/blogs/enterprise-strategy/experience-exploration-execution-the-three-channels-reshaping-retail/)** — Thu, 28 May 2026 21:57:36 +0000
+  Your next million customers might never walk into a store, never scroll a product page, and never click “Add to Cart.” They are AI agents, software th...
+
+## Azure Updates
+
+- **[From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/)** — Fri, 30 Oct 2026 13:05:28 +0000
+  <p>Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise da...
+- **[Microsoft Research Focus – Edition #97](https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/)** — Thu, 29 Oct 2026 19:19:16 +0000
+  <p>Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing codin...
+
+## GCP Updates
+
+- **[See who has access to your Gmail inbox in 2 minutes.](https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/)** — Fri, 30 Oct 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp" />Run a quick ...
+
+
 # ☁️ Cloud Updates — 2026-10-30 13:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -958,28 +982,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## IBM Cloud Updates
 
 - **[Ponder This Challenge - October 2026 - The Ultimate Ultimate Tic-Tac-Toe Game](https://research.ibm.com/blog/ponder-this-october-2026?utm_medium=rss&utm_source=rss)** — Thu, 01 Oct 2026 16:30:00 GMT
-  
-
-
-# ☁️ Cloud Updates — 2026-10-01 14:15 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Running multi-day AZ evacuation drills with ARC Zonal Shift](https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/)** — Wed, 30 Sep 2026 19:01:57 +0000
-  Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill...
-- **[How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/)** — Wed, 30 Sep 2026 18:30:24 +0000
-  MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven p...
-
-## Azure Updates
-
-- **[Forecasting space weather risks on power grids](https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/)** — Wed, 30 Sep 2026 16:00:00 +0000
-  <p>Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can...
-
-## GCP Updates
-
-- **[Google is supporting water resilience in Chile.](https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/)** — Wed, 30 Sep 2026 18:34:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp" />Google is investing $...
