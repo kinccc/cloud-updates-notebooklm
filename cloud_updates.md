@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-11-01 14:03 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/)** — Fri, 30 Oct 2026 22:42:24 +0000
+  This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, e...
+- **[Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/)** — Fri, 30 Oct 2026 21:40:03 +0000
+  Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connectio...
+- **[How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)** — Fri, 30 Oct 2026 17:32:20 +0000
+  Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months ...
+- **[Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/)** — Fri, 30 Oct 2026 17:27:45 +0000
+  The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes mod...
+- **[How the UK Amazon Quick User Group grew in 2026](https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/)** — Thu, 29 Oct 2026 20:16:40 +0000
+  The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on u...
+
+## Azure Updates
+
+- **[Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance](https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/)** — Thu, 29 Oct 2026 16:00:00 +0000
+  <p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigati...
+
+## GCP Updates
+
+- **[Google is supporting water resilience in Chile.](https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/)** — Wed, 30 Sep 2026 18:34:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp" />Google is investing $...
+
+
 # ☁️ Cloud Updates — 2026-10-31 13:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -941,44 +971,3 @@ machines will be retired. After that date, they will no l...
 
 - **[Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/)** — Fri, 02 Oct 2026 14:57:41 +0000
   Mobile Systems
-
-
-# ☁️ Cloud Updates — 2026-10-02 13:37 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI](https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/)** — Thu, 01 Oct 2026 15:37:06 +0000
-  Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibil...
-
-## Azure Updates
-
-- **[Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware](https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/)** — Wed, 30 Sep 2026 15:00:00 +0000
-  <p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardwa...
-- **[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)** — Tue, 29 Sep 2026 16:40:06 +0000
-  <p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and d...
-- **[FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/)** — Tue, 29 Sep 2026 06:30:00 +0000
-  <p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>
-<p...
-- **[Enhancing Microsoft Azure Virtual Machine lifecycle](https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/)** — Mon, 28 Sep 2026 15:00:00 +0000
-  <p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>...
-
-## GCP Updates
-
-- **[Enabling Cloud Storage end-to-end checksums for improved data integrity and durability](https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/)** — Thu, 01 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">At Google Cloud, we know that you count on us to maintain the durabil...
-- **[Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark](https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/)** — Thu, 01 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In a data-driven world, PayPal’s ability to deliver timely and action...
-- **[Democratizing Managed Lustre with lower cost and frictionless development](https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/)** — Thu, 01 Oct 2026 13:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">This is the first of a two-part series exploring how Google Cloud is ...
-- **[The future of browser-based security: Leveraging browser data for proactive defense](https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/)** — Thu, 01 Oct 2026 09:02:00 +0000
-  <div class="block-paragraph"><p>The browser has changed significantly. Rather than just a window to the web, it serves as an AI workspace and central ...
-- **[Introducing the Server Side Cloud Swift SDK](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/)** — Thu, 01 Oct 2026 04:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For years, <a href="https://swift.org/" rel="noopener nofollow norefe...
-
-## IBM Cloud Updates
-
-- **[Ponder This Challenge - October 2026 - The Ultimate Ultimate Tic-Tac-Toe Game](https://research.ibm.com/blog/ponder-this-october-2026?utm_medium=rss&utm_source=rss)** — Thu, 01 Oct 2026 16:30:00 GMT
