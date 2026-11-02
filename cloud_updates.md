@@ -1,3 +1,56 @@
+# ☁️ Cloud Updates — 2026-11-02 16:51 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/)** — Fri, 30 Oct 2026 20:43:00 GMT
+  <p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, a...
+- **[Web Search now available on Kiro in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/)** — Fri, 30 Oct 2026 19:40:00 GMT
+  <p>Kiro web search gives the agent real-time access to current information on the internet, so its answers draw on up-to-date search results and page ...
+- **[Amazon Connect Customer automatically saves in-progress emails as drafts](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/)** — Fri, 30 Oct 2026 19:30:00 GMT
+  <p>Amazon Connect Customer automatically saves in-progress emails as drafts, helping agents resume work without losing progress when connectivity is i...
+- **[Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/)** — Fri, 30 Oct 2026 18:20:00 GMT
+  <p>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligibl...
+- **[Amazon CloudFront now provides viewer ISP and post-quantum TLS details](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/)** — Fri, 30 Oct 2026 18:15:00 GMT
+  <p>Amazon CloudFront can now forward two new optional headers to your origin. The CloudFront-Viewer-ISP header contains the name of the viewer's inter...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL](https://azure.microsoft.com/updates?id=577491)** — Fri, 30 Oct 2026 17:16:27 Z
+  With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blo...
+- **[[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations](https://azure.microsoft.com/updates?id=578850)** — Thu, 29 Oct 2026 21:19:52 Z
+  Large OS Disk Encryption (LOSDE) is now generally available for Azure Confidential VM migration scenarios. Organizations can move larger, production-s...
+- **[[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF](https://azure.microsoft.com/updates?id=578681)** — Thu, 29 Oct 2026 17:09:49 Z
+  Announcing the general
+availability of the HTTP DDoS ruleset for Azure Web Application Firewall (WAF)
+on Azure Front Door Premium. HTTP-layer DDoS att...
+- **[[Launched] Generally Available: Azure MCP Server 3.0](https://azure.microsoft.com/updates?id=578662)** — Thu, 29 Oct 2026 17:04:58 Z
+  Azure MCP Server 3.0 is now generally available, expanding how AI agents and developer tools interact with Azure through the open Model Context Protoc...
+- **[Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor](https://azure.microsoft.com/updates?id=577689)** — Wed, 28 Oct 2026 17:52:51 Z
+  The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics...
+
+## GCP Updates
+
+- **[The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources](https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/)** — Mon, 02 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Written by: </span><span>Christopher Romano, Codi Starks, Garrett Mah...
+- **[Shutting the Door on the XCPE Botnet](https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/)** — Mon, 02 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><h3><span style="vertical-align: baseline;">Introduction</span><strong style="vertical-align: baseline;"> </stro...
+- **[What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)** — Fri, 30 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest upd...
+- **[What’s new in AI infrastructure and orchestration in October](https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/)** — Fri, 30 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The Google Cloud AI Infrastructure team had another busy month in Oct...
+- **[When the Kubernetes API went silent: A three-layer networking mystery](https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/)** — Fri, 30 Oct 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every support engineer has a case that stays with them. The one that ...
+
+## IBM Cloud Updates
+
+- **[Ponder This Challenge - November 2026 - The SumSum](https://research.ibm.com/blog/ponder-this-november-2026?utm_medium=rss&utm_source=rss)** — Sat, 31 Oct 2026 23:00:00 GMT
+  
+
+
 # ☁️ Cloud Updates — 2026-11-01 14:03 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -937,37 +990,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you’re launching microservices in response to sudden traffic ...
 - **[How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey](https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/)** — Fri, 02 Oct 2026 07:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Enterprise AI agents need persistent memory to ex...
-
-
-# ☁️ Cloud Updates — 2026-10-03 12:15 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP](https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/)** — Fri, 02 Oct 2026 17:57:15 +0000
-  This post provides step-by-step procedures to deploy Oracle Database on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP as...
-- **[Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP](https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/)** — Fri, 02 Oct 2026 17:57:01 +0000
-  Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. ...
-- **[Deploy open source Regional availability tools in your VPC](https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/)** — Fri, 02 Oct 2026 17:50:56 +0000
-  Deploy AWS Regional availability data as infrastructure you own. Capability Insights for AWS runs a self-hosted dashboard in your VPC that auto-refres...
-
-## Azure Updates
-
-- **[[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters](https://azure.microsoft.com/updates?id=571504)** — Fri, 02 Oct 2026 17:35:21 Z
-  MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer Postgre...
-- **[Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029](https://azure.microsoft.com/updates?id=569592)** — Thu, 01 Oct 2026 17:02:55 Z
-  On October 31, 2029, DCsv3 and DCdsv3-series
-Azure Linux, Windows and Dedicated Host virtual
-machines will be retired. After that date, they will no l...
-- **[[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines](https://azure.microsoft.com/updates?id=571894)** — Wed, 30 Sep 2026 21:13:13 Z
-  The public preview of Microsoft-managed performance monitoring for SQL Server on Azure Virtual Machines is now available. You can now monitor SQL Serv...
-- **[Retirement: NVv3-series Azure Virtual Machines](https://azure.microsoft.com/updates?id=573414)** — Wed, 30 Sep 2026 18:26:47 Z
-  On September 30, 2026, Microsoft Azure retired the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, a...
-
-## GCP Updates
-
-- **[Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/)** — Fri, 02 Oct 2026 14:57:41 +0000
-  Mobile Systems
