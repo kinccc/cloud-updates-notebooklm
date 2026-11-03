@@ -1,3 +1,45 @@
+# ☁️ Cloud Updates — 2026-11-03 14:52 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How to run a DR readiness engagement](https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/)** — Mon, 02 Nov 2026 17:26:49 +0000
+  This final post turns the DR framework into a repeatable engagement: a five-step sequence from kickoff and gap assessment through progressive validati...
+- **[Validating your DR commitment: From controlled test to real-world readiness](https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/)** — Mon, 02 Nov 2026 17:26:33 +0000
+  After you define your DR targets, testing tells you whether they hold. This post walks through a four-level progressive validation model (tabletop, pl...
+- **[Three business decisions that define your DR success](https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/)** — Mon, 02 Nov 2026 17:26:26 +0000
+  A disaster recovery strategy is only as strong as the business decisions behind it. Before you choose an architecture pattern, three decisions shape w...
+- **[Automating the full AWS DRS agent lifecycle: Install, heal, and offboard](https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/)** — Mon, 02 Nov 2026 17:21:29 +0000
+  Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recovery is a lifecycle challenge. This post shows how to automate...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate](https://azure.microsoft.com/updates?id=577975)** — Mon, 02 Nov 2026 19:37:11 Z
+  Azure
+Migrate now supports discovery and assessment for network-attached storage,
+allowing customers and partners to plan migrations of Dell PowerScal...
+- **[Retirement: OT security in Microsoft Defender for IoT](https://azure.microsoft.com/updates?id=576255)** — Mon, 02 Nov 2026 19:22:28 Z
+  This is the formal notice that Microsoft plans to deprecate the operational technology (OT) security component of Microsoft Defender for IoT. The serv...
+- **[[Launched] Generally Available: Change from virtual network integration to a private endpoint capable network configuration in Azure Database for PostgreSQL flexible server](https://azure.microsoft.com/updates?id=574541)** — Mon, 02 Nov 2026 19:20:33 Z
+  You now have greater flexibility in network design for Azure Database for PostgreSQL Flexible Server workloads. Now you can change existing VNet-integ...
+- **[Retirement: Azure Fluid Relay](https://azure.microsoft.com/updates?id=570498)** — Mon, 02 Nov 2026 19:01:41 Z
+  On February 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue ...
+- **[[Launched] Generally Available: Azure Storage Actions adds automatic task updates, execution controls, and case-sensitive matching](https://azure.microsoft.com/updates?id=578628)** — Mon, 02 Nov 2026 18:34:01 Z
+  Azure Storage Actions is introducing three enhancements to simplify task management and give you more control over automated data operations across Az...
+
+## GCP Updates
+
+- **[Google Cloud Developer plugin now available in Antigravity Marketplace](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/)** — Mon, 02 Nov 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Building cloud solutions with autonomous AI agents should feel fast, ...
+- **[Beyond Migration: Using Database Migration Service for disk shrinking](https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/)** — Mon, 02 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When database engineers hear “database migration", they typically thi...
+- **[What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)** — Mon, 02 Nov 2026 16:00:00 +0000
+  <div class="block-paragraph"><p><b><i>Editor’s note</i></b><i>: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap...
+
+
 # ☁️ Cloud Updates — 2026-11-02 16:51 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -959,34 +1001,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
   Text reading: "Do more with your voice in Workspace"
-
-
-# ☁️ Cloud Updates — 2026-10-04 13:03 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/)** — Fri, 02 Oct 2026 15:48:26 +0000
-  The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably comple...
-- **[Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/)** — Fri, 02 Oct 2026 15:46:05 +0000
-  Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Deskto...
-- **[Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)** — Fri, 02 Oct 2026 15:44:20 +0000
-  Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this ...
-- **[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)** — Thu, 01 Oct 2026 22:06:14 +0000
-  Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end....
-- **[Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)** — Thu, 01 Oct 2026 19:49:06 +0000
-  With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. E...
-
-## GCP Updates
-
-- **[AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer](https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/)** — Fri, 02 Oct 2026 19:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;"><strong>Editor’s note</strong>: AI21 Labs is a le...
-- **[Announcing Spanner queues: Transactional messaging for agentic workloads and beyond](https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/)** — Fri, 02 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">AI agents don't just answer queries — they can autonomously issue ref...
-- **[GKE CPU startup boost: Accelerate app starts without over-provisioning](https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/)** — Fri, 02 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Whether you’re launching microservices in response to sudden traffic ...
-- **[How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey](https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/)** — Fri, 02 Oct 2026 07:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Enterprise AI agents need persistent memory to ex...
