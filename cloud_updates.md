@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2026-11-04 15:08 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Bring structured and unstructured data together with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/)** — Tue, 03 Nov 2026 16:49:29 +0000
+  Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dat...
+- **[ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)** — Tue, 03 Nov 2026 16:47:40 +0000
+  Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ...
+- **[How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search](https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/)** — Tue, 03 Nov 2026 16:43:20 +0000
+  Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web S...
+- **[Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/)** — Tue, 03 Nov 2026 16:41:13 +0000
+  Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCor...
+- **[Building ultra-low-latency voice AI applications on AWS](https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/)** — Tue, 03 Nov 2026 16:40:54 +0000
+  Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-tex...
+
+## Azure Updates
+
+- **[Learn the rules: The hacker mindset](https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/)** — Tue, 03 Nov 2026 17:14:38 +0000
+  <p>Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership...
+
+## GCP Updates
+
+- **[New capabilities to power agents at scale with Google's Agentic Data Cloud](https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/)** — Wed, 04 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Not long ago, we were entering the agentic era; today, organizations ...
+- **[AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents](https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/)** — Wed, 04 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Databases have struggled to keep up with the speed of AI-enabled soft...
+- **[Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL](https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/)** — Wed, 04 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">To make good business decisions, you need two kinds of data: the live...
+- **[How Nammu21 automates syndicated loans on Google Cloud Universal Ledger](https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/)** — Tue, 03 Nov 2026 18:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The syndicated loan and private credit markets, both critical compone...
+- **[Leading in the agentic era: How to put people first as you adopt AI agents](https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/)** — Tue, 03 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Over the past few years, our Google Cloud Consulting team has partner...
+
+
 # ☁️ Cloud Updates — 2026-11-03 14:52 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -976,28 +1014,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Directed execution: same performance, more control](https://research.ibm.com/blog/directed-execution?utm_medium=rss&utm_source=rss)** — Mon, 05 Oct 2026 16:30:00 GMT
   See, customize, and extend how your circuits use the error mitigation and correction methods researchers are exploring today on IBM quantum hardware
-
-
-# ☁️ Cloud Updates — 2026-10-05 15:35 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments)** — Fri, 02 Oct 2026 20:18:00 GMT
-  <p><a href="https://aws.amazon.com/ecs/" rel="noopener noreferrer" target="_blank">Amazon Elastic Container Service</a> (Amazon ECS) now supports buil...
-- **[AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management)** — Fri, 02 Oct 2026 18:09:00 GMT
-  <p>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS serv...
-- **[Amazon Aurora DSQL now supports partial indexes](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/)** — Fri, 02 Oct 2026 17:30:00 GMT
-  <p><a href="https://aws.amazon.com/rds/aurora/dsql/">Amazon Aurora DSQL</a> now lets you build an index over a specific subset of a table, storing onl...
-- **[Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37)** — Fri, 02 Oct 2026 17:30:00 GMT
-  <p>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href="https://aws.ama...
-- **[AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/)** — Fri, 02 Oct 2026 16:30:00 GMT
-  <p>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program. Eligible non-Brazilian independent softw...
-
-## GCP Updates
-
-- **[Use your voice to get more done in Gmail, Docs, and Keep](https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/)** — Thu, 03 Sep 2026 16:00:00 +0000
-  Text reading: "Do more with your voice in Workspace"
