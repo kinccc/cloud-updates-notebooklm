@@ -1,3 +1,43 @@
+# ☁️ Cloud Updates — 2026-11-05 15:12 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Use decision models with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)** — Wed, 04 Nov 2026 18:46:36 +0000
+  Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect tw...
+- **[Smart Approvals in Amazon Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)** — Wed, 04 Nov 2026 16:33:03 +0000
+  Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping cons...
+- **[Four layers of context engineering for production AI agents: How Deep Insight applies them in working code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)** — Wed, 04 Nov 2026 16:30:40 +0000
+  In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, promp...
+- **[How Indegene is modernizing and scaling enterprise data quality in life sciences](https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/)** — Wed, 04 Nov 2026 16:25:57 +0000
+  This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates...
+- **[How U Mobile built agentic telco operations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/)** — Wed, 04 Nov 2026 16:23:33 +0000
+  U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assis...
+
+## Azure Updates
+
+- **[Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads](https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/)** — Wed, 04 Nov 2026 16:00:00 +0000
+  <p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying ...
+- **[The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/)** — Mon, 02 Nov 2026 20:52:22 +0000
+  <p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>
+<p>The post <a href="https://www.wired.com/sponsore...
+
+## GCP Updates
+
+- **[Agile Deliberation: How AI helps humans define the gray areas](https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/)** — Wed, 04 Nov 2026 18:07:05 +0000
+  Data Mining & Modeling
+
+## IBM Cloud Updates
+
+- **[How MEMS inertial sensors can rival GPS](https://research.ibm.com/blog/how-mems-inertial-sensors-can-rival-gps?utm_medium=rss&utm_source=rss)** — Thu, 05 Nov 2026 13:00:00 GMT
+  A breakthrough in self-calibration technology is revitalizing an old form of navigation.
+- **[ORNL, IBM, AMD launch co-design platform for QEC](https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform?utm_medium=rss&utm_source=rss)** — Thu, 05 Nov 2026 13:00:00 GMT
+  The U.S. DOE’s Quantum Science Center at Oak Ridge National Lab is leading the integration of IBM quantum hardware with ORNL HPC clusters, powered by ...
+
+
 # ☁️ Cloud Updates — 2026-11-04 15:08 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -979,38 +1019,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Qiskit beyond Python: Fortran, C++, and Julia](https://research.ibm.com/blog/qiskit-beyond-python?utm_medium=rss&utm_source=rss)** — Tue, 06 Oct 2026 04:00:00 GMT
   Qiskit’s C API connects the SDK’s Rust core to the languages of HPC and scientific computing, so you can build and run circuits natively—no Python req...
-
-
-# ☁️ Cloud Updates — 2026-10-06 13:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework](https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/)** — Mon, 05 Oct 2026 17:54:56 +0000
-  October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens pro...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure HorizonDB expands to additional regions](https://azure.microsoft.com/updates?id=572940)** — Mon, 05 Oct 2026 18:51:57 Z
-  Azure HorizonDB is expanding to additional Azure regions, giving you greater flexibility to deploy PostgreSQL workloads closer to your applications an...
-- **[[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu](https://azure.microsoft.com/updates?id=571499)** — Mon, 05 Oct 2026 18:12:09 Z
-  SQL Server on Azure Virtual Machines is now available in Azure Bleu, enabling you to deploy and manage SQL Server workloads in France's sovereign clou...
-- **[Announcing: Table discovery in OneLake Catalog search](https://azure.microsoft.com/updates?id=573875)** — Mon, 05 Oct 2026 17:55:23 Z
-  Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual result...
-- **[[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)](https://azure.microsoft.com/updates?id=573425)** — Mon, 05 Oct 2026 17:44:31 Z
-  Azure Backup for PostgreSQL flexible server and elastic cluster (v2) preview brings enterprise-grade long-term retention to PostgreSQL. Backups are ta...
-- **[[In preview] Public Preview: IPv6 Support for Application Gateway WAF](https://azure.microsoft.com/updates?id=573861)** — Mon, 05 Oct 2026 17:41:41 Z
-  Announcing the Public Preview of IPv6 support for Application Gateway WAF.Application Gateway Web Application Firewall (WAF) now supports inspection a...
-
-## GCP Updates
-
-- **[Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)** — Mon, 05 Oct 2026 21:08:31 +0000
-  Education Innovation
-
-## IBM Cloud Updates
-
-- **[Directed execution: same performance, more control](https://research.ibm.com/blog/directed-execution?utm_medium=rss&utm_source=rss)** — Mon, 05 Oct 2026 16:30:00 GMT
-  See, customize, and extend how your circuits use the error mitigation and correction methods researchers are exploring today on IBM quantum hardware
