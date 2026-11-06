@@ -1,3 +1,27 @@
+# ☁️ Cloud Updates — 2026-11-06 14:48 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How OrderServ achieved up to 64% cost savings with multi-tenant ECS](https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/)** — Fri, 06 Nov 2026 00:09:41 +0000
+  See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering platform into a multi-tenant SaaS offering on shared Amazon EC...
+- **[How TUI scales threat modeling for 100+ teams with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/)** — Thu, 05 Nov 2026 18:45:07 +0000
+  Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling system on Amazon Bedrock and Amazon Bedrock AgentCore to scale s...
+
+## Azure Updates
+
+- **[Formally verifying agent-written full-stack web apps with PDD Kit](https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/)** — Thu, 05 Nov 2026 16:00:00 +0000
+  <p>AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer int...
+
+## GCP Updates
+
+- **[Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.](https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/)** — Thu, 05 Nov 2026 20:00:00 +0000
+  Omni 1.2 Flash in Google Vids
+
+
 # ☁️ Cloud Updates — 2026-11-05 15:12 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -984,38 +1008,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[What's new at IBM Quantum Q3 2026](https://research.ibm.com/blog/whats-new-q3-2026?utm_medium=rss&utm_source=rss)** — Wed, 07 Oct 2026 04:00:00 GMT
   Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
-
-
-# ☁️ Cloud Updates — 2026-10-07 14:14 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)** — Tue, 06 Oct 2026 19:19:15 +0000
-  Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenCla...
-- **[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/)** — Tue, 06 Oct 2026 15:53:28 +0000
-  AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impa...
-- **[Best practices for Amazon SageMaker HyperPod administration and governance](https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/)** — Tue, 06 Oct 2026 15:50:23 +0000
-  Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platfor...
-- **[Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/)** — Tue, 06 Oct 2026 15:47:02 +0000
-  Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly ...
-- **[Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/)** — Tue, 06 Oct 2026 15:45:42 +0000
-  Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bas...
-
-## Azure Updates
-
-- **[What AI gets wrong and what failure teaches us](https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/)** — Tue, 06 Oct 2026 16:19:06 +0000
-  <p>Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to h...
-
-## GCP Updates
-
-- **[Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/)** — Tue, 06 Oct 2026 15:05:11 +0000
-  Earth AI
-
-## IBM Cloud Updates
-
-- **[Qiskit beyond Python: Fortran, C++, and Julia](https://research.ibm.com/blog/qiskit-beyond-python?utm_medium=rss&utm_source=rss)** — Tue, 06 Oct 2026 04:00:00 GMT
-  Qiskit’s C API connects the SDK’s Rust core to the languages of HPC and scientific computing, so you can build and run circuits natively—no Python req...
