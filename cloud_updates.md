@@ -1,3 +1,41 @@
+# ☁️ Cloud Updates — 2026-11-07 13:45 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)** — Fri, 06 Nov 2026 18:01:00 +0000
+  Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions...
+- **[Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)** — Fri, 06 Nov 2026 17:34:45 +0000
+  As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different nam...
+- **[Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)** — Fri, 06 Nov 2026 17:13:13 +0000
+  Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access...
+- **[Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/)** — Fri, 06 Nov 2026 17:09:23 +0000
+  In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and...
+- **[Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/)** — Fri, 06 Nov 2026 17:09:18 +0000
+  An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, a...
+
+## Azure Updates
+
+- **[Stop treating agents as one-off projects and start running them as a continuous discipline](https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/)** — Thu, 05 Nov 2026 17:00:00 +0000
+  <p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>
+<p>The post <a href="http...
+- **[Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200](https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/)** — Thu, 05 Nov 2026 16:00:00 +0000
+  <p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results de...
+
+## GCP Updates
+
+- **[Detecting signs of hypertension using wearable sensors](https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/)** — Thu, 05 Nov 2026 16:01:08 +0000
+  Health & Bioscience
+
+## IBM Cloud Updates
+
+- **[Chicago’s bid to lead the country in quantum computing](https://research.ibm.com/blog/chicago-quantum-computer?utm_medium=rss&utm_source=rss)** — Fri, 06 Nov 2026 05:00:00 GMT
+  New IBM Quantum System Two supports Illinois’ place at the center of the American quantum computing industry.
+
+
 # ☁️ Cloud Updates — 2026-11-06 14:48 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -972,39 +1010,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 ## GCP Updates
 
 - **[Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)** — Wed, 07 Oct 2026 20:19:57 +0000
-  
-
-
-# ☁️ Cloud Updates — 2026-10-08 14:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)** — Wed, 07 Oct 2026 18:52:10 +0000
-  Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the...
-- **[Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)** — Wed, 07 Oct 2026 18:34:44 +0000
-  Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Lea...
-- **[Beyond hours saved: Building the business case for agentic automation](https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/)** — Wed, 07 Oct 2026 15:50:00 +0000
-  The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the ful...
-- **[How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/)** — Wed, 07 Oct 2026 15:48:46 +0000
-  Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. ...
-- **[Automate remediation post AWS DevOps Agent investigation](https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/)** — Wed, 07 Oct 2026 15:46:49 +0000
-  AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows ho...
-
-## Azure Updates
-
-- **[Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/)** — Wed, 07 Oct 2026 16:00:00 +0000
-  <p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex framewor...
-
-## GCP Updates
-
-- **[Google Cloud introduces the Gemini agent.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/)** — Thu, 08 Oct 2026 12:05:00 +0000
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" />Google Cloud’s new Gem...
-
-## IBM Cloud Updates
-
-- **[What's new at IBM Quantum Q3 2026](https://research.ibm.com/blog/whats-new-q3-2026?utm_medium=rss&utm_source=rss)** — Wed, 07 Oct 2026 04:00:00 GMT
-  Explore the latest updates, releases, and resources from IBM Quantum and the Qiskit community.
