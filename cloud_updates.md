@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-11-08 14:05 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock)** — Fri, 06 Nov 2026 22:47:00 GMT
+  <p>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance th...
+- **[Agent Registry is now generally available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/)** — Fri, 06 Nov 2026 19:48:00 GMT
+  <p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region.</p> 
+<p>AWS Agent Registry i...
+- **[Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions)** — Fri, 06 Nov 2026 16:00:00 GMT
+  <p>You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across <a href="https://aws.amazon...
+- **[Amazon Redshift expands SUPER data type to store strings up to 16 million bytes](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/)** — Fri, 06 Nov 2026 16:00:00 GMT
+  <p><a href="https://aws.amazon.com/redshift/">Amazon Redshift</a> now supports individual strings up to 16 million bytes within <a href="https://docs....
+- **[AWS launches support for amortization of EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/)** — Fri, 06 Nov 2026 15:00:00 GMT
+  <p>AWS Data Exports for Cost and Usage Report (CUR) 2.0 and AWS Cost Explorer now amortize the upfront fee for Amazon EC2 Capacity Blocks for ML acros...
+
+## Azure Updates
+
+- **[Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032)** — Fri, 06 Nov 2026 19:08:44 +0000
+  <p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p...
+
+## GCP Updates
+
+- **[Google Cloud introduces the Gemini agent.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/)** — Thu, 08 Oct 2026 12:05:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" />Google Cloud’s new Gem...
+
+
 # ☁️ Cloud Updates — 2026-11-07 13:45 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -984,29 +1015,3 @@ Environments will retire on February 22, 2027. Beginning on September
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we </span><a href="https://cloud.google.com/blog/products/ai-m...
 - **[Welcome to Gemini at Work 2026: Introducing the Gemini agent](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/)** — Thu, 08 Oct 2026 12:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Editor’s note: This article is adapted from Thoma...
-
-
-# ☁️ Cloud Updates — 2026-10-09 14:09 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)** — Thu, 08 Oct 2026 18:33:29 +0000
-  Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. Se...
-- **[Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)** — Thu, 08 Oct 2026 16:20:04 +0000
-  A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authe...
-
-## Azure Updates
-
-- **[AI transformation across the infrastructure lifecycle: From supply chain to fleet operations](https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/)** — Wed, 07 Oct 2026 15:00:00 +0000
-  <p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and...
-- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/)** — Tue, 06 Oct 2026 21:00:00 +0000
-  <p>We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.</p>
-<p>The p...
-
-## GCP Updates
-
-- **[Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)** — Wed, 07 Oct 2026 20:19:57 +0000
