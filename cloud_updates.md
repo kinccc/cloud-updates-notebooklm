@@ -1,3 +1,52 @@
+# ☁️ Cloud Updates — 2026-11-09 17:12 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs](https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/)** — Mon, 09 Nov 2026 08:00:00 GMT
+  <p>AWS Nitro Sandboxes are now available as lightweight VMs managed by the Nitro Hypervisor. You can use Nitro Sandboxes for an Amazon EKS pod, or Ama...
+- **[Amazon MWAA Serverless supports Apache Airflow connections and variables](https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-connections-variables/)** — Fri, 06 Nov 2026 18:00:00 GMT
+  <p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports Apache Airflow connections and variables, so your workflows can r...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support](https://azure.microsoft.com/updates?id=577668)** — Thu, 05 Nov 2026 23:19:48 Z
+  Azure Front Door now supports configurable TLS key exchange
+policies, including hybrid post-quantum key exchange, to help you prepare for
+evolving cry...
+- **[[Launched] Generally Available: WAF Insights for Azure Application Gateway](https://azure.microsoft.com/updates?id=579280)** — Thu, 05 Nov 2026 17:11:31 Z
+  WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF...
+- **[[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01](https://azure.microsoft.com/updates?id=579300)** — Wed, 04 Nov 2026 18:42:12 Z
+  The Azure Database for PostgreSQL Flexible Server REST API version 2026-10-01 is now generally available. This stable API release introduces expanded ...
+- **[Generally Available: Route maps for Azure Route Server](https://azure.microsoft.com/updates?id=578966)** — Wed, 04 Nov 2026 18:39:41 Z
+  Route maps for Azure Route Server are now generally available in the Azure public cloud. Route maps provide fine-grained control over inbound and outb...
+- **[[In preview] Public Preview: Azure Firewall IPv6 now supports application rules](https://azure.microsoft.com/updates?id=579507)** — Wed, 04 Nov 2026 18:09:43 Z
+  Azure Firewall now supports application rules in IPv6
+Public Preview, enabling layer 7 filtering for IPv6 HTTP and HTTPS traffic. The
+enhancement exte...
+
+## GCP Updates
+
+- **[New survey finds enterprises trapped between legacy software and AI modernization](https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/)** — Mon, 09 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph"><p>Throughout my career in cybersecurity and infrastructure protection — both in government and now at Google Cloud — I h...
+- **[Cloud CISO Perspectives: Our security forecast for 2027](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/)** — Mon, 09 Nov 2026 16:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Welcome to the first Cloud CISO Perspectives for November 2026. Today...
+- **[Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU](https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/)** — Mon, 09 Nov 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As frontier AI evolves from stateless single-turn prompts to million-...
+- **[Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs](https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/)** — Mon, 09 Nov 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Running large-scale AI workloads on TPU and Google Kubernetes Engine ...
+- **[Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA](https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/)** — Mon, 09 Nov 2026 13:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we are thrilled to announce the </span><strong style="vertical...
+
+## IBM Cloud Updates
+
+- **[Building policy enforcement into the AI stack with Praxis](https://research.ibm.com/blog/building-policy-enforcement-into-the-ai-stack-with-praxis?utm_medium=rss&utm_source=rss)** — Mon, 09 Nov 2026 15:30:00 GMT
+  From inference through gateways, agents, and policy controls, the Praxis Policy Engine is a programmable security guard for AI agents.
+
+
 # ☁️ Cloud Updates — 2026-11-08 14:05 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -969,49 +1018,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverle...
 - **[How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)** — Fri, 09 Oct 2026 15:35:02 +0000
   Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural p...
-
-
-# ☁️ Cloud Updates — 2026-10-10 13:18 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
-  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
-
-## Azure Updates
-
-- **[Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://azure.microsoft.com/updates?id=570313)** — Fri, 09 Oct 2026 20:27:17 Z
-  The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...
-- **[[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS](https://azure.microsoft.com/updates?id=574430)** — Thu, 08 Oct 2026 22:51:01 Z
-  AKS will now provision and manage a StandardV2 NAT Gateway
-for clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT...
-- **[[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3](https://azure.microsoft.com/updates?id=573691)** — Thu, 08 Oct 2026 19:56:31 Z
-  Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.
-- **[Retirement: Microsoft Dev Box will be retired on September 18, 2028](https://azure.microsoft.com/updates?id=567933)** — Thu, 08 Oct 2026 18:23:25 Z
-  Microsoft Dev Box will
-retire on September 18, 2028. Beginning on September 14, 2026,
-Microsoft Dev Box will begin the closing-down process. After ret...
-- **[Retirement: Azure Deployment Environments will be retired on February 22, 2027](https://azure.microsoft.com/updates?id=567934)** — Thu, 08 Oct 2026 18:20:34 Z
-  Azure Deployment
-Environments will retire on February 22, 2027. Beginning on September
-14, 2026, Azure Deployment Environments will begin the closing-...
-
-## GCP Updates
-
-- **[Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery](https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/)** — Fri, 09 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Alteryx One Live Query and Google Cloud BigQuery redefine how enterpr...
-- **[What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)** — Fri, 09 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3>October 5 - October 9</h3>
-<ul>
-<li style="vertical-align: baseline;">
-<p><strong style="vertical-align: bas...
-- **[Innovation in Ireland: How Irish brands scale with Gemini Enterprise](https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/)** — Thu, 08 Oct 2026 12:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In recent decades, Ireland has grown into a vibrant hub for global te...
-- **[Empowering SMBs to do more with Gemini](https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/)** — Thu, 08 Oct 2026 12:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we </span><a href="https://cloud.google.com/blog/products/ai-m...
-- **[Welcome to Gemini at Work 2026: Introducing the Gemini agent](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/)** — Thu, 08 Oct 2026 12:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="font-style: italic; vertical-align: baseline;">Editor’s note: This article is adapted from Thoma...
