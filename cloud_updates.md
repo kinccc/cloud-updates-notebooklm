@@ -1,3 +1,30 @@
+# ☁️ Cloud Updates — 2026-11-10 15:25 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[You Wanted to Become AI-Native, and All You Got Was a Lousy Foundation](https://aws.amazon.com/blogs/enterprise-strategy/you-wanted-to-become-ai-native-and-all-you-got-was-a-lousy-foundation/)** — Thu, 07 May 2026 21:49:56 +0000
+  Always implement things when you actually need them, never when you just foresee that you need them. —Ron Jeffries, co-founder of Extreme Programming ...
+
+## Azure Updates
+
+- **[Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026](https://azure.microsoft.com/updates?id=575106)** — Mon, 09 Nov 2026 22:50:01 Z
+  Support for .NET
+8 and .NET 9 will end on November 10, 2026. Please transition your managed Functions APIs to .NET 10 by that date. Your apps will con...
+- **[[In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync](https://azure.microsoft.com/updates?id=579854)** — Mon, 09 Nov 2026 17:20:57 Z
+  Azure File Sync provides hybrid access or seamless migration of data from Windows Server to Azure Files while preserving the familiar local file serve...
+
+## GCP Updates
+
+- **[We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/)** — Tue, 10 Nov 2026 14:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp" />Google and Adobe are inte...
+- **[Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)** — Tue, 10 Nov 2026 13:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp" />Google Cloud launches G...
+
+
 # ☁️ Cloud Updates — 2026-11-09 17:12 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1004,17 +1031,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[How distributed inference keeps large AI models moving](https://research.ibm.com/blog/distributed-inference?utm_medium=rss&utm_source=rss)** — Mon, 12 Oct 2026 04:00:00 GMT
   Distributed inference serving is an air traffic control tower for AI traffic, and agentic workflows make it more necessary than ever.
-
-
-# ☁️ Cloud Updates — 2026-10-11 13:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/)** — Fri, 09 Oct 2026 15:38:39 +0000
-  A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverle...
-- **[How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)** — Fri, 09 Oct 2026 15:35:02 +0000
-  Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural p...
