@@ -1,3 +1,40 @@
+# ☁️ Cloud Updates — 2026-11-11 14:56 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls](https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/)** — Tue, 10 Nov 2026 16:48:09 +0000
+  Application teams in regulated enterprises can execute self-service regional failover with Amazon Application Recovery Controller (ARC) Region Switch,...
+- **[Transforming fleet analytics for Novus Hi-Tech through agentic AI](https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/)** — Mon, 09 Nov 2026 20:34:35 +0000
+  Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team, built FleetGPT, an agentic AI solution on Amazon Bedrock th...
+- **[How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN](https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan/)** — Mon, 09 Nov 2026 20:15:09 +0000
+  DeepL runs a multi-Region hybrid network across multiple AWS Regions and AWS Direct Connect locations. See how DeepL drains a single Direct Connect li...
+
+## Azure Updates
+
+- **[Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/)** — Tue, 10 Nov 2026 20:52:56 +0000
+  <p>Microsoft researchers have discovered &#8220;Lazarus,&#8221; a backdoor technique that can reprogram dormant neurons in an AI model, causing an oth...
+
+## GCP Updates
+
+- **[Exploring the world's languages with Language Explorer](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)** — Mon, 09 Nov 2026 20:29:39 +0000
+  Natural Language Processing
+
+## IBM Cloud Updates
+
+- **[Tracking progress on the path to IBM Quantum Starling](https://research.ibm.com/blog/path-to-starling?utm_medium=rss&utm_source=rss)** — Wed, 11 Nov 2026 13:00:00 GMT
+  Advances across parallel technology areas are laying the groundwork for fault-tolerant quantum computing by the end of the decade.
+- **[The year of advantage—and what comes next](https://research.ibm.com/blog/qdc-2026?utm_medium=rss&utm_source=rss)** — Wed, 11 Nov 2026 12:00:00 GMT
+  IBM Quantum Developer Conference 2026 brings advances in hardware, software, and applications for turning quantum advantage into real-world impact.
+- **[QDC 2026: what quantum developers need to know](https://research.ibm.com/blog/dev-tools-qdc-2026?utm_medium=rss&utm_source=rss)** — Wed, 11 Nov 2026 11:59:00 GMT
+  A developer’s guide to the hardware, software, and workflows unveiled at IBM Quantum Developer Conference 2026.
+- **[Tracking progress on the path to IBM Quantum Starling](https://research.ibm.com/blog/path-to-ibm-quantum-starling?utm_medium=rss&utm_source=rss)** — Wed, 11 Nov 2026 11:58:00 GMT
+  Advances across parallel technology areas are laying the groundwork for fault-tolerant quantum computing by the end of the decade.
+
+
 # ☁️ Cloud Updates — 2026-11-10 15:25 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -995,39 +1032,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Scaling AI-driven chip design with open agent factories](https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 12:00:00 GMT
   Open models and llm-d enabled IBM Research to explore quantum error correction hardware at 11.5× lower inference cost than an all-proprietary configur...
-
-
-# ☁️ Cloud Updates — 2026-10-12 16:31 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/)** — Mon, 12 Oct 2026 14:34:57 +0000
-  This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. ...
-
-## Azure Updates
-
-- **[Simulating student learning for better AI tutoring](https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/)** — Mon, 12 Oct 2026 16:00:00 +0000
-  <p>StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may ...
-
-## GCP Updates
-
-- **[Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery](https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/)** — Mon, 12 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><h3><strong style="vertical-align: baseline;">Overview</strong></h3>
-<p><span style="vertical-align: baseline;">...
-- **[Trusted Data Apps for the Agentic Data Cloud, powered by Looker](https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/)** — Mon, 12 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As a business intelligence user, this probably sounds familiar: Most ...
-- **[10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”](https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/)** — Mon, 12 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><div>
-<div class="Draftail-block--unstyled">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault...
-- **[Agentic data science with the Data Agent Kit](https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/)** — Mon, 12 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine your compliance team notices that payments are taking longer ...
-
-## IBM Cloud Updates
-
-- **[How distributed inference keeps large AI models moving](https://research.ibm.com/blog/distributed-inference?utm_medium=rss&utm_source=rss)** — Mon, 12 Oct 2026 04:00:00 GMT
-  Distributed inference serving is an air traffic control tower for AI traffic, and agentic workflows make it more necessary than ever.
