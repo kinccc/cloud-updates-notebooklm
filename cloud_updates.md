@@ -1,3 +1,46 @@
+# ☁️ Cloud Updates — 2026-11-12 15:47 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Zillow runs 100 million daily notifications on AWS Step Functions](https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/)** — Wed, 11 Nov 2026 23:25:00 +0000
+  Zillow sends more than 100 million personalized notifications a day, each as a short-lived AWS Step Functions Express workflow. See how the Comms Expe...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF](https://azure.microsoft.com/updates?id=580155)** — Wed, 11 Nov 2026 18:18:27 Z
+  Announcing the public preview
+of rate limit grouping for Azure Web Application Firewall (WAF) on Azure Front
+Door Premium. By default, a rate limit ru...
+- **[[In preview] Public Preview: Distributed accelerator for cloud storage on AKS](https://azure.microsoft.com/updates?id=578454)** — Tue, 10 Nov 2026 20:08:32 Z
+  Distributed accelerator for cloud storage (DACS) is now in public preview for AI workloads running on Azure Kubernetes Service (AKS). DACS is a distri...
+- **[[Launched] Generally Available: Azure Functions support for .NET 11](https://azure.microsoft.com/updates?id=578773)** — Tue, 10 Nov 2026 20:07:45 Z
+  Azure Functions support for .NET 11 is now generally available.You can now
+build Azure Functions apps targeting .NET 11 using the isolated worker mode...
+- **[[In preview] Public Preview: Azure Front Door adds native gRPC support](https://azure.microsoft.com/updates?id=579383)** — Tue, 10 Nov 2026 18:55:53 Z
+  Announcing the public preview of gRPC support in Azure Front
+Door. Build and deliver gRPC applications through
+Azure Front Door Standard and Premium. ...
+- **[[Launched] Generally Available: Azure Front Door edge actions](https://azure.microsoft.com/updates?id=579310)** — Tue, 10 Nov 2026 18:55:09 Z
+  Announcing the general availability of Azure Front Door edge
+actions (serverless compute at the edge). With edge actions, customers can execute lightw...
+
+## GCP Updates
+
+- **[Google Cloud leaders share what to expect in cybersecurity for 2027.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/)** — Wed, 11 Nov 2026 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp" />In our Security 2027 a...
+- **[Get certified as a Google Cloud Professional Agentic Architect.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/)** — Wed, 11 Nov 2026 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" />Today we annou...
+
+## IBM Cloud Updates
+
+- **[What is a spin qubit?](https://research.ibm.com/blog/spin-qubits-explained?utm_medium=rss&utm_source=rss)** — Thu, 12 Nov 2026 15:30:00 GMT
+  A possible path toward building larger quantum computers involves encoding quantum information in the spins of electrons.
+
+
 # ☁️ Cloud Updates — 2026-11-11 14:56 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1002,33 +1045,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Preparing chip designers for the nanostack era](https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 16:00:00 GMT
   IBM is releasing a process design kit for our groundbreaking 0.7-nanometer transistor architecture.
-
-
-# ☁️ Cloud Updates — 2026-10-13 14:49 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS](https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/)** — Tue, 13 Oct 2026 14:32:42 +0000
-  Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses ma...
-- **[Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way](https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/)** — Tue, 13 Oct 2026 14:23:33 +0000
-  In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit whi...
-
-## Azure Updates
-
-- **[Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)** — Mon, 12 Oct 2026 13:00:00 +0000
-  <p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>
-<p>The post <a href="https://azure.microsoft.com/e...
-
-## GCP Updates
-
-- **[One Agent Development Kit, five languages](https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/)** — Tue, 13 Oct 2026 12:22:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When we talk about agents, that doesn't necessarily mean we're talkin...
-
-## IBM Cloud Updates
-
-- **[Scaling AI-driven chip design with open agent factories](https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 12:00:00 GMT
-  Open models and llm-d enabled IBM Research to explore quantum error correction hardware at 11.5× lower inference cost than an all-proprietary configur...
