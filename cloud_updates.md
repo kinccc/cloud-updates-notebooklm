@@ -1,3 +1,29 @@
+# ☁️ Cloud Updates — 2026-11-13 15:07 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Modular regression testing framework built on AWS for large-scale systems](https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/)** — Thu, 12 Nov 2026 21:51:43 +0000
+  Regression testing must catch behavior changes before they reach production, yet synthetic tests miss real-world edge cases. This post walks through a...
+- **[Scale distributed AI workloads with Ray and Anyscale on Amazon EC2](https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/)** — Thu, 12 Nov 2026 20:51:20 +0000
+  Building multimodal AI/ML pipelines on Amazon EC2 means scaling distributed compute, controlling costs across stages, and keeping up with new models a...
+- **[Inside an enterprise AI agent: A governed, observable loop architecture](https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/)** — Thu, 12 Nov 2026 19:31:28 +0000
+  This post lays out a five-layer reference architecture for governed, observable enterprise AI agents on AWS: an API gateway, a five-phase agent runtim...
+
+## Azure Updates
+
+- **[Microsoft Research Focus – Edition #98](https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/)** — Thu, 12 Nov 2026 21:31:57 +0000
+  <p>What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old...
+
+## GCP Updates
+
+- **[Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)** — Wed, 11 Nov 2026 19:54:00 +0000
+  Health & Bioscience
+
+
 # ☁️ Cloud Updates — 2026-11-12 15:47 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1023,25 +1049,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   Earth AI
 - **[Analyzing technical documents with Deep Review](https://research.google/blog/analyzing-technical-documents-with-deep-review/)** — Wed, 14 Oct 2026 16:14:00 +0000
   General Science
-
-
-# ☁️ Cloud Updates — 2026-10-14 12:40 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Scope workloads and share resilience policies with AWS Resilience Hub](https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/)** — Tue, 13 Oct 2026 21:30:10 +0000
-  The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environ...
-
-## GCP Updates
-
-- **[We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)** — Wed, 14 Oct 2026 08:00:00 +0000
-  Photo of Grand Canal Dock, Dublin City Centre, Ireland
-
-## IBM Cloud Updates
-
-- **[Preparing chip designers for the nanostack era](https://research.ibm.com/blog/preparing-chip-designers-for-the-nanostack-era?utm_medium=rss&utm_source=rss)** — Tue, 13 Oct 2026 16:00:00 GMT
-  IBM is releasing a process design kit for our groundbreaking 0.7-nanometer transistor architecture.
