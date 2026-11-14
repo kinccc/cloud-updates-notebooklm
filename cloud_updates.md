@@ -1,3 +1,38 @@
+# ☁️ Cloud Updates — 2026-11-14 13:57 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Thermo Fisher Scientific built AI-powered patient matching on AWS](https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/)** — Fri, 13 Nov 2026 20:26:58 +0000
+  Learn how Thermo Fisher Scientific built an AI-powered patient-matching platform on AWS, modernizing its clinical trial recruitment data foundation an...
+
+## Azure Updates
+
+- **[Retirement: Azure Data Share will be retired on November 12, 2029](https://azure.microsoft.com/updates?id=578818)** — Fri, 13 Nov 2026 19:54:45 Z
+  Azure Data Share will retire on November 12, 2029. Before that date, transition your data sharing workloads to Microsoft Fabric, which offers External...
+- **[[In preview] Public Preview: JWT validation with Azure Front Door Auth Policy](https://azure.microsoft.com/updates?id=577673)** — Thu, 12 Nov 2026 22:36:37 Z
+  JSON Web Token (JWT) validation through Azure Front Door Auth Policy is now in public preview on Azure Front Door Premium. Validate bearer tokens issu...
+- **[[Launched] Generally Available: Azure Front Door mutual TLS authentication](https://azure.microsoft.com/updates?id=577678)** — Thu, 12 Nov 2026 22:27:35 Z
+  Mutual TLS (mTLS), also known as client certificate
+authentication, is now generally available on Azure Front Door Premium. Use
+X.509 client certifica...
+- **[[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace](https://azure.microsoft.com/updates?id=578207)** — Thu, 12 Nov 2026 18:23:52 Z
+  Auto scaling introduces a
+per-workspace capability in Azure Monitor Workspace (AMW) to automatically
+scale ingestion limits based on observed usage pa...
+- **[[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance](https://azure.microsoft.com/updates?id=574158)** — Thu, 12 Nov 2026 16:59:40 Z
+  The public preview of Microsoft-managed performance
+monitoring for Azure SQL Managed Instance is now available. Customers monitoring business-critical...
+
+## GCP Updates
+
+- **[Advancing science & engineering with Antigravity’s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)** — Fri, 13 Nov 2026 20:47:18 +0000
+  Education Innovation
+
+
 # ☁️ Cloud Updates — 2026-11-13 15:07 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1019,33 +1054,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises shift their AI usage from experimental chatbots to aut...
 - **[Modernizing perimeter security: Scalable perimeters with VPC Service Controls](https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/)** — Thu, 15 Oct 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agents represent a fundamental shift in cloud operations. They can ac...
-
-
-# ☁️ Cloud Updates — 2026-10-15 12:28 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Multi-region disaster recovery for Amazon API Gateway WebSocket APIs](https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/)** — Wed, 14 Oct 2026 14:31:55 +0000
-  Learn how to build multi-region disaster recovery for Amazon API Gateway WebSocket APIs. This design pattern combines Amazon Route 53 DNS failover, Am...
-- **[How UTS established a modern curriculum data services foundation on AWS](https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/)** — Wed, 14 Oct 2026 14:29:10 +0000
-  The University of Technology Sydney built a modern curriculum data services foundation on AWS that treats curriculum data as a governed, reusable prod...
-
-## Azure Updates
-
-- **[Advancing hardware security with open-source Integrated HSM technology](https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/)** — Tue, 13 Oct 2026 16:15:00 +0000
-  <p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection...
-- **[Infrastructure for the frontier era: Scaling intelligence through open industry collaboration](https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/)** — Tue, 13 Oct 2026 16:15:00 +0000
-  <p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact...
-
-## GCP Updates
-
-- **[Research@ 2026: 10 ways we're amplifying human ingenuity](https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/)** — Wed, 14 Oct 2026 16:14:34 +0000
-  General Science
-- **[Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/)** — Wed, 14 Oct 2026 16:14:00 +0000
-  Earth AI
-- **[Analyzing technical documents with Deep Review](https://research.google/blog/analyzing-technical-documents-with-deep-review/)** — Wed, 14 Oct 2026 16:14:00 +0000
-  General Science
