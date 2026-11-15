@@ -1,3 +1,34 @@
+# ☁️ Cloud Updates — 2026-11-15 14:32 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)** — Fri, 13 Nov 2026 23:22:09 +0000
+  GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how M...
+- **[Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)** — Fri, 13 Nov 2026 22:30:12 +0000
+  Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy Lit...
+- **[Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)** — Fri, 13 Nov 2026 22:02:39 +0000
+  Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with...
+- **[OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)** — Fri, 13 Nov 2026 21:53:40 +0000
+  Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account....
+- **[Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)** — Fri, 13 Nov 2026 19:35:35 +0000
+  Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-...
+
+## GCP Updates
+
+- **[New AI agent observability and governance across BigQuery and Looker](https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/)** — Fri, 13 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises move AI agents from experimental prototypes into produ...
+- **[Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26](https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/)** — Fri, 13 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Computational scientists and HPC engineers have always been among the...
+- **[From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB](https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/)** — Fri, 13 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Bridging the gap between analytical systems (OLAP) and transactional ...
+- **[Chrome Enterprise brings more protections to healthcare technologies](https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/)** — Thu, 12 Nov 2026 18:55:00 +0000
+  <div class="block-paragraph"><p>Healthcare is adopting AI quickly, and it's moving beyond chat. Clinical teams are starting to use AI agents that draf...
+
+
 # ☁️ Cloud Updates — 2026-11-14 13:57 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1026,31 +1057,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/)** — Fri, 16 Oct 2026 18:11:34 +0000
   General Science
-
-
-# ☁️ Cloud Updates — 2026-10-16 12:06 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE](https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/)** — Thu, 15 Oct 2026 15:50:31 +0000
-  Dynata reimagined its development lifecycle with AI, moving from AI-assisted coding to the AI-Driven Development Lifecycle (AI-DLC) methodology with K...
-
-## Azure Updates
-
-- **[Proof-based general-purpose computing with Magnetar](https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <p>Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mains...
-
-## GCP Updates
-
-- **[Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand](https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The open-source </span><a href="https://temporal.io/" rel="noopener" ...
-- **[What the Gemini agent means for startups](https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Small teams, short runway, and constant pressure to ship faster — it’...
-- **[Bringing the borderless Lakehouse into the agentic era with innovations for Gemini](https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises shift their AI usage from experimental chatbots to aut...
-- **[Modernizing perimeter security: Scalable perimeters with VPC Service Controls](https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Agents represent a fundamental shift in cloud operations. They can ac...
