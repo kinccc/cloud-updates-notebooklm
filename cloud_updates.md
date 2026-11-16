@@ -1,3 +1,33 @@
+# ☁️ Cloud Updates — 2026-11-16 16:46 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/)** — Mon, 16 Nov 2026 16:12:16 +0000
+  Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks u...
+- **[Best practices for writing Denied Topics in Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/)** — Mon, 16 Nov 2026 15:48:01 +0000
+  With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning...
+- **[Customize answers per tenant in Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/)** — Mon, 16 Nov 2026 15:46:28 +0000
+  Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared...
+- **[Use prompt caching with open-weight models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/)** — Mon, 16 Nov 2026 15:42:41 +0000
+  Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to re...
+
+## GCP Updates
+
+- **[New AI training performance benchmarks for Google TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/)** — Mon, 16 Nov 2026 16:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" />In the latest MLPerf Training...
+
+## IBM Cloud Updates
+
+- **[SC26: IBM shows progress in bringing quantum & HPC together](https://research.ibm.com/blog/sc26?utm_medium=rss&utm_source=rss)** — Mon, 16 Nov 2026 16:00:00 GMT
+  At SC26 in Chicago, IBM and partners show how quantum computers are integrating into workflows and tools that the supercomputing workforce already run...
+- **[IBM, AMD advance quantum error correction decoding at scale](https://research.ibm.com/blog/pelagos?utm_medium=rss&utm_source=rss)** — Mon, 16 Nov 2026 15:59:00 GMT
+  New open-source tool from IBM and AMD helps researchers evaluate quantum error-correction decoders at scale for future fault-tolerant quantum systems.
+
+
 # ☁️ Cloud Updates — 2026-11-15 14:32 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1026,34 +1056,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The real challenge of building an agentic system isn't the constructi...
 - **[The SAVE method: Learn the fundamentals to engineer trustworthy generative media](https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/)** — Fri, 16 Oct 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Consulting works with organizations every day to build g...
-
-
-# ☁️ Cloud Updates — 2026-10-17 11:25 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)** — Fri, 16 Oct 2026 20:48:16 +0000
-  Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on...
-- **[Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)** — Fri, 16 Oct 2026 15:23:10 +0000
-  Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazo...
-- **[Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)** — Thu, 15 Oct 2026 17:43:35 +0000
-  Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in yo...
-- **[Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)** — Thu, 15 Oct 2026 15:05:35 +0000
-  Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approac...
-- **[Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)** — Wed, 14 Oct 2026 16:24:07 +0000
-  Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and le...
-
-## Azure Updates
-
-- **[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/)** — Wed, 14 Oct 2026 19:00:00 +0000
-  <p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>
-<p>The post <a href="https:...
-
-## GCP Updates
-
-- **[Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/)** — Fri, 16 Oct 2026 18:11:34 +0000
-  General Science
