@@ -1,3 +1,32 @@
+# ☁️ Cloud Updates — 2026-11-17 16:43 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Rakbank built centralized observability at scale with Amazon OpenSearch Service](https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/)** — Tue, 17 Nov 2026 16:03:22 +0000
+  Rakbank re-platformed logging for its retail digital banking workloads on a cross-account, Multi-AZ Amazon OpenSearch Service design that ingests ~150...
+- **[Announcing updates to the AWS Well-Architected Framework](https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3/)** — Mon, 16 Nov 2026 20:03:26 +0000
+  Updates to the AWS Well-Architected Framework reorganize it into Well-Architected Cloud Foundations and Well-Architected Cloud Workloads, add new best...
+
+## Azure Updates
+
+- **[TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient](https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/)** — Mon, 16 Nov 2026 17:01:35 +0000
+  <p>AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cu...
+
+## GCP Updates
+
+- **[The era of autonomous attacks has arrived.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/)** — Mon, 16 Nov 2026 18:30:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Threat_Tracker.max-600x600.format-webp.webp" />See how bad actors are shifti...
+
+## IBM Cloud Updates
+
+- **[How low-SWaP radar is making sophisticated sensing smarter](https://research.ibm.com/blog/how-low-sWaP-radar-is-making-sensing-smarter?utm_medium=rss&utm_source=rss)** — Tue, 17 Nov 2026 12:00:00 GMT
+  Low size, weight, and power are key to useful radar systems, and it takes more than one breakthrough component to make them work.
+
+
 # ☁️ Cloud Updates — 2026-11-16 16:46 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1022,37 +1051,3 @@ approach for connecting Azure IaaS worklo...
 
 - **[New course teaches how AI models run on modern accelerators](https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization?utm_medium=rss&utm_source=rss)** — Mon, 19 Oct 2026 12:00:00 GMT
   'Dataflow Architectures for AI' is a 6-course specialization from IBM Research that compares leading accelerator architectures through hands-on labs.
-
-
-# ☁️ Cloud Updates — 2026-10-18 11:57 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
-  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
-
-## Azure Updates
-
-- **[Managing open-weight model risk in enterprise deployments](https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/)** — Fri, 16 Oct 2026 16:05:00 +0000
-  <p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>
-<p>The post <a...
-- **[Evolving the cloud-native foundation for the next generation of AI](https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/)** — Thu, 15 Oct 2026 16:00:00 +0000
-  <p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>
-<p...
-
-## GCP Updates
-
-- **[Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo](https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/)** — Fri, 16 Oct 2026 17:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, Reflection released </span><a href="https://huggingface.co/ref...
-- **[Architecting autonomy: A design pattern for high-compute, governed agents in biotech](https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/)** — Fri, 16 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">In production systems today, most AI age...
-- **[Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes](https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/)** — Fri, 16 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Everything is moving faster in the age of AI, and that includes secur...
-- **[Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/)** — Fri, 16 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">The real challenge of building an agentic system isn't the constructi...
-- **[The SAVE method: Learn the fundamentals to engineer trustworthy generative media](https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/)** — Fri, 16 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Google Cloud Consulting works with organizations every day to build g...
