@@ -1,3 +1,25 @@
+# ☁️ Cloud Updates — 2026-11-18 16:13 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI, Technical Debt, and the Path to Real Fluency](https://aws.amazon.com/blogs/enterprise-strategy/ai-technical-debt-and-the-path-to-real-fluency/)** — Tue, 14 Apr 2026 19:58:36 +0000
+  Every enterprise leader I talk to right now is wrestling with the same three problems.&nbsp;They’re&nbsp;not unique to any one industry or company siz...
+
+## Azure Updates
+
+- **[Can AI help build a healthier future?](https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/)** — Tue, 17 Nov 2026 16:52:17 +0000
+  <p>What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Micro...
+
+## GCP Updates
+
+- **[Anyone can create a personal avatar of themselves in Google Vids, at no cost.](https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/)** — Tue, 17 Nov 2026 17:00:00 +0000
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" />Crea...
+
+
 # ☁️ Cloud Updates — 2026-11-17 16:43 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1004,50 +1026,3 @@ Azure DNS reco...
 
 - **[llm-d 1.0 hardens open-source AI inference for production](https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss)** — Tue, 20 Oct 2026 12:00:00 GMT
   The distributed inference framework makes serving large models on your own infrastructure reliable and affordable for the agentic era.
-
-
-# ☁️ Cloud Updates — 2026-10-19 14:23 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion)** — Fri, 16 Oct 2026 20:04:00 GMT
-  <p>Amazon CloudWatch log centralization is now available in AWS GovCloud (US) and 13 additional commercial Regions. CloudWatch log centralization copi...
-- **[AWS Lambda durable functions are now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/)** — Fri, 16 Oct 2026 18:26:00 GMT
-  <p>AWS Lambda durable functions are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. Lambda durable functions enable de...
-- **[Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/)** — Fri, 16 Oct 2026 17:59:00 GMT
-  <p>NVIDIA's Nemotron 3.5 Super VL is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS custom...
-- **[Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)** — Fri, 16 Oct 2026 16:00:00 GMT
-  <p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker...
-- **[AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)** — Fri, 16 Oct 2026 13:50:00 GMT
-  <p>Today, AWS announced the general availability of application code conversion from Azure SDK to AWS SDK in AWS Transform, giving you an accelerated ...
-
-## Azure Updates
-
-- **[[In preview] Public Preview: Azure Databricks Private network gateway](https://azure.microsoft.com/updates?id=576556)** — Fri, 16 Oct 2026 16:59:02 Z
-  Private network gateway for Azure Databricks is
-now in Public Preview, enabling serverless compute to connect to resources in
-your virtual network (VN...
-- **[[Launched] Generally Available: External key management for Azure Key Vault Managed HSM](https://azure.microsoft.com/updates?id=574296)** — Fri, 16 Oct 2026 16:50:27 Z
-  External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or s...
-- **[[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover](https://azure.microsoft.com/updates?id=576542)** — Thu, 15 Oct 2026 19:05:18 Z
-  Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant us...
-- **[[Launched] Generally Available: Standard service endpoint](https://azure.microsoft.com/updates?id=571025)** — Thu, 15 Oct 2026 17:39:51 Z
-  Standard service endpoint, a
-new capability in the Azure Private Link family, provides a scalable and secure
-approach for connecting Azure IaaS worklo...
-- **[[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets](https://azure.microsoft.com/updates?id=576334)** — Thu, 15 Oct 2026 16:54:20 Z
-  Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availa...
-
-## GCP Updates
-
-- **[Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU](https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/)** — Mon, 19 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagining traditional gearheads getting their hands on software-defin...
-
-## IBM Cloud Updates
-
-- **[New course teaches how AI models run on modern accelerators](https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization?utm_medium=rss&utm_source=rss)** — Mon, 19 Oct 2026 12:00:00 GMT
-  'Dataflow Architectures for AI' is a 6-course specialization from IBM Research that compares leading accelerator architectures through hands-on labs.
