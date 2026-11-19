@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2026-11-19 16:21 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda](https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/)** — Thu, 19 Nov 2026 00:36:23 +0000
+  Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from ...
+- **[How United Airlines streams database changes to Apache Iceberg with Amazon Data Firehose](https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/)** — Wed, 18 Nov 2026 20:37:39 +0000
+  United Airlines built a near-real-time change data capture pipeline that replicates reference data from Amazon Aurora MySQL to open Apache Iceberg tab...
+- **[Resilience testing your agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/)** — Wed, 18 Nov 2026 20:06:14 +0000
+  When an AI agent's tools fail or return corrupted data, does it fail safe or confidently fabricate an answer? Learn how to inject tool-level faults (c...
+- **[Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall](https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/)** — Wed, 18 Nov 2026 18:35:14 +0000
+  Infoblox Threat Defense is now available in preview in Amazon Route 53 Resolver DNS Firewall, providing partner-managed DNS threat intelligence. Learn...
+
+## Azure Updates
+
+- **[Microsoft and Oracle bring agentic AI into flow of enterprise work](https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/)** — Tue, 17 Nov 2026 18:35:00 +0000
+  <p>Our new integrations let AI agents reason across Oracle’s business-critical data.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/m...
+- **[Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/)** — Tue, 17 Nov 2026 18:35:00 +0000
+  <p>At Microsoft Ignite 2026, we’ll showcase what’s possible when models, silicon, and cloud infrastructure converge into a single, co-engineered syste...
+- **[Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI](https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/)** — Tue, 17 Nov 2026 18:35:00 +0000
+  <p>At Microsoft Ignite, we're sharing what's new across every layer of the platform. New capabilities spanning compute, storage, and networking let yo...
+- **[Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era](https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/)** — Tue, 17 Nov 2026 18:20:00 +0000
+  <p>Azure Cobalt 200 VMs bring improved performance and efficiency to cloud-native applications, databases, developer tools, and agentic AI workloads.<...
+- **[Continuous improvement comes to Microsoft Foundry](https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/)** — Tue, 17 Nov 2026 18:15:00 +0000
+  <p>Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams i...
+
+## GCP Updates
+
+- **[ARMORY CASTLE Exploits vSphere](https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/)** — Thu, 19 Nov 2026 14:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Written by: Jayson Frost, Bryce Greathouse, Dhanesh Kizhakkinan, John...
+- **[A bridge to modernization: What IDC’s Market Note says about Cameyo by Google](https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/)** — Wed, 18 Nov 2026 21:36:00 +0000
+  <div class="block-paragraph"><p>Organizations are increasingly adopting generative and agentic AI as they look for ways to unlock more business value....
+- **[EMEA startups building the next-generation of agents on Google Cloud](https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/)** — Wed, 18 Nov 2026 17:30:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As thousands of founders, investors, and technology leaders gather in...
+- **[What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills](https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/)** — Wed, 18 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">In June we introduced the </span><a href="https://cloud.google.com/bl...
+- **[Testing changes, fast: Introducing agentic assessments in Database Center](https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/)** — Wed, 18 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Applying recommendations to a production database can feel risky if y...
+
+
 # ☁️ Cloud Updates — 2026-11-18 16:13 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -979,50 +1024,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[A new plugin can enable fast runtime monitoring and control](https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss)** — Wed, 21 Oct 2026 12:00:00 GMT
   IBM's vLLM-Hook MIA lets developers inspect and edit the AI generation process with hardly any delay.
-
-
-# ☁️ Cloud Updates — 2026-10-20 12:33 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/)** — Mon, 19 Oct 2026 23:32:19 +0000
-  Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schem...
-- **[Developers can now access SageMaker Studio through the new AWS experience](https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/)** — Mon, 19 Oct 2026 22:39:24 +0000
-  New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you al...
-- **[Amazon SageMaker JumpStart: 2026 year-to-date in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/)** — Mon, 19 Oct 2026 21:14:44 +0000
-  Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding...
-- **[Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/)** — Mon, 19 Oct 2026 16:49:19 +0000
-  TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: defin...
-- **[How Deepgram optimized voice AI at scale with AWS Trainium](https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/)** — Mon, 19 Oct 2026 16:23:22 +0000
-  Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. T...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace](https://azure.microsoft.com/updates?id=577165)** — Mon, 19 Oct 2026 20:23:15 Z
-  Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace...
-- **[[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records](https://azure.microsoft.com/updates?id=573917)** — Mon, 19 Oct 2026 17:55:40 Z
-  Azure DNS now provides DNS based load balancing by seamless
-integration with Azure Traffic Manager. Customers can directly associate an
-Azure DNS reco...
-
-## GCP Updates
-
-- **[TorchTPU is now open source: Run native PyTorch on TPUs](https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/)** — Tue, 20 Oct 2026 11:30:00 +0000
-  <div class="block-paragraph"><p>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTor...
-- **[Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs](https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/)** — Tue, 20 Oct 2026 11:30:00 +0000
-  <div class="block-paragraph"><p>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM in...
-- **[Introducing Gemini for government services](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/)** — Tue, 20 Oct 2026 10:00:00 +0000
-  <div class="block-paragraph"><p>Earlier this month at Gemini at Work, we introduced the Gemini agent: a single, universal agent for work. It answers y...
-- **[Announcements and highlights from Google Public Sector Summit 2026](https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/)** — Tue, 20 Oct 2026 10:00:00 +0000
-  <div class="block-paragraph"><p>Today we are bringing together mission leaders and builders from across the public sector at the<a href="https://event...
-- **[Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search](https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/)** — Tue, 20 Oct 2026 10:00:00 +0000
-  <div class="block-paragraph"><p>National security agencies and other sovereign and highly regulated organizations handle incredibly sensitive data suc...
-
-## IBM Cloud Updates
-
-- **[llm-d 1.0 hardens open-source AI inference for production](https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss)** — Tue, 20 Oct 2026 12:00:00 GMT
-  The distributed inference framework makes serving large models on your own infrastructure reliable and affordable for the agentic era.
