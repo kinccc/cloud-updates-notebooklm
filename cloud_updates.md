@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-11-20 15:55 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS](https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/)** — Fri, 20 Nov 2026 01:10:14 +0000
+  Cognition gave its AI software engineer, Devin, a cloud Mac. Each Devin session gets a fresh macOS VM on Amazon EC2 Mac bare metal hosts, so Devin can...
+- **[How Country Road Group built a pattern-driven integration solution on AWS](https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws/)** — Thu, 19 Nov 2026 23:07:30 +0000
+  Country Road Group replaced Microsoft BizTalk with a pattern-driven, serverless integration platform on AWS. Learn how its Strategic Integration Platf...
+
+## Azure Updates
+
+- **[Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia](https://azure.microsoft.com/updates?id=580700)** — Fri, 20 Nov 2026 00:00:14 Z
+  Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software comp...
+- **[[Launched] Generally Available: Soft delete in Azure Compute Gallery](https://azure.microsoft.com/updates?id=581907)** — Thu, 19 Nov 2026 23:47:55 Z
+  Soft delete in Azure Compute Gallery is now generally available, so you can recover image versions that were deleted by accident. You can set a retent...
+- **[[In preview] Public Preview: PostgreSQL 19 on Azure Database for PostgreSQL](https://azure.microsoft.com/updates?id=574587)** — Thu, 19 Nov 2026 23:25:49 Z
+  You can now try PostgreSQL 19 in public preview on Azure Database for PostgreSQL – Flexible Server in the East Asia region. With this preview, you can...
+- **[[In preview] Public Preview: Zone resilience for Azure VMs](https://azure.microsoft.com/updates?id=581254)** — Thu, 19 Nov 2026 20:34:19 Z
+  Zone resilience for Azure VMs, now in public preview, lets you recover an eligible zonal VM in another availability zone in the same region, retaining...
+- **[[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL](https://azure.microsoft.com/updates?id=579579)** — Thu, 19 Nov 2026 17:25:28 Z
+  Database Agent helps you detect, understand, and respond to database health and performance issues more quickly in Azure Database for PostgreSQL. It p...
+
+## GCP Updates
+
+- **[Small businesses, big results: How teams scale with AI](https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/)** — Thu, 19 Nov 2026 17:00:00 +0000
+  A montage of four U.S. small business owners using Google Workspace with Gemini on their phones and laptops to run their businesses.
+
+
 # ☁️ Cloud Updates — 2026-11-19 16:21 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -983,44 +1015,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/)** — Wed, 21 Oct 2026 16:23:53 +0000
   Health & Bioscience
-
-
-# ☁️ Cloud Updates — 2026-10-21 12:44 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/)** — Tue, 20 Oct 2026 21:14:10 +0000
-  Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 ...
-- **[Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)** — Tue, 20 Oct 2026 17:59:07 +0000
-  The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to conn...
-- **[From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)** — Tue, 20 Oct 2026 17:52:50 +0000
-  Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post s...
-- **[Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)** — Tue, 20 Oct 2026 17:48:27 +0000
-  Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) an...
-- **[How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/)** — Tue, 20 Oct 2026 17:34:04 +0000
-  Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated ag...
-
-## Azure Updates
-
-- **[Called to serve: Tech, research, and positive impact](https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/)** — Tue, 20 Oct 2026 16:00:00 +0000
-  <p>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for c...
-
-## GCP Updates
-
-- **[Google Cloud expands model choice and flexibility, bringing OpenAI models to customers](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/)** — Wed, 21 Oct 2026 12:00:00 +0000
-  <div class="block-paragraph"><p>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key...
-- **[Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA](https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/)** — Wed, 21 Oct 2026 11:30:00 +0000
-  <div class="block-paragraph"><p>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real ...
-- **[Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era](https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/)** — Wed, 21 Oct 2026 11:30:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As enterprises transition to continuous, multi-step agentic workflows...
-- **[Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity](https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/)** — Tue, 20 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different model...
-
-## IBM Cloud Updates
-
-- **[A new plugin can enable fast runtime monitoring and control](https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss)** — Wed, 21 Oct 2026 12:00:00 GMT
-  IBM's vLLM-Hook MIA lets developers inspect and edit the AI generation process with hardly any delay.
