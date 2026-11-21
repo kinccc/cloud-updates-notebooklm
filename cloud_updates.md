@@ -1,3 +1,35 @@
+# ☁️ Cloud Updates — 2026-11-21 15:07 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[How Bee implemented Zero Operator Access for personal AI on AWS](https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws/)** — Fri, 20 Nov 2026 18:49:05 +0000
+  Bee, an Amazon company, built a personal AI wearable with no mechanism for operators (Bee engineers, other Amazon employees, or AWS infrastructure ope...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code](https://azure.microsoft.com/updates?id=581463)** — Sat, 21 Nov 2026 00:45:13 Z
+  Microsoft Foundry governance guidance is now available in Foundry Canvas and the Foundry Toolkit for Visual Studio Code. As developers build agents, b...
+- **[[In preview] Public Preview: Microsoft Copilot harness support in Foundry Toolkit for VS Code](https://azure.microsoft.com/updates?id=581468)** — Sat, 21 Nov 2026 00:43:13 Z
+  Agent Builder in Microsoft Foundry Toolkit for Visual Studio Code supports prompt agents that use the Microsoft Copilot harness in public preview. Dev...
+- **[Retirement: Support for Azure Functions OpenAI Extension ends on April 20, 2027](https://azure.microsoft.com/updates?id=579952)** — Fri, 20 Nov 2026 23:16:31 Z
+  Support for Azure Functions OpenAI extension will end on April 20, 2027. Please migrate to OpenAI, Microsoft Foundry, or Azure AI Search SDKs directly...
+- **[[In preview] Public Preview: Programmed Training in Microsoft Foundry](https://azure.microsoft.com/updates?id=581713)** — Fri, 20 Nov 2026 22:58:28 Z
+  Programmed Training, an API for building your own post-training loop over open-weight models, is available in public preview in Microsoft Foundry. Acc...
+- **[[In preview] Public Preview: Multi-turn evaluation in Microsoft Foundry](https://azure.microsoft.com/updates?id=581746)** — Fri, 20 Nov 2026 22:56:51 Z
+  Multi-turn evaluation is now in public preview in Microsoft Foundry. You can assess complete agent conversations against your quality standards, not o...
+
+## GCP Updates
+
+- **[How Google Duplex evolved to also call businesses for you in Gemini](https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/)** — Fri, 20 Nov 2026 23:30:30 +0000
+  Generative AI
+- **[A game you cannot win unless you have a quantum computer](https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/)** — Thu, 19 Nov 2026 20:03:00 +0000
+  Quantum
+
+
 # ☁️ Cloud Updates — 2026-11-20 15:55 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -993,25 +1025,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[Qiskit SDK v2.6 release summary](https://research.ibm.com/blog/qiskit-2-6-release-summary?utm_medium=rss&utm_source=rss)** — Thu, 22 Oct 2026 04:00:00 GMT
   Technical release summary for Qiskit SDK v2.6, including updates on top new features.
-
-
-# ☁️ Cloud Updates — 2026-10-22 12:48 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Automate medical coding with Step Functions and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/)** — Wed, 21 Oct 2026 21:26:23 +0000
-  Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. Thi...
-
-## Azure Updates
-
-- **[Solving a 31-year-old grand challenge in mathematics – the KLS conjecture](https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/)** — Wed, 21 Oct 2026 16:00:00 +0000
-  <p>For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this que...
-
-## GCP Updates
-
-- **[Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/)** — Wed, 21 Oct 2026 16:23:53 +0000
-  Health & Bioscience
