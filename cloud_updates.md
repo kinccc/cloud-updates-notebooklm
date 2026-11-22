@@ -1,3 +1,36 @@
+# ☁️ Cloud Updates — 2026-11-22 15:04 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)** — Sun, 22 Nov 2026 01:59:13 +0000
+  AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying c...
+- **[New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)** — Sat, 21 Nov 2026 01:06:42 +0000
+  AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flo...
+- **[Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)** — Sat, 21 Nov 2026 00:14:26 +0000
+  Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference c...
+- **[Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm](https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/)** — Fri, 20 Nov 2026 23:07:03 +0000
+  Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven c...
+- **[Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/)** — Fri, 20 Nov 2026 22:35:24 +0000
+  Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters i...
+
+## GCP Updates
+
+- **[Ultimate guide for fixing your team’s API keys](https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/)** — Fri, 20 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Most Gemini prototypes start the same way. You grab an API key from <...
+- **[Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents](https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/)** — Fri, 20 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">When an Airflow pipeline fails in production, the hard part is rarely...
+- **[Frontier and Center: Why your data agents need a “wind tunnel”](https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/)** — Fri, 20 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Imagine you're building a data agent to answer questions about an ent...
+- **[DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE](https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/)** — Fri, 20 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">In global maritime logistics, Marine Por...
+- **[What’s new in Managed Service for Apache Spark 4.0](https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/)** — Fri, 20 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As organizations move from reactive analytics to proactive systems of...
+
+
 # ☁️ Cloud Updates — 2026-11-21 15:07 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -982,46 +1015,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[IBM supports award-winning projects in NEDO Challenge](https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss)** — Fri, 23 Oct 2026 04:00:00 GMT
   Teams across all three tracks of Japan's national quantum competition used IBM quantum computers during research on real-world applications.
-
-
-# ☁️ Cloud Updates — 2026-10-23 12:26 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)** — Thu, 22 Oct 2026 18:06:35 +0000
-  The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales a...
-- **[How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/)** — Thu, 22 Oct 2026 18:01:53 +0000
-  Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases...
-- **[Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)** — Thu, 22 Oct 2026 18:00:04 +0000
-  Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-t...
-- **[Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/)** — Thu, 22 Oct 2026 18:00:01 +0000
-  Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the servic...
-- **[Deploy AI in a HIPAA-eligible environment with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/)** — Thu, 22 Oct 2026 17:48:22 +0000
-  Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows throug...
-
-## Azure Updates
-
-- **[Flint-interactive: A language for creating interactive data visualizations](https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/)** — Thu, 22 Oct 2026 16:00:00 +0000
-  <p>Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and ex...
-
-## GCP Updates
-
-- **[Expanding Claude availability and deployment choice on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/)** — Thu, 22 Oct 2026 21:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every organization has unique requirements for building and scaling g...
-- **[Introducing new self-learning context enrichment in Knowledge Catalog](https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/)** — Thu, 22 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>Today, we’re launching self-learning context enrichment (preview) and a reimagined Knowledge Studio experience (previe...
-- **[Inside Agent Compute Engine: Building the compute foundation for the agentic era](https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/)** — Thu, 22 Oct 2026 13:00:00 +0000
-  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Every decade or so, a shift in software forces us to rethink computer...
-- **[Introducing Agent Compute Engine and expanded agent governance](https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/)** — Thu, 22 Oct 2026 04:00:00 +0000
-  <div class="block-paragraph"><p><b>Blog authors:</b> Nirav Mehta, VP Product Management; Michael Bachman, VP/GM; Kevin Hutchins, VP Product Management...
-- **[BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL](https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/)** — Wed, 21 Oct 2026 16:00:00 +0000
-  <div class="block-paragraph"><p>For data science, data engineering, and machine learning teams, unlocking the value of unstructured data, such as imag...
-
-## IBM Cloud Updates
-
-- **[Qiskit SDK v2.6 release summary](https://research.ibm.com/blog/qiskit-2-6-release-summary?utm_medium=rss&utm_source=rss)** — Thu, 22 Oct 2026 04:00:00 GMT
-  Technical release summary for Qiskit SDK v2.6, including updates on top new features.
