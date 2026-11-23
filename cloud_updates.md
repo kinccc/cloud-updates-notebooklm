@@ -1,3 +1,39 @@
+# ☁️ Cloud Updates — 2026-11-23 18:59 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/)** — Mon, 23 Nov 2026 17:36:00 GMT
+  <p>AWS Partners and AWS Marketplace sellers now have two new ways to access their analytics data in AWS Partner Central. Partner Central Agents answer...
+- **[AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us)** — Mon, 23 Nov 2026 17:21:00 GMT
+  <p>Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 ...
+- **[Amazon CloudFront Announces HTTP/2 Support for Connections to Origins](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/)** — Mon, 23 Nov 2026 17:00:00 GMT
+  <p>Amazon CloudFront now supports HTTP/2 connections to custom origins and VPC origins. HTTP/2 lets CloudFront send many requests over fewer connectio...
+- **[AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners](https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/)** — Mon, 23 Nov 2026 16:00:00 GMT
+  <p>AWS Global Accelerator now preserves the client IP address for traffic sent to Network Load Balancer (NLB) endpoints with TLS listeners. You can te...
+- **[Announcing metal size for Amazon EC2 G7 instances](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/)** — Mon, 23 Nov 2026 16:00:00 GMT
+  <p>Today, AWS announces the general availability of the metal size for Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA R...
+
+## Azure Updates
+
+- **[[In preview] Public Preview: Azure Policy support for Azure HorizonDB](https://azure.microsoft.com/updates?id=580115)** — Mon, 23 Nov 2026 18:21:46 Z
+  Azure Policy support for Azure HorizonDB is now available in preview, helping you apply governance and observability standards consistently across you...
+- **[Retirement: Azure AI Content Safety selected features will be retired on April 30, 2027](https://azure.microsoft.com/updates?id=577474)** — Mon, 23 Nov 2026 18:11:31 Z
+  The following Azure AI Content Safety preview capabilities will retire on April 30, 2027:Analyze MultimodalCustom categories (rapid), including text a...
+- **[[In preview] Public Preview: Azure Database for PostgreSQL enhanced Burstable tier (Basv2)](https://azure.microsoft.com/updates?id=574535)** — Mon, 23 Nov 2026 18:09:39 Z
+  Enhanced Burstable tier (Basv2) builds on the existing burstable model with improved performance predictability and more efficient burst utilization, ...
+- **[[Launched] Generally Available: WAF Insights for Azure Front Door](https://azure.microsoft.com/updates?id=579285)** — Mon, 23 Nov 2026 18:01:19 Z
+  WAF Insights is now generally available for Azure Front Door Web Application Firewall (WAF). WAF Insights is a built-in experience in the WAF policy t...
+
+## GCP Updates
+
+- **[Supercharging transformer residual connections](https://research.google/blog/supercharging-transformer-residual-connections/)** — Mon, 23 Nov 2026 17:21:12 +0000
+  Algorithms & Theory
+
+
 # ☁️ Cloud Updates — 2026-11-22 15:04 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -980,38 +1016,3 @@ gives you more control over traffic between peered virtual ...
   Google Vids logo surrounded by various video editing options
 - **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
   Google Beam promotional animation
-
-
-# ☁️ Cloud Updates — 2026-10-24 11:52 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)** — Fri, 23 Oct 2026 17:48:54 +0000
-  Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. Thi...
-- **[Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)** — Fri, 23 Oct 2026 16:30:10 +0000
-  Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows h...
-- **[Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)** — Fri, 23 Oct 2026 16:24:55 +0000
-  Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes...
-- **[How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)** — Fri, 23 Oct 2026 16:21:36 +0000
-  Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and resea...
-
-## Azure Updates
-
-- **[Advancing digital sovereignty with greater control and choice](https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/)** — Tue, 20 Oct 2026 17:34:47 +0000
-  <p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putt...
-- **[Designing for sovereign AI: A shared foundation from edge to cloud](https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/)** — Mon, 19 Oct 2026 19:00:00 +0000
-  <p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintai...
-
-## GCP Updates
-
-- **[Bringing foundational models to the front lines of TB screening](https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/)** — Fri, 23 Oct 2026 18:51:33 +0000
-  Generative AI
-
-## IBM Cloud Updates
-
-- **[IBM supports award-winning projects in NEDO Challenge](https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss)** — Fri, 23 Oct 2026 04:00:00 GMT
-  Teams across all three tracks of Japan's national quantum competition used IBM quantum computers during research on real-world applications.
