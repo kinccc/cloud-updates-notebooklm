@@ -1,3 +1,48 @@
+# ☁️ Cloud Updates — 2026-11-24 18:40 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)** — Tue, 24 Nov 2026 05:01:14 +0000
+  Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings...
+
+## Azure Updates
+
+- **[[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks](https://azure.microsoft.com/updates?id=582171)** — Tue, 24 Nov 2026 17:48:22 Z
+  Azure Site Recovery now supports Zone-to-Zone Disaster
+Recovery (Zonal DR) for Azure Ultra disks. Customers can protect
+performance-intensive virtual ...
+- **[[In preview] Public Preview: Optimize agents from insights in Foundry Agent Service](https://azure.microsoft.com/updates?id=581483)** — Tue, 24 Nov 2026 16:52:07 Z
+  Optimization from insights is in public preview in Foundry Agent Service. In the Foundry portal, start from an eligible insight in a prompt-agent trac...
+- **[[In preview] Public Preview: Govern MCP tools with your own gateway in Microsoft Foundry Agent Service](https://azure.microsoft.com/updates?id=581498)** — Tue, 24 Nov 2026 16:50:47 Z
+  In public preview, Microsoft Foundry Agent Service lets you route MCP tool traffic through existing AI Gateway or Azure API Management endpoints that ...
+- **[[Launched] Generally Available: Use Azure Storage permissions in Azure AI Search and Foundry IQ](https://azure.microsoft.com/updates?id=581303)** — Tue, 24 Nov 2026 16:49:39 Z
+  Azure AI Search and Foundry IQ in Microsoft Foundry can use supported Azure Storage permissions to control access to search results.Once configured, s...
+- **[[In preview] Public Preview: Native A2A passthrough for hosted agents in Foundry Agent Service](https://azure.microsoft.com/updates?id=581313)** — Tue, 24 Nov 2026 16:48:25 Z
+  Bring your existing Agent2Agent (A2A) agents to Agent Service without a protocol conversion layer.Previously, Agent Service converted incoming A2A req...
+
+## GCP Updates
+
+- **[Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud](https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/)** — Tue, 24 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">For over 20 years, we have protected 4 billion users and 13 million o...
+- **[Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium](https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/)** — Tue, 24 Nov 2026 15:02:00 +0000
+  <div class="block-paragraph"><p><i>Editor’s note: Founded in 1988 in Kota, Rajasthan,</i> <a href="https://allen.in/" target="_blank"><i>ALLEN</i></a>...
+- **[Data + AI Anywhere: AlloyDB Omni integration with local models](https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/)** — Mon, 23 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Open models like Gemma 4 from Google DeepMind are a great option to k...
+- **[Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)** — Mon, 23 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">Today, we are proud to announce that Gartner has recognized Google as...
+- **[How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI](https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/)** — Mon, 23 Nov 2026 17:00:00 +0000
+  <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">As the scale of global communications grows larger and larger, enterp...
+
+## IBM Cloud Updates
+
+- **[Celebrating the Genesis Mission's First Anniversary](https://research.ibm.com/blog/genesis-first-anniversary?utm_medium=rss&utm_source=rss)** — Tue, 24 Nov 2026 05:00:00 GMT
+  One year after the launch of the Genesis Mission, IBM and its partners are advancing quantum-centric supercomputing for science, energy, and discovery...
+
+
 # ☁️ Cloud Updates — 2026-11-23 18:59 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -982,37 +1027,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
 
 - **[PyTorch opens the AI ecosystem to a new accelerator class](https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss)** — Mon, 26 Oct 2026 12:00:00 GMT
   IBM has made Spyre a first-class PyTorch backend, giving developers the same workflows across devices.
-
-
-# ☁️ Cloud Updates — 2026-10-25 12:21 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Announcing the New AWS Reimagine Report on AI](https://aws.amazon.com/blogs/enterprise-strategy/announcing-the-new-aws-reimagine-report-on-ai/)** — Thu, 24 Sep 2026 04:19:10 +0000
-  Two questions come up in almost every conversation we have with executives. The first is: What are other organizations doing to make AI work? The seco...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup](https://azure.microsoft.com/updates?id=577963)** — Fri, 23 Oct 2026 19:21:07 Z
-  Azure Backup now supports Item-Level Recovery (ILR) for Azure virtual machines using Premium SSD v2 and Ultra disks with both 512 byte and 4KB logical...
-- **[[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage](https://azure.microsoft.com/updates?id=577618)** — Thu, 22 Oct 2026 18:01:00 Z
-  ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file...
-- **[Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra](https://azure.microsoft.com/updates?id=577273)** — Wed, 21 Oct 2026 17:38:32 Z
-  What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables ...
-- **[[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation](https://azure.microsoft.com/updates?id=576716)** — Wed, 21 Oct 2026 17:13:16 Z
-  Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping...
-- **[[In preview] Public Preview: Disable VNet peering route](https://azure.microsoft.com/updates?id=576242)** — Tue, 20 Oct 2026 18:55:47 Z
-  Announcing
-the public preview of disable VNet peering route, a route-table capability that
-gives you more control over traffic between peered virtual ...
-
-## GCP Updates
-
-- **[Anyone can make stunning HD videos with Gemini Omni in Google Vids](https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/)** — Wed, 23 Sep 2026 19:00:00 +0000
-  Google Vids logo surrounded by various video editing options
-- **[Google Beam expands with new regions, partners, and customers](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/)** — Wed, 23 Sep 2026 18:00:00 +0000
-  Google Beam promotional animation
