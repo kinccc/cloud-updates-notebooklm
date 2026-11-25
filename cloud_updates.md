@@ -1,3 +1,20 @@
+# ☁️ Cloud Updates — 2026-11-25 17:49 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Announcing the New AWS Reimagine Report on AI](https://aws.amazon.com/blogs/enterprise-strategy/announcing-the-new-aws-reimagine-report-on-ai/)** — Thu, 24 Sep 2026 04:19:10 +0000
+  Two questions come up in almost every conversation we have with executives. The first is: What are other organizations doing to make AI work? The seco...
+
+## GCP Updates
+
+- **[Verifiable Social Reasoning for LLM Assistants](https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/)** — Wed, 25 Nov 2026 17:10:27 +0000
+  Generative AI
+
+
 # ☁️ Cloud Updates — 2026-11-24 18:40 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -1002,28 +1019,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   IBM researchers achieve a critical advance for scaling quantum computers.
 - **[IBM and Kaggle launch Java framework migration leaderboard](https://research.ibm.com/blog/ibm-and-kaggle-launch-leaderboard-for-java-framework-migration?utm_medium=rss&utm_source=rss)** — Tue, 27 Oct 2026 12:00:00 GMT
   ScarfBench evaluates model-and-agent-harness combinations for enterprise Java migration, pairing migration validation with reproduced runs and a leade...
-
-
-# ☁️ Cloud Updates — 2026-10-26 13:56 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)** — Fri, 23 Oct 2026 21:04:00 GMT
-  <p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domai...
-- **[Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)** — Fri, 23 Oct 2026 17:00:00 GMT
-  <p>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions...
-- **[AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)** — Fri, 23 Oct 2026 15:43:00 GMT
-  <p>AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integ...
-- **[Amazon Corretto October 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates)** — Fri, 23 Oct 2026 14:00:00 GMT
-  <p>On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Cor...
-- **[Amazon MWAA now available in Mexico (Central) Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)** — Fri, 23 Oct 2026 08:00:00 GMT
-  <p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Provisioned environments are now available in the Mexico (Central) Region (mx-central-1)....
-
-## IBM Cloud Updates
-
-- **[PyTorch opens the AI ecosystem to a new accelerator class](https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss)** — Mon, 26 Oct 2026 12:00:00 GMT
-  IBM has made Spyre a first-class PyTorch backend, giving developers the same workflows across devices.
