@@ -1,3 +1,15 @@
+# ☁️ Cloud Updates — 2026-11-27 17:15 UTC
+Automatically generated from AWS, Azure, and GCP feeds.
+---
+> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
+
+---
+## AWS Updates
+
+- **[Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/)** — Thu, 26 Nov 2026 17:00:00 GMT
+  <p><a href="https://aws.amazon.com/rds/postgresql/" rel="noopener noreferrer" target="_blank">Amazon Relational Database Service (RDS) for PostgreSQL<...
+
+
 # ☁️ Cloud Updates — 2026-11-26 17:33 UTC
 Automatically generated from AWS, Azure, and GCP feeds.
 ---
@@ -984,34 +996,3 @@ Automatically generated from AWS, Azure, and GCP feeds.
   <div class="block-paragraph_advanced"><p style="text-align: justify;"><span style="vertical-align: baseline;">Having visibility into your network traf...
 - **[How GKE networking scales to support high densities of concurrent AI agents](https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/)** — Wed, 28 Oct 2026 16:00:00 +0000
   <div class="block-paragraph_advanced"><p><span style="vertical-align: baseline;">What do you need to orchestrate high-density concurrent AI agents? As...
-
-
-# ☁️ Cloud Updates — 2026-10-28 13:50 UTC
-Automatically generated from AWS, Azure, and GCP feeds.
----
-> ⚠️ AI Digest unavailable: All models hit quota limits. Please check raw updates below.
-
----
-## AWS Updates
-
-- **[You CAN Manage, Forecast, and Evaluate AI Costs](https://aws.amazon.com/blogs/enterprise-strategy/you-can-manage-forecast-and-evaluate-ai-costs/)** — Thu, 25 Jun 2026 21:10:07 +0000
-  As a former CFO, I view AI from a financial perspective, not a technological one. How can you control AI costs? How do you know your company is gettin...
-
-## Azure Updates
-
-- **[[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription](https://azure.microsoft.com/updates?id=578358)** — Tue, 27 Oct 2026 21:16:52 Z
-  Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, ...
-- **[[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry](https://azure.microsoft.com/updates?id=577260)** — Tue, 27 Oct 2026 17:19:43 Z
-  Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude...
-- **[[Launched] Generally Available: Azure Front Door profile and route level WAF policies](https://azure.microsoft.com/updates?id=578153)** — Tue, 27 Oct 2026 16:58:04 Z
-  Announcing the general availability of profile and route
-level policies for Azure Web Application Firewall (WAF) on Azure Front Door
-Premium. WAF poli...
-- **[[Launched] Generally Available: Network Watcher VNet flow logs filtering](https://azure.microsoft.com/updates?id=577782)** — Mon, 26 Oct 2026 16:02:05 Z
-  Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which
-network traffic flows are logged based on spe...
-
-## GCP Updates
-
-- **[The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)** — Tue, 27 Oct 2026 17:35:00 +0000
-  Education Innovation
